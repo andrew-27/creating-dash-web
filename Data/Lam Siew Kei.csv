@@ -1,0 +1,170 @@
+,type,name,author,event,year
+0,j,Multi-fold Correlation Attention Network for Predicting Traffic Speeds with Heterogeneous Frequency.,"['Yidan Sun', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Peilan He', 'Fangxin Ning']",Appl. Soft Comput.,2022
+1,j,ML-MMAS: Self-learning ant colony optimization for multi-criteria journey planning.,"['Peilan He', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Yidan Sun']",Inf. Sci.,2022
+2,j,Decoupled self-supervised label augmentation for fully-supervised image classification.,"['Wanshun Gao', 'Meiqing Wu', 'Siew-Kei Lam', 'Qihui Xia', 'Jianhua Zou']",Knowl. Based Syst.,2022
+3,j,A Multi-Scale Attributes Attention Model for Transport Mode Identification.,"['Guiyuan Jiang', 'Siew-Kei Lam', 'Peilan He', 'Changhai Ou', 'Dihao Ai']",IEEE Trans. Intell. Transp. Syst.,2022
+4,j,A Unified Multi-Task Learning Architecture for Fast and Accurate Pedestrian Detection.,"['Chengju Zhou', 'Meiqing Wu', 'Siew-Kei Lam']",IEEE Trans. Intell. Transp. Syst.,2022
+5,j,Learning Traffic Network Embeddings for Predicting Congestion Propagation.,"['Yidan Sun', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Peilan He']",IEEE Trans. Intell. Transp. Syst.,2022
+6,j,Enhanced Multi-Task Learning Architecture for Detecting Pedestrian at Far Distance.,"['Chengju Zhou', 'Meiqing Wu', 'Siew-Kei Lam']",IEEE Trans. Intell. Transp. Syst.,2022
+7,j,Passenger-centric vehicle routing for first-mile transportation considering request uncertainty.,"['Fangxin Ning', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Changhai Ou', 'Peilan He', 'Yidan Sun']",Inf. Sci.,2021
+8,j,ACSL: Adaptive correlation-driven sparsity learning for deep neural network compression.,"['He Wei', 'Meiqing Wu', 'Siew-Kei Lam']",Neural Networks,2021
+9,j,SNR-Centric Power Trace Extractors for Side-Channel Attacks.,"['Changhai Ou', 'Siew-Kei Lam', 'Degang Sun', 'Xinping Zhou', 'Kexin Qiao', 'Qu Wang']",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.,2021
+10,j,The Science of Guessing in Collision-Optimized Divide-and-Conquer Attacks.,"['Changhai Ou', 'Siew-Kei Lam', 'Guiyuan Jiang']",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.,2021
+11,j,Information Entropy-Based Leakage Profiling.,"['Changhai Ou', 'Xinping Zhou', 'Siew-Kei Lam', 'Chengju Zhou', 'Fangxin Ning']",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.,2021
+12,j,Multiple-Differential Mechanism for Collision-Optimized Divide-and-Conquer Attacks.,"['Changhai Ou', 'Chengju Zhou', 'Siew-Kei Lam', 'Guiyuan Jiang']",IEEE Trans. Inf. Forensics Secur.,2021
+13,j,Multiple-Choice Hardware/Software Partitioning for Tree Task-Graph on MPSoC.,"['Wenjun Shi', 'Jigang Wu', 'Guiyuan Jiang', 'Siew-Kei Lam']",Comput. J.,2020
+14,j,Learning heterogeneous traffic patterns for travel time prediction of bus journeys.,"['Peilan He', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Yidan Sun']",Inf. Sci.,2020
+15,j,Improving accuracy of HPC-based malware classification for embedded platforms using gradient descent optimization.,"['Manaar Alam', 'Debdeep Mukhopadhyay', 'Sai Praveen Kadiyala', 'Siew-Kei Lam', 'Thambipillai Srikanthan']",J. Cryptogr. Eng.,2020
+16,j,IROS 2019 Lifelong Robotic Vision: Object Recognition Challenge [Competitions].,"['Heechul Bae', 'Eoin Brophy', 'Rosa H. M. Chan', 'Baoquan Chen', 'Fan Feng', 'Gabriele Graffieti', 'Vidit Goel', 'Xinyue Hao', 'Hyonyoung Han', 'Sathursan Kanagarajah', 'Somesh Kumar', 'Siew-Kei Lam', 'Tin Lun Lam', 'Chuanlin Lan', 'Qi Liu', 'Vincenzo Lomonaco', 'Liang Ma', 'Davide Maltoni', 'German Ignacio Parisi', 'Lorenzo Pellegrini', 'Duvindu Piyasena', 'Shiliang Pu', 'Qi She', 'Debdoot Sheet', 'Soonyong Song', 'Youngsung Son', 'Zhengwei Wang', 'Tomas E. Ward', 'Jianwen Wu', 'Meiqing Wu', 'Di Xie', 'Yangsheng Xu', 'Lin Yang', 'Qihan Yang', 'Qiaoyong Zhong', 'Liguang Zhou']",IEEE Robotics Autom. Mag.,2020
+17,j,A Lightweight Detection Algorithm For Collision-Optimized Divide-and-Conquer Attacks.,"['Changhai Ou', 'Siew-Kei Lam', 'Chengju Zhou', 'Guiyuan Jiang', 'Fan Zhang']",IEEE Trans. Computers,2020
+18,j,A First Study of Compressive Sensing for Side-Channel Leakage Sampling.,"['Changhai Ou', 'Chengju Zhou', 'Siew-Kei Lam']",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.,2020
+19,j,Hardware Performance Counter-Based Fine-Grained Malware Detection.,"['Sai Praveen Kadiyala', 'Pranav Jadhav', 'Siew-Kei Lam', 'Thambipillai Srikanthan']",ACM Trans. Embed. Comput. Syst.,2020
+20,j,Peak-Hour Vehicle Routing for First-Mile Transportation: Problem Formulation and Algorithms.,"['Guiyuan Jiang', 'Siew-Kei Lam', 'Fangxin Ning', 'Peilan He', 'Jidong Xie']",IEEE Trans. Intell. Transp. Syst.,2020
+21,j,Group Cost-Sensitive BoostLR With Vector Form Decorrelated Filters for Pedestrian Detection.,"['Chengju Zhou', 'Meiqing Wu', 'Siew-Kei Lam']",IEEE Trans. Intell. Transp. Syst.,2020
+22,j,Designing Energy-Efficient MPSoC with Untrustworthy 3PIP Cores.,"['Yidan Sun', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Fangxin Ning']",IEEE Trans. Parallel Distributed Syst.,2020
+23,j,Collaborative Task Offloading with Computation Result Reusing for Mobile Edge Computing.,"['Zikai Zhang', 'Jigang Wu', 'Long Chen', 'Guiyuan Jiang', 'Siew-Kei Lam']",Comput. J.,2019
+24,j,Algorithms for Reconfiguring NoC-Based Fault-Tolerant Multiprocessor Arrays.,"['Jigang Wu', 'Yalan Wu', 'Guiyuan Jiang', 'Siew Kei Lam']",J. Circuits Syst. Comput.,2019
+25,j,Data-path unrolling with logic folding for area-time-efficient FPGA-based FAST corner detector.,"['Siew-Kei Lam', 'Teck Chuan Lim', 'Meiqing Wu', 'Bin Cao', 'Bhavan A. Jasani']",J. Real Time Image Process.,2019
+26,j,Area-Time Efficient Streaming Architecture for FAST and BRIEF Detector.,"['Siew-Kei Lam', 'Guiyuan Jiang', 'Meiqing Wu', 'Bin Cao']",IEEE Trans. Circuits Syst. II Express Briefs,2019
+27,j,Travel-Time Prediction of Bus Journey With Multiple Bus Trips.,"['Peilan He', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Dehua Tang']",IEEE Trans. Intell. Transp. Syst.,2019
+28,j,High-Throughput and Area-Optimized Architecture for rBRIEF Feature Extraction.,"['Thinh Hung Pham', 'Phong Tran', 'Siew-Kei Lam']",IEEE Trans. Very Large Scale Integr. Syst.,2019
+29,j,Framework for Fast Memory Authentication Using Dynamically Skewed Integrity Tree.,"['Saru Vig', 'Rohan Juneja', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Changhai Ou']",IEEE Trans. Very Large Scale Integr. Syst.,2019
+30,j,Efficient three-stage auction schemes for cloudlets deployment in wireless access network.,"['Gangqiang Zhou', 'Jigang Wu', 'Long Chen', 'Guiyuan Jiang', 'Siew-Kei Lam']",Wirel. Networks,2019
+31,j,Automatic Pixel-Level Pavement Crack Detection Using Information of Multi-Scale Neighborhoods.,"['Dihao Ai', 'Guiyuan Jiang', 'Siew Kei Lam', 'Chengwu Li']",IEEE Access,2018
+32,j,Algorithms for Replica Placement and Update in Tree Network.,"['Jigang Wu', 'Long Chen', 'Xu Wang', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Thambipillai Srikanthan']",Comput. J.,2018
+33,j,Efficient hybrid multicast approach in wireless data center network.,"['Longting Zhu', 'Jigang Wu', 'Guiyuan Jiang', 'Long Chen', 'Siew-Kei Lam']",Future Gener. Comput. Syst.,2018
+34,j,Area-Time Efficient FAST Corner Detector Using Data-Path Transposition.,"['Siew-Kei Lam', 'Teck Chuan Lim', 'Meiqing Wu', 'Bin Cao', 'Bhavan A. Jasani']",IEEE Trans. Circuits Syst. II Express Briefs,2018
+35,j,Threshold-Guided Design and Optimization for Harris Corner Detector Architecture.,"['Bhavan A. Jasani', 'Siew-Kei Lam', 'Pramod Kumar Meher', 'Meiqing Wu']",IEEE Trans. Circuits Syst. Video Technol.,2018
+36,j,Rapid Memory-Aware Selection of Hardware Accelerators in Programmable SoC Design.,"['Alok Prakash', 'Christopher T. Clarke', 'Siew-Kei Lam', 'Thambipillai Srikanthan']",IEEE Trans. Very Large Scale Integr. Syst.,2018
+37,j,A Framework for Fast and Robust Visual Odometry.,"['Meiqing Wu', 'Siew-Kei Lam', 'Thambipillai Srikanthan']",IEEE Trans. Intell. Transp. Syst.,2017
+38,j,Joint Charging Tour Planning and Depot Positioning for Wireless Sensor Networks Using Mobile Chargers.,"['Guiyuan Jiang', 'Siew-Kei Lam', 'Yidan Sun', 'Lijia Tu', 'Jigang Wu']",IEEE/ACM Trans. Netw.,2017
+39,j,Algorithms for bi-objective multiple-choice hardware/software partitioning.,"['Wenjun Shi', 'Jigang Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",Comput. Electr. Eng.,2016
+40,j,Enhanced low-complexity pruning for corner detection.,"['Nirmala Ramakrishnan', 'Meiqing Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",J. Real Time Image Process.,2016
+41,j,Nonparametric Technique Based High-Speed Road Surface Detection.,"['Meiqing Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",IEEE Trans. Intell. Transp. Syst.,2015
+42,j,Algorithmic aspects of graph reduction for hardware/software partitioning.,"['Guiyuan Jiang', 'Jigang Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Jizhou Sun']",J. Supercomput.,2015
+43,j,Addressing Productivity Challenges in Domain-Specific Reconfigurable Platforms: A Case Study on Extended Kalman Filter-Based Motor Control.,"['Yan Lin Aung', 'Siew Kei Lam', 'Thambipillai Srikanthan']",J. Low Power Electron.,2014
+44,j,Rapid evaluation of custom instruction selection approaches with FPGA estimation.,"['Siew Kei Lam', 'Thambipillai Srikanthan', 'Christopher T. Clarke']",ACM Trans. Embed. Comput. Syst.,2014
+45,j,Parallel reconfiguration algorithms for mesh-connected processor arrays.,"['Jigang Wu', 'Guiyuan Jiang', 'Yuze Shen', 'Siew Kei Lam', 'Jizhou Sun', 'Thambipillai Srikanthan']",J. Supercomput.,2014
+46,j,Exploiting FPGA-Aware Merging of Custom Instructions for Runtime Reconfiguration.,"['Siew Kei Lam', 'Christopher T. Clarke', 'Thambipillai Srikanthan']",ACM Trans. Reconfigurable Technol. Syst.,2014
+47,j,Iris Recognition Using Stable Dark Features.,"['Bo Liu', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Weiqi Yuan']",J. Comput.,2013
+48,j,FPGA-aware techniques for rapid generation of profitable custom instructions.,"['Alok Prakash', 'Siew Kei Lam', 'Christopher T. Clarke', 'Thambipillai Srikanthan']",Microprocess. Microsystems,2013
+49,j,Efficient heuristic and tabu search for hardware/software partitioning.,"['Jigang Wu', 'Pu Wang', 'Siew Kei Lam', 'Thambipillai Srikanthan']",J. Supercomput.,2013
+50,j,Iris Recognition of Defocused Images for Mobile phones.,"['Bo Liu', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Weiqi Yuan']",Int. J. Pattern Recognit. Artif. Intell.,2012
+51,j,Architecture-Aware Technique for Mapping Area-Time Efficient Custom Instructions onto FPGAs.,"['Siew Kei Lam', 'Thambipillai Srikanthan', 'Christopher T. Clarke']",IEEE Trans. Computers,2011
+52,j,Selecting profitable custom instructions for reconfigurable processors.,"['Tao Li', 'Wu Jigang', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Xicheng Lu']",J. Syst. Archit.,2010
+53,j,Run-time management of custom instructions on a partially reconfigurable architecture.,"['Siew Kei Lam', 'Huang Fan', 'Thambipillai Srikanthan', 'Wu Jigang']",Int. J. Inf. Commun. Technol.,2009
+54,j,Rapid design of area-efficient custom instructions for reconfigurable embedded processing.,"['Siew Kei Lam', 'Thambipillai Srikanthan']",J. Syst. Archit.,2009
+55,j,Selecting Profitable Custom Instructions for Area-Time-Efficient Realization on Reconfigurable Architectures.,"['Siew Kei Lam', 'Thambipillai Srikanthan', 'Christopher T. Clarke']",IEEE Trans. Ind. Electron.,2009
+56,j,Rapid Area-Time Estimation Technique for Porting C-based Applications onto FPGA platforms.,"['Lieu My Chuong', 'Siew Kei Lam', 'Thambipillai Srikanthan']",Scalable Comput. Pract. Exp.,2007
+57,j,Efficient Architectures for Segmentation of Endoscopic Images in Micro-Robotic Auto Navigation Systems.,"['C. S. Lim', 'Siew Kei Lam', 'Hui Tian', 'Thambipillai Srikanthan']",Int. J. Humanoid Robotics,2006
+58,j,Rapid generation of custom instructions using predefined dataflow structures.,"['Siew Kei Lam', 'Thambipillai Srikanthan', 'Christopher T. Clarke']",Microprocess. Microsystems,2006
+59,j,VLSI-efficient schemes for high-speed construction of tangent graph.,"['Siew Kei Lam', 'K. Sridharan', 'Thambipillai Srikanthan']",Robotics Auton. Syst.,2005
+60,j,Area-Time Efficient Sign Detection Technique for Binary Signed-Digit Number System.,"['Thambipillai Srikanthan', 'Siew Kei Lam', 'Mishra Suman']",IEEE Trans. Computers,2004
+61,j,Hardware-efficient schemes for logarithmic approximation and binary search with application to visibility graph construction.,"['Siew Kei Lam', 'K. Sridharan', 'Thambipillai Srikanthan']",IEEE Trans. Ind. Electron.,2004
+62,j,Environment Modelling for Robot Navigation Using VLSI-Efficient Logarithmic Approximation Method.,"['Siew Kei Lam', 'Thambipillai Srikanthan']",J. Intell. Robotic Syst.,2002
+63,j,A linear approximation based hybrid approach for binary logarithmic conversion.,"['Siew Kei Lam', 'Thambipillai Srikanthan']",Microprocess. Microsystems,2002
+64,j,High-Speed Environment Representation Scheme for Dynamic Path Planning.,"['Siew Kei Lam', 'Thambipillai Srikanthan']",J. Intell. Robotic Syst.,2001
+65,j,Dynamic multicast routing in VLSI.,"['Siew Kei Lam', 'Thambipillai Srikanthan']",Comput. Commun.,2000
+66,c,Reinforced Continual Learning for Graphs.,"['Appan Rakaraddi', 'Siew-Kei Lam', 'Mahardhika Pratama', 'Marcus de Carvalho']",CIKM,2022
+67,c,XDIVINSA: eXtended DIVersifying INStruction Agent to Mitigate Power Side-Channel Leakage.,"['Thinh Hung Pham', 'Ben Marshall', 'Alexander Fell', 'Siew-Kei Lam', 'Daniel Page']",ASAP,2021
+68,c,Cache-Aware Dynamic Skewed Tree for Fast Memory Authentication.,"['Saru Vig', 'Siew-Kei Lam', 'Rohan Juneja']",ASP-DAC,2021
+69,c,Edge Accelerator for Lifelong Deep Learning using Streaming Linear Discriminant Analysis.,"['Duvindu Piyasena', 'Siew-Kei Lam', 'Meiqing Wu']",FCCM,2021
+70,c,Accelerating Continual Learning on Edge FPGA.,"['Duvindu Piyasena', 'Siew-Kei Lam', 'Meiqing Wu']",FPL,2021
+71,c,Self-Growing Spatial Graph Network for Context-Aware Pedestrian Trajectory Prediction.,"['Sirin Haddad', 'Siew-Kei Lam']",ICIP,2021
+72,c,Predicting Traffic Congestion Evolution: A Deep Meta Learning Approach.,"['Yidan Sun', 'Guiyuan Jiang', 'Siew Kei Lam', 'Peilan He']",IJCAI,2021
+73,c,Learning Congestion Propagation Behaviors for Traffic Prediction.,"['Yidan Sun', 'Peilan He', 'Guiyuan Jiang', 'Siew-Kei Lam']",ITSC,2021
+74,c,Hierarchical Loop Closure Detection for Long-term Visual SLAM with Semantic-Geometric Descriptors.,"['Gaurav Singh', 'Meiqing Wu', 'Siew-Kei Lam', 'Do Van Minh']",ITSC,2021
+75,c,CAP: Context-Aware Pruning for Semantic Segmentation.,"['Wei He', 'Meiqing Wu', 'Mingfu Liang', 'Siew-Kei Lam']",WACV,2021
+76,c,DISSECT: Dynamic Skew-and-Split Tree for Memory Authentication.,"['Saru Vig', 'Rohan Juneja', 'Siew-Kei Lam']",DATE,2020
+77,c,Dynamically Growing Neural Network Architecture for Lifelong Deep Learning on the Edge.,"['Duvindu Piyasena', 'Miyuru Thathsara', 'Sathursan Kanagarajah', 'Siew Kei Lam', 'Meiqing Wu']",FPL,2020
+78,c,Evaluating the Merits of Ranking in Structured Network Pruning.,"['Kuldeep Sharma', 'Nirmala Ramakrishnan', 'Alok Prakash', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ICDCS,2020
+79,c,Self-Growing Spatial Graph Networks for Pedestrian Trajectory Prediction.,"['Sirin Haddad', 'Siew-Kei Lam']",WACV,2020
+80,c,Fusing Semantics and Motion State Detection for Robust Visual SLAM.,"['Gaurav Singh', 'Meiqing Wu', 'Siew-Kei Lam']",WACV,2020
+81,c,TAD: time side-channel attack defense of obfuscated source code.,"['Alexander Fell', 'Thinh Hung Pham', 'Siew-Kei Lam']",ASP-DAC,2019
+82,c,Reducing Dynamic Power in Streaming CNN Hardware Accelerators by Exploiting Computational Redundancies.,"['Duvindu Piyasena', 'Rukshan Wickramasinghe', 'Debdeep Paul', 'Siew-Kei Lam', 'Meiqing Wu']",FPL,2019
+83,c,Predicting Travel Time of Bus Journeys with Alternative Bus Services.,"['Peilan He', 'Yidan Sun', 'Guiyuan Jiang', 'Siew-Kei Lam']",ICDM Workshops,2019
+84,c,Lowering Dynamic Power of a Stream-based CNN Hardware Accelerator.,"['Duvindu Piyasena', 'Rukshan Wickramasinghe', 'Debdeep Paul', 'Siew-Kei Lam', 'Meiqing Wu']",MMSP,2019
+85,c,Revisiting Visual Odometry for Real-Time Performance.,"['Gaurav Singh', 'Meiqing Wu', 'Siew-Kei Lam']",MVA,2019
+86,c,Bus Travel Speed Prediction using Attention Network of Heterogeneous Correlation Features.,"['Yidan Sun', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Shicheng Chen', 'Peilan He']",SDM,2019
+87,c,Hardware Efficient NIPALS Architecture for Principal Component Analysis of Hyper Spectral Images.,"['Sai Praveen Kadiyala', 'Vikram Kumar Pudi', 'Mohit Garg', 'Hau T. Ngo', 'Siew-Kei Lam', 'Thambipillai Srikanthan']",SoCC,2019
+88,c,LifeSim: A lifetime reliability simulator for manycore systems.,"['R. Rohith', 'Vijeta Rathore', 'Vivek Chaturvedi', 'Amit Kumar Singh', 'Thambipillai Srikanthan', 'Siew-Kei Lam']",CCWC,2018
+89,c,Side-Channel Assisted Malware Classifier with Gradient Descent Correction for Embedded Platforms.,"['Manaar Alam', 'Debdeep Mukhopadhyay', 'Sai Praveen Kadiyala', 'Siew Kei Lam', 'Thambipillai Srikanthan']",PROOFS,2018
+90,c,Efficient Sparse to Dense Stereo Matching Technique.,"['Piyush Bhandari', 'Meiqing Wu', 'Nazia Aslam', 'Siew-Kei Lam', 'Maheshkumar H. Kolekar']",CVIP (1),2018
+91,c,Dynamic skewed tree for fast memory integrity verification.,"['Saru Vig', 'Guiyuan Jiang', 'Siew-Kei Lam']",DATE,2018
+92,c,HiMap: A hierarchical mapping approach for enhancing lifetime reliability of dark silicon manycore systems.,"['Vijeta Rathore', 'Vivek Chaturvedi', 'Amit Kumar Singh', 'Thambipillai Srikanthan', 'R. Rohith', 'Siew-Kei Lam', 'Muhammad Shafique']",DATE,2018
+93,c,CIDPro: Custom Instructions for Dynamic Program Diversification.,"['Thinh Hung Pham', 'Alexander Fell', 'Arnab Kumar Biswas', 'Siew-Kei Lam', 'Nandeesha Veeranna']",FPL,2018
+94,c,Stream-Based ORB Feature Extractor with Dynamic Power Optimization.,"['Phong Tran', 'Thinh Hung Pham', 'Siew Kei Lam', 'Meiqing Wu', 'Bhavan A. Jasani']",FPT,2018
+95,c,Rapid detection of rowhammer attacks using dynamic skewed hash tree.,"['Saru Vig', 'Siew-Kei Lam', 'Sarani Bhattacharya', 'Debdeep Mukhopadhyay']",HASP@ISCA,2018
+96,c,Group Cost-sensitive Boosting with Multi-scale Decorrelated Filters for Pedestrian Detection.,"['Chengju Zhou', 'Meiqing Wu', 'Siew-Kei Lam']",BMVC,2017
+97,c,Lowering dynamic power in stream-based harris corner detection architecture.,"['Siew-Kei Lam', 'Rakesh Kumar Bijarniya', 'Meiqing Wu']",FPT,2017
+98,c,General Algorithm for Fault-Tolerant Virtual Machine Assignments.,"['Jigang Wu', 'Zinan He', 'Yaoguo Zhang', 'Renfei Gao', 'Siew Kei Lam']",ISPA/IUCC,2017
+99,c,Customizing Skewed Trees for Fast Memory Integrity Verification in Embedded Systems.,"['Saru Vig', 'Tan Yng Tzer', 'Guiyuan Jiang', 'Siew-Kei Lam']",ISVLSI,2017
+100,c,QoE-Aware Task Offloading for Time Constraint Mobile Applications.,"['Zikai Zhang', 'Jigang Wu', 'Guiyuan Jiang', 'Long Chen', 'Siew-Kei Lam']",LCN,2017
+101,c,Fast and Accurate Pedestrian Detection using Dual-Stage Group Cost-Sensitive RealBoost with Vector Form Filters.,"['Chengju Zhou', 'Meiqing Wu', 'Siew-Kei Lam']",ACM Multimedia,2017
+102,c,Approximate compressed sensing for hardware-efficient image compression.,"['Sai Praveen Kadiyala', 'Vikram Kumar Pudi', 'Siew-Kei Lam']",SoCC,2017
+103,c,Reducing Access Latency in Virtual Machine Assignments.,"['Renfei Gao', 'Jigang Wu', 'Guiyuan Jiang', 'Siew Kei Lam', 'Thambipillai Srikanthan']",HPCC/SmartCity/DSS,2016
+104,c,Bounded iterative thresholding for lumen region detection in endoscopic images.,"['Pon Nidhya Elango', 'Siew Kei Lam']",ICARCV,2016
+105,c,Exploiting Configuration Dependencies for Rapid Area-efficient Customization of Soft-core Processors.,"['Deshya Wijesundera', 'Alok Prakash', 'Siew Kei Lam', 'Thambipillai Srikanthan']",SCOPES,2016
+106,c,Shortest Partial Path First Algorithm for Reconfigurable Processor Array with Faults.,"['Jigang Wu', 'Ningjing Liu', 'Siew Kei Lam', 'Guiyuan Jiang']",Trustcom/BigDataSE/ISPA,2016
+107,c,Real-time road traffic density estimation using block variance.,"['Kratika Garg', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Vedika Agarwal']",WACV,2016
+108,c,Fast Replica Placement and Update Strategies in Tree Networks.,"['Xu Wang', 'Jigang Wu', 'Guiyuan Jiang', 'Siew Kei Lam', 'Thambipillai Srikanthan']",CCGRID,2015
+109,c,Rapid estimation of DSPs utilization for efficient high-level synthesis.,"['Yan Lin Aung', 'Siew Kei Lam', 'Thambipillai Srikanthan']",DSP,2015
+110,c,Adaptive Window Strategy for High-Speed and Robust KLT Feature Tracker.,"['Nirmala Ramakrishnan', 'Thambipillai Srikanthan', 'Siew Kei Lam', 'Gauri Ravindra Tulsulkar']",PSIVT,2015
+111,c,KnapSim - Run-time efficient hardware-software partitioning technique for FPGAs.,"['Kratika Garg', 'Yan Lin Aung', 'Siew Kei Lam', 'Thambipillai Srikanthan']",SoCC,2015
+112,c,Automated thresholding for low-complexity corner detection.,"['Nirmala Ramakrishnan', 'Meiqing Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",AHS,2014
+113,c,Mask-based non-maximal suppression with iterative pruning for low-complexity corner detection.,"['Nirmala Ramakrishnan', 'Meiqing Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ISIC,2014
+114,c,Vision-based pedestrian tracking system using color and motion cue.,"['Meiqing Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Tushar Shah']",ISIC,2014
+115,c,Stereo based ROIs generation for detecting pedestrians in close proximity.,"['Meiqing Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ITSC,2014
+116,c,Algorithmic Aspects for Bi-Objective Multiple-Choice Hardware/Software Partitioning.,"['Wenjun Shi', 'Jigang Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",PAAP,2014
+117,c,Modelling communication overhead for accessing local memories in hardware accelerators.,"['Alok Prakash', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Christopher T. Clarke']",ASAP,2013
+118,c,Preprocessing technique for accelerating reconfiguration of degradable VLSI arrays.,"['Yuanbo Zhu', 'Jigang Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ISCAS,2013
+119,c,Hardware-Software Codesign of EKF-Based Motor Control for Domain-Specific Reconfigurable Platform.,"['Yan Lin Aung', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ISED,2013
+120,c,Real-Time Image Resizing Hardware Accelerator for Object Detection Algorithms.,"['Gaurav Mishra', 'Yan Lin Aung', 'Meiqing Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ISED,2013
+121,c,Area-time estimation of C-based functions for design space exploration.,"['Yan Lin Aung', 'Siew Kei Lam', 'Thambipillai Srikanthan']",FPT,2012
+122,c,Reconfiguration Algorithms for Degradable VLSI Arrays with Switch Faults.,"['Yuanbo Zhu', 'Jigang Wu', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ICPADS,2012
+123,c,Exploiting stable features for iris recognition of defocused images.,"['Bo Liu', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Weiqi Yuan']",ISCAS,2012
+124,c,Low-complexity pruning for accelerating corner detection.,"['Meiqing Wu', 'Nirmala Ramakrishnan', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ISCAS,2012
+125,c,Exploiting FPGA-aware merging of custom instructions for runtime reconfiguration.,"['Siew Kei Lam', 'Thambipillai Srikanthan', 'Christopher T. Clarke']",ReCoSoC,2012
+126,c,A Novel Binding Algorithm to Reduce Critical Path Delay During High Level Synthesis.,"['Sharad Sinha', 'Udit Dhawan', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ISVLSI,2011
+127,c,Utilizing Dark Features for Iris Recognition in Less Constrained Environments.,"['Bo Liu', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Weiqi Yuan']",PAAP,2011
+128,c,Automatic Compilation of C Applications for FPGA-Based Hardware Acceleration.,"['Lieu My Chuong', 'Yan Lin Aung', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Chai-Soon Lim']",PAAP,2011
+129,c,Instruction set customization for area-constrained FPGA designs.,"['Alok Prakash', 'Siew Kei Lam', 'Christopher T. Clarke', 'Thambipillai Srikanthan']",SoCC,2011
+130,c,Compiler-assisted technique for rapid performance estimation of FPGA-based processors.,"['Yan Lin Aung', 'Siew Kei Lam', 'Thambipillai Srikanthan']",SoCC,2011
+131,c,Hierarchical Loop Partitioning for Rapid Generation of Runtime Configurations.,"['Siew Kei Lam', 'Yun Deng', 'Jian Hu', 'Xilong Zhou', 'Thambipillai Srikanthan']",ARC,2010
+132,c,Architecture-Aware Custom Instruction Generation for Reconfigurable Processors.,"['Alok Prakash', 'Siew Kei Lam', 'Amit Kumar Singh', 'Thambipillai Srikanthan']",ARC,2010
+133,c,Accelerating shortest path computations in hardware.,"['Siew Kei Lam', 'Thambipillai Srikanthan']",CASE,2010
+134,c,Performance estimation framework for FPGA-based processors.,"['Yan Lin Aung', 'Siew Kei Lam', 'Thambipillai Srikanthan']",FPT,2010
+135,c,An efficient edge and corner detector.,"['Song Yang', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ICARCV,2010
+136,c,Efficient Heuristic Algorithm for Rapid Custom-Instruction Selection.,"['Tao Li', 'Wu Jigang', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Xicheng Lu']",ACIS-ICIS,2009
+137,c,Rapid design exploration framework for application-aware customization of soft core processors.,"['Alok Prakash', 'Siew Kei Lam', 'Amit Kumar Singh', 'Thambipillai Srikanthan']",FPL,2009
+138,c,Area-Time Estimation of Controller for Porting C-Based Functions onto FPGA.,"['Lieu My Chuong', 'Siew Kei Lam', 'Thambipillai Srikanthan']",IEEE International Workshop on Rapid System Prototyping,2009
+139,c,A Short Course on Implementing FPGA Based Digital Systems.,"['George Rosario Jagadeesh', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ICPADS,2008
+140,c,Estimating Area Costs of Custom Instructions for FPGA-based Reconfigurable Processors.,"['Siew Kei Lam', 'Thambipillai Srikanthan']",ASAP,2007
+141,c,Energy Efficient Cache Tuning with Performance Bound.,"['Leipo Yan', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Wu Jigang']",DELTA,2006
+142,c,Modeling Arbitrator Delay-Area Dependencies in Customizable Instruction Set Processors.,"['Siew Kei Lam', 'Mohammed Shoaib', 'Thambipillai Srikanthan']",DELTA,2006
+143,c,Efficient management of custom instructions for run-time reconfigurable instruction set processors.,"['Siew Kei Lam', 'Bharathi N. Krishnan', 'Thambipillai Srikanthan']",FPT,2006
+144,c,Morphable Structures for Reconfigurable Instruction Set Processors.,"['Siew Kei Lam', 'Yun Deng', 'Thambipillai Srikanthan']",Asia-Pacific Computer Systems Architecture Conference,2005
+145,c,High-throughput image rotation using sign-prediction based redundant cordic algorithm.,"['Suchitra Sathyanarayana', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ICIP,2004
+146,c,Implementing Otsu's thresholding process using area-time efficient logarithmic approximation unit.,"['Hui Tian', 'Siew Kei Lam', 'Thambipillai Srikanthan']",ISCAS (4),2003
+147,c,Low cost logarithmic techniques for high-precision computations.,"['Siew Kei Lam', 'Devendra K. Chaudhaiy', 'Thambipillai Srikanthan']",ISCAS (5),2003
+148,c,Architectural design and analysis toolbox to implement shortest path algorithms in hardware.,"['K. H. Quek', 'Siew Kei Lam', 'N. K. Agrawal', 'Thambipillai Srikanthan']",ISCAS (3),2003
+149,c,Fuzzy-ART based image compression for hardware implementation.,"['C. S. Lim', 'Thambipillai Srikanthan', 'Vijayan K. Asari', 'Siew Kei Lam']",APCCAS (2),2002
+150,c,Incorporating area-time flexibility to a binary signed-digit adder.,"['Siew Kei Lam', 'Thambipillai Srikanthan', 'Nitin Goyal', 'Neeraj Tyagi']",APCCAS (1),2002
+151,c,An efficient architecture for adaptive progressive thresholding.,"['Hui Tian', 'Siew Kei Lam', 'Thambipillai Srikanthan', 'Chip-Hong Chang']",APCCAS (1),2002
+152,c,Study on the Effect of Object to Camera Distance on Polynomial Expansion Coefficients in Barrel Distortion Correction.,"['Hui Tian', 'Thambipillai Srikanthan', 'Vijayan K. Asari', 'Siew Kei Lam']",SSIAI,2002
+153,i,Reinforced Continual Learning for Graphs.,"['Appan Rakaraddi', 'Siew Kei Lam', 'Mahardhika Pratama', 'Marcus de Carvalho']",CoRR,2022
+154,i,Snowball: Another View on Side-Channel Key Recovery Tools.,"['Jiangshan Long', 'Changhai Ou', 'Zhu Wang', 'Shihui Zheng', 'Fei Yan', 'Fan Zhang', 'Siew-Kei Lam']",IACR Cryptol. ePrint Arch.,2022
+155,i,Multi-fold Correlation Attention Network for Predicting Traffic Speeds with Heterogeneous Frequency.,"['Yidan Sun', 'Guiyuan Jiang', 'Siew-Kei Lam', 'Peilan He', 'Fangxin Ning']",CoRR,2021
+156,i,XDIVINSA: eXtended DIVersifying INStruction Agent to Mitigate Power Side-Channel Leakage.,"['Thinh Hung Pham', 'Ben Marshall', 'Alexander Fell', 'Siew-Kei Lam', 'Daniel Page']",IACR Cryptol. ePrint Arch.,2021
+157,i,CoTree: Push the Limits of Conquerable Space in Collision-Optimized Side-Channel Attacks.,"['Changhai Ou', 'Debiao He', 'Zhu Wang', 'Kexin Qiao', 'Shihui Zheng', 'Siew-Kei Lam']",IACR Cryptol. ePrint Arch.,2021
+158,i,IROS 2019 Lifelong Robotic Vision Challenge - Lifelong Object Recognition Report.,"['Qi She', 'Fan Feng', 'Qi Liu', 'Rosa H. M. Chan', 'Xinyue Hao', 'Chuanlin Lan', 'Qihan Yang', 'Vincenzo Lomonaco', 'German Ignacio Parisi', 'Heechul Bae', 'Eoin Brophy', 'Baoquan Chen', 'Gabriele Graffieti', 'Vidit Goel', 'Hyonyoung Han', 'Sathursan Kanagarajah', 'Somesh Kumar', 'Siew-Kei Lam', 'Tin Lun Lam', 'Liang Ma', 'Davide Maltoni', 'Lorenzo Pellegrini', 'Duvindu Piyasena', 'Shiliang Pu', 'Debdoot Sheet', 'Soonyong Song', 'Youngsung Son', 'Zhengwei Wang', 'Tomas E. Ward', 'Jianwen Wu', 'Meiqing Wu', 'Di Xie', 'Yangsheng Xu', 'Lin Yang', 'Qiaoyong Zhong', 'Liguang Zhou']",CoRR,2020
+159,i,Graph2Kernel Grid-LSTM: A Multi-Cued Model for Pedestrian Trajectory Prediction by Learning Adaptive Neighborhoods.,"['Sirin Haddad', 'Siew Kei Lam']",CoRR,2020
+160,i,Self-Growing Spatial Graph Network for Context-Aware Pedestrian Trajectory Prediction.,"['Sirin Haddad', 'Siew-Kei Lam']",CoRR,2020
+161,i,Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model.,"['Sirin Haddad', 'Meiqing Wu', 'He Wei', 'Siew Kei Lam']",CoRR,2019
+162,i,Full Collision Attack: Pushing the Limits of Exhaustible Key Spaces.,"['Changhai Ou', 'Siew-Kei Lam']",IACR Cryptol. ePrint Arch.,2019
+163,i,The Art of Guessing in Combined Side-Channel Collision Attacks.,"['Changhai Ou', 'Siew-Kei Lam', 'Guiyuan Jiang']",IACR Cryptol. ePrint Arch.,2019
+164,i,SNR-Centric Power Trace Extractors for Side-Channel Attacks.,"['Changhai Ou', 'Degang Sun', 'Siew-Kei Lam', 'Xinping Zhou', 'Kexin Qiao', 'Qu Wang']",IACR Cryptol. ePrint Arch.,2019
+165,i,Efficient Three-stage Auction Schemes for Cloudlets Deployment in Wireless Access Network.,"['Gangqiang Zhou', 'Jigang Wu', 'Long Chen', 'Guiyuan Jiang', 'Siew-Kei Lam']",CoRR,2018
+166,i,CIDPro: Custom Instructions for Dynamic Program Diversification.,"['Thinh Hung Pham', 'Alexander Fell', 'Arnab Kumar Biswas', 'Siew-Kei Lam', 'Nandeesha Veeranna']",CoRR,2018
+167,i,Information Entropy Based Leakage Certification.,"['Changhai Ou', 'Xinping Zhou', 'Siew-Kei Lam']",IACR Cryptol. ePrint Arch.,2018
+168,i,Compressive Sensing based Leakage Sampling and Reconstruction: A First Study.,"['Changhai Ou', 'Chengju Zhou', 'Siew-Kei Lam']",IACR Cryptol. ePrint Arch.,2018

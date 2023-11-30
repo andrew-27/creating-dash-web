@@ -1,0 +1,20 @@
+,type,name,author,event,year
+0,j,A Feature-Based Compressive Spectrum Sensing Technique for Cognitive Radio Operation.,"['Hao Chen', 'Chan Hua Vun']",Circuits Syst. Signal Process.,2018
+1,j,A Novel Matrix Optimization for Compressive Sampling-Based Sub-Nyquist OFDM Receiver in Cognitive Radio.,"['Hao Chen', 'Chan Hua Vun']",Circuits Syst. Signal Process.,2018
+2,j,Smartphone Orientation Estimation Algorithm Combining Kalman Filter With Gradient Descent.,"['Seanglidet Yean', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Chan Hua Vun', 'Hong Lye Oh']",IEEE J. Biomed. Health Informatics,2018
+3,j,Fracturable DSP Block for Multi-context Reconfigurable Architectures.,"['Rakesh Warrier', 'Shanker Shreejith', 'Wei Zhang', 'Chan Hua Vun', 'Suhaib A. Fahmy']",Circuits Syst. Signal Process.,2017
+4,j,Pipeline Reconfigurable DSP for Dynamically Reconfigurable Architectures.,"['Rakesh Warrier', 'Wei Zhang', 'Chan Hua Vun']",Circuits Syst. Signal Process.,2017
+5,j,A New RNS based DA Approach for Inner Product Computation.,"['Chan Hua Vun', 'A. B. Premkumar', 'Wei Zhang']",IEEE Trans. Circuits Syst. I Regul. Pap.,2013
+6,j,Power LAN MIB for management of intelligent telecommunication equipment.,"['Bu-Sung Lee', 'Chiew Tong Lau', 'Nicholas C. H. Vun']",J. Netw. Comput. Appl.,2000
+7,c,Compressive sensing techniques for UWB indoor positioning applications.,"['H. Chen', 'Nicholas C. H. Vun']",ICCE,2015
+8,c,Securing IoT for smart home system.,"['Freddy K. Santoso', 'Nicholas C. H. Vun']",ISCE,2015
+9,c,A low-power pipelined MAC architecture using Baugh-Wooley based multiplier.,"['Rakesh Warrier', 'Chan Hua Vun', 'Wei Zhang']",GCCE,2014
+10,c,A high performance hardware based RNS-to-binary converter.,"['K. M. Karthik', 'Nicholas C. H. Vun']",ICCE,2014
+11,c,Sum of products: Computation using modular thermometer codes.,"['Chan Hua Vun', 'A. B. Premkumar', 'Wei Zhang']",ISPACS,2014
+12,c,Efficient reverse converters designs for RNS based digital signal processing systems.,"['Kalyanaraman Karthik', 'Nicholas Chan Hua Vun']",GCCE,2013
+13,c,Design of LUT based RNS reverse converters.,"['Wei Lam Kong', 'Nicholas Chan Hua Vun']",ISCE,2013
+14,c,RNS encoding based folding ADC.,"['Chan Hua Vun', 'A. B. Premkumar']",ISCAS,2012
+15,c,Implementation of an Android Phone Based Video Streamer.,"['Nicholas C. H. Vun', 'Y. H. Ooi']",GreenCom/CPSCom,2010
+16,c,Real-Time Enhancements for Embedded Linux.,"['Nicholas Vun', 'H. F. Hor', 'J. W. Chao']",ICPADS,2008
+17,c,The design of effective low cost embedded processor development kits for supporting take-home self-practice pedagogies.,"['Nicholas Vun', 'Wooi-Boon Goh']",ICPADS,2007
+18,c,Issues and challenges of embedded processor education for working professionals.,"['Nicholas Vun', 'Wooi-Boon Goh']",ICPADS,2007

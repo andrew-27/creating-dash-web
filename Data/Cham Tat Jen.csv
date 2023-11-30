@@ -1,0 +1,113 @@
+,type,name,author,event,year
+0,j,GeoConv: Geodesic guided convolution for facial action unit recognition.,"['Yuedong Chen', 'Guoxian Song', 'Zhiwen Shao', 'Jianfei Cai', 'Tat-Jen Cham', 'Jianmin Zheng']",Pattern Recognit.,2022
+1,j,Unconstrained Facial Action Unit Detection via Latent Feature Domain.,"['Zhiwen Shao', 'Jianfei Cai', 'Tat-Jen Cham', 'Xuequan Lu', 'Lizhuang Ma']",IEEE Trans. Affect. Comput.,2022
+2,j,Half-body Portrait Relighting with Overcomplete Lighting Representation.,"['Guoxian Song', 'Tat-Jen Cham', 'Jianfei Cai', 'Jianmin Zheng']",Comput. Graph. Forum,2021
+3,j,Pluralistic Free-Form Image Completion.,"['Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",Int. J. Comput. Vis.,2021
+4,j,Visiting the Invisible: Layer-by-Layer Completed Scene Decomposition.,"['Chuanxia Zheng', 'Duy-Son Dao', 'Guoxian Song', 'Tat-Jen Cham', 'Jianfei Cai']",Int. J. Comput. Vis.,2021
+5,j,AgileGAN: stylizing portraits by inversion-consistent transfer learning.,"['Guoxian Song', 'Linjie Luo', 'Jing Liu', 'Wan-Chun Ma', 'Chun-Pong Lai', 'Chuanxia Zheng', 'Tat-Jen Cham']",ACM Trans. Graph.,2021
+6,j,Recovering facial reflectance and geometry from multi-view images.,"['Guoxian Song', 'Jianmin Zheng', 'Jianfei Cai', 'Tat-Jen Cham']",Image Vis. Comput.,2020
+7,j,Shading-Based Surface Recovery Using Subdivision-Based Representation.,"['Teng Deng', 'Jianmin Zheng', 'Jianfei Cai', 'Tat-Jen Cham']",Comput. Graph. Forum,2019
+8,j,Conditional adversarial synthesis of 3D facial action units.,"['Zhilei Liu', 'Guoxian Song', 'Jianfei Cai', 'Tat-Jen Cham', 'Juyong Zhang']",Neurocomputing,2019
+9,j,Visibility Constrained Generative Model for Depth-Based 3D Facial Pose Tracking.,"['Lu Sheng', 'Jianfei Cai', 'Tat-Jen Cham', 'Vladimir Pavlovic', 'King Ngi Ngan']",IEEE Trans. Pattern Anal. Mach. Intell.,2019
+10,j,Towards a Switchable AR/VR Near-eye Display with Accommodation-Vergence and Eyeglass Prescription Support.,"['Xinxing Xia', 'Yunqing Guan', 'Andrei State', 'Praneeth Chakravarthula', 'Kishore Rathinavel', 'Tat-Jen Cham', 'Henry Fuchs']",IEEE Trans. Vis. Comput. Graph.,2019
+11,j,Shading-Based Surface Detail Recovery Under General Unknown Illumination.,"['Di Xu', 'Qi Duan', 'Jianmin Zheng', 'Juyong Zhang', 'Jianfei Cai', 'Tat-Jen Cham']",IEEE Trans. Pattern Anal. Mach. Intell.,2018
+12,j,Structure-Aware Multimodal Feature Fusion for RGB-D Scene Classification and Beyond.,"['Anran Wang', 'Jianfei Cai', 'Jiwen Lu', 'Tat-Jen Cham']",ACM Trans. Multim. Comput. Commun. Appl.,2018
+13,j,Multiple consumer-grade depth camera registration using everyday objects.,"['Teng Deng', 'Jianfei Cai', 'Tat-Jen Cham', 'Jianmin Zheng']",Image Vis. Comput.,2017
+14,j,Real-Time and Temporal-Coherent Foreground Extraction With Commodity RGBD Camera.,"['Mengyao Zhao', 'Chi-Wing Fu', 'Jianfei Cai', 'Tat-Jen Cham']",IEEE J. Sel. Top. Signal Process.,2015
+15,j,Scene recognition by semantic visual words.,"['Elahe Farahzadeh', 'Tat-Jen Cham', 'Andrzej Sluzek']",Signal Image Video Process.,2015
+16,j,Unsupervised Joint Feature Learning and Encoding for RGB-D Scene Labeling.,"['Anran Wang', 'Jiwen Lu', 'Jianfei Cai', 'Gang Wang', 'Tat-Jen Cham']",IEEE Trans. Image Process.,2015
+17,j,"Kinect Depth Recovery Using a Color-Guided, Region-Adaptive, and Depth-Selective Framework.","['Chongyu Chen', 'Jianfei Cai', 'Jianmin Zheng', 'Tat-Jen Cham', 'Guangming Shi']",ACM Trans. Intell. Syst. Technol.,2015
+18,j,A Unified Feature Selection Framework for Graph Embedding on High Dimensional Data.,"['Marcus Chen', 'Ivor W. Tsang', 'Mingkui Tan', 'Cham Tat Jen']",IEEE Trans. Knowl. Data Eng.,2015
+19,j,Large-Margin Multi-Modal Deep Learning for RGB-D Object Recognition.,"['Anran Wang', 'Jiwen Lu', 'Jianfei Cai', 'Tat-Jen Cham', 'Gang Wang']",IEEE Trans. Multim.,2015
+20,j,Face and Human Gait Recognition Using Image-to-Class Distance.,"['Yi Huang', 'Dong Xu', 'Tat-Jen Cham']",IEEE Trans. Circuits Syst. Video Technol.,2010
+21,j,Near Duplicate Identification With Spatially Aligned Pyramid Matching.,"['Dong Xu', 'Tat-Jen Cham', 'Shuicheng Yan', 'Lixin Duan', 'Shih-Fu Chang']",IEEE Trans. Circuits Syst. Video Technol.,2010
+22,j,Shadow Elimination and Blinding Light Suppression for Interactive Projected Displays.,"['Jay Summet', 'Matthew Flagg', 'Tat-Jen Cham', 'James M. Rehg', 'Rahul Sukthankar']",IEEE Trans. Vis. Comput. Graph.,2007
+23,j,Automated B-Spline Curve Representation Incorporating MDL and Error-Minimizing Control Point Insertion Strategies.,"['Tat-Jen Cham', 'Roberto Cipolla']",IEEE Trans. Pattern Anal. Mach. Intell.,1999
+24,j,Symmetry detection through local skewed symmetries.,"['Tat-Jen Cham', 'Roberto Cipolla']",Image Vis. Comput.,1995
+25,c,Global Context with Discrete Diffusion in Vector Quantised Modelling for Image Generation.,"['Minghui Hu', 'Yujie Wang', 'Tat-Jen Cham', 'Jianfei Yang', 'Ponnuthurai N. Suganthan']",CVPR,2022
+26,c,Bridging Global Context Interactions for High-Fidelity Image Completion.,"['Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai', 'Dinh Q. Phung']",CVPR,2022
+27,c,Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields.,"['Yuedong Chen', 'Qianyi Wu', 'Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",ECCV (14),2022
+28,c,Towards Unbiased Visual Emotion Recognition via Causal Intervention.,"['Yuedong Chen', 'Xu Yang', 'Tat-Jen Cham', 'Jianfei Cai']",ACM Multimedia,2022
+29,c,The Spatially-Correlative Loss for Various Image Translation Tasks.,"['Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",CVPR,2021
+30,c,A Unified 3D Human Motion Synthesis Model via Conditional Variational Auto-Encoder,"['Yujun Cai', 'Yiwei Wang', 'Yiheng Zhu', 'Tat-Jen Cham', 'Jianfei Cai', 'Junsong Yuan', 'Jun Liu', 'Chuanxia Zheng', 'Sijie Yan', 'Henghui Ding', 'Xiaohui Shen', 'Ding Liu', 'Nadia Magnenat-Thalmann']",ICCV,2021
+31,c,Learning Progressive Joint Propagation for Human Motion Prediction.,"['Yujun Cai', 'Lin Huang', 'Yiwei Wang', 'Tat-Jen Cham', 'Jianfei Cai', 'Junsong Yuan', 'Jun Liu', 'Xu Yang', 'Yiheng Zhu', 'Xiaohui Shen', 'Ding Liu', 'Jing Liu', 'Nadia Magnenat-Thalmann']",ECCV (7),2020
+32,c,Towards Eyeglass-style Holographic Near-eye Displays with Statically.,"['Xinxing Xia', 'Yunqing Guan', 'Andrei State', 'Praneeth Chakravarthula', 'Tat-Jen Cham', 'Henry Fuchs']",ISMAR,2020
+33,c,Pluralistic Image Completion.,"['Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",CVPR,2019
+34,c,Exploiting Spatial-Temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks.,"['Yujun Cai', 'Liuhao Ge', 'Jun Liu', 'Jianfei Cai', 'Tat-Jen Cham', 'Junsong Yuan', 'Nadia Magnenat-Thalmann']",ICCV,2019
+35,c,Towards Efficient 3D Calibration for Different Types of Multi-view Autostereoscopic 3D Displays.,"['Xinxing Xia', 'Yunqing Guan', 'Andrei State', 'Tat-Jen Cham', 'Henry Fuchs']",CGI,2018
+36,c,T ^2 2 Net: Synthetic-to-Realistic Translation for Solving Single-Image Depth Estimation Tasks.,"['Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",ECCV (7),2018
+37,c,Background Subtraction Based on Deep Pixel Distribution Learning.,"['Chenqiu Zhao', 'Tat-Jen Cham', 'Xinyu Ren', 'Jianfei Cai', 'Haichen Zhu']",ICME,2018
+38,c,Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset.,"['Guoxian Song', 'Jianfei Cai', 'Tat-Jen Cham', 'Jianmin Zheng', 'Juyong Zhang', 'Henry Fuchs']",ACM Multimedia,2018
+39,c,SubdSH: Subdivision-based Spherical Harmonics Field for Real-time Shading-based Refinement under Challenging Unknown Illumination.,"['Teng Deng', 'Jianmin Zheng', 'Jianfei Cai', 'Tat-Jen Cham']",VCIP,2018
+40,c,A Generative Model for Depth-Based Robust 3D Facial Pose Tracking.,"['Lu Sheng', 'Jianfei Cai', 'Tat-Jen Cham', 'Vladimir Pavlovic', 'King Ngi Ngan']",CVPR,2017
+41,c,FaceCollage: A Rapidly Deployable System for Real-time Head Reconstruction for On-The-Go 3D Telepresence.,"['Fuwen Tan', 'Chi-Wing Fu', 'Teng Deng', 'Jianfei Cai', 'Tat-Jen Cham']",ACM Multimedia,2017
+42,c,Modality and Component Aware Feature Fusion for RGB-D Scene Classification.,"['Anran Wang', 'Jianfei Cai', 'Jiwen Lu', 'Tat-Jen Cham']",CVPR,2016
+43,c,Robust real-time performance-driven 3D face tracking.,"['Hai Xuan Pham', 'Vladimir Pavlovic', 'Jianfei Cai', 'Tat-Jen Cham']",ICPR,2016
+44,c,Steerable second order intensity features for pedestrian detection.,"['Sing Kuang Tan', 'Tat-Jen Cham', 'Jianxin Wu']",ACPR,2015
+45,c,Objects co-segmentation: Propagated from simpler images.,"['Marcus Chen', 'Santiago Velasco-Forero', 'Ivor W. Tsang', 'Tat-Jen Cham']",ICASSP,2015
+46,c,MMSS: Multi-modal Sharable and Specific Feature Learning for RGB-D Object Recognition.,"['Anran Wang', 'Jianfei Cai', 'Jiwen Lu', 'Tat-Jen Cham']",ICCV,2015
+47,c,Recovering Surface Details under General Unknown Illumination Using Shading and Coarse Multi-view Stereo.,"['Di Xu', 'Qi Duan', 'Jianming Zheng', 'Juyong Zhang', 'Jianfei Cai', 'Tat-Jen Cham']",CVPR,2014
+48,c,Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling.,"['Anran Wang', 'Jiwen Lu', 'Gang Wang', 'Jianfei Cai', 'Tat-Jen Cham']",ECCV (5),2014
+49,c,Merging Live and pre-Captured Data to support Full 3D Head Reconstruction for Telepresence.,"['Cédric Fleury', 'Tiberiu Popa', 'Tat-Jen Cham', 'Henry Fuchs']",Eurographics (Short Papers),2014
+50,c,Estimating spatial layout of rooms from RGB-D videos.,"['Anran Wang', 'Jiwen Lu', 'Jianfei Cai', 'Gang Wang', 'Tat-Jen Cham']",MMSP,2014
+51,c,Kinect Shadow Detection and Classification.,"['Teng Deng', 'Hui Li', 'Jianfei Cai', 'Tat-Jen Cham', 'Henry Fuchs']",ICCV Workshops,2013
+52,c,High-quality Kinect depth filtering for real-time 3D telepresence.,"['Mengyao Zhao', 'Fuwen Tan', 'Chi-Wing Fu', 'Chi-Keung Tang', 'Jianfei Cai', 'Tat-Jen Cham']",ICME,2013
+53,c,"A color-guided, region-adaptive and depth-selective unified framework for Kinect depth recovery.","['Chongyu Chen', 'Jianfei Cai', 'Jianmin Zheng', 'Tat-Jen Cham', 'Guangming Shi']",MMSP,2013
+54,c,Kinect-Based Easy 3D Object Reconstruction.,"['Di Xu', 'Jianfei Cai', 'Tat-Jen Cham', 'Philip Fu', 'Juyong Zhang']",PCM,2012
+55,c,Visual tracking with generative template model based on Riemannian manifold of covariances.,"['Marcus Chen', 'Sze Kim Pang', 'Cham Tat Jen', 'Alvina Goh']",FUSION,2011
+56,c,Image Relighting by Analogy.,"['Xiao Teng', 'Tat-Jen Cham']",ISVC (1),2011
+57,c,Estimating camera pose from a single urban ground-view omnidirectional image and a 2D building outline map.,"['Tat-Jen Cham', 'Arridhana Ciptadi', 'Wei-Chian Tan', 'Minh-Tri Pham', 'Liang-Tien Chia']",CVPR,2010
+58,c,Fast polygonal integration and its application in extending haar-like features to improve object detection.,"['Minh-Tri Pham', 'Yang Gao', 'Viet-Dung Hoang', 'Tat-Jen Cham']",CVPR,2010
+59,c,Detection with multi-exit asymmetric boosting.,"['Minh-Tri Pham', 'V-D. D. Hoang', 'Tat-Jen Cham']",CVPR,2008
+60,c,Near duplicate image identification with patially Aligned Pyramid Matching.,"['Dong Xu', 'Tat-Jen Cham', 'Shuicheng Yan', 'Shih-Fu Chang']",CVPR,2008
+61,c,High Distortion and Non-Structural Image Matching via Feature Co-occurrence.,"['Xi Chen', 'Tat-Jen Cham']",CVPR,2007
+62,c,Online Learning Asymmetric Boosted Classifiers for Object Detection.,"['Minh-Tri Pham', 'Tat-Jen Cham']",CVPR,2007
+63,c,Fast training and selection of Haar features using statistics in boosting-based face detection.,"['Minh-Tri Pham', 'Tat-Jen Cham']",ICCV,2007
+64,c,Click4BuildingID@NTU: Click for Building Identification with GPS-enabled Camera Cell Phone.,"['Chai Kiat Yeo', 'Liang-Tien Chia', 'Tat-Jen Cham', 'D. Rajon']",ICME,2007
+65,c,Alignment of 3D Models to Images Using Region-Based Mutual Information and Neighborhood Extended Gaussian Images.,"['Hon-Keat Pong', 'Tat-Jen Cham']",ACCV (1),2006
+66,c,Object Detection Using a Cascade of 3D Models.,"['Hon-Keat Pong', 'Tat-Jen Cham']",ACCV (2),2006
+67,c,Image Pre-Conditioning for Out-of-Focus Projector Blur.,"['Michael S. Brown', 'Peng Song', 'Tat-Jen Cham']",CVPR (2),2006
+68,c,Optimal Cascade Construction for Detection using 3D Models.,"['Hon-Keat Pong', 'Tat-Jen Cham']",ICPR (1),2006
+69,c,Video-based Human Action Classi.cation with Ambiguous Correspondences.,"['Zhou Feng', 'Tat-Jen Cham']",CVPR Workshops,2005
+70,c,A Theory for Photometric Self-Calibration of Multiple Overlapping Projectors and Cameras.,"['Peng Song', 'Tat-Jen Cham']",CVPR Workshops,2005
+71,c,Learning Feature Distance Measures for Image Correspondences.,"['Xi Chen', 'Tat-Jen Cham']",CVPR (2),2005
+72,c,Discriminative Distance Measures for Image Matching.,"['Xi Chen', 'Tat-Jen Cham']",ICPR (3),2004
+73,c,Shadow Elimination and Occluder Light Suppression for Multi-Projector Displays.,"['Tat-Jen Cham', 'James M. Rehg', 'Rahul Sukthankar', 'Gita Sukthankar']",CVPR (2),2003
+74,c,Projected light displays using visual feedback.,"['James M. Rehg', 'Matthew Flagg', 'Tat-Jen Cham', 'Rahul Sukthankar', 'Gita Sukthankar']",ICARCV,2002
+75,c,Analogous view transfer for gaze correction in video sequences.,"['Tat-Jen Cham', 'Shyam Krishnamoorthy', 'Michael Jones']",ICARCV,2002
+76,c,Dynamic Shadow Elimination for Multi-Projector Displays.,"['Rahul Sukthankar', 'Tat-Jen Cham', 'Gita Sukthankar']",CVPR (2),2001
+77,c,Reconstruction of 3-D Figure Motion from 2-D Correspondences.,"['David E. DiFranco', 'Tat-Jen Cham', 'James M. Rehg']",CVPR (1),2001
+78,c,Self-Calibrating Camera Projector Systems for Interactive Displays and Presentations.,"['Rahul Sukthankar', 'Tat-Jen Cham', 'Gita Sukthankar', 'James M. Rehg', 'David Hsu', 'Thomas Leung']",ICCV,2001
+79,c,A Dynamic Bayesian Network Approach to Tracking Using Learned Switching Dynamic Models.,"['Vladimir Pavlovic', 'James M. Rehg', 'Tat-Jen Cham']",HSCC,2000
+80,c,Video Editing Using Figure Tracking and Image-Based Rendering.,"['James M. Rehg', 'Sing Bing Kang', 'Tat-Jen Cham']",ICIP,2000
+81,c,A Multiple Hypothesis Approach to Figure Tracking.,"['Tat-Jen Cham', 'James M. Rehg']",CVPR,1999
+82,c,A Dynamic Bayesian Network Approach to Figure Tracking using Learned Dynamic Models.,"['Vladimir Pavlovic', 'James M. Rehg', 'Tat-Jen Cham', 'Kevin P. Murphy']",ICCV,1999
+83,c,Dynamic Feature Ordering for Efficient Registration.,"['Tat-Jen Cham', 'James M. Rehg']",ICCV,1999
+84,c,A Statistical Framework for Long-Range Feature Matching in Uncalibrated Image Mosaicing.,"['Tat-Jen Cham', 'Roberto Cipolla']",CVPR,1998
+85,c,Stereo Coupled Active Contours.,"['Tat-Jen Cham', 'Roberto Cipolla']",CVPR,1997
+86,c,Automated B-Spline Curve Representation with MDL-based Active Contours.,"['Tat-Jen Cham', 'Roberto Cipolla']",BMVC,1996
+87,c,Geometric Saliency of Curve Correspondances and Grouping of Symmetric Comntours.,"['Tat-Jen Cham', 'Roberto Cipolla']",ECCV (1),1996
+88,c,Skewed Symmetry Detection Through Local Skewed Symmetries.,"['Tat-Jen Cham', 'Roberto Cipolla']",BMVC,1994
+89,c,A local approach to recovering global skewed symmetry.,"['Tat-Jen Cham', 'Roberto Cipolla']",ICPR (1),1994
+90,i,Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields.,"['Yuedong Chen', 'Qianyi Wu', 'Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",CoRR,2022
+91,i,High-Quality Pluralistic Image Completion via Code Shared VQGAN.,"['Chuanxia Zheng', 'Guoxian Song', 'Tat-Jen Cham', 'Jianfei Cai', 'Dinh Q. Phung', 'Linjie Luo']",CoRR,2022
+92,i,Entry-Flipped Transformer for Inference and Prediction of Participant Behavior.,"['Bo Hu', 'Tat-Jen Cham']",CoRR,2022
+93,i,TFill: Image Completion via a Transformer-Based Architecture.,"['Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",CoRR,2021
+94,i,The Spatially-Correlative Loss for Various Image Translation Tasks.,"['Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",CoRR,2021
+95,i,Visiting the Invisible: Layer-by-Layer Completed Scene Decomposition.,"['Chuanxia Zheng', 'Duy-Son Dao', 'Guoxian Song', 'Tat-Jen Cham', 'Jianfei Cai']",CoRR,2021
+96,i,Half-body Portrait Relighting with Overcomplete Lighting Representation.,"['Guoxian Song', 'Tat-Jen Cham', 'Jianfei Cai', 'Jianmin Zheng']",CoRR,2021
+97,i,Towards Unbiased Visual Emotion Recognition via Causal Intervention.,"['Yuedong Chen', 'Xu Yang', 'Tat-Jen Cham', 'Jianfei Cai']",CoRR,2021
+98,i,Global Context with Discrete Diffusion in Vector Quantised Modelling for Image Generation.,"['Minghui Hu', 'Yujie Wang', 'Tat-Jen Cham', 'Jianfei Yang', 'Ponnuthurai N. Suganthan']",CoRR,2021
+99,i,GeoConv: Geodesic Guided Convolution for Facial Action Unit Recognition.,"['Yuedong Chen', 'Guoxian Song', 'Zhiwen Shao', 'Jianfei Cai', 'Tat-Jen Cham', 'Jianming Zheng']",CoRR,2020
+100,i,Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset.,"['Guoxian Song', 'Jianfei Cai', 'Tat-Jen Cham', 'Jianmin Zheng', 'Juyong Zhang', 'Henry Fuchs']",CoRR,2019
+101,i,Progress Regression RNN for Online Spatial-Temporal Action Localization in Unconstrained Videos.,"['Bo Hu', 'Jianfei Cai', 'Tat-Jen Cham', 'Junsong Yuan']",CoRR,2019
+102,i,Pluralistic Image Completion.,"['Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",CoRR,2019
+103,i,Weakly-Supervised Unconstrained Action Unit Detection via Feature Disentanglement.,"['Zhiwen Shao', 'Jianfei Cai', 'Tat-Jen Cham', 'Xuequan Lu', 'Lizhuang Ma']",CoRR,2019
+104,i,Visibility Constrained Generative Model for Depth-based 3D Facial Pose Tracking.,"['Lu Sheng', 'Jianfei Cai', 'Tat-Jen Cham', 'Vladimir Pavlovic', 'King Ngi Ngan']",CoRR,2019
+105,i,Recovering Facial Reflectance and Geometry from Multi-view Images.,"['Guoxian Song', 'Jianmin Zheng', 'Jianfei Cai', 'Tat-Jen Cham']",CoRR,2019
+106,i,Conditional Adversarial Synthesis of 3D Facial Action Units.,"['Zhilei Liu', 'Guoxian Song', 'Jianfei Cai', 'Tat-Jen Cham', 'Juyong Zhang']",CoRR,2018
+107,i,T2Net: Synthetic-to-Realistic Translation for Solving Single-Image Depth Estimation Tasks.,"['Chuanxia Zheng', 'Tat-Jen Cham', 'Jianfei Cai']",CoRR,2018
+108,i,Robust Performance-driven 3D Face Tracking in Long Range Depth Scenes.,"['Hai Xuan Pham', 'Chongyu Chen', 'Luc N. Dao', 'Vladimir Pavlovic', 'Jianfei Cai', 'Tat-Jen Cham']",CoRR,2015
+109,i,A Diffusion Process on Riemannian Manifold for Visual Tracking.,"['Marcus Chen', 'Cham Tat Jen', 'Sze Kim Pang', 'Alvina Goh']",CoRR,2013
+110,e,"Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part I.","['Tat-Jen Cham', 'Jianfei Cai', 'Chitra Dorai', 'Deepu Rajan', 'Tat-Seng Chua', 'Liang-Tien Chia']",Lecture Notes in Computer Science,2007
+111,e,"Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part II.","['Tat-Jen Cham', 'Jianfei Cai', 'Chitra Dorai', 'Deepu Rajan', 'Tat-Seng Chua', 'Liang-Tien Chia']",Lecture Notes in Computer Science,2007

@@ -1,0 +1,231 @@
+,type,name,author,event,year
+0,j,Context-Aware Sliding Window for Sentiment Classification.,"['Muhammad Ali Masood', 'Rabeeh Ayaz Abbasi', 'Wee Keong Ng']",IEEE Access,2020
+1,j,Privacy-Preserving Weighted Federated Learning Within the Secret Sharing Framework.,"['Huafei Zhu', 'Rick Siow Mong Goh', 'Wee Keong Ng']",IEEE Access,2020
+2,j,Learning under concept drift with follow the regularized leader and adaptive decaying proximal.,"['Huynh Ngoc Anh', 'Wee Keong Ng', 'Kanishka Ariyapala']",Expert Syst. Appl.,2018
+3,j,A survey on data stream clustering and classification.,"['Hai-Long Nguyen', 'Yew-Kwong Woon', 'Wee Keong Ng']",Knowl. Inf. Syst.,2015
+4,j,A novelty detection machine and its application to bank failure prediction.,"['Shukai Li', 'Whye Loon Tung', 'Wee Keong Ng']",Neurocomputing,2014
+5,j,Closed motifs for streaming time series classification.,"['Hai-Long Nguyen', 'Wee Keong Ng', 'Yew-Kwong Woon']",Knowl. Inf. Syst.,2014
+6,j,Prolonging Lifespan of Sensor Networks Using Redundant Nodes.,"['Wei Zha', 'Wee Keong Ng']",Ad Hoc Sens. Wirel. Networks,2013
+7,j,Maximum Volume Outlier Detection and its Applications in Credit Risk Analysis.,"['Shukai Li', 'Wee Keong Ng']",Int. J. Artif. Intell. Tools,2013
+8,j,Classification in P2P networks with cascade support vector machines.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Steven C. H. Hoi', 'Wee Keong Ng']",ACM Trans. Knowl. Discov. Data,2013
+9,j,Concurrent Semi-supervised Learning with Active Learning of Data Streams.,"['Hai-Long Nguyen', 'Wee Keong Ng', 'Yew-Kwong Woon']",Trans. Large Scale Data Knowl. Centered Syst.,2013
+10,j,Hybrid solving algorithms for an extended dynamic constraint satisfaction problem based configuration system.,"['Lin Wang', 'Wee Keong Ng']",Concurr. Eng. Res. Appl.,2012
+11,j,Extended DCSP Approach on Product Configuration with Cost Estimation.,"['Lin Wang', 'Wee Keong Ng', 'Bin Song']",Concurr. Eng. Res. Appl.,2011
+12,j,Structure and attribute index for approximate graph matching in large graphs.,"['Linhong Zhu', 'Wee Keong Ng', 'James Cheng']",Inf. Syst.,2011
+13,j,P2PDocTagger: Content management through automated P2P collaborative tagging.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Wee Keong Ng', 'Steven C. H. Hoi']",Proc. VLDB Endow.,2010
+14,j,Incremental Maintenance of 2-Hop Labeling of Large Graphs.,"['Ramadhana Bramandia', 'Byron Choi', 'Wee Keong Ng']",IEEE Trans. Knowl. Data Eng.,2010
+15,j,Privacy-Preserving Gradient-Descent Methods.,"['Shuguo Han', 'Wee Keong Ng', 'Li Wan', 'Vincent C. S. Lee']",IEEE Trans. Knowl. Data Eng.,2010
+16,j,Regression models for estimating product life cycle cost.,"['Haifeng Liu', 'Vivekanand Gopalkrishnan', 'Thi Nhu Quynh Kim', 'Wee Keong Ng']",J. Intell. Manuf.,2009
+17,j,Density-based clustering of data streams at multiple resolutions.,"['Li Wan', 'Wee Keong Ng', 'Xuan-Hong Dang', 'Philip S. Yu', 'Kuan Zhang']",ACM Trans. Knowl. Discov. Data,2009
+18,j,Editorial.,"['Wee Keong Ng', 'Masaru Kitsuregawa', 'Jianzhong Li']",Knowl. Inf. Syst.,2008
+19,j,Online mining of frequent sets in data streams with error guarantee.,"['Xuan-Hong Dang', 'Wee Keong Ng', 'Kok-Leong Ong']",Knowl. Inf. Syst.,2008
+20,j,Dynamical Systems for Discovering Protein Complexes and Functional Modules from Biological Networks.,"['Wenyuan Li', 'Ying Liu', 'Hung-Chung Huang', 'Yanxiong Peng', 'Yongjing Lin', 'Wee Keong Ng', 'Kok-Leong Ong']",IEEE ACM Trans. Comput. Biol. Bioinform.,2007
+21,j,Enhancing the Effectiveness of Clustering with Spectra Analysis.,"['Wenyuan Li', 'Wee Keong Ng', 'Ying Liu', 'Kok-Leong Ong']",IEEE Trans. Knowl. Data Eng.,2007
+22,j,Agents and Stream Data Mining: A New Perspective.,"['Kok-Leong Ong', 'Zili Zhang', 'Wee Keong Ng', 'Ee-Peng Lim']",IEEE Intell. Syst.,2005
+23,j,On organizing and accessing geospatial and georeferenced Web resources using the G-Portal system.,"['Ee-Peng Lim', 'Zehua Liu', 'Ming Yin', 'Dion Hoe-Lian Goh', 'Yin Leng Theng', 'Wee Keong Ng']",Inf. Process. Manag.,2005
+24,j,Web data extraction based on structural similarity.,"['Zhao Li', 'Wee Keong Ng', 'Aixin Sun']",Knowl. Inf. Syst.,2005
+25,j,Scheduling Queries to Improve the Freshness of a Website.,"['Haifeng Liu', 'Wee Keong Ng', 'Ee-Peng Lim']",World Wide Web,2005
+26,j,Towards building logical views of websites.,"['Zehua Liu', 'Wee Keong Ng', 'Ee-Peng Lim', 'Feifei Li']",Data Knowl. Eng.,2004
+27,j,Personalized Web Views for Multilingual Web Sources.,"['Zehua Liu', 'Wee Keong Ng', 'Ee-Peng Lim']",IEEE Internet Comput.,2004
+28,j,Parameter driven synthetic web database generation.,"['Pallavi Priyadarshini', 'Fengqiong Qin', 'Ee-Peng Lim', 'Wee Keong Ng']",J. Syst. Softw.,2004
+29,j,A Java-based digital library portal for geography education.,"['Zehua Liu', 'Hai Yu', 'Ee-Peng Lim', 'Ming Yin', 'Dion Hoe-Lian Goh', 'Yin Leng Theng', 'Wee Keong Ng']",Sci. Comput. Program.,2004
+30,j,A Support-Ordered Trie for Fast Frequent Itemset Discovery.,"['Yew Kwong Woon', 'Wee Keong Ng', 'Ee-Peng Lim']",IEEE Trans. Knowl. Data Eng.,2004
+31,j,Blocking Reduction Strategies in Hierarchical Text Classification.,"['Aixin Sun', 'Ee-Peng Lim', 'Wee Keong Ng', 'Jaideep Srivastava']",IEEE Trans. Knowl. Data Eng.,2004
+32,j,Representation of Web Data in A Web Warehouse.,"['Sourav S. Bhowmick', 'Sanjay Madria', 'Wee Keong Ng']",Comput. J.,2003
+33,j,Constraint-driven join processing in a Web Warehouse.,"['Sourav S. Bhowmick', 'Wee Keong Ng', 'Sanjay Kumar Madria']",Data Knowl. Eng.,2003
+34,j,Deriving and verifying statistical distribution of a hyperlink-based Web page quality metric.,"['Devanshu Dhyani', 'Sourav S. Bhowmick', 'Wee Keong Ng']",Data Knowl. Eng.,2003
+35,j,Data model for warehousing historical Web information.,"['Yinyan Cao', 'Ee-Peng Lim', 'Wee Keong Ng']",Inf. Softw. Technol.,2003
+36,j,Performance measurement framework for hierarchical text classification.,"['Aixin Sun', 'Ee-Peng Lim', 'Wee Keong Ng']",J. Assoc. Inf. Sci. Technol.,2003
+37,j,Detecting and Representing Relevant Web Deltas in WHOWEDA.,"['Sourav S. Bhowmick', 'Sanjay Kumar Madria', 'Wee Keong Ng']",IEEE Trans. Knowl. Data Eng.,2003
+38,j,A survey of Web metrics.,"['Devanshu Dhyani', 'Wee Keong Ng', 'Sourav S. Bhowmick']",ACM Comput. Surv.,2002
+39,j,What can a web bag discover for you?,"['Sourav S. Bhowmick', 'Sanjay Madria', 'Wee Keong Ng']",Data Knowl. Eng.,2002
+40,j,Anatomy of the coupling query in a web warehouse.,"['Sourav S. Bhowmick', 'Wee Keong Ng', 'Sanjay Madria', 'Ee-Peng Lim']",Inf. Softw. Technol.,2002
+41,j,Product Schema Integration for Electronic Commerce - A Synonym Comparison Approach.,"['Guanghao Yan', 'Wee Keong Ng', 'Ee-Peng Lim']",IEEE Trans. Knowl. Data Eng.,2002
+42,j,Schemas for web data: a reverse engineering approach.,"['Sourav S. Bhowmick', 'Wee Keong Ng', 'Sanjay Madria']",Data Knowl. Eng.,2001
+43,j,Ontologies and Electronic Commerce.,"['Dieter Fensel', 'Deborah L. McGuinness', 'Ellen Schulten', 'Wee Keong Ng', 'Ee-Peng Lim', 'Guanghao Yan']",IEEE Intell. Syst.,2001
+44,j,Data Visualization Operators for WHOWEDA.,"['Sourav S. Bhowmick', 'Sanjay Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",Comput. J.,2000
+45,j,An Overview of the Agent-Based Electronic Commerce System (ABECOS) Project.,"['Ee-Peng Lim', 'Wee Keong Ng']",IEEE Data Eng. Bull.,2000
+46,j,Heterogeneous product description in electronic commerce.,"['Wee Keong Ng', 'Guanghao Yan', 'Ee-Peng Lim']",SIGecom Exch.,2000
+47,j,Cost-benefit analysis of web bag in a web warehouse: An analytical approach.,"['Sourav S. Bhowmick', 'Sanjay Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",World Wide Web,2000
+48,j,Block-Oriented Compression Techniques for Large Statistical Databases.,"['Wee Keong Ng', 'Chinya V. Ravishankar']",IEEE Trans. Knowl. Data Eng.,1997
+49,c,Beaver Triple Generator from Multiplicatively Homomorphic Key Management Protocol.,"['Huafei Zhu', 'Wee Keong Ng']",AINA (3),2022
+50,c,Highly Scalable Beaver Triple Generator from Additively Homomorphic Encryption.,"['Huafei Zhu', 'Wee Keong Ng']",AINA (3),2022
+51,c,Lekana - Blockchain Based Archive Storage for Large-Scale Cloud Systems.,"['Eranga Bandara', 'Xueping Liang', 'Sachin Shetty', 'Wee Keong Ng', 'Peter Foytik', 'Nalin Ranasinghe', 'Kasun De Zoysa', 'Bård Langöy', 'David Larsson']",ICBC,2020
+52,c,Connect - Blockchain and Self-Sovereign Identity Empowered Contact Tracing Platform.,"['Eranga Bandara', 'Xueping Liang', 'Peter Foytik', 'Sachin Shetty', 'Crissie Hall', 'Daniel Bowden', 'Nalin Ranasinghe', 'Kasun De Zoysa', 'Wee Keong Ng']",MobiHealth,2020
+53,c,SaaS - Microservices-Based Scalable Smart Contract Architecture.,"['Eranga Bandara', 'Xueping Liang', 'Peter Foytik', 'Sachin Shetty', 'Nalin Ranasinghe', 'Kasun De Zoysa', 'Wee Keong Ng']",SSCC,2020
+54,c,"Scalable, On-Demand Secure Multiparty Computation for Privacy-Aware Blockchains.","['Shantanu Sharma', 'Wee Keong Ng']",BlockSys,2019
+55,c,Aplos: Smart Contracts Made Smart.,"['Eranga Bandara', 'Wee Keong Ng', 'Nalin Ranasinghe', 'Kasun De Zoysa']",BlockSys,2019
+56,c,Transitive Pseudonyms Mediated EHRs Sharing for Very Important Patients.,"['Huafei Zhu', 'Wee Keong Ng']",ICWS,2019
+57,c,Mystiko - Blockchain Meets Big Data.,"['Eranga Bandara', 'Wee Keong Ng', 'Kasun De Zoysa', 'Newton Fernando', 'Supun Tharaka', 'P. Maurakirinathan', 'Namal Jayasuriya']",IEEE BigData,2018
+58,c,A Practical Expert System with (Near) Real-Time Analysis of Large Spatial Sets of Air Traffic Data.,"['Vasily Sidorov', 'Wee Keong Ng', 'Mohamed Faisal Bin Mohamed Salleh']",IEEE BigData,2018
+59,c,Audio Fingerprint Application for the Media Industry.,"['Andrew Putra Kusuma', 'Vajisha U. Wanniarachchi', 'Owen Noel Newton Fernando', 'Wee Keong Ng']",UbiComp/ISWC Adjunct,2018
+60,c,Sustainable Data Management Strategies and Systems in Untrust Cloud Environments.,"['Huafei Zhu', 'Wee Keong Ng']",ICIT,2018
+61,c,Hybrid Subspace Mixture Models for Prediction and Anomaly Detection in High Dimensions.,"['Jenn-Bing Ong', 'Wee Keong Ng']",ADMA,2017
+62,c,A New Adaptive Learning Algorithm and Its Application to Online Malware Detection.,"['Huynh Ngoc Anh', 'Wee Keong Ng', 'Kanishka Ariyapala']",DS,2017
+63,c,Blockchain-Based System for Secure Data Storage with Private Keyword Search.,"['Hoang Giang Do', 'Wee Keong Ng']",SERVICES,2017
+64,c,Studying Personality through the Content of Posted and Liked Images on Twitter.,"['Sharath Chandra Guntuku', 'Weisi Lin', 'Jordan Carpenter', 'Wee Keong Ng', 'Lyle H. Ungar', 'Daniel Preotiuc-Pietro']",WebSci,2017
+65,c,A Host and Network Based Intrusion Detection for Android Smartphones.,"['Kanishka Ariyapala', 'Hoang Giang Do', 'Huynh Ngoc Anh', 'Wee Keong Ng', 'Mauro Conti']",AINA Workshops,2016
+66,c,Privacy-Preserving Triangle Counting in Distributed Graphs.,"['Hoang Giang Do', 'Wee Keong Ng']",AINA,2016
+67,c,A Method to Price Your Information Asset in the Information Market.,"['Divya Rao', 'Wee Keong Ng']",BigData Congress,2016
+68,c,Monetizing the User's Information Asset in Internet Information Market.,"['Divya Rao', 'Wee Keong Ng']",BigData Congress,2016
+69,c,Towards Performance Evaluation of Oblivious Data Processing Emulated with Partially Homomorphic Encryption Schemes.,"['Vasily Sidorov', 'Wee Keong Ng']",BigDataSecurity/HPSC/IDS,2016
+70,c,A User-Centric Approach to Pricing Information.,"['Divya Rao', 'Wee Keong Ng']",BigDataService,2016
+71,c,A Confidentiality-Preserving Search Technique for Encrypted Relational Cloud Databases.,"['Vasily Sidorov', 'Wee Keong Ng']",BigDataService,2016
+72,c,Information Pricing: A Utility Based Pricing Mechanism.,"['Divya Rao', 'Wee Keong Ng']",DASC/PiCom/DataCom/CyberSciTech,2016
+73,c,Application of Stylometry to DarkWeb Forum User Identification.,"['Thanh Nghia Ho', 'Wee Keong Ng']",ICICS,2016
+74,c,Private Boolean Query Processing on Encrypted Data.,"['Hoang Giang Do', 'Wee Keong Ng']",ICICS,2016
+75,c,"On periodic behavior of malware: experiments, opportunities and challenges.","['Huynh Ngoc Anh', 'Wee Keong Ng', 'Hoang Giang Do']",MALWARE,2016
+76,c,Incremental Privacy-Preserving Association Rule Mining Using Negative Border.,"['Duc H. Tran', 'Wee Keong Ng', 'Y. D. Wong', 'Vinh V. Thai']",PAISI,2016
+77,c,Multidimensional range query on outsourced database with strong privacy guarantee.,"['Hoang Giang Do', 'Wee Keong Ng']",PST,2016
+78,c,Personalizing User Interfaces for improving quality of experience in VoD recommender systems.,"['Sharath Chandra Guntuku', 'Sujoy Roy', 'Weisi Lin', 'Kelvin Ng', 'Wee Keong Ng', 'Vinit Jakhetiya']",QoMEX,2016
+79,c,Information Pricing - A User-Data Centric Method to Price Information.,"['Divya Rao', 'Wee Keong Ng']",SERVICES,2016
+80,c,Uncovering periodic network signals of cyber attacks.,"['Huynh Ngoc Anh', 'Wee Keong Ng', 'Alex Ulmer', 'Jörn Kohlhammer']",VizSEC,2016
+81,c,Encrypted SVM for Outsourced Data Mining.,"['Fang Liu', 'Wee Keong Ng', 'Wei Zhang']",CLOUD,2015
+82,c,Encrypted Gradient Descent Protocol for Outsourced Data Mining.,"['Fang Liu', 'Wee Keong Ng', 'Wei Zhang']",AINA,2015
+83,c,Encrypted Association Rule Mining for Outsourced Data Mining.,"['Fang Liu', 'Wee Keong Ng', 'Wei Zhang']",AINA,2015
+84,c,How much is your information worth - A method for revenue generation for your information.,"['Divya Rao', 'Wee Keong Ng']",IEEE BigData,2015
+85,c,How to make money from your information and keep your privacy.,"['Divya Rao', 'Wee Keong Ng']",IEEE BigData,2015
+86,c,Secure Scalar Product for Big-Data in MapReduce.,"['Fang Liu', 'Wee Keong Ng', 'Wei Zhang']",BigDataService,2015
+87,c,Privacy-preserving approach for sharing and processing intrusion alert data.,"['Hoang Giang Do', 'Wee Keong Ng']",ISSNIP,2015
+88,c,Transparent Data Encryption for Data-in-Use and Data-at-Rest in a Cloud-Based Database-as-a-Service Solution.,"['Vasily Sidorov', 'Wee Keong Ng']",SERVICES,2015
+89,c,Encrypted Scalar Product Protocol for Outsourced Data Mining.,"['Fang Liu', 'Wee Keong Ng', 'Wei Zhang']",IEEE CLOUD,2014
+90,c,Model of an Encrypted Cloud Relational Database Supporting Complex Predicates in WHERE Clause.,"['Vasily Sidorov', 'Wee Keong Ng']",IEEE CLOUD,2014
+91,c,Function Level Control Flow Obfuscation for Software Security.,"['Vivek Balachandran', 'Wee Keong Ng', 'Sabu Emmanuel']",CISIS,2014
+92,c,Encrypted Set Intersection Protocol for Outsourced Datasets.,"['Fang Liu', 'Wee Keong Ng', 'Wei Zhang', 'Do Hoang Giang', 'Shuguo Han']",IC2E,2014
+93,c,Secure reachability query on private shared graphs.,"['Hoang Giang Do', 'Wee Keong Ng']",ISSNIP,2014
+94,c,Obfuscation by code fragmentation to evade reverse engineering.,"['Vivek Balachandran', 'Sabu Emmanuel', 'Wee Keong Ng']",SMC,2014
+95,c,Complex Queries in a Shared Multi User Relational Cloud Database.,"['Vasily Sidorov', 'Wee Keong Ng']",IEEE CLOUD,2013
+96,c,Privacy-Preserving Social Network for an Untrusted Server.,"['Hoang Giang Do', 'Wee Keong Ng', 'Zhendong Ma']",CGC,2013
+97,c,Autonomic swarms for regenerative and collaborative networking.,"['Rui-ping Lua', 'Wee Keong Ng']",CollaborateCom,2013
+98,c,From data to knowledge to action: A taxi business intelligence system.,"['Chenggang Wang', 'Wee Keong Ng', 'Huaixin Chen']",FUSION,2012
+99,c,Robustness of Trust Models and Combinations for Handling Unfair Ratings.,"['Lizi Zhang', 'Siwei Jiang', 'Jie Zhang', 'Wee Keong Ng']",IFIPTM,2012
+100,c,Cloud-enabled data sharing model.,"['Nguyen Thanh Hung', 'Do Hoang Giang', 'Wee Keong Ng', 'Huafei Zhu']",ISI,2012
+101,c,Geographic Routing with Cross Links.,"['Wei Zha', 'Wee Keong Ng']",KICSS,2012
+102,c,Heterogeneous Ensemble for Feature Drifts in Data Streams.,"['Hai-Long Nguyen', 'Yew-Kwong Woon', 'Wee Keong Ng', 'Li Wan']",PAKDD (2),2012
+103,c,Private data deduplication protocols in cloud storage.,"['Wee Keong Ng', 'Yonggang Wen', 'Huafei Zhu']",SAC,2012
+104,c,Privacy-preserving In-network Aggregation in Wireless Sensor Network.,"['Wei Zha', 'Wee Keong Ng']",SENSORNETS,2012
+105,c,Towards security in sharing data on cloud-based social networks.,"['Duc H. Tran', 'Hai-Long Nguyen', 'Wei Zha', 'Wee Keong Ng']",ICICS,2011
+106,c,Classifying Graphs Using Theoretical Metrics: A Study of Feasibility.,"['Linhong Zhu', 'Wee Keong Ng', 'Shuguo Han']",DASFAA Workshops,2011
+107,c,An Efficient Cacheable Secure Scalar Product Protocol for Privacy-Preserving Data Mining.,"['Duc H. Tran', 'Wee Keong Ng', 'Hoon Wei Lim', 'Hai-Long Nguyen']",DaWaK,2011
+108,c,Concurrent Semi-supervised Learning of Data Streams.,"['Hai-Long Nguyen', 'Wee Keong Ng', 'Yew-Kwong Woon', 'Duc H. Tran']",DaWaK,2011
+109,c,Predict Energy Consumption of Trigger-Driven Sensor Network by Markov Chains.,"['Wei Zha', 'Wee Keong Ng']",ICDCS Workshops,2011
+110,c,IntRank: Interaction Ranking-Based Trustworthy Friend Recommendation.,"['Lizi Zhang', 'Hui Fang', 'Wee Keong Ng', 'Jie Zhang']",TrustCom,2011
+111,c,The Influence of Interaction Attributes on Trust in Virtual Communities.,"['Lizi Zhang', 'Cheun Pin Tan', 'Siyi Li', 'Hui Fang', 'Pramodh Rai', 'Yao Chen', 'Rohit Luthra', 'Wee Keong Ng', 'Jie Zhang']",UMAP Workshops,2011
+112,c,Adaptive Ensemble Classification in P2P Networks.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Steven C. H. Hoi', 'Wee Keong Ng']",DASFAA (1),2010
+113,c,Satrap: Data and Network Heterogeneity Aware P2P Data-Mining.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Anwitaman Datta', 'Wee Keong Ng', 'Steven C. H. Hoi']",PAKDD (2),2010
+114,c,On Classifying Drifting Concepts in P2P Networks.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Wee Keong Ng', 'Steven C. H. Hoi']",ECML/PKDD (1),2010
+115,c,MICHO: a scalable constraint-based algorithm for learning Bayesian networks.,"['Murugan Ayyappan', 'Yew-Kwong Woon', 'Wee Keong Ng']",SAC,2010
+116,c,A Uniform Framework for Ad-Hoc Indexes to Answer Reachability Queries on Large Graphs.,"['Linhong Zhu', 'Byron Choi', 'Bingsheng He', 'Jeffrey Xu Yu', 'Wee Keong Ng']",DASFAA,2009
+117,c,An EM-Based Algorithm for Clustering Data Streams in Sliding Windows.,"['Xuan-Hong Dang', 'Vincent C. S. Lee', 'Wee Keong Ng', 'Arridhana Ciptadi', 'Kok-Leong Ong']",DASFAA,2009
+118,c,Incremental and Adaptive Clustering Stream Data over Sliding Window.,"['Xuan-Hong Dang', 'Vincent C. S. Lee', 'Wee Keong Ng', 'Kok-Leong Ong']",DEXA,2009
+119,c,Editorial to the Proceedings of mobile technologies in enterprise computing systems workshop (MTECS 2009).,"['Tiong-Thye Goh', 'Siddhartha Bose', 'Wee Keong Ng', 'Longbing Cao', 'Vincent C. S. Lee']",EDOCW,2009
+120,c,Privacy-Preserving Singular Value Decomposition.,"['Shuguo Han', 'Wee Keong Ng', 'Philip S. Yu']",ICDE,2009
+121,c,Constraint Satisfaction Approach on Product Configuration with Cost Estimation.,"['Lin Wang', 'Wee Keong Ng', 'Bing Song']",IEA/AIE,2009
+122,c,Communication-Efficient Classification in P2P Networks.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Wee Keong Ng', 'Steven C. H. Hoi']",ECML/PKDD (1),2009
+123,c,Classification in P2P Networks by Bagging Cascade RSVMs.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Steven C. H. Hoi', 'Wee Keong Ng', 'Anwitaman Datta']",DBISP2P,2008
+124,c,Privacy-Preserving Linear Fisher Discriminant Analysis.,"['Shuguo Han', 'Wee Keong Ng']",PAKDD,2008
+125,c,Cascade RSVM in Peer-to-Peer Networks.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Steven C. H. Hoi', 'Wee Keong Ng']",ECML/PKDD (1),2008
+126,c,Preemptive Measures against Malicious Party in Privacy-Preserving Data Mining.,"['Shuguo Han', 'Wee Keong Ng']",SDM,2008
+127,c,Proportionate feature selection - A pre-processing step for clustering.,"['Jashanjot Singh Sekhon', 'Vivekanand Gopalkrishnan', 'Wee Keong Ng']",SMC,2008
+128,c,On incremental maintenance of 2-hop labeling of graphs.,"['Ramadhana Bramandia', 'Byron Choi', 'Wee Keong Ng']",WWW,2008
+129,c,Enabling Mass Customization through Semantic Web Services.,"['Haifeng Liu', 'Wee Keong Ng', 'Bin Song', 'Xiang Li', 'Wen-Feng Lu']",APSCC,2007
+130,c,Discovering Frequent Sets from Data Streams with CPU Constraint.,"['Xuan-Hong Dang', 'Wee Keong Ng', 'Kok-Leong Ong', 'Vincent C. S. Lee']",AusDM,2007
+131,c,Privacy-Preserving Genetic Algorithms for Rule Discovery.,"['Shuguo Han', 'Wee Keong Ng']",DaWaK,2007
+132,c,Privacy-Preserving Self-Organizing Map.,"['Shuguo Han', 'Wee Keong Ng']",DaWaK,2007
+133,c,Estimating product lifecycle cost using a hybrid approach.,"['Haifeng Liu', 'Vivekanand Gopalkrishnan', 'Wee Keong Ng', 'Bin Song', 'Xiang Li']",ICDIM,2007
+134,c,An Intelligent Information System for Enabling Product Mass Customization.,"['Haifeng Liu', 'Wee Keong Ng', 'Bin Song', 'Xiang Li', 'Wen-Feng Lu']",ICEIS (2),2007
+135,c,Privacy-preservation for gradient descent methods.,"['Li Wan', 'Wee Keong Ng', 'Shuguo Han', 'Vincent C. S. Lee']",KDD,2007
+136,c,EStream: Online Mining of Frequent Sets with Precise Error Guarantee.,"['Xuan-Hong Dang', 'Wee Keong Ng', 'Kok-Leong Ong']",DaWaK,2006
+137,c,Adaptive Load Shedding for Mining Frequent Patterns from Data Streams.,"['Xuan-Hong Dang', 'Wee Keong Ng', 'Kok-Leong Ong']",DaWaK,2006
+138,c,WDEE: Web Data Extraction by Example.,"['Zhao Li', 'Wee Keong Ng']",DASFAA,2005
+139,c,Spectral Kernels for Classification.,"['Wenyuan Li', 'Kok-Leong Ong', 'Wee Keong Ng', 'Aixin Sun']",DaWaK,2005
+140,c,Visual Terrain Analysis of High-Dimensional Datasets.,"['Wenyuan Li', 'Kok-Leong Ong', 'Wee Keong Ng']",PKDD,2005
+141,c,Unloading Unwanted Information: From Physical Websites to Personalized Web Views.,"['Zehua Liu', 'Wee Keong Ng', 'Ee-Peng Lim']",APWeb,2004
+142,c,An Automated Algorithm for Extracting Website Skeleton.,"['Zehua Liu', 'Wee Keong Ng', 'Ee-Peng Lim']",DASFAA,2004
+143,c,SCLOPE: An Algorithm for Clustering Data Streams of Categorical Attributes.,"['Kok-Leong Ong', 'Wenyuan Li', 'Wee Keong Ng', 'Ee-Peng Lim']",DaWaK,2004
+144,c,OWDEAH: Online Web Data Extraction Based on Access History.,"['Zhao Li', 'Wee Keong Ng', 'Kok-Leong Ong']",DaWaK,2004
+145,c,WICCAP: From Semi-structured Data to Structured Data.,"['Zhao Li', 'Wee Keong Ng']",ECBS,2004
+146,c,Spectral Analysis of Text Collection for Similarity-based Clustering.,"['Wenyuan Li', 'Wee Keong Ng', 'Ee-Peng Lim']",ICDE,2004
+147,c,Spectral Analysis of Text Collection for Similarity-Based Clustering.,"['Wenyuan Li', 'Wee Keong Ng', 'Ee-Peng Lim']",PAKDD,2004
+148,c,A Spectroscopy of Texts for Effective Clustering.,"['Wenyuan Li', 'Wee Keong Ng', 'Kok-Leong Ong', 'Ee-Peng Lim']",PKDD,2004
+149,c,CrystalBall : A Framework for Mining Variants of Association Rules.,"['Kok-Leong Ong', 'Wee Keong Ng', 'Ee-Peng Lim']",ADC,2003
+150,c,ENAXS: Efficient Native XML Storage System.,"['Khin-Myo Win', 'Wee Keong Ng', 'Ee-Peng Lim']",APWeb,2003
+151,c,Efficient Web Log Mining for Product Development.,"['Yew Kwong Woon', 'Wee Keong Ng', 'Xiang Li', 'Wen-Feng Lu']",CW,2003
+152,c,An Architectural Framework for Native XML Data Management.,"['Khin-Myo Win', 'Wee Keong Ng', 'Ee-Peng Lim']",CW,2003
+153,c,FSSM: Fast Construction of the Optimized Segment Support Map.,"['Kok-Leong Ong', 'Wee Keong Ng', 'Ee-Peng Lim']",DaWaK,2003
+154,c,Parameterless Data Compression and Noise Filtering Using Association Rule Mining.,"['Yew Kwong Woon', 'Xiang Li', 'Wee Keong Ng', 'Wen-Feng Lu']",DaWaK,2003
+155,c,Modelling and Predicting Web Page Accesses Using Markov Processes.,"['Devanshu Dhyani', 'Sourav S. Bhowmick', 'Wee Keong Ng']",DEXA Workshops,2003
+156,c,A Visual Interface for Native XML Database.,"['Khin-Myo Win', 'Emerald Rosasillfiani', 'Wee Keong Ng', 'Ee-Peng Lim']",DEXA Workshops,2003
+157,c,On Querying Geospatial and Georeferenced Metadata Resources in G-Portal.,"['Zehua Liu', 'Ee-Peng Lim', 'Wee Keong Ng', 'Dion Hoe-Lian Goh']",JCDL,2003
+158,c,Constraint-Free Join Processing on Hyperlinked Web Data.,"['Sourav S. Bhowmick', 'Wee Keong Ng', 'Sanjay Madria', 'Mukesh K. Mohania']",DaWaK,2002
+159,c,Deriving and Verifying Statistical Distribution of a Hyperlink-Based Web Page Quality Metric.,"['Devanshu Dhyani', 'Sourav S. Bhowmick', 'Wee Keong Ng']",DEXA,2002
+160,c,Web Informetrics: Extending Classical Informetrics to the Web.,"['Devanshu Dhyani', 'Sourav S. Bhowmick', 'Wee Keong Ng']",DEXA Workshops,2002
+161,c,Modelling and Predicting Web Page Accesses Using Burrell's Model.,"['Devanshu Dhyani', 'Sourav S. Bhowmick', 'Wee Keong Ng']",EC-Web,2002
+162,c,Wiccap Data Model: Mapping Physical Websites to Logical Views.,"['Zehua Liu', 'Feifei Li', 'Wee Keong Ng']",ER,2002
+163,c,Personalized Classification for Keyword-Based Category Profiles.,"['Aixin Sun', 'Ee-Peng Lim', 'Wee Keong Ng']",ECDL,2002
+164,c,G-Portal: a map-based digital library for distributed geospatial and georeferenced resources.,"['Ee-Peng Lim', 'Dion Hoe-Lian Goh', 'Zehua Liu', 'Wee Keong Ng', 'Christopher S. G. Khoo', 'Susan Ellen Higgins']",JCDL,2002
+165,c,Mining Relationship Graphs for Effective Business Objectives.,"['Kok-Leong Ong', 'Wee Keong Ng', 'Ee-Peng Lim']",PAKDD,2002
+166,c,Efficient k Nearest Neighbor Queries on Remote Spatial Databases Using Range Estimation.,"['Danzhou Liu', 'Ee-Peng Lim', 'Wee Keong Ng']",SSDBM,2002
+167,c,A visual tool for building logical data models of websites.,"['Zehua Liu', 'Wee Keong Ng', 'Feifei Li', 'Ee-Peng Lim']",WIDM,2002
+168,c,Web classification using support vector machine.,"['Aixin Sun', 'Ee-Peng Lim', 'Wee Keong Ng']",WIDM,2002
+169,c,Online and Incremental Mining of Separately-Grouped Web Access Logs.,"['Yew Kwong Woon', 'Wee Keong Ng', 'Ee-Peng Lim']",WISE,2002
+170,c,Evaluating Web Access Log Mining Algorithms: A Cognitive Approach.,"['Yew Kwong Woon', 'Wee Keong Ng', 'Ee-Peng Lim']",WISE Workshops,2002
+171,c,Rapid Association Rule Mining.,"['Amitabha Das', 'Wee Keong Ng', 'Yew Kwong Woon']",CIKM,2001
+172,c,Improving the Fairness of Timely Refresh of Web Views.,"['Haifeng Liu', 'Wee Keong Ng', 'Ee-Peng Lim']",DASFAA,2001
+173,c,Query Integration for Refreshing Web Views.,"['Haifeng Liu', 'Wee Keong Ng', 'Ee-Peng Lim']",DEXA,2001
+174,c,ViDE: A Visual Data Extraction Environment for the Web.,"['Yi Li', 'Wee Keong Ng', 'Ee-Peng Lim']",DEXA,2001
+175,c,On Formulation of Disjunctive Coupling Queries in WHOWEDA.,"['Sourav S. Bhowmick', 'Wee Keong Ng', 'Sanjay Madria']",DEXA,2001
+176,c,Imposing Disjunctive Constraints on Inter-document Structure.,"['Sourav S. Bhowmick', 'Wee Keong Ng', 'Sanjay Madria']",DEXA,2001
+177,c,An Information Concierge for the Web.,"['Feifei Li', 'Zehua Liu', 'Yangfeng Huang', 'Wee Keong Ng']",DEXA Workshop,2001
+178,c,Cooperative Multi-Attribute Bilateral Online Negotiation for E-Commerce.,"['Lei Zhao', 'Wee Keong Ng', 'Ee-Peng Lim']",DEXA Workshop,2001
+179,c,Fast Online Dynamic Association Rule Mining.,"['Yew Kwong Woon', 'Wee Keong Ng', 'Amitabha Das']",WISE (1),2001
+180,c,Storage Management of a Historical Web Warehousing System.,"['Yinyan Cao', 'Ee-Peng Lim', 'Wee Keong Ng']",DEXA,2000
+181,c,Financial Advisor Agent in a Multi-Agent Financial Trading System.,"['Vikrant Pandey', 'Wee Keong Ng', 'Ee-Peng Lim']",DEXA Workshop,2000
+182,c,Re-engineering structures from Web documents.,"['Chuang-Hue Moh', 'Ee-Peng Lim', 'Wee Keong Ng']",ACM DL,2000
+183,c,Web Schemas in WHOMEDA.,"['Sourav S. Bhowmick', 'Wee Keong Ng', 'Sanjay Madria']",DOLAP,2000
+184,c,Keeping a Very Large Website Up-to-date: Some Feasibility Results.,"['Haifeng Liu', 'Wee Keong Ng', 'Ee-Peng Lim']",EC-Web,2000
+185,c,On Warehousing Historical Web Information.,"['Yinyan Cao', 'Ee-Peng Lim', 'Wee Keong Ng']",ER,2000
+186,c,Detecting and Representing Relevant Web Deltas using Web Join.,"['Sourav S. Bhowmick', 'Sanjay Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",ICDCS,2000
+187,c,Reducing Cognitive Overheads in a Web Warehouse Using Reverse-Osmosis.,"['Sourav S. Bhowmick', 'Sanjay Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",ICPADS,2000
+188,c,eBroker: An Agent-Based Query Routing System for Distributed E-Commerce Databases.,"['Yong Lin', 'Ee-Peng Lim', 'Wee Keong Ng']",ICPADS,2000
+189,c,Global View Maintenance by Using Inference Relationship among Views.,"['Haifeng Liu', 'Wee Keong Ng', 'Chaohui Li']",Web-Age Information Management,2000
+190,c,DTD-Miner: A Tool for Mining DTD from XML Documents.,"['Chuang-Hue Moh', 'Ee-Peng Lim', 'Wee Keong Ng']",WECWIS,2000
+191,c,Model and Research Issues for Refreshing a Very Large Website.,"['Haifeng Liu', 'Wee Keong Ng', 'Ee-Peng Lim']",WISE,2000
+192,c,Are Life-Like Characteristics Useful for Autonomous Agents?,"['Mathew Yap', 'Wee Keong Ng']",Agents,1999
+193,c,ZBroker: A Query Routing Broker for Z39.50 Databases.,"['Yong Lin', 'Jian Xu', 'Ee-Peng Lim', 'Wee Keong Ng']",CIKM,1999
+194,c,Pi-Web Join in a Web Warehouse.,"['Sourav S. Bhowmick', 'Sanjay Kumar Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",DASFAA,1999
+195,c,Research Issues in Web Data Mining.,"['Sanjay Kumar Madria', 'Sourav S. Bhowmick', 'Wee Keong Ng', 'Ee-Peng Lim']",DaWaK,1999
+196,c,Cluster-Based Database Selection Techniques for Routing Bibliographic Queries.,"['Jian Xu', 'Ee-Peng Lim', 'Wee Keong Ng']",DEXA,1999
+197,c,On the Feasibility of Website Refresh Queries.,"['Haifeng Liu', 'Wee Keong Ng', 'Ee-Peng Lim']",DEXA,1999
+198,c,"Calling All Agents, Where Are You?","['Kok-Leong Ong', 'Christopher Chew', 'Wee Keong Ng', 'Ee-Peng Lim']",DEXA Workshop,1999
+199,c,Locating Web Information Using Web Checkpoints.,"['A.-K. Luah', 'Wee Keong Ng', 'Ee-Peng Lim', 'W.-P. Lee', 'Yinyan Cao']",DEXA Workshop,1999
+200,c,WEDAGEN - A Synthetic Web Database Generator.,"['Pallavi Priyadarshini', 'Fengqiong Qin', 'Ee-Peng Lim', 'Wee Keong Ng']",DEXA Workshop,1999
+201,c,Non-Repudiation in an Agent-Based Electronic Commerce System.,"['C.-C. Liew', 'Wee Keong Ng', 'Ee-Peng Lim', 'B.-S. Tan', 'Kok-Leong Ong']",DEXA Workshop,1999
+202,c,Algebraic Operations on Bags in a Web Warehouse.,"['Sourav S. Bhowmick', 'Sanjay Kumar Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",ICSC,1999
+203,c,Cost-Benefit Analysis of Web Bag in a Web Warehouse.,"['Sourav S. Bhowmick', 'Sanjay Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",IDEAS,1999
+204,c,Web Warehousing: An Algebra for Web Information.,"['Wee Keong Ng', 'Ee-Peng Lim', 'C.-T. Huang', 'Sourav S. Bhowmick', 'Fengqiong Qin']",ADL,1998
+205,c,Join Processing in Web Databases.,"['Sourav S. Bhowmick', 'Wee Keong Ng', 'Ee-Peng Lim', 'Sanjay Kumar Madria']",DEXA,1998
+206,c,Database Selection Techniques for Routing Bibliographic Queries.,"['Jian Xu', 'Yinyan Cao', 'Ee-Peng Lim', 'Wee Keong Ng']",ACM DL,1998
+207,c,Querying Structured Web Resources.,"['Ee-Peng Lim', 'Cheng-Hai Tan', 'Boon-Wan Lim', 'Wee Keong Ng']",ACM DL,1998
+208,c,Data Visualization in a Web Warehouse.,"['Sourav S. Bhowmick', 'Sanjay Kumar Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",ER Workshops,1998
+209,c,Information Coupling in Web Databases.,"['Sourav S. Bhowmick', 'Wee Keong Ng', 'Ee-Peng Lim']",ER,1998
+210,c,Web Warehousing: Design and Issues.,"['Sourav S. Bhowmick', 'Sanjay Kumar Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",ER Workshops,1998
+211,c,Web Bags - Are They Useful in A Web Warehouse?,"['Sourav S. Bhowmick', 'Sanjay Kumar Madria', 'Wee Keong Ng', 'Ee-Peng Lim']",FODO,1998
+212,c,A Relational Interface for Heterogeneous Information Sources.,"['Ee-Peng Lim', 'Wee Keong Ng']",ADL,1997
+213,c,Vector Quantizer Design Using Genetic Algorithms.,"['Sunghyun Choi', 'Wee Keong Ng']",Data Compression Conference,1996
+214,c,Information Synthesis in Statistical Databases.,"['Wee Keong Ng', 'Chinya V. Ravishankar']",CIKM,1995
+215,c,Coterie Templates: A New Quorum Construction Method.,"['Wee Keong Ng', 'Chinya V. Ravishankar']",ICDCS,1995
+216,c,Relational Database Compression Using Augmented Vector Quantization.,"['Wee Keong Ng', 'Chinya V. Ravishankar']",ICDE,1995
+217,c,A Preliminary Study of Genetic Data Compression.,"['Wee Keong Ng', 'Chinya V. Ravishankar']",ICGA,1995
+218,c,A Tuple Model for Summary Data Management .,"['Wee Keong Ng', 'Chinya V. Ravishankar']",COMAD,1994
+219,c,On-Line Detection and Resolution of Communication Deadlocks.,"['Wee Keong Ng', 'Chinya V. Ravishankar']",HICSS (2),1994
+220,c,A Physical Storage for Efficient Statistical Query Processing.,"['Wee Keong Ng', 'Chinya V. Ravishankar']",SSDBM,1994
+221,i,Comprehensive Performance Analysis of Homomorphic Cryptosystems for Practical Data Processing.,"['Vasily Sidorov', 'Ethan Yi Fan Wei', 'Wee Keong Ng']",CoRR,2022
+222,i,Protecting Big Data Privacy Using Randomized Tensor Network Decomposition and Dispersed Tensor Computation.,"['Jenn-Bing Ong', 'Wee Keong Ng', 'Ivan Tjuawinata', 'Chao Li', 'Jielin Yang', 'Sai None Myne', 'Huaxiong Wang', 'Kwok-Yan Lam', 'C.-C. Jay Kuo']",CoRR,2021
+223,i,A Collision-Free Path Planning Algorithm for Unmanned Aerial Vehicle Delivery.,"['Ziji Shi', 'Wee Keong Ng']",CoRR,2018
+224,i,Convolutional Neural Networks with Transformed Input based on Robust Tensor Network Decomposition.,"['Jenn-Bing Ong', 'Wee Keong Ng', 'C.-C. Jay Kuo']",CoRR,2018
+225,i,ZBroker: A Query Routing Broker for Z39.50 Databases.,"['Yong Lin', 'Jian Xu', 'Ee-Peng Lim', 'Wee Keong Ng']",CoRR,1999
+226,e,"Advances in Knowledge Discovery and Data Mining, 10th Pacific-Asia Conference, PAKDD 2006, Singapore, April 9-12, 2006, Proceedings.","['Wee Keong Ng', 'Masaru Kitsuregawa', 'Jianzhong Li', 'Kuiyu Chang']",Lecture Notes in Computer Science,2006
+227,e,"3rd International Conference on Web Information Systems Engineering, WISE 2002, Singapore, December 12-14, 2002, Proceedings.","['Tok Wang Ling', 'Umeshwar Dayal', 'Elisa Bertino', 'Wee Keong Ng', 'Angela Goh']",Lecture Notes in Computer Science,2002
+228,e,"3rd International Conference on Web Information Systems Engineering Workshops, WISE 2002 Workshops, Singapore, December 11, 2002, Proceedings.","['Bo Huang', 'Tok Wang Ling', 'Mukesh K. Mohania', 'Wee Keong Ng', 'Ji-Rong Wen', 'Shyam K. Gupta']",Lecture Notes in Computer Science,2002
+229,r,Frequent Sets Mining in Data Stream Environments.,"['Xuan-Hong Dang', 'Wee Keong Ng', 'Kok-Leong Ong', 'Vincent C. S. Lee']",Encyclopedia of Data Warehousing and Mining,2009

@@ -1,0 +1,223 @@
+,type,name,author,event,year
+0,j,PR-NET: Progressively-refined neural network for image manipulation localization.,"['Zenan Shi', 'Chaoqun Chang', 'Haipeng Chen', 'Xiaoyu Du', 'Hanwang Zhang']",Int. J. Intell. Syst.,2022
+1,j,Learning to Compose and Reason with Language Tree Structures for Visual Grounding.,"['Richang Hong', 'Daqing Liu', 'Xiaoyu Mo', 'Xiangnan He', 'Hanwang Zhang']",IEEE Trans. Pattern Anal. Mach. Intell.,2022
+2,j,Context-Aware Visual Policy Network for Fine-Grained Image Captioning.,"['Zheng-Jun Zha', 'Daqing Liu', 'Hanwang Zhang', 'Yongdong Zhang', 'Feng Wu']",IEEE Trans. Pattern Anal. Mach. Intell.,2022
+3,j,Auto-Encoding and Distilling Scene Graphs for Image Captioning.,"['Xu Yang', 'Hanwang Zhang', 'Jianfei Cai']",IEEE Trans. Pattern Anal. Mach. Intell.,2022
+4,j,Editorial paper for Pattern Recognition Letters VSI on cross model understanding for visual question answering.,"['Shaohua Wan', 'Zan Gao', 'Hanwang Zhang', 'Xiaojun Chang', 'Chen Chen', 'Anastasios Tefas']",Pattern Recognit. Lett.,2022
+5,j,Guest Editorial Introduction to the Special Section on Video and Language.,"['Tao Mei', 'Jason J. Corso', 'Gunhee Kim', 'Jiebo Luo', 'Chunhua Shen', 'Hanwang Zhang']",IEEE Trans. Circuits Syst. Video Technol.,2022
+6,j,Discriminative Style Learning for Cross-Domain Image Captioning.,"['Jin Yuan', 'Shuai Zhu', 'Shuyin Huang', 'Hanwang Zhang', 'Yaoqiang Xiao', 'Zhiyong Li', 'Meng Wang']",IEEE Trans. Image Process.,2022
+7,j,Align R-CNN: A Pairwise Head Network for Visual Relationship Detection.,"['Mitra Tajrobehkar', 'Kaihua Tang', 'Hanwang Zhang', 'Joo-Hwee Lim']",IEEE Trans. Multim.,2022
+8,j,Variational Context: Exploiting Visual and Textual Context for Grounding Referring Expressions.,"['Yulei Niu', 'Hanwang Zhang', 'Zhiwu Lu', 'Shih-Fu Chang']",IEEE Trans. Pattern Anal. Mach. Intell.,2021
+9,j,Self-Adaptive Neural Module Transformer for Visual Question Answering.,"['Huasong Zhong', 'Jingyuan Chen', 'Chen Shen', 'Hanwang Zhang', 'Jianqiang Huang', 'Xian-Sheng Hua']",IEEE Trans. Multim.,2021
+10,j,Fast Discrete Collaborative Multi-Modal Hashing for Large-Scale Multimedia Retrieval.,"['Chaoqun Zheng', 'Lei Zhu', 'Xu Lu', 'Jingjing Li', 'Zhiyong Cheng', 'Hanwang Zhang']",IEEE Trans. Knowl. Data Eng.,2020
+11,j,Multi-Level Policy and Reward-Based Deep Reinforcement Learning Framework for Image Captioning.,"['Ning Xu', 'Hanwang Zhang', 'An-An Liu', 'Weizhi Nie', 'Yuting Su', 'Jie Nie', 'Yongdong Zhang']",IEEE Trans. Multim.,2020
+12,j,Special issue on multimedia recommendation and multi-modal data analysis.,"['Xiangnan He', 'Zhenguang Liu', 'Hanwang Zhang', 'Chong-Wah Ngo', 'Svebor Karaman', 'Yongfeng Zhang']",Multim. Syst.,2019
+13,j,More is Better: Precise and Detailed Image Captioning Using Online Positive Recall and Missing Concepts Mining.,"['Mingxing Zhang', 'Yang Yang', 'Hanwang Zhang', 'Yanli Ji', 'Heng Tao Shen', 'Tat-Seng Chua']",IEEE Trans. Image Process.,2019
+14,j,Self-Supervised Video Hashing With Hierarchical Binary Auto-Encoder.,"['Jingkuan Song', 'Hanwang Zhang', 'Xiangpeng Li', 'Lianli Gao', 'Meng Wang', 'Richang Hong']",IEEE Trans. Image Process.,2018
+15,j,Attributed Social Network Embedding.,"['Lizi Liao', 'Xiangnan He', 'Hanwang Zhang', 'Tat-Seng Chua']",IEEE Trans. Knowl. Data Eng.,2018
+16,j,Multi-view feature selection and classification for Alzheimer's Disease diagnosis.,"['Mingxing Zhang', 'Yang Yang', 'Fumin Shen', 'Hanwang Zhang', 'Yuan Wang']",Multim. Tools Appl.,2017
+17,j,Erratum to: Multi-view feature selection and classification for Alzheimer's Disease Diagnosis.,"['Mingxing Zhang', 'Yang Yang', 'Fumin Shen', 'Hanwang Zhang', 'Yuan Wang']",Multim. Tools Appl.,2017
+18,j,Event Classification in Microblogs via Social Tracking.,"['Yue Gao', 'Hanwang Zhang', 'Xibin Zhao', 'Shuicheng Yan']",ACM Trans. Intell. Syst. Technol.,2017
+19,j,I Know What You Want to Express: Sentence Element Inference by Incorporating External Knowledge Base.,"['Xiaochi Wei', 'Heyan Huang', 'Liqiang Nie', 'Hanwang Zhang', 'Xianling Mao', 'Tat-Seng Chua']",IEEE Trans. Knowl. Data Eng.,2017
+20,j,"Matryoshka Peek: Toward Learning Fine-Grained, Robust, Discriminative Features for Product Search.","['Zawlin Kyaw', 'Shuhan Qi', 'Ke Gao', 'Hanwang Zhang', 'Luming Zhang', 'Jun Xiao', 'Xuan Wang', 'Tat-Seng Chua']",IEEE Trans. Multim.,2017
+21,j,Video Captioning With Attention-Based LSTM and Semantic Consistency.,"['Lianli Gao', 'Zhao Guo', 'Hanwang Zhang', 'Xing Xu', 'Heng Tao Shen']",IEEE Trans. Multim.,2017
+22,j,VideoWhisper: Toward Discriminative Unsupervised Video Feature Learning With Attention-Based Recurrent Neural Networks.,"['Na Zhao', 'Hanwang Zhang', 'Richang Hong', 'Meng Wang', 'Tat-Seng Chua']",IEEE Trans. Multim.,2017
+23,j,Learning content-social influential features for influence analysis.,"['Na Zhao', 'Hanwang Zhang', 'Meng Wang', 'Richang Hong', 'Tat-Seng Chua']",Int. J. Multim. Inf. Retr.,2016
+24,j,L,"['Mingxing Zhang', 'Yang Yang', 'Hanwang Zhang', 'Fumin Shen', 'Dongxiang Zhang']",Neurocomputing,2016
+25,j,Binary representation learning in computer vision.,"['Fumin Shen', 'Hanwang Zhang', 'Yang Yang']",Neurocomputing,2016
+26,j,Robust regression based face recognition with fast outlier removal.,"['Fumin Shen', 'Wankou Yang', 'Hanxi Li', 'Hanwang Zhang', 'Heng Tao Shen']",Multim. Tools Appl.,2016
+27,j,Deep Fusion of Multiple Semantic Cues for Complex Event Recognition.,"['Xishan Zhang', 'Hanwang Zhang', 'Yongdong Zhang', 'Yang Yang', 'Meng Wang', 'Huan-Bo Luan', 'Jintao Li', 'Tat-Seng Chua']",IEEE Trans. Image Process.,2016
+28,j,Deep Aging Face Verification With Large Gaps.,"['Luoqi Liu', 'Chao Xiong', 'Hanwang Zhang', 'Zhiheng Niu', 'Meng Wang', 'Shuicheng Yan']",IEEE Trans. Multim.,2016
+29,j,Learning from Collective Intelligence: Feature Learning Using Social Images and Tags.,"['Hanwang Zhang', 'Xindi Shang', 'Huan-Bo Luan', 'Meng Wang', 'Tat-Seng Chua']",ACM Trans. Multim. Comput. Commun. Appl.,2016
+30,j,Multimedia Summarization for Social Events in Microblog Stream.,"['Jingwen Bian', 'Yang Yang', 'Hanwang Zhang', 'Tat-Seng Chua']",IEEE Trans. Multim.,2015
+31,j,Enhancing Video Event Recognition Using Automatically Constructed Semantic-Visual Knowledge Base.,"['Xishan Zhang', 'Yang Yang', 'Yongdong Zhang', 'Huan-Bo Luan', 'Jintao Li', 'Hanwang Zhang', 'Tat-Seng Chua']",IEEE Trans. Multim.,2015
+32,j,Robust (Semi) Nonnegative Graph Embedding.,"['Hanwang Zhang', 'Zheng-Jun Zha', 'Yang Yang', 'Shuicheng Yan', 'Tat-Seng Chua']",IEEE Trans. Image Process.,2014
+33,j,Attribute-Augmented Semantic Hierarchy: Towards a Unified Framework for Content-Based Image Retrieval.,"['Hanwang Zhang', 'Zheng-Jun Zha', 'Yang Yang', 'Shuicheng Yan', 'Yue Gao', 'Tat-Seng Chua']",ACM Trans. Multim. Comput. Commun. Appl.,2014
+34,j,Detecting Group Activities With Multi-Camera Context.,"['Zheng-Jun Zha', 'Hanwang Zhang', 'Meng Wang', 'Huan-Bo Luan', 'Tat-Seng Chua']",IEEE Trans. Circuits Syst. Video Technol.,2013
+35,c,Deconfounded Visual Grounding.,"['Jianqiang Huang', 'Yu Qin', 'Jiaxin Qi', 'Qianru Sun', 'Hanwang Zhang']",AAAI,2022
+36,c,Cross-Domain Empirical Risk Minimization for Unbiased Long-Tailed Classification.,"['Beier Zhu', 'Yulei Niu', 'Xian-Sheng Hua', 'Hanwang Zhang']",AAAI,2022
+37,c,Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning.,"['Moxin Li', 'Fuli Feng', 'Hanwang Zhang', 'Xiangnan He', 'Fengbin Zhu', 'Tat-Seng Chua']",ACL (1),2022
+38,c,KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base.,"['Shulin Cao', 'Jiaxin Shi', 'Liangming Pan', 'Lunyiu Nie', 'Yutong Xiang', 'Lei Hou', 'Juanzi Li', 'Bin He', 'Hanwang Zhang']",ACL (1),2022
+39,c,Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation.,"['Zhaozheng Chen', 'Tan Wang', 'Xiongwei Wu', 'Xian-Sheng Hua', 'Hanwang Zhang', 'Qianru Sun']",CVPR,2022
+40,c,Class Is Invariant to Context and Vice Versa: On Learning Invariance for Out-Of-Distribution Generalization.,"['Jiaxin Qi', 'Kaihua Tang', 'Qianru Sun', 'Xian-Sheng Hua', 'Hanwang Zhang']",ECCV (25),2022
+41,c,On Non-Random Missing Labels in Semi-Supervised Learning.,"['Xinting Hu', 'Yulei Niu', 'Chunyan Miao', 'Xian-Sheng Hua', 'Hanwang Zhang']",ICLR,2022
+42,c,Certified Robustness Against Natural Language Attacks by Causal Intervention.,"['Haiteng Zhao', 'Chang Ma', 'Xinshuai Dong', 'Anh Tuan Luu', 'Zhi-Hong Deng', 'Hanwang Zhang']",ICML,2022
+43,c,Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.,"['Long Chen', 'Wenbo Ma', 'Jun Xiao', 'Hanwang Zhang', 'Shih-Fu Chang']",AAAI,2021
+44,c,Empowering Language Understanding with Counterfactual Reasoning.,"['Fuli Feng', 'Jizhi Zhang', 'Xiangnan He', 'Hanwang Zhang', 'Tat-Seng Chua']",ACL/IJCNLP (Findings),2021
+45,c,Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.,"['Yixin Cao', 'Xiang Ji', 'Xin Lv', 'Juanzi Li', 'Yonggang Wen', 'Hanwang Zhang']",ACL/IJCNLP (1),2021
+46,c,Distilling Causal Effect of Data in Class-Incremental Learning.,"['Xinting Hu', 'Kaihua Tang', 'Chunyan Miao', 'Xian-Sheng Hua', 'Hanwang Zhang']",CVPR,2021
+47,c,The Blessings of Unlabeled Background in Untrimmed Videos.,"['Yuan Liu', 'Jingyuan Chen', 'Zhenfang Chen', 'Bing Deng', 'Jianqiang Huang', 'Hanwang Zhang']",CVPR,2021
+48,c,Causal Attention for Vision-Language Tasks.,"['Xu Yang', 'Hanwang Zhang', 'Guojun Qi', 'Jianfei Cai']",CVPR,2021
+49,c,Counterfactual VQA: A Cause-Effect Look at Language Bias.,"['Yulei Niu', 'Kaihua Tang', 'Hanwang Zhang', 'Zhiwu Lu', 'Xian-Sheng Hua', 'Ji-Rong Wen']",CVPR,2021
+50,c,Counterfactual Zero-Shot and Open-Set Visual Recognition.,"['Zhongqi Yue', 'Tan Wang', 'Qianru Sun', 'Xian-Sheng Hua', 'Hanwang Zhang']",CVPR,2021
+51,c,TransferNet: An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph.,"['Jiaxin Shi', 'Shulin Cao', 'Lei Hou', 'Juanzi Li', 'Hanwang Zhang']",EMNLP (1),2021
+52,c,Auto-Parsing Network for Image Captioning and Visual Question Answering.,"['Xu Yang', 'Chongyang Gao', 'Hanwang Zhang', 'Jianfei Cai']",ICCV,2021
+53,c,Causal Attention for Unbiased Visual Recognition.,"['Tan Wang', 'Chang Zhou', 'Qianru Sun', 'Hanwang Zhang']",ICCV,2021
+54,c,Self-Regulation for Semantic Segmentation.,"['Dong Zhang', 'Hanwang Zhang', 'Jinhui Tang', 'Xian-Sheng Hua', 'Qianru Sun']",ICCV,2021
+55,c,Transporting Causal Mechanisms for Unsupervised Domain Adaptation.,"['Zhongqi Yue', 'Qianru Sun', 'Xian-Sheng Hua', 'Hanwang Zhang']",ICCV,2021
+56,c,How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?,"['Xinshuai Dong', 'Anh Tuan Luu', 'Min Lin', 'Shuicheng Yan', 'Hanwang Zhang']",NeurIPS,2021
+57,c,Introspective Distillation for Robust Question Answering.,"['Yulei Niu', 'Hanwang Zhang']",NeurIPS,2021
+58,c,Self-Supervised Learning Disentangled Group Representation as Feature.,"['Tan Wang', 'Zhongqi Yue', 'Jianqiang Huang', 'Qianru Sun', 'Hanwang Zhang']",NeurIPS,2021
+59,c,Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue.,"['Wenjie Wang', 'Fuli Feng', 'Xiangnan He', 'Hanwang Zhang', 'Tat-Seng Chua']",SIGIR,2021
+60,c,General Partial Label Learning via Dual Bipartite Graph Autoencoder.,"['Brian Chen', 'Bo Wu', 'Alireza Zareian', 'Hanwang Zhang', 'Shih-Fu Chang']",AAAI,2020
+61,c,Visual Commonsense Representation Learning via Causal Inference.,"['Tan Wang', 'Jianqiang Huang', 'Hanwang Zhang', 'Qianru Sun']",CVPR Workshops,2020
+62,c,Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration.,"['Yang He', 'Yuhang Ding', 'Ping Liu', 'Linchao Zhu', 'Hanwang Zhang', 'Yi Yang']",CVPR,2020
+63,c,Unbiased Scene Graph Generation From Biased Training.,"['Kaihua Tang', 'Yulei Niu', 'Jianqiang Huang', 'Jiaxin Shi', 'Hanwang Zhang']",CVPR,2020
+64,c,More Grounded Image Captioning by Distilling Image-Text Matching Model.,"['Yuanen Zhou', 'Meng Wang', 'Daqing Liu', 'Zhenzhen Hu', 'Hanwang Zhang']",CVPR,2020
+65,c,Iterative Context-Aware Graph Inference for Visual Dialog.,"['Dan Guo', 'Hui Wang', 'Hanwang Zhang', 'Zheng-Jun Zha', 'Meng Wang']",CVPR,2020
+66,c,Visual Commonsense R-CNN.,"['Tan Wang', 'Jianqiang Huang', 'Hanwang Zhang', 'Qianru Sun']",CVPR,2020
+67,c,Counterfactual Samples Synthesizing for Robust Visual Question Answering.,"['Long Chen', 'Xin Yan', 'Jun Xiao', 'Hanwang Zhang', 'Shiliang Pu', 'Yueting Zhuang']",CVPR,2020
+68,c,Two Causal Principles for Improving Visual Dialog.,"['Jiaxin Qi', 'Yulei Niu', 'Jianqiang Huang', 'Hanwang Zhang']",CVPR,2020
+69,c,Learning to Segment the Tail.,"['Xinting Hu', 'Yi Jiang', 'Kaihua Tang', 'Jingyuan Chen', 'Chunyan Miao', 'Hanwang Zhang']",CVPR,2020
+70,c,Feature Pyramid Transformer.,"['Dong Zhang', 'Hanwang Zhang', 'Jinhui Tang', 'Meng Wang', 'Xiansheng Hua', 'Qianru Sun']",ECCV (28),2020
+71,c,Occlusion-Aware GAN for Face De-Occlusion in the Wild.,"['Jiayuan Dong', 'Liyan Zhang', 'Hanwang Zhang', 'Weichen Liu']",ICME,2020
+72,c,Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning.,"['Xu Yang', 'Chongyang Gao', 'Hanwang Zhang', 'Jianfei Cai']",ACM Multimedia,2020
+73,c,Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect.,"['Kaihua Tang', 'Jianqiang Huang', 'Hanwang Zhang']",NeurIPS,2020
+74,c,Interventional Few-Shot Learning.,"['Zhongqi Yue', 'Hanwang Zhang', 'Qianru Sun', 'Xian-Sheng Hua']",NeurIPS,2020
+75,c,Causal Intervention for Weakly-Supervised Semantic Segmentation.,"['Dong Zhang', 'Hanwang Zhang', 'Jinhui Tang', 'Xian-Sheng Hua', 'Qianru Sun']",NeurIPS,2020
+76,c,Stochastic Dynamics for Video Infilling.,"['Qiangeng Xu', 'Hanwang Zhang', 'Weiyue Wang', 'Peter N. Belhumeur', 'Ulrich Neumann']",WACV,2020
+77,c,Learning to Embed Sentences Using Attentive Recursive Trees.,"['Jiaxin Shi', 'Lei Hou', 'Juanzi Li', 'Zhiyuan Liu', 'Hanwang Zhang']",AAAI,2019
+78,c,DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization.,"['Jiaxin Shi', 'Chen Liang', 'Lei Hou', 'Juanzi Li', 'Zhiyuan Liu', 'Hanwang Zhang']",AAAI,2019
+79,c,Learning to Compose Dynamic Tree Structures for Visual Contexts.,"['Kaihua Tang', 'Hanwang Zhang', 'Baoyuan Wu', 'Wenhan Luo', 'Wei Liu']",CVPR,2019
+80,c,Recursive Visual Attention in Visual Dialog.,"['Yulei Niu', 'Hanwang Zhang', 'Manli Zhang', 'Jianhong Zhang', 'Zhiwu Lu', 'Ji-Rong Wen']",CVPR,2019
+81,c,Explainable and Explicit Visual Reasoning Over Scene Graphs.,"['Jiaxin Shi', 'Hanwang Zhang', 'Juanzi Li']",CVPR,2019
+82,c,Auto-Encoding Scene Graphs for Image Captioning.,"['Xu Yang', 'Kaihua Tang', 'Hanwang Zhang', 'Jianfei Cai']",CVPR,2019
+83,c,Making History Matter: History-Advantage Sequence Training for Visual Dialog.,"['Tianhao Yang', 'Zheng-Jun Zha', 'Hanwang Zhang']",ICCV,2019
+84,c,Learning to Collocate Neural Modules for Image Captioning.,"['Xu Yang', 'Hanwang Zhang', 'Jianfei Cai']",ICCV,2019
+85,c,Counterfactual Critic Multi-Agent Training for Scene Graph Generation.,"['Long Chen', 'Hanwang Zhang', 'Jun Xiao', 'Xiangnan He', 'Shiliang Pu', 'Shih-Fu Chang']",ICCV,2019
+86,c,Learning to Assemble Neural Module Tree Networks for Visual Grounding.,"['Daqing Liu', 'Hanwang Zhang', 'Zheng-Jun Zha', 'Feng Wu']",ICCV,2019
+87,c,Learning Using Privileged Information for Food Recognition.,"['Lei Meng', 'Long Chen', 'Xun Yang', 'Dacheng Tao', 'Hanwang Zhang', 'Chunyan Miao', 'Tat-Seng Chua']",ACM Multimedia,2019
+88,c,Question-Aware Tube-Switch Network for Video Question Answering.,"['Tianhao Yang', 'Zheng-Jun Zha', 'Hongtao Xie', 'Meng Wang', 'Hanwang Zhang']",ACM Multimedia,2019
+89,c,Single-shot Semantic Image Inpainting with Densely Connected Generative Networks.,"['Ling Shen', 'Richang Hong', 'Haoran Zhang', 'Hanwang Zhang', 'Meng Wang']",ACM Multimedia,2019
+90,c,Learning to Guide Decoding for Image Captioning.,"['Wenhao Jiang', 'Lin Ma', 'Xinpeng Chen', 'Hanwang Zhang', 'Wei Liu']",AAAI,2018
+91,c,Zero-Shot Visual Recognition Using Semantics-Preserving Adversarial Embedding Networks.,"['Long Chen', 'Hanwang Zhang', 'Jun Xiao', 'Wei Liu', 'Shih-Fu Chang']",CVPR,2018
+92,c,Grounding Referring Expressions in Images by Variational Context.,"['Hanwang Zhang', 'Yulei Niu', 'Shih-Fu Chang']",CVPR,2018
+93,c,Shuffle-Then-Assemble: Learning Object-Agnostic Visual Relationship Features.,"['Xu Yang', 'Hanwang Zhang', 'Jianfei Cai']",ECCV (12),2018
+94,c,Multi-Level Policy and Reward Reinforcement Learning for Image Captioning.,"['Anan Liu', 'Ning Xu', 'Hanwang Zhang', 'Weizhi Nie', 'Yuting Su', 'Yongdong Zhang']",IJCAI,2018
+95,c,Discrete Factorization Machines for Fast Feature-based Recommendation.,"['Han Liu', 'Xiangnan He', 'Fuli Feng', 'Liqiang Nie', 'Rui Liu', 'Hanwang Zhang']",IJCAI,2018
+96,c,"Objects, Relationships, and Context in Visual Data.","['Hanwang Zhang', 'Qianru Sun']",ICMR,2018
+97,c,Recommendation Technologies for Multimedia Content.,"['Xiangnan He', 'Hanwang Zhang', 'Tat-Seng Chua']",ICMR,2018
+98,c,Context-Aware Visual Policy Network for Sequence-Level Image Captioning.,"['Daqing Liu', 'Zheng-Jun Zha', 'Hanwang Zhang', 'Yongdong Zhang', 'Feng Wu']",ACM Multimedia,2018
+99,c,Venue Prediction for Social Images by Exploiting Rich Temporal Patterns in LBSNs.,"['Jingyuan Chen', 'Xiangnan He', 'Xuemeng Song', 'Hanwang Zhang', 'Liqiang Nie', 'Tat-Seng Chua']",MMM (2),2018
+100,c,Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks.,"['Hang Gao', 'Zheng Shou', 'Alireza Zareian', 'Hanwang Zhang', 'Shih-Fu Chang']",NeurIPS,2018
+101,c,Deep Semantic Indexing Using Convolutional Localization Network with Region-Based Visual Attention for Image Database.,"['Mingxing Zhang', 'Yang Yang', 'Hanwang Zhang', 'Yanli Ji', 'Ning Xie', 'Heng Tao Shen']",ADC,2017
+102,c,Visual Translation Embedding Network for Visual Relation Detection.,"['Hanwang Zhang', 'Zawlin Kyaw', 'Shih-Fu Chang', 'Tat-Seng Chua']",CVPR,2017
+103,c,SCA-CNN: Spatial and Channel-Wise Attention in Convolutional Networks for Image Captioning.,"['Long Chen', 'Hanwang Zhang', 'Jun Xiao', 'Liqiang Nie', 'Jian Shao', 'Wei Liu', 'Tat-Seng Chua']",CVPR,2017
+104,c,PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN.,"['Hanwang Zhang', 'Zawlin Kyaw', 'Jinyang Yu', 'Shih-Fu Chang']",ICCV,2017
+105,c,VIDEOWHISPER: Towards unsupervised learning of discriminative features of videos with RNN.,"['Na Zhao', 'Hanwang Zhang', 'Mingxing Zhang', 'Richang Hong', 'Meng Wang', 'Tat-Seng Chua']",ICME,2017
+106,c,Object trajectory proposal.,"['Xindi Shang', 'Tongwei Ren', 'Hanwang Zhang', 'Gangshan Wu', 'Tat-Seng Chua']",ICME,2017
+107,c,Extracting Generic Features of Artistic Style via Deep Convolutional Neural Network.,"['Lili Kong', 'Jiancheng Lv', 'Mao Li', 'Hanwang Zhang']",ICVIP,2017
+108,c,Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks.,"['Jun Xiao', 'Hao Ye', 'Xiangnan He', 'Hanwang Zhang', 'Fei Wu', 'Tat-Seng Chua']",IJCAI,2017
+109,c,Improving Event Extraction via Multimodal Integration.,"['Tongtao Zhang', 'Spencer Whitehead', 'Hanwang Zhang', 'Hongzhi Li', 'Joseph G. Ellis', 'Lifu Huang', 'Wei Liu', 'Heng Ji', 'Shih-Fu Chang']",ACM Multimedia,2017
+110,c,Enhancing Micro-video Understanding by Harnessing External Sounds.,"['Liqiang Nie', 'Xiang Wang', 'Jianglong Zhang', 'Xiangnan He', 'Hanwang Zhang', 'Richang Hong', 'Qi Tian']",ACM Multimedia,2017
+111,c,Video Visual Relation Detection.,"['Xindi Shang', 'Tongwei Ren', 'Jingfan Guo', 'Hanwang Zhang', 'Tat-Seng Chua']",ACM Multimedia,2017
+112,c,Video Question Answering via Gradually Refined Attention over Appearance and Motion.,"['Dejing Xu', 'Zhou Zhao', 'Jun Xiao', 'Fei Wu', 'Hanwang Zhang', 'Xiangnan He', 'Yueting Zhuang']",ACM Multimedia,2017
+113,c,Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention.,"['Jingyuan Chen', 'Hanwang Zhang', 'Xiangnan He', 'Liqiang Nie', 'Wei Liu', 'Tat-Seng Chua']",SIGIR,2017
+114,c,Neural Collaborative Filtering.,"['Xiangnan He', 'Lizi Liao', 'Hanwang Zhang', 'Liqiang Nie', 'Xia Hu', 'Tat-Seng Chua']",WWW,2017
+115,c,Discrete Image Hashing Using Large Weakly Annotated Photo Collections.,"['Hanwang Zhang', 'Na Zhao', 'Xindi Shang', 'Huan-Bo Luan', 'Tat-Seng Chua']",AAAI,2016
+116,c,Online Collaborative Learning for Open-Vocabulary Visual Classifiers.,"['Hanwang Zhang', 'Xindi Shang', 'Wenzhuo Yang', 'Huan Xu', 'Huan-Bo Luan', 'Tat-Seng Chua']",CVPR,2016
+117,c,Saliency meets spatial quantization: A practical framework for large scale product search.,"['Shuhan Qi', 'Kyaw Zawlin', 'Hanwang Zhang', 'Xuan Wang', 'Ke Gao', 'Lin Yao', 'Tat-Seng Chua']",ICME Workshops,2016
+118,c,Mental Visual Indexing: Towards Fast Video Browsing.,"['Richang Hong', 'Jun He', 'Hanwang Zhang', 'Tat-Seng Chua']",ACM Multimedia,2016
+119,c,An Intention-Aware Interactive System for Mobile Video Browsing.,"['Jun He', 'Hanwang Zhang', 'Ling Shen', 'Richang Hong', 'Tat-Seng Chua']",ACM Multimedia,2016
+120,c,Play and Rewind: Optimizing Binary Representations of Videos by Self-Supervised Temporal Hashing.,"['Hanwang Zhang', 'Meng Wang', 'Richang Hong', 'Tat-Seng Chua']",ACM Multimedia,2016
+121,c,Micro Tells Macro: Predicting the Popularity of Micro-Videos via a Transductive Model.,"['Jingyuan Chen', 'Xuemeng Song', 'Liqiang Nie', 'Xiang Wang', 'Hanwang Zhang', 'Tat-Seng Chua']",ACM Multimedia,2016
+122,c,Deep Learning Generic Features for Cross-Media Retrieval.,"['Xindi Shang', 'Hanwang Zhang', 'Tat-Seng Chua']",MMM (1),2016
+123,c,Mental Visual Browsing.,"['Jun He', 'Xindi Shang', 'Hanwang Zhang', 'Tat-Seng Chua']",MMM (2),2016
+124,c,Discrete Collaborative Filtering.,"['Hanwang Zhang', 'Fumin Shen', 'Wei Liu', 'Xiangnan He', 'Huanbo Luan', 'Tat-Seng Chua']",SIGIR,2016
+125,c,Fast Matrix Factorization for Online Recommendation with Implicit Feedback.,"['Xiangnan He', 'Hanwang Zhang', 'Min-Yen Kan', 'Tat-Seng Chua']",SIGIR,2016
+126,c,Learning Image and User Features for Recommendation in Social Networks.,"['Xue Geng', 'Hanwang Zhang', 'Jingwen Bian', 'Tat-Seng Chua']",ICCV,2015
+127,c,Visual Coding in a Semantic Hierarchy.,"['Yang Yang', 'Hanwang Zhang', 'Mingxing Zhang', 'Fumin Shen', 'Xuelong Li']",ACM Multimedia,2015
+128,c,Multi-view Semi-supervised Learning for Web Image Annotation.,"['Mengqiu Hu', 'Yang Yang', 'Hanwang Zhang', 'Fumin Shen', 'Jie Shao', 'Fuhao Zou']",ACM Multimedia,2015
+129,c,"Learning Features from Large-Scale, Noisy and Social Image-Tag Collection.","['Hanwang Zhang', 'Xindi Shang', 'Huan-Bo Luan', 'Yang Yang', 'Tat-Seng Chua']",ACM Multimedia,2015
+130,c,Hashing with Inductive Supervised Learning.,"['Mingxing Zhang', 'Fumin Shen', 'Hanwang Zhang', 'Ning Xie', 'Wankou Yang']",PCM (2),2015
+131,c,Image Tagging with Social Assistance.,"['Yang Yang', 'Yue Gao', 'Hanwang Zhang', 'Jie Shao', 'Tat-Seng Chua']",ICMR,2014
+132,c,"Start from Scratch: Towards Automatically Identifying, Modeling, and Naming Visual Attributes.","['Hanwang Zhang', 'Yang Yang', 'Huan-Bo Luan', 'Shuicheng Yan', 'Tat-Seng Chua']",ACM Multimedia,2014
+133,c,Perception-Guided Multimodal Feature Fusion for Photo Aesthetics Assessment.,"['Luming Zhang', 'Yue Gao', 'Chao Zhang', 'Hanwang Zhang', 'Qi Tian', 'Roger Zimmermann']",ACM Multimedia,2014
+134,c,One of a Kind: User Profiling by Social Curation.,"['Xue Geng', 'Hanwang Zhang', 'Zheng Song', 'Yang Yang', 'Huan-Bo Luan', 'Tat-Seng Chua']",ACM Multimedia,2014
+135,c,Attribute-augmented semantic hierarchy: towards bridging semantic gap and intention gap in image retrieval.,"['Hanwang Zhang', 'Zheng-Jun Zha', 'Yang Yang', 'Shuicheng Yan', 'Yue Gao', 'Tat-Seng Chua']",ACM Multimedia,2013
+136,c,"Robust Non-negative Graph Embedding: Towards noisy data, unreliable graphs, and noisy labels.","['Hanwang Zhang', 'Zheng-Jun Zha', 'Shuicheng Yan', 'Meng Wang', 'Tat-Seng Chua']",CVPR,2012
+137,c,Attribute feedback.,"['Hanwang Zhang', 'Zheng-Jun Zha', 'Shuicheng Yan', 'Jingwen Bian', 'Tat-Seng Chua']",ACM Multimedia,2012
+138,c,Visual query attributes suggestion.,"['Jingwen Bian', 'Zheng-Jun Zha', 'Hanwang Zhang', 'Qi Tian', 'Tat-Seng Chua']",ACM Multimedia,2012
+139,c,Attribute feedback.,"['Hanwang Zhang', 'Zheng-Jun Zha', 'Jingwen Bian', 'Yue Gao', 'Huan-Bo Luan', 'Tat-Seng Chua']",ACM Multimedia,2012
+140,c,Web image interpretation: semi-supervised mining annotated words.,"['Fei Wu', 'Dingyin Xia', 'Yueting Zhuang', 'Hanwang Zhang', 'Wenhao Liu']",ICME,2009
+141,i,Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation.,"['Zhaozheng Chen', 'Tan Wang', 'Xiongwei Wu', 'Xian-Sheng Hua', 'Hanwang Zhang', 'Qianru Sun']",CoRR,2022
+142,i,Certified Robustness Against Natural Language Attacks by Causal Intervention.,"['Haiteng Zhao', 'Chang Ma', 'Xinshuai Dong', 'Anh Tuan Luu', 'Zhi-Hong Deng', 'Hanwang Zhang']",CoRR,2022
+143,i,Prompt-aligned Gradient for Prompt Tuning.,"['Beier Zhu', 'Yulei Niu', 'Yucheng Han', 'Yue Wu', 'Hanwang Zhang']",CoRR,2022
+144,i,RoME: Role-aware Mixture-of-Expert Transformer for Text-to-Video Retrieval.,"['Burak Satar', 'Hongyuan Zhu', 'Hanwang Zhang', 'Joo Hwee Lim']",CoRR,2022
+145,i,Exploiting Semantic Role Contextualized Video Features for Multi-Instance Text-Video Retrieval EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge 2022.,"['Burak Satar', 'Hongyuan Zhu', 'Hanwang Zhang', 'Joo Hwee Lim']",CoRR,2022
+146,i,On Non-Random Missing Labels in Semi-Supervised Learning.,"['Xinting Hu', 'Yulei Niu', 'Chunyan Miao', 'Xian-Sheng Hua', 'Hanwang Zhang']",CoRR,2022
+147,i,Invariant Feature Learning for Generalized Long-Tailed Classification.,"['Kaihua Tang', 'Mingyuan Tao', 'Jiaxin Qi', 'Zhenguang Liu', 'Hanwang Zhang']",CoRR,2022
+148,i,Equivariance and Invariance Inductive Bias for Learning from Insufficient Data.,"['Tan Wang', 'Qianru Sun', 'Sugiri Pranata', 'Jayashree Karlekar', 'Hanwang Zhang']",CoRR,2022
+149,i,NICEST: Noisy Label Correction and Training for Robust Scene Graph Generation.,"['Lin Li', 'Long Chen', 'Hanrong Shi', 'Hanwang Zhang', 'Yi Yang', 'Wei Liu', 'Jun Xiao']",CoRR,2022
+150,i,Identifying Hard Noise in Long-Tailed Sample Distribution.,"['Xuanyu Yi', 'Kaihua Tang', 'Xian-Sheng Hua', 'Joo-Hwee Lim', 'Hanwang Zhang']",CoRR,2022
+151,i,Class Is Invariant to Context and Vice Versa: On Learning Invariance for Out-Of-Distribution Generalization.,"['Jiaxin Qi', 'Kaihua Tang', 'Qianru Sun', 'Xian-Sheng Hua', 'Hanwang Zhang']",CoRR,2022
+152,i,Learning to Collocate Visual-Linguistic Neural Modules for Image Captioning.,"['Xu Yang', 'Hanwang Zhang', 'Chongyang Gao', 'Jianfei Cai']",CoRR,2022
+153,i,Respecting Transfer Gap in Knowledge Distillation.,"['Yulei Niu', 'Long Chen', 'Chang Zhou', 'Hanwang Zhang']",CoRR,2022
+154,i,Counterfactual Zero-Shot and Open-Set Visual Recognition.,"['Zhongqi Yue', 'Tan Wang', 'Hanwang Zhang', 'Qianru Sun', 'Xian-Sheng Hua']",CoRR,2021
+155,i,Distilling Causal Effect of Data in Class-Incremental Learning.,"['Xinting Hu', 'Kaihua Tang', 'Chunyan Miao', 'Xian-Sheng Hua', 'Hanwang Zhang']",CoRR,2021
+156,i,Causal Attention for Vision-Language Tasks.,"['Xu Yang', 'Hanwang Zhang', 'Guojun Qi', 'Jianfei Cai']",CoRR,2021
+157,i,The Blessings of Unlabeled Background in Untrimmed Videos.,"['Yuan Liu', 'Jingyuan Chen', 'Zhenfang Chen', 'Bing Deng', 'Jianqiang Huang', 'Hanwang Zhang']",CoRR,2021
+158,i,TransferNet: An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph.,"['Jiaxin Shi', 'Shulin Cao', 'Lei Hou', 'Juanzi Li', 'Hanwang Zhang']",CoRR,2021
+159,i,VL-NMS: Breaking Proposal Bottlenecks in Two-Stage Visual-Language Matching.,"['Wenbo Ma', 'Long Chen', 'Hanwang Zhang', 'Jian Shao', 'Yueting Zhuang', 'Jun Xiao']",CoRR,2021
+160,i,Empowering Language Understanding with Counterfactual Reasoning.,"['Fuli Feng', 'Jizhi Zhang', 'Xiangnan He', 'Hanwang Zhang', 'Tat-Seng Chua']",CoRR,2021
+161,i,Adversarial Visual Robustness by Causal Intervention.,"['Kaihua Tang', 'Mingyuan Tao', 'Hanwang Zhang']",CoRR,2021
+162,i,Transporting Causal Mechanisms for Unsupervised Domain Adaptation.,"['Zhongqi Yue', 'Qianru Sun', 'Xian-Sheng Hua', 'Hanwang Zhang']",CoRR,2021
+163,i,Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.,"['Yixin Cao', 'Xiang Ji', 'Xin Lv', 'Juanzi Li', 'Yonggang Wen', 'Hanwang Zhang']",CoRR,2021
+164,i,Causal Attention for Unbiased Visual Recognition.,"['Tan Wang', 'Chang Zhou', 'Qianru Sun', 'Hanwang Zhang']",CoRR,2021
+165,i,Self-Regulation for Semantic Segmentation.,"['Dong Zhang', 'Hanwang Zhang', 'Jinhui Tang', 'Xiansheng Hua', 'Qianru Sun']",CoRR,2021
+166,i,Auto-Parsing Network for Image Captioning and Visual Question Answering.,"['Xu Yang', 'Chongyang Gao', 'Hanwang Zhang', 'Jianfei Cai']",CoRR,2021
+167,i,Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering.,"['Long Chen', 'Yuhang Zheng', 'Yulei Niu', 'Hanwang Zhang', 'Jun Xiao']",CoRR,2021
+168,i,Self-Supervised Learning Disentangled Group Representation as Feature.,"['Tan Wang', 'Zhongqi Yue', 'Jianqiang Huang', 'Qianru Sun', 'Hanwang Zhang']",CoRR,2021
+169,i,Introspective Distillation for Robust Question Answering.,"['Yulei Niu', 'Hanwang Zhang']",CoRR,2021
+170,i,How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?,"['Xinshuai Dong', 'Luu Anh Tuan', 'Min Lin', 'Shuicheng Yan', 'Hanwang Zhang']",CoRR,2021
+171,i,Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification.,"['Beier Zhu', 'Yulei Niu', 'Xian-Sheng Hua', 'Hanwang Zhang']",CoRR,2021
+172,i,Deconfounded Visual Grounding.,"['Jianqiang Huang', 'Yu Qin', 'Jiaxin Qi', 'Qianru Sun', 'Hanwang Zhang']",CoRR,2021
+173,i,General Partial Label Learning via Dual Bipartite Graph Autoencoder.,"['Brian Chen', 'Bo Wu', 'Alireza Zareian', 'Hanwang Zhang', 'Shih-Fu Chang']",CoRR,2020
+174,i,Unbiased Scene Graph Generation from Biased Training.,"['Kaihua Tang', 'Yulei Niu', 'Jianqiang Huang', 'Jiaxin Shi', 'Hanwang Zhang']",CoRR,2020
+175,i,Visual Commonsense R-CNN.,"['Tan Wang', 'Jianqiang Huang', 'Hanwang Zhang', 'Qianru Sun']",CoRR,2020
+176,i,Cross-GCN: Enhancing Graph Convolutional Network with k-Order Feature Interactions.,"['Fuli Feng', 'Xiangnan He', 'Hanwang Zhang', 'Tat-Seng Chua']",CoRR,2020
+177,i,Deconfounded Image Captioning: A Causal Retrospect.,"['Xu Yang', 'Hanwang Zhang', 'Jianfei Cai']",CoRR,2020
+178,i,Counterfactual Samples Synthesizing for Robust Visual Question Answering.,"['Long Chen', 'Xin Yan', 'Jun Xiao', 'Hanwang Zhang', 'Shiliang Pu', 'Yueting Zhuang']",CoRR,2020
+179,i,More Grounded Image Captioning by Distilling Image-Text Matching Model.,"['Yuanen Zhou', 'Meng Wang', 'Daqing Liu', 'Zhenzhen Hu', 'Hanwang Zhang']",CoRR,2020
+180,i,Learning to Segment the Tail.,"['Xinting Hu', 'Yi Jiang', 'Kaihua Tang', 'Jingyuan Chen', 'Chunyan Miao', 'Hanwang Zhang']",CoRR,2020
+181,i,Iterative Context-Aware Graph Inference for Visual Dialog.,"['Dan Guo', 'Hui Wang', 'Hanwang Zhang', 'Zheng-Jun Zha', 'Meng Wang']",CoRR,2020
+182,i,Counterfactual VQA: A Cause-Effect Look at Language Bias.,"['Yulei Niu', 'Kaihua Tang', 'Hanwang Zhang', 'Zhiwu Lu', 'Xian-Sheng Hua', 'Ji-Rong Wen']",CoRR,2020
+183,i,KQA Pro: A Large Diagnostic Dataset for Complex Question Answering over Knowledge Base.,"['Jiaxin Shi', 'Shulin Cao', 'Liangming Pan', 'Yutong Xiang', 'Lei Hou', 'Juanzi Li', 'Hanwang Zhang', 'Bin He']",CoRR,2020
+184,i,Feature Pyramid Transformer.,"['Dong Zhang', 'Hanwang Zhang', 'Jinhui Tang', 'Meng Wang', 'Xiansheng Hua', 'Qianru Sun']",CoRR,2020
+185,i,Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.,"['Long Chen', 'Wenbo Ma', 'Jun Xiao', 'Hanwang Zhang', 'Wei Liu', 'Shih-Fu Chang']",CoRR,2020
+186,i,"""Click"" Is Not Equal to ""Like"": Counterfactual Recommendation for Mitigating Clickbait Issue.","['Wenjie Wang', 'Fuli Feng', 'Xiangnan He', 'Hanwang Zhang', 'Tat-Seng Chua']",CoRR,2020
+187,i,Causal Intervention for Weakly-Supervised Semantic Segmentation.,"['Dong Zhang', 'Hanwang Zhang', 'Jinhui Tang', 'Xiansheng Hua', 'Qianru Sun']",CoRR,2020
+188,i,Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect.,"['Kaihua Tang', 'Jianqiang Huang', 'Hanwang Zhang']",CoRR,2020
+189,i,Interventional Few-Shot Learning.,"['Zhongqi Yue', 'Hanwang Zhang', 'Qianru Sun', 'Xian-Sheng Hua']",CoRR,2020
+190,i,Making History Matter: Gold-Critic Sequence Training for Visual Dialog.,"['Tianhao Yang', 'Zheng-Jun Zha', 'Hanwang Zhang']",CoRR,2019
+191,i,Learning to Collocate Neural Modules for Image Captioning.,"['Xu Yang', 'Hanwang Zhang', 'Jianfei Cai']",CoRR,2019
+192,i,Learning to Compose and Reason with Language Tree Structures for Visual Grounding.,"['Richang Hong', 'Daqing Liu', 'Xiaoyu Mo', 'Xiangnan He', 'Hanwang Zhang']",CoRR,2019
+193,i,Context-Aware Visual Policy Network for Fine-Grained Image Captioning.,"['Zheng-Jun Zha', 'Daqing Liu', 'Hanwang Zhang', 'Yongdong Zhang', 'Feng Wu']",CoRR,2019
+194,i,Referring Expression Grounding by Marginalizing Scene Graph Likelihood.,"['Daqing Liu', 'Hanwang Zhang', 'Zheng-Jun Zha', 'Fanglin Wang']",CoRR,2019
+195,i,Variational Context: Exploiting Visual and Textual Context for Grounding Referring Expressions.,"['Yulei Niu', 'Hanwang Zhang', 'Zhiwu Lu', 'Shih-Fu Chang']",CoRR,2019
+196,i,Two Causal Principles for Improving Visual Dialog.,"['Jiaxin Qi', 'Yulei Niu', 'Jianqiang Huang', 'Hanwang Zhang']",CoRR,2019
+197,i,Self-Supervised Video Hashing with Hierarchical Binary Auto-encoder.,"['Jingkuan Song', 'Hanwang Zhang', 'Xiangpeng Li', 'Lianli Gao', 'Meng Wang', 'Richang Hong']",CoRR,2018
+198,i,Learning to Guide Decoding for Image Captioning.,"['Wenhao Jiang', 'Lin Ma', 'Xinpeng Chen', 'Hanwang Zhang', 'Wei Liu']",CoRR,2018
+199,i,Discrete Factorization Machines for Fast Feature-based Recommendation.,"['Han Liu', 'Xiangnan He', 'Fuli Feng', 'Liqiang Nie', 'Rui Liu', 'Hanwang Zhang']",CoRR,2018
+200,i,Shuffle-Then-Assemble: Learning Object-Agnostic Visual Relationship Features.,"['Xu Yang', 'Hanwang Zhang', 'Jianfei Cai']",CoRR,2018
+201,i,Context-Aware Visual Policy Network for Sequence-Level Image Captioning.,"['Daqing Liu', 'Zheng-Jun Zha', 'Hanwang Zhang', 'Yongdong Zhang', 'Feng Wu']",CoRR,2018
+202,i,Stochastic Video Long-term Interpolation.,"['Qiangeng Xu', 'Hanwang Zhang', 'Weiyue Wang', 'Peter N. Belhumeur', 'Ulrich Neumann']",CoRR,2018
+203,i,Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks.,"['Hang Gao', 'Zheng Shou', 'Alireza Zareian', 'Hanwang Zhang', 'Shih-Fu Chang']",CoRR,2018
+204,i,Learning to Embed Sentences Using Attentive Recursive Trees.,"['Jiaxin Shi', 'Lei Hou', 'Juanzi Li', 'Zhiyuan Liu', 'Hanwang Zhang']",CoRR,2018
+205,i,DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization.,"['Jiaxin Shi', 'Chen Liang', 'Lei Hou', 'Juanzi Li', 'Zhiyuan Liu', 'Hanwang Zhang']",CoRR,2018
+206,i,Explainable and Explicit Visual Reasoning over Scene Graphs.,"['Jiaxin Shi', 'Hanwang Zhang', 'Juanzi Li']",CoRR,2018
+207,i,Learning to Compose Dynamic Tree Structures for Visual Contexts.,"['Kaihua Tang', 'Hanwang Zhang', 'Baoyuan Wu', 'Wenhan Luo', 'Wei Liu']",CoRR,2018
+208,i,Scene Dynamics: Counterfactual Critic Multi-Agent Training for Scene Graph Generation.,"['Long Chen', 'Hanwang Zhang', 'Jun Xiao', 'Xiangnan He', 'Shiliang Pu', 'Shih-Fu Chang']",CoRR,2018
+209,i,Auto-Encoding Scene Graphs for Image Captioning.,"['Xu Yang', 'Kaihua Tang', 'Hanwang Zhang', 'Jianfei Cai']",CoRR,2018
+210,i,Recursive Visual Attention in Visual Dialog.,"['Yulei Niu', 'Hanwang Zhang', 'Manli Zhang', 'Jianhong Zhang', 'Zhiwu Lu', 'Ji-Rong Wen']",CoRR,2018
+211,i,Explainability by Parsing: Neural Module Tree Networks for Natural Language Visual Grounding.,"['Daqing Liu', 'Hanwang Zhang', 'Zheng-Jun Zha', 'Feng Wu']",CoRR,2018
+212,i,Visual Translation Embedding Network for Visual Relation Detection.,"['Hanwang Zhang', 'Zawlin Kyaw', 'Shih-Fu Chang', 'Tat-Seng Chua']",CoRR,2017
+213,i,Attributed Social Network Embedding.,"['Lizi Liao', 'Xiangnan He', 'Hanwang Zhang', 'Tat-Seng Chua']",CoRR,2017
+214,i,PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN.,"['Hanwang Zhang', 'Zawlin Kyaw', 'Jinyang Yu', 'Shih-Fu Chang']",CoRR,2017
+215,i,Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks.,"['Jun Xiao', 'Hao Ye', 'Xiangnan He', 'Hanwang Zhang', 'Fei Wu', 'Tat-Seng Chua']",CoRR,2017
+216,i,Fast Matrix Factorization for Online Recommendation with Implicit Feedback.,"['Xiangnan He', 'Hanwang Zhang', 'Min-Yen Kan', 'Tat-Seng Chua']",CoRR,2017
+217,i,Neural Collaborative Filtering.,"['Xiangnan He', 'Lizi Liao', 'Hanwang Zhang', 'Liqiang Nie', 'Xia Hu', 'Tat-Seng Chua']",CoRR,2017
+218,i,Grounding Referring Expressions in Images by Variational Context.,"['Hanwang Zhang', 'Yulei Niu', 'Shih-Fu Chang']",CoRR,2017
+219,i,Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Network.,"['Long Chen', 'Hanwang Zhang', 'Jun Xiao', 'Wei Liu', 'Shih-Fu Chang']",CoRR,2017
+220,i,SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning.,"['Long Chen', 'Hanwang Zhang', 'Jun Xiao', 'Liqiang Nie', 'Jian Shao', 'Tat-Seng Chua']",CoRR,2016
+221,e,"MMAsia 2020: ACM Multimedia Asia, Virtual Event / Singapore, 7-9 March, 2021.","['Tat-Seng Chua', 'Jingdong Wang', 'Qi Tian', 'Cathal Gurrin', 'Jia Jia', 'Hanwang Zhang', 'Qianru Sun']",CoRR,2021

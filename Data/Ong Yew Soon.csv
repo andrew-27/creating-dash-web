@@ -1,0 +1,409 @@
+,type,name,author,event,year
+0,j,CIS Publication Spotlight [Publication Spotlight].,"['Yongduan Song', 'Jon Garibaldi', 'Carlos A. Coello Coello', 'Georgios N. Yannakakis', 'Huajin Tang', 'Yew Soon Ong', 'Hussein A. Abbass']",IEEE Comput. Intell. Mag.,2022
+1,j,CIS Publication Spotlight [Publication Spotlight].,"['Yongduan Song', 'Jon Garibaldi', 'Carlos A. Coello Coello', 'Georgios N. Yannakakis', 'Huajin Tang', 'Yew Soon Ong', 'Hussein A. Abbass']",IEEE Comput. Intell. Mag.,2022
+2,j,"Half a Dozen Real-World Applications of Evolutionary Multitasking, and More.","['Abhishek Gupta', 'Lei Zhou', 'Yew-Soon Ong', 'Zefeng Chen', 'Yaqing Hou']",IEEE Comput. Intell. Mag.,2022
+3,j,CIS Publication Spotlight [Publication Spotlight].,"['Yongduan Song', 'Jon Garibaldi', 'Carlos A. Coello Coello', 'Georgios N. Yannakakis', 'Huajin Tang', 'Yew Soon Ong', 'Hussein A. Abbass']",IEEE Comput. Intell. Mag.,2022
+4,j,A Layered Spiking Neural System for Classification Problems.,"['Gexiang Zhang', 'Xihai Zhang', 'Haina Rong', 'Prithwineel Paul', 'Ming Zhu', 'Ferrante Neri', 'Yew-Soon Ong']",Int. J. Neural Syst.,2022
+5,j,Influence-Aware Attention Networks for Anomaly Detection in Surveillance Videos.,"['Sijia Zhang', 'Maoguo Gong', 'Yu Xie', 'A. Kai Qin', 'Hao Li', 'Yuan Gao', 'Yew-Soon Ong']",IEEE Trans. Circuits Syst. Video Technol.,2022
+6,j,Solving Dynamic Multiobjective Problem via Autoencoding Evolutionary Search.,"['Liang Feng', 'Wei Zhou', 'Weichen Liu', 'Yew-Soon Ong', 'Kay Chen Tan']",IEEE Trans. Cybern.,2022
+7,j,Scalable Gaussian Process Classification With Additive Noise for Non-Gaussian Likelihoods.,"['Haitao Liu', 'Yew-Soon Ong', 'Ziwei Yu', 'Jianfei Cai', 'Xiaobo Shen']",IEEE Trans. Cybern.,2022
+8,j,Frame-Correlation Transfers Trigger Economical Attacks on Deep Reinforcement Learning Policies.,"['Xinghua Qu', 'Yew-Soon Ong', 'Abhishek Gupta']",IEEE Trans. Cybern.,2022
+9,j,Vicinal Vertex Allocation for Matrix Factorization in Networks.,"['Tiantian He', 'Lu Bai', 'Yew-Soon Ong']",IEEE Trans. Cybern.,2022
+10,j,From Multitask Gradient Descent to Gradient-Free Evolutionary Multitasking: A Proof of Faster Convergence.,"['Lu Bai', 'Wu Lin', 'Abhishek Gupta', 'Yew-Soon Ong']",IEEE Trans. Cybern.,2022
+11,j,Co-Learning Bayesian Optimization.,"['Zhendong Guo', 'Yew-Soon Ong', 'Tiantian He', 'Haitao Liu']",IEEE Trans. Cybern.,2022
+12,j,Deep Latent-Variable Kernel Learning.,"['Haitao Liu', 'Yew-Soon Ong', 'Xiaomo Jiang', 'Xiaofang Wang']",IEEE Trans. Cybern.,2022
+13,j,Evolutionary Machine Learning With Minions: A Case Study in Feature Selection.,"['Nick Zhang', 'Abhishek Gupta', 'Zefeng Chen', 'Yew-Soon Ong']",IEEE Trans. Evol. Comput.,2022
+14,j,Guest Editorial Special Issue on Multitask Evolutionary Computation.,"['Abhishek Gupta', 'Yew-Soon Ong', 'Kenneth A. De Jong', 'Mengjie Zhang']",IEEE Trans. Evol. Comput.,2022
+15,j,Indicator-Based Evolutionary Algorithm for Solving Constrained Multiobjective Optimization Problems.,"['Jiawei Yuan', 'Hai-Lin Liu', 'Yew-Soon Ong', 'Zhaoshui He']",IEEE Trans. Evol. Comput.,2022
+16,j,Towards Faster Vehicle Routing by Transferring Knowledge From Customer Representation.,"['Liang Feng', 'Yuxiao Huang', 'Ivor W. Tsang', 'Abhishek Gupta', 'Ke Tang', 'Kay Chen Tan', 'Yew-Soon Ong']",IEEE Trans. Intell. Transp. Syst.,2022
+17,j,Easy-But-Effective Domain Sub-Similarity Learning for Transfer Regression.,"['Pengfei Wei', 'Ramón Sagarna', 'Yiping Ke', 'Yew-Soon Ong']",IEEE Trans. Knowl. Data Eng.,2022
+18,j,Solution Representation Learning in Multi-Objective Transfer Evolutionary Optimization.,"['Ray Lim', 'Lei Zhou', 'Abhishek Gupta', 'Yew-Soon Ong', 'Allan N. Zhang']",IEEE Access,2021
+19,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Carlos A. Coello Coello', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong', 'Hussein A. Abbass']",IEEE Comput. Intell. Mag.,2021
+20,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Carlos A. Coello Coello', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong', 'Hussein A. Abbass']",IEEE Comput. Intell. Mag.,2021
+21,j,Can Transfer Neuroevolution Tractably Solve Your Differential Equations?,"['Jian Cheng Wong', 'Abhishek Gupta', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2021
+22,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Carlos A. Coello Coello', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong', 'Hussein A. Abbass']",IEEE Comput. Intell. Mag.,2021
+23,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Carlos A. Coello Coello', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong', 'Hussein A. Abbass']",IEEE Comput. Intell. Mag.,2021
+24,j,[Guest Editorial].,"['Liang Feng', 'Handing Wang', 'Yew-Soon Ong', 'Kay Chen Tan', 'Yaochu Jin']",IEEE Comput. Intell. Mag.,2021
+25,j,Affect Recognition for Multimodal Natural Language Processing.,"['Soujanya Poria', 'Yew-Soon Ong', 'Bing Liu', 'Lidong Bing']",Cogn. Comput.,2021
+26,j,Non-linear Domain Adaptation in Transfer Evolutionary Optimization.,"['Ray Lim', 'Abhishek Gupta', 'Yew-Soon Ong', 'Liang Feng', 'Allan N. Zhang']",Cogn. Comput.,2021
+27,j,Multi-source propagation aware network clustering,"['Tiantian He', 'Yew-Soon Ong', 'Pengwei Hu']",Neurocomputing,2021
+28,j,Two-type weight adjustments in MOEA/D for highly constrained many-objective optimization.,"['Ruwang Jiao', 'Sanyou Zeng', 'Changhe Li', 'Yew-Soon Ong']",Inf. Sci.,2021
+29,j,Modulating scalable Gaussian processes for expressive statistical learning.,"['Haitao Liu', 'Yew-Soon Ong', 'Xiaomo Jiang', 'Xiaofang Wang']",Pattern Recognit.,2021
+30,j,Minimalistic Attacks: How Little It Takes to Fool Deep Reinforcement Learning Policies.,"['Xinghua Qu', 'Zhu Sun', 'Yew-Soon Ong', 'Abhishek Gupta', 'Pengfei Wei']",IEEE Trans. Cogn. Dev. Syst.,2021
+31,j,Generalizing Transfer Bayesian Optimization to Source-Target Heterogeneity.,"['Alan Tan Wei Min', 'Abhishek Gupta', 'Yew-Soon Ong']",IEEE Trans Autom. Sci. Eng.,2021
+32,j,A Collaborative Multiagent Reinforcement Learning Method Based on Policy Gradient Potential.,"['Zhen Zhang', 'Yew-Soon Ong', 'Dongqing Wang', 'Binqiang Xue']",IEEE Trans. Cybern.,2021
+33,j,Cognizant Multitasking in Multiobjective Multifactorial Evolution: MO-MFEA-II.,"['Kavitesh Kumar Bali', 'Abhishek Gupta', 'Yew-Soon Ong', 'Puay Siew Tan']",IEEE Trans. Cybern.,2021
+34,j,Handling Constrained Many-Objective Optimization Problems via Problem Transformation.,"['Ruwang Jiao', 'Sanyou Zeng', 'Changhe Li', 'Shengxiang Yang', 'Yew-Soon Ong']",IEEE Trans. Cybern.,2021
+35,j,Learnable Evolutionary Search Across Heterogeneous Problems via Kernelized Autoencoding.,"['Lei Zhou', 'Liang Feng', 'Abhishek Gupta', 'Yew-Soon Ong']",IEEE Trans. Evol. Comput.,2021
+36,j,Large-Scale Heteroscedastic Regression via Gaussian Process.,"['Haitao Liu', 'Yew-Soon Ong', 'Jianfei Cai']",IEEE Trans. Neural Networks Learn. Syst.,2021
+37,j,Practical Multisource Transfer Regression With Source-Target Similarity Captures.,"['Pengfei Wei', 'Ramón Sagarna', 'Yiping Ke', 'Yew-Soon Ong']",IEEE Trans. Neural Networks Learn. Syst.,2021
+38,j,Evolutionary Multiagent Transfer Learning With Model-Based Opponent Behavior Prediction.,"['Yaqing Hou', 'Yew-Soon Ong', 'Jing Tang', 'Yifeng Zeng']",IEEE Trans. Syst. Man Cybern. Syst.,2021
+39,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2020
+40,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2020
+41,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2020
+42,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2020
+43,j,Precise object detection using adversarially augmented local/global feature fusion.,"['Xiaobing Han', 'Tiantian He', 'Yew-Soon Ong', 'Yanfei Zhong']",Eng. Appl. Artif. Intell.,2020
+44,j,DEVDAN: Deep evolving denoising autoencoder.,"['Andri Ashfahani', 'Mahardhika Pratama', 'Edwin Lughofer', 'Yew-Soon Ong']",Neurocomputing,2020
+45,j,"What do people think about this monument? Understanding negative reviews via deep learning, clustering and descriptive rules.","['Ana Valdivia', 'Eugenio Martínez-Cámara', 'Iti Chaturvedi', 'M. Victoria Luzón', 'Erik Cambria', 'Yew-Soon Ong', 'Francisco Herrera']",J. Ambient Intell. Humaniz. Comput.,2020
+46,j,Multi-task gradient descent for multi-task learning.,"['Lu Bai', 'Yew-Soon Ong', 'Tiantian He', 'Abhishek Gupta']",Memetic Comput.,2020
+47,j,Contextual Correlation Preserving Multiview Featured Graph Clustering.,"['Tiantian He', 'Yang Liu', 'Tobey H. Ko', 'Keith C. C. Chan', 'Yew-Soon Ong']",IEEE Trans. Cybern.,2020
+48,j,Multifactorial Evolutionary Algorithm With Online Transfer Parameter Estimation: MFEA-II.,"['Kavitesh Kumar Bali', 'Yew-Soon Ong', 'Abhishek Gupta', 'Puay Siew Tan']",IEEE Trans. Evol. Comput.,2020
+49,j,"Guest Editorial Special Issue on Structured Multi-Output Learning: Modeling, Algorithm, Theory, and Applications.","['Weiwei Liu', 'Xiaobo Shen', 'Yew-Soon Ong', 'Ivor W. Tsang', 'Chen Gong', 'Vladimir Pavlovic']",IEEE Trans. Neural Networks Learn. Syst.,2020
+50,j,Survey on Multi-Output Learning.,"['Donna Xu', 'Yaxin Shi', 'Ivor W. Tsang', 'Yew-Soon Ong', 'Chen Gong', 'Xiaobo Shen']",IEEE Trans. Neural Networks Learn. Syst.,2020
+51,j,When Gaussian Process Meets Big Data: A Review of Scalable GPs.,"['Haitao Liu', 'Yew-Soon Ong', 'Xiaobo Shen', 'Jianfei Cai']",IEEE Trans. Neural Networks Learn. Syst.,2020
+52,j,Multifactorial Genetic Programming for Symbolic Regression Problems.,"['Jinghui Zhong', 'Liang Feng', 'Wentong Cai', 'Yew-Soon Ong']",IEEE Trans. Syst. Man Cybern. Syst.,2020
+53,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2019
+54,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2019
+55,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2019
+56,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2019
+57,j,Back to the Roots: Multi-X Evolutionary Computation.,"['Abhishek Gupta', 'Yew-Soon Ong']",Cogn. Comput.,2019
+58,j,Understanding and comparing scalable Gaussian process regression for big data.,"['Haitao Liu', 'Jianfei Cai', 'Yew-Soon Ong', 'Yi Wang']",Knowl. Based Syst.,2019
+59,j,Fast transfer Gaussian process regression with large-scale sources.,"['Bingshui Da', 'Yew-Soon Ong', 'Abhishek Gupta', 'Liang Feng', 'Haitao Liu']",Knowl. Based Syst.,2019
+60,j,Compressed representation for higher-level meme space evolution: a case study on big knapsack problems.,"['Liang Feng', 'Abhishek Gupta', 'Yew-Soon Ong']",Memetic Comput.,2019
+61,j,Domination landscape in evolutionary algorithms and its applications.,"['Guo-Sheng Hao', 'Meng-Hiot Lim', 'Yew-Soon Ong', 'Han Huang', 'Gai-Ge Wang']",Soft Comput.,2019
+62,j,Evolutionary Optimization of Expensive Multiobjective Problems With Co-Sub-Pareto Front Gaussian Process Surrogates.,"['Jianping Luo', 'Abhishek Gupta', 'Yew-Soon Ong', 'Zhenkun Wang']",IEEE Trans. Cybern.,2019
+63,j,Fisher Information Matrix of Unipolar Activation Function-Based Multilayer Perceptrons.,"['Weili Guo', 'Yew-Soon Ong', 'Yingjiang Zhou', 'Jaime Rubio Hervas', 'Aiguo Song', 'Haikun Wei']",IEEE Trans. Cybern.,2019
+64,j,Evolutionary Multitasking via Explicit Autoencoding.,"['Liang Feng', 'Lei Zhou', 'Jinghui Zhong', 'Abhishek Gupta', 'Yew-Soon Ong', 'Kay Chen Tan', 'Alex Kai Qin']",IEEE Trans. Cybern.,2019
+65,j,Curbing Negative Influences Online for Seamless Transfer Evolutionary Optimization.,"['Bingshui Da', 'Abhishek Gupta', 'Yew-Soon Ong']",IEEE Trans. Cybern.,2019
+66,j,Multiproblem Surrogates: Transfer Evolutionary Multiobjective Optimization of Computationally Expensive Problems.,"['Alan Tan Wei Min', 'Yew-Soon Ong', 'Abhishek Gupta', 'Chi Keong Goh']",IEEE Trans. Evol. Comput.,2019
+67,j,On Scalable Multiobjective Test Problems With Hardly Dominated Boundaries.,"['Zhenkun Wang', 'Yew-Soon Ong', 'Hisao Ishibuchi']",IEEE Trans. Evol. Comput.,2019
+68,j,A Generator for Multiobjective Test Problems With Difficult-to-Approximate Pareto Front Boundaries.,"['Zhenkun Wang', 'Yew-Soon Ong', 'Jianyong Sun', 'Abhishek Gupta', 'Qingfu Zhang']",IEEE Trans. Evol. Comput.,2019
+69,j,Evolutionary Multitasking Sparse Reconstruction: Framework and Case Study.,"['Hao Li', 'Yew-Soon Ong', 'Maoguo Gong', 'Zhenkun Wang']",IEEE Trans. Evol. Comput.,2019
+70,j,AIR,"['Yew-Soon Ong', 'Abhishek Gupta']",IEEE Trans. Emerg. Top. Comput. Intell.,2019
+71,j,Domain Adaption via Feature Selection on Explicit Feature Map.,"['Wan-Yu Deng', 'Amaury Lendasse', 'Yew-Soon Ong', 'Ivor Wai-Hung Tsang', 'Lin Chen', 'Qing-Hua Zheng']",IEEE Trans. Neural Networks Learn. Syst.,2019
+72,j,How to Find a Perfect Data Scientist: A Distance-Metric Learning Approach.,"['Han Hu', 'Yong Luo', 'Yonggang Wen', 'Yew-Soon Ong', 'Xinwen Zhang']",IEEE Access,2018
+73,j,Computational intelligence in optical remote sensing image processing.,"['Yanfei Zhong', 'Ailong Ma', 'Yew-Soon Ong', 'Zexuan Zhu', 'Liangpei Zhang']",Appl. Soft Comput.,2018
+74,j,Co-evolutionary multi-task learning for dynamic time series prediction.,"['Rohitash Chandra', 'Yew-Soon Ong', 'Chi-Keong Goh']",Appl. Soft Comput.,2018
+75,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Graham Kendall', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2018
+76,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Graham Kendall', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2018
+77,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2018
+78,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Julian Togelius', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2018
+79,j,Cope with diverse data structures in multi-fidelity modeling: A Gaussian process method.,"['Haitao Liu', 'Yew-Soon Ong', 'Jianfei Cai', 'Yi Wang']",Eng. Appl. Artif. Intell.,2018
+80,j,Numerical Analysis near Singularities in RBF Networks.,"['Weili Guo', 'Haikun Wei', 'Yew-Soon Ong', 'Jaime Rubio Hervas', 'Junsheng Zhao', 'Hai Wang', 'Kanjian Zhang']",J. Mach. Learn. Res.,2018
+81,j,Remarks on multi-output Gaussian process regression.,"['Haitao Liu', 'Jianfei Cai', 'Yew-Soon Ong']",Knowl. Based Syst.,2018
+82,j,Addressing expensive multi-objective games with postponed preference articulation via memetic co-evolution.,"['Adam Zychowski', 'Abhishek Gupta', 'Jacek Mandziuk', 'Yew-Soon Ong']",Knowl. Based Syst.,2018
+83,j,Evolutionary Multi-task Learning for Modular Knowledge Representation in Neural Networks.,"['Rohitash Chandra', 'Abhishek Gupta', 'Yew-Soon Ong', 'Chi-Keong Goh']",Neural Process. Lett.,2018
+84,j,Objective Reduction in Many-Objective Optimization: Evolutionary Multiobjective Approaches and Comprehensive Analysis.,"['Yuan Yuan', 'Yew-Soon Ong', 'Abhishek Gupta', 'Hua Xu']",IEEE Trans. Evol. Comput.,2018
+85,j,Insights on Transfer Optimization: Because Experience is the Best Teacher.,"['Abhishek Gupta', 'Yew-Soon Ong', 'Liang Feng']",IEEE Trans. Emerg. Top. Comput. Intell.,2018
+86,j,Multilabel Prediction via Cross-View Search.,"['Xiaobo Shen', 'Weiwei Liu', 'Ivor W. Tsang', 'Quan-Sen Sun', 'Yew-Soon Ong']",IEEE Trans. Neural Networks Learn. Syst.,2018
+87,j,A New Decomposition-Based NSGA-II for Many-Objective Optimization.,"['Maha Elarbi', 'Slim Bechikh', 'Abhishek Gupta', 'Lamjed Ben Said', 'Yew-Soon Ong']",IEEE Trans. Syst. Man Cybern. Syst.,2018
+88,j,An adaptive sampling approach for Kriging metamodeling by maximizing expected prediction error.,"['Haitao Liu', 'Jianfei Cai', 'Yew-Soon Ong']",Comput. Chem. Eng.,2017
+89,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Graham Kendall', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2017
+90,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Graham Kendall', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2017
+91,j,Gene Expression Programming: A Survey [Review Article].,"['Jinghui Zhong', 'Liang Feng', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2017
+92,j,CIS Publication Spotlight [Publication Spotlight].,"['Haibo He', 'Jon Garibaldi', 'Kay Chen Tan', 'Graham Kendall', 'Yaochu Jin', 'Yew-Soon Ong']",IEEE Comput. Intell. Mag.,2017
+93,j,Knowledge Transfer Through Machine Learning in Aircraft Design.,"['Alan Tan Wei Min', 'Ramón Sagarna', 'Abhishek Gupta', 'Yew-Soon Ong', 'Chi Keong Goh']",IEEE Comput. Intell. Mag.,2017
+94,j,Coevolutionary multitasking for concurrent global optimization: With case studies in complex engineering design.,"['Meiying Cheng', 'Abhishek Gupta', 'Yew-Soon Ong', 'Zhiwei Ni']",Eng. Appl. Artif. Intell.,2017
+95,j,A generic framework for multi-criteria decision support in eco-friendly urban logistics systems.,"['Abhishek Gupta', 'Chen Kim Heng', 'Yew-Soon Ong', 'Puay Siew Tan', 'Allan N. Zhang']",Expert Syst. Appl.,2017
+96,j,Co-evolutionary multi-task learning with predictive recurrence for multi-step chaotic time series prediction.,"['Rohitash Chandra', 'Yew-Soon Ong', 'Chi-Keong Goh']",Neurocomputing,2017
+97,j,Extreme learning machine for indoor location fingerprinting.,"['Felis Dwiyasa', 'Meng-Hiot Lim', 'Yew-Soon Ong', 'Bijaya K. Panigrahi']",Multidimens. Syst. Signal Process.,2017
+98,j,Multiobjective Multifactorial Optimization in Evolutionary Multitasking.,"['Abhishek Gupta', 'Yew-Soon Ong', 'Liang Feng', 'Kay Chen Tan']",IEEE Trans. Cybern.,2017
+99,j,Structured Memetic Automation for Online Human-Like Social Behavior Learning.,"['Yifeng Zeng', 'Xuefeng Chen', 'Yew-Soon Ong', 'Jing Tang', 'Yanping Xiang']",IEEE Trans. Evol. Comput.,2017
+100,j,An Evolutionary Transfer Reinforcement Learning Framework for Multiagent Systems.,"['Yaqing Hou', 'Yew-Soon Ong', 'Liang Feng', 'Jacek M. Zurada']",IEEE Trans. Evol. Comput.,2017
+101,j,Autoencoding Evolutionary Search With Learning Across Heterogeneous Problems.,"['Liang Feng', 'Yew-Soon Ong', 'Siwei Jiang', 'Abhishek Gupta']",IEEE Trans. Evol. Comput.,2017
+102,j,Editorial IEEE Transactions on Emerging Topics in Computational Intelligence.,['Yew-Soon Ong'],IEEE Trans. Emerg. Top. Comput. Intell.,2017
+103,j,Dynamic conditional value-at-risk model for routing and scheduling of hazardous material transportation networks.,"['Shahrzad Faghih-Roohi', 'Yew-Soon Ong', 'Sobhan Asian', 'Allan N. Zhang']",Ann. Oper. Res.,2016
+104,j,Evolutionary Multitasking: A Computer Science View of Cognitive Multitasking.,"['Yew-Soon Ong', 'Abhishek Gupta']",Cogn. Comput.,2016
+105,j,Towards a new Praxis in optinformatics targeting knowledge re-use in evolutionary computation: simultaneous problem learning and optimization.,"['Dudy Lim', 'Yew-Soon Ong', 'Abhishek Gupta', 'Chi Keong Goh', 'Partha Sarathi Dutta']",Evol. Intell.,2016
+106,j,Online sequential reduced kernel extreme learning machine.,"['Wan-Yu Deng', 'Yew-Soon Ong', 'Puay Siew Tan', 'Qing-Hua Zheng']",Neurocomputing,2016
+107,j,GP made faster with semantic surrogate modelling.,"['Ahmed Kattan', 'Alexandros Agapitos', 'Yew-Soon Ong', 'Ateq A. Alghamedi', ""Michael O'Neill""]",Inf. Sci.,2016
+108,j,Learning word dependencies in text by means of a deep recurrent belief network.,"['Iti Chaturvedi', 'Yew-Soon Ong', 'Ivor W. Tsang', 'Roy E. Welsch', 'Erik Cambria']",Knowl. Based Syst.,2016
+109,j,Editorial.,"['Meng-Hiot Lim', 'Yew-Soon Ong', 'Steven M. Gustafson']",Memetic Comput.,2016
+110,j,A Fast Reduced Kernel Extreme Learning Machine.,"['Wan-Yu Deng', 'Yew-Soon Ong', 'Qing-Hua Zheng']",Neural Networks,2016
+111,j,Making Trillion Correlations Feasible in Feature Grouping and Selection.,"['Yiteng Zhai', 'Yew-Soon Ong', 'Ivor W. Tsang']",IEEE Trans. Pattern Anal. Mach. Intell.,2016
+112,j,Conceptual modeling of evolvable local searches in memetic algorithms using linear genetic programming: a case study on capacitated vehicle routing problem.,"['Liang Feng', 'Yew-Soon Ong', 'Caishun Chen', 'Xianshun Chen']",Soft Comput.,2016
+113,j,Soft computing in remote sensing image processing.,"['Yanfei Zhong', 'Zexuan Zhu', 'Yew-Soon Ong']",Soft Comput.,2016
+114,j,Specialization of a UCT-Based General Game Playing Program to Single-Player Games.,"['Maciej Swiechowski', 'Jacek Mandziuk', 'Yew-Soon Ong']",IEEE Trans. Comput. Intell. AI Games,2016
+115,j,Memetic Music Composition.,"['Enrique Muñoz Ballester', 'José Manuel Cadenas', 'Yew-Soon Ong', 'Giovanni Acampora']",IEEE Trans. Evol. Comput.,2016
+116,j,Self-Learning Gene Expression Programming.,"['Jinghui Zhong', 'Yew-Soon Ong', 'Wentong Cai']",IEEE Trans. Evol. Comput.,2016
+117,j,Multifactorial Evolution: Toward Evolutionary Multitasking.,"['Abhishek Gupta', 'Yew-Soon Ong', 'Liang Feng']",IEEE Trans. Evol. Comput.,2016
+118,j,Solving the Dynamic Vehicle Routing Problem Under Traffic Congestion.,"['Gitae Kim', 'Yew-Soon Ong', 'Taesu Cheong', 'Puay Siew Tan']",IEEE Trans. Intell. Transp. Syst.,2016
+119,j,Adaptive and scalable load balancing for metadata server cluster in cloud-scale file systems.,"['Quanqing Xu', 'Rajesh Vellore Arumugam', 'Khai Leong Yong', 'Yonggang Wen', 'Yew-Soon Ong', 'Weiya Xi']",Frontiers Comput. Sci.,2015
+120,j,Surrogate Genetic Programming: A semantic aware evolutionary search.,"['Ahmed Kattan', 'Yew-Soon Ong']",Inf. Sci.,2015
+121,j,Editorial.,"['Meng-Hiot Lim', 'Yew-Soon Ong', 'Steven M. Gustafson']",Memetic Comput.,2015
+122,j,Editorial.,"['Meng-Hiot Lim', 'Yew-Soon Ong', 'Steven M. Gustafson']",Memetic Comput.,2015
+123,j,Memes as building blocks: a case study on evolutionary optimization + transfer learning for routing problems.,"['Liang Feng', 'Yew-Soon Ong', 'Ah-Hwee Tan', 'Ivor W. Tsang']",Memetic Comput.,2015
+124,j,Editorial.,"['Meng-Hiot Lim', 'Yew-Soon Ong', 'Steven M. Gustafson']",Memetic Comput.,2015
+125,j,Deep transfer learning for classification of time-delayed Gaussian networks.,"['Iti Chaturvedi', 'Yew-Soon Ong', 'Rajesh Vellore Arumugam']",Signal Process.,2015
+126,j,A Simple and Fast Hypervolume Indicator-Based Multiobjective Evolutionary Algorithm.,"['Siwei Jiang', 'Jie Zhang', 'Yew-Soon Ong', 'Allan N. Zhang', 'Puay Siew Tan']",IEEE Trans. Cybern.,2015
+127,j,Memetic Search With Interdomain Learning: A Realization Between CVRP and CARP.,"['Liang Feng', 'Yew-Soon Ong', 'Meng-Hiot Lim', 'Ivor W. Tsang']",IEEE Trans. Evol. Comput.,2015
+128,j,City Vehicle Routing Problem (City VRP): A Review.,"['Gitae Kim', 'Yew-Soon Ong', 'Chen Kim Heng', 'Puay Siew Tan', 'Nengsheng Allan Zhang']",IEEE Trans. Intell. Transp. Syst.,2015
+129,j,Meme representations for game agents.,"['Yoan Miche', 'Meng-Hiot Lim', 'Amaury Lendasse', 'Yew-Soon Ong']",World Wide Web,2015
+130,j,The Emerging ?Big Dimensionality?,"['Yiteng Zhai', 'Yew-Soon Ong', 'Ivor W. Tsang']",IEEE Comput. Intell. Mag.,2014
+131,j,Multiobjective optimization based on reputation.,"['Siwei Jiang', 'Jie Zhang', 'Yew-Soon Ong']",Inf. Sci.,2014
+132,j,Editorial.,"['Meng-Hiot Lim', 'Steven M. Gustafson', 'Natalio Krasnogor', 'Yew-Soon Ong']",Memetic Comput.,2014
+133,j,Editorial.,"['Meng-Hiot Lim', 'Steven M. Gustafson', 'Natalio Krasnogor', 'Yew-Soon Ong']",Memetic Comput.,2014
+134,j,Editorial.,"['Meng-Hiot Lim', 'Steven M. Gustafson', 'Natalio Krasnogor', 'Yew-Soon Ong']",Memetic Comput.,2014
+135,j,Consistencies and Contradictions of Performance Metrics in Multiobjective Optimization.,"['Siwei Jiang', 'Yew-Soon Ong', 'Jie Zhang', 'Liang Feng']",IEEE Trans. Cybern.,2014
+136,j,"Discovering Unique, Low-Energy Transition States Using Evolutionary Molecular Memetic Computing.","['Mostafa Mostafa Hashim Ellabaan', 'Yew-Soon Ong', 'Stephanus Daniel Handoko', 'Chee Keong Kwoh', 'H. Y. Man']",IEEE Comput. Intell. Mag.,2013
+137,j,Evolution by Adapting Surrogates.,"['Minh Nghia Le', 'Yew-Soon Ong', 'Stefan Menzel', 'Yaochu Jin', 'Bernhard Sendhoff']",Evol. Comput.,2013
+138,j,Extreme Learning Machines.,"['Erik Cambria', 'Guang-Bin Huang', 'Liyanaarachchi Lekamalage Chamara Kasun', 'Hongming Zhou', 'Chi-Man Vong', 'Jiarun Lin', 'Jianping Yin', 'Zhiping Cai', 'Qiang Liu', 'Kuan Li', 'Victor C. M. Leung', 'Liang Feng', 'Yew-Soon Ong', 'Meng-Hiot Lim', 'Anton Akusok', 'Amaury Lendasse', 'Francesco Corona', 'Rui Nian', 'Yoan Miche', 'Paolo Gastaldo', 'Rodolfo Zunino', 'Sergio Decherchi', 'Xuefeng Yang', 'Kezhi Mao', 'Beom-Seok Oh', 'Je-Hyoung Jeon', 'Kar-Ann Toh', 'Andrew Beng Jin Teoh', 'Jaihie Kim', 'Hanchao Yu', 'Yiqiang Chen', 'Junfa Liu']",IEEE Intell. Syst.,2013
+139,j,Editorial.,"['Meng-Hiot Lim', 'Steven M. Gustafson', 'Natalio Krasnogor', 'Yew-Soon Ong']",Memetic Comput.,2013
+140,j,Editorial.,"['Meng-Hiot Lim', 'Steven M. Gustafson', 'Natalio Krasnogor', 'Yew-Soon Ong']",Memetic Comput.,2013
+141,j,Editorial.,"['Meng-Hiot Lim', 'Steven M. Gustafson', 'Natalio Krasnogor', 'Yew-Soon Ong']",Memetic Comput.,2013
+142,j,Extreme learning machine terrain-based navigation for unmanned aerial vehicles.,"['Ee-May Kan', 'Meng-Hiot Lim', 'Yew-Soon Ong', 'Ah-Hwee Tan', 'Swee-Ping Yeo']",Neural Comput. Appl.,2013
+143,j,Combating Negative Transfer From Predictive Distribution Differences.,"['Chun-Wei Seah', 'Yew-Soon Ong', 'Ivor W. Tsang']",IEEE Trans. Cybern.,2013
+144,j,Transfer Ordinal Label Learning.,"['Chun-Wei Seah', 'Ivor W. Tsang', 'Yew-Soon Ong']",IEEE Trans. Neural Networks Learn. Syst.,2013
+145,j,A Unified Framework for Symbiosis of Evolutionary Mechanisms with Application to Water Clusters Potential Model Design.,"['Minh Nghia Le', 'Yew-Soon Ong', 'Yaochu Jin', 'Bernhard Sendhoff']",IEEE Comput. Intell. Mag.,2012
+146,j,A tree-structured covalent-bond-driven molecular memetic algorithm for optimization of ring-deficient molecules.,"['Mostafa Mostafa Hashim Ellabaan', 'Stephanus Daniel Handoko', 'Yew-Soon Ong', 'Chee Keong Kwoh', 'S. A. Bahnassy', 'F. M. Elassawy', 'H. Y. Man']",Comput. Math. Appl.,2012
+147,j,A self-adaptive memeplexes robust search scheme for solving stochastic demands vehicle routing problem.,"['Xianshun Chen', 'Liang Feng', 'Yew-Soon Ong']",Int. J. Syst. Sci.,2012
+148,j,Ockham's Razor in memetic computing: Three stage optimal memetic exploration.,"['Giovanni Iacca', 'Ferrante Neri', 'Ernesto Mininno', 'Yew-Soon Ong', 'Meng-Hiot Lim']",Inf. Sci.,2012
+149,j,Editorial.,"['Meng-Hiot Lim', 'Natalio Krasnogor', 'Yew-Soon Ong', 'Steven M. Gustafson']",Memetic Comput.,2012
+150,j,QuickVina: Accelerating AutoDock Vina Using Gradient-Based Heuristics for Global Optimization.,"['Stephanus Daniel Handoko', 'Xuchang Ouyang', 'Chinh Tran To Su', 'Chee Keong Kwoh', 'Yew-Soon Ong']",IEEE ACM Trans. Comput. Biol. Bioinform.,2012
+151,j,"Erratum to ""QuickVina: Accelerating AutoDock Vina Using Gradient-Based Heuristics for Global Optimization"".","['Stephanus Daniel Handoko', 'Xuchang Ouyang', 'Chinh Tran To Su', 'Chee Keong Kwoh', 'Yew-Soon Ong']",IEEE ACM Trans. Comput. Biol. Bioinform.,2012
+152,j,Transductive Ordinal Regression.,"['Chun-Wei Seah', 'Ivor W. Tsang', 'Yew-Soon Ong']",IEEE Trans. Neural Networks Learn. Syst.,2012
+153,j,A Conceptual Modeling of Meme Complexes in Stochastic Search.,"['Xianshun Chen', 'Yew-Soon Ong']",IEEE Trans. Syst. Man Cybern. Part C,2012
+154,j,"A hybrid agent architecture integrating desire, intention and reinforcement learning.","['Ah-Hwee Tan', 'Yew-Soon Ong', 'Akejariyawong Tapanuj']",Expert Syst. Appl.,2011
+155,j,Exploratory analysis of cell-based screening data for phenotype identification in drug-siRNA study.,"['William-Chandra Tjhi', 'Gary Kee Khoon Lee', 'Terence Hung', 'Ivor Wai-Hung Tsang', 'Yew-Soon Ong', 'Frédéric Bard', 'Victor Racine']",Int. J. Comput. Biol. Drug Des.,2011
+156,j,Toward an Evolutionary Computing Modeling Language.,"['Heiko Aydt', 'Stephen John Turner', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Yew-Soon Ong', 'Rassul Ayani']",IEEE Trans. Evol. Comput.,2011
+157,j,Guest Editorial.,"['Yew-Soon Ong', 'Kay Chen Tan']",IEEE Trans. Evol. Comput.,2011
+158,j,A Multi-Facet Survey on Memetic Computation.,"['Xianshun Chen', 'Yew-Soon Ong', 'Meng-Hiot Lim', 'Kay Chen Tan']",IEEE Trans. Evol. Comput.,2011
+159,j,"Memetic Computation - Past, Present & Future [Research Frontier].","['Yew-Soon Ong', 'Meng-Hiot Lim', 'Xianshun Chen']",IEEE Comput. Intell. Mag.,2010
+160,j,An investigation on noise-induced features in robust evolutionary multi-objective optimization.,"['Chi Keong Goh', 'Kay Chen Tan', 'Chun Yew Cheong', 'Yew-Soon Ong']",Expert Syst. Appl.,2010
+161,j,"A self-organizing neural architecture integrating desire, intention and reinforcement learning.","['Ah-Hwee Tan', 'Yu-Hong Feng', 'Yew-Soon Ong']",Neurocomputing,2010
+162,j,Identification of Full and Partial Class Relevant Genes.,"['Zexuan Zhu', 'Yew-Soon Ong', 'Jacek M. Zurada']",IEEE ACM Trans. Comput. Biol. Bioinform.,2010
+163,j,Generalizing Surrogate-Assisted Evolutionary Computation.,"['Dudy Lim', 'Yaochu Jin', 'Yew-Soon Ong', 'Bernhard Sendhoff']",IEEE Trans. Evol. Comput.,2010
+164,j,"Discovering Unique, Low-Energy Pure Water Isomers: Memetic Exploration, Optimization, and Landscape Analysis.","['Harold Soh', 'Yew-Soon Ong', 'Quoc Chinh Nguyen', 'Quang Huy Nguyen', 'Mohamed Salahuddin Habibullah', 'Terence Hung', 'Jer-Lai Kuo']",IEEE Trans. Evol. Comput.,2010
+165,j,Feasibility Structure Modeling: An Effective Chaperone for Constrained Memetic Algorithms.,"['Stephanus Daniel Handoko', 'Chee Keong Kwoh', 'Yew-Soon Ong']",IEEE Trans. Evol. Comput.,2010
+166,j,Adaptive Cellular Memetic Algorithms.,"['Quang Huy Nguyen', 'Yew-Soon Ong', 'Meng-Hiot Lim', 'Natalio Krasnogor']",Evol. Comput.,2009
+167,j,Editorial to the first issue.,"['Meng-Hiot Lim', 'Steven M. Gustafson', 'Natalio Krasnogor', 'Yew-Soon Ong']",Memetic Comput.,2009
+168,j,A proposition on memes and meta-memes in computing for higher-order learning.,"['Ryan J. Meuth', 'Meng-Hiot Lim', 'Yew-Soon Ong', 'Donald C. Wunsch']",Memetic Comput.,2009
+169,j,Editorial.,"['Meng-Hiot Lim', 'Steven M. Gustafson', 'Natalio Krasnogor', 'Yew-Soon Ong']",Memetic Comput.,2009
+170,j,Lamarckian memetic algorithms: local optimum and connectivity structure analysis.,"['Minh Nghia Le', 'Yew-Soon Ong', 'Yaochu Jin', 'Bernhard Sendhoff']",Memetic Comput.,2009
+171,j,Special issue on emerging trends in soft computing: memetic algorithms.,"['Yew-Soon Ong', 'Meng-Hiot Lim', 'Ferrante Neri', 'Hisao Ishibuchi']",Soft Comput.,2009
+172,j,A Probabilistic Memetic Framework.,"['Quang Huy Nguyen', 'Yew-Soon Ong', 'Meng-Hiot Lim']",IEEE Trans. Evol. Comput.,2009
+173,j,Hybrid evolutionary algorithm with Hermite radial basis function interpolants for computationally expensive adjoint solvers.,"['Yew-Soon Ong', 'Kai Yew Lum', 'Prasanth B. Nair']",Comput. Optim. Appl.,2008
+174,j,A fast pruned-extreme learning machine for classification problem.,"['Hai-Jun Rong', 'Yew-Soon Ong', 'Ah-Hwee Tan', 'Zexuan Zhu']",Neurocomputing,2008
+175,j,Hybrid ant colony algorithms for path planning in sparse graphs.,"['Kwee Kim Lim', 'Yew-Soon Ong', 'Meng-Hiot Lim', 'Xianshun Chen', 'Amit Agarwal']",Soft Comput.,2008
+176,j,A BDI Assignment Protocol With New Cooperative-Concession Strategies.,"['Kiam Tian Seow', 'Kwang Mong Sim', 'Yew-Soon Ong', 'E. P. Sulaiman']",IEEE Trans. Syst. Man Cybern. Part A,2008
+177,j,Efficient Hierarchical Parallel Genetic Algorithms using Grid computing.,"['Dudy Lim', 'Yew-Soon Ong', 'Yaochu Jin', 'Bernhard Sendhoff', 'Bu-Sung Lee']",Future Gener. Comput. Syst.,2007
+178,j,Markov blanket-embedded genetic algorithm for gene selection.,"['Zexuan Zhu', 'Yew-Soon Ong', 'Manoranjan Dash']",Pattern Recognit.,2007
+179,j,Diversity-adaptive parallel memetic algorithm for solving large scale combinatorial optimization problems.,"['Jing Tang', 'Meng-Hiot Lim', 'Yew-Soon Ong']",Soft Comput.,2007
+180,j,Memetic algorithm using multi-surrogates for computationally expensive optimization problems.,"['Zongzhao Zhou', 'Yew-Soon Ong', 'Meng-Hiot Lim', 'Bu-Sung Lee']",Soft Comput.,2007
+181,j,An Adaptive Multimeme Algorithm for Designing HIV Multidrug Therapies.,"['Ferrante Neri', 'Jari Toivanen', 'Giuseppe Leonardo Cascella', 'Yew-Soon Ong']",IEEE ACM Trans. Comput. Biol. Bioinform.,2007
+182,j,Special Issue on Memetic Algorithms.,"['Yew-Soon Ong', 'Natalio Krasnogor', 'Hisao Ishibuchi']",IEEE Trans. Syst. Man Cybern. Part B,2007
+183,j,Combining Global and Local Surrogate Models to Accelerate Evolutionary Optimization.,"['Zongzhao Zhou', 'Yew-Soon Ong', 'Prasanth B. Nair', 'Andy J. Keane', 'Kai Yew Lum']",IEEE Trans. Syst. Man Cybern. Part C,2007
+184,j,Wrapper-Filter Feature Selection Algorithm Using a Memetic Framework.,"['Zexuan Zhu', 'Yew-Soon Ong', 'Manoranjan Dash']",IEEE Trans. Syst. Man Cybern. Part B,2007
+185,j,Editorial to special issue on evolutionary computation in dynamic and uncertain environments.,"['Shengxiang Yang', 'Yew-Soon Ong', 'Yaochu Jin']",Genet. Program. Evolvable Mach.,2006
+186,j,Inverse multi-objective robust evolutionary design.,"['Dudy Lim', 'Yew-Soon Ong', 'Yaochu Jin', 'Bernhard Sendhoff', 'Bu-Sung Lee']",Genet. Program. Evolvable Mach.,2006
+187,j,A new machine learning paradigm for terrain reconstruction.,"['Chee-Wee Thomas Yeu', 'Meng-Hiot Lim', 'Guang-Bin Huang', 'Amit Agarwal', 'Yew-Soon Ong']",IEEE Geosci. Remote. Sens. Lett.,2006
+188,j,Max-min surrogate-assisted evolutionary algorithm for robust design.,"['Yew-Soon Ong', 'Prasanth B. Nair', 'Kai Yew Lum']",IEEE Trans. Evol. Comput.,2006
+189,j,A context switchable fuzzy inference chip.,"['Qi Cao', 'Meng-Hiot Lim', 'Ju Hui Li', 'Yew-Soon Ong', 'Willie Ng']",IEEE Trans. Fuzzy Syst.,2006
+190,j,Classification of adaptive memetic algorithms: a comparative study.,"['Yew-Soon Ong', 'Meng-Hiot Lim', 'Ning Zhu', 'Kok Wai Wong']",IEEE Trans. Syst. Man Cybern. Part B,2006
+191,j,Using Memetic Algorithms for Fuzzy Modelling.,"['Ning Zhu', 'Yew-Soon Ong', 'Kok Wai Wong', 'Kiam Tian Seow']",Aust. J. Intell. Inf. Process. Syst.,2004
+192,j,Meta-Lamarckian learning in memetic algorithms.,"['Yew-Soon Ong', 'Andy J. Keane']",IEEE Trans. Evol. Comput.,2004
+193,c,An Initial Investigation of Data-Lean Transfer Evolutionary Optimization with Probabilistic Priors.,"['Ray Lim', 'Abhishek Gupta', 'Yew-Soon Ong']",CEC,2022
+194,c,A multifactorial differential evolution with hybrid global and local search strategies.,"['Mingyu Xu', 'Yongjin Zheng', 'Yew-Soon Ong', 'Zexuan Zhu', 'Xiaoliang Ma']",CEC,2022
+195,c,How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?,"['Alvin Chan', 'Yew Soon Ong', 'Clement Tan']",IJCAI,2022
+196,c,Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences.,"['Lu Zhang', 'Zhu Sun', 'Ziqing Wu', 'Jie Zhang', 'Yew Soon Ong', 'Xinghua Qu']",IJCAI,2022
+197,c,Anti-Forensic Deepfake Personas and How To Spot Them.,"['Nguyen Hong Ngoc', 'Alvin Chan', 'Huynh Thi Thanh Binh', 'Yew Soon Ong']",IJCNN,2022
+198,c,Importance Prioritized Policy Distillation.,"['Xinghua Qu', 'Yew Soon Ong', 'Abhishek Gupta', 'Pengfei Wei', 'Zhu Sun', 'Zejun Ma']",KDD,2022
+199,c,Synthesising Audio Adversarial Examples for Automatic Speech Recognition.,"['Xinghua Qu', 'Pengfei Wei', 'Mingyong Gao', 'Zhu Sun', 'Yew Soon Ong', 'Zejun Ma']",KDD,2022
+200,c,"Revisiting Bundle Recommendation: Datasets, Tasks, Challenges and Opportunities for Intent-aware Product Bundling.","['Zhu Sun', 'Jie Yang', 'Kaidong Feng', 'Hui Fang', 'Xinghua Qu', 'Yew Soon Ong']",SIGIR,2022
+201,c,RNA alternative splicing prediction with discrete compositional energy network.,"['Alvin Chan', 'Anna Korsakova', 'Yew-Soon Ong', 'Fernaldo Richtia Winnerdy', 'Kah Wai Lim', 'Anh Tuan Phan']",CHIL,2021
+202,c,CoCon: A Self-Supervised Approach for Controlled Text Generation.,"['Alvin Chan', 'Yew-Soon Ong', 'Bill Pung', 'Aston Zhang', 'Jie Fu']",ICLR,2021
+203,c,An Energy-Efficient Convolution Unit for Depthwise Separable Convolutional Neural Networks.,"['Yi Sheng Chong', 'Wang Ling Goh', 'Yew Soon Ong', 'Vishnu P. Nambiar', 'Anh Tuan Do']",ISCAS,2021
+204,c,Learning Conjoint Attentions for Graph Neural Nets.,"['Tiantian He', 'Yew Soon Ong', 'Lu Bai']",NeurIPS,2021
+205,c,Unsupervised Object-Level Representation Learning from Scene Images.,"['Jiahao Xie', 'Xiaohang Zhan', 'Ziwei Liu', 'Yew Soon Ong', 'Chen Change Loy']",NeurIPS,2021
+206,c,Efficient Implementation of Activation Functions for LSTM accelerators.,"['Yi Sheng Chong', 'Wang Ling Goh', 'Yew Soon Ong', 'Vishnu P. Nambiar', 'Anh Tuan Do']",VLSI-SoC,2021
+207,c,A Skip-Connected Evolving Recurrent Neural Network for Data Stream Classification under Label Latency Scenario.,"['Monidipa Das', 'Mahardhika Pratama', 'Jie Zhang', 'Yew-Soon Ong']",AAAI,2020
+208,c,Adaptive Knowledge Transfer based on Transfer Neural Kernel Network.,"['Pengfei Wei', 'Xinghua Qu', 'Yiping Ke', 'Tze-Yun Leong', 'Yew-Soon Ong']",AAMAS,2020
+209,c,What It Thinks Is Important Is Important: Robustness Transfers Through Input Gradients.,"['Alvin Chan', 'Yi Tay', 'Yew-Soon Ong']",CVPR,2020
+210,c,Online Deep Clustering for Unsupervised Representation Learning.,"['Xiaohang Zhan', 'Jiahao Xie', 'Ziwei Liu', 'Yew-Soon Ong', 'Chen Change Loy']",CVPR,2020
+211,c,Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.,"['Alvin Chan', 'Yi Tay', 'Yew-Soon Ong', 'Aston Zhang']",EMNLP (Findings),2020
+212,c,Jacobian Adversarially Regularized Networks for Robustness.,"['Alvin Chan', 'Yi Tay', 'Yew-Soon Ong', 'Jie Fu']",ICLR,2020
+213,c,Genetic Programming Multitasking.,"['Ahmed Kattan', 'Faiyaz Doctor', 'Yew-Soon Ong', 'Alexandros Agapitos']",SSCI,2020
+214,c,The Blessing of Dimensionality in Many-Objective Search: An Inverse Machine Learning Insight.,"['Abhishek Gupta', 'Yew-Soon Ong', 'Mojtaba Shakeri', 'Xu Chi', 'Allan NengSheng Zhang']",IEEE BigData,2019
+215,c,Coping with Big Data in Transfer Optimization.,"['Mojtaba Shakeri', 'Abhishek Gupta', 'Yew-Soon Ong', 'Xu Chi', 'Allan Zhang NengSheng']",IEEE BigData,2019
+216,c,Memetic Evolution Strategy for Reinforcement Learning.,"['Xinghua Qu', 'Yew-Soon Ong', 'Yaqing Hou', 'Xiaobo Shen']",CEC,2019
+217,c,Automatic Construction of Multi-layer Perceptron Network from Streaming Examples.,"['Mahardhika Pratama', ""Choiru Za'in"", 'Andri Ashfahani', 'Yew-Soon Ong', 'Weiping Ding']",CIKM,2019
+218,c,Can route planning be smarter with transfer optimization?,"['Ray Lim', 'Yew-Soon Ong', 'Phan Thi Hong Hanh', 'Abhishek Gupta', 'Nengsheng Allan Zhang']",GECCO (Companion),2019
+219,c,Manifold Regularized Stochastic Block Model.,"['Tiantian He', 'Lu Bai', 'Yew-Soon Ong']",ICTAI,2019
+220,c,Compact Multi-Label Learning.,"['Xiaobo Shen', 'Weiwei Liu', 'Ivor W. Tsang', 'Quan-Sen Sun', 'Yew-Soon Ong']",AAAI,2018
+221,c,Context-based and Explainable Decision Making with Argumentation.,"['Zhiwei Zeng', 'Xiuyi Fan', 'Chunyan Miao', 'Cyril Leung', 'Jing Jih Chin', 'Yew-Soon Ong']",AAMAS,2018
+222,c,A Preliminary Study of Adaptive Indicator Based Evolutionary Algorithm for Dynamic Multiobjective Optimization via Autoencoding.,"['Wei Zhou', 'Liang Feng', 'Siwei Jiang', 'Shu Zhang', 'Yaqing Hou', 'Yew-Soon Ong', 'Zexuan Zhu', 'Kai Liu']",CEC,2018
+223,c,Uncluttered Domain Sub-Similarity Modeling for Transfer Regression.,"['Pengfei Wei', 'Ramón Sagarna', 'Yiping Ke', 'Yew-Soon Ong']",ICDM,2018
+224,c,Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression.,"['Haitao Liu', 'Jianfei Cai', 'Yi Wang', 'Yew-Soon Ong']",ICML,2018
+225,c,Deep Discrete Prototype Multilabel Learning.,"['Xiaobo Shen', 'Weiwei Liu', 'Yong Luo', 'Yew-Soon Ong', 'Ivor W. Tsang']",IJCAI,2018
+226,c,Discrete Network Embedding.,"['Xiaobo Shen', 'Shirui Pan', 'Weiwei Liu', 'Yew-Soon Ong', 'Quan-Sen Sun']",IJCAI,2018
+227,c,Solving dynamic vehicle routing problem via evolutionary search with learning capability.,"['Lei Zhou', 'Liang Feng', 'Abhishek Gupta', 'Yew-Soon Ong', 'K. Liu', 'C. Chen', 'Edwin Hsing-Mean Sha', 'B. Yang', 'B. W. Yan']",CEC,2017
+228,c,Linearized domain adaptation in evolutionary multitasking.,"['Kavitesh Kumar Bali', 'Abhishek Gupta', 'Liang Feng', 'Yew-Soon Ong', 'Puay Siew Tan']",CEC,2017
+229,c,MIML-FCN+: Multi-Instance Multi-Label Learning via Fully Convolutional Networks with Privileged Information.,"['Hao Yang', 'Joey Tianyi Zhou', 'Jianfei Cai', 'Yew-Soon Ong']",CVPR,2017
+230,c,Source-Target Similarity Modelings for Multi-Source Transfer Gaussian Process Regression.,"['Pengfei Wei', 'Ramón Sagarna', 'Yiping Ke', 'Yew-Soon Ong', 'Chi-Keong Goh']",ICML,2017
+231,c,The Boon of Gene-Culture Interaction for Effective Evolutionary Multitasking.,"['Bingshui Da', 'Abhishek Gupta', 'Yew-Soon Ong', 'Liang Feng']",ACALCI,2016
+232,c,A Memetic Multi-Agent Demonstration Learning Approach with Behavior Prediction.,"['Yaqing Hou', 'Yifeng Zeng', 'Yew-Soon Ong']",AAMAS,2016
+233,c,Adaptive indicator-based evolutionary algorithm for multiobjective optimization problems.,"['Siwei Jiang', 'Liang Feng', 'Chen Kim Heng', 'Quoc Chinh Nguyen', 'Yew-Soon Ong', 'Nengsheng Allan Zhang', 'Puay Siew Tan']",CEC,2016
+234,c,Towards adaptive weight vectors for multiobjective evolutionary algorithm based on decomposition.,"['Siwei Jiang', 'Liang Feng', 'Dazhi Yang', 'Chen Kim Heng', 'Yew-Soon Ong', 'Nengsheng Allan Zhang', 'Puay Siew Tan', 'Zhihua Cai']",CEC,2016
+235,c,Application of route flexibility in data-starved vehicle routing problem with time windows.,"['Chen Kim Heng', 'Quoc Chinh Nguyen', 'Siwei Jiang', 'Puay Siew Tan', 'Abhishek Gupta', 'Bingshui Da', 'Yew-Soon Ong']",CEC,2016
+236,c,A preliminary study on distance selection in probabilistic memetic framework for capacitated arc routing problem.,"['Zhenbin Ye', 'Liang Feng', 'Yew-Soon Ong', 'Kai Liu', 'Chao Chen', 'Edwin Hsing-Mean Sha']",CEC,2016
+237,c,Evolutionary multitasking across single and multi-objective formulations for improved problem solving.,"['Bingshui Da', 'Abhishek Gupta', 'Yew-Soon Ong', 'Liang Feng']",CEC,2016
+238,c,Pareto rank learning for multi-objective bi-level optimization: A study in composites manufacturing.,"['Abhishek Gupta', 'Yew-Soon Ong', 'Piaras A. Kelly', 'Chi-Keong Goh']",CEC,2016
+239,c,Landscape synergy in evolutionary multitasking.,"['Abhishek Gupta', 'Yew-Soon Ong', 'Bingshui Da', 'Liang Feng', 'Stephanus Daniel Handoko']",CEC,2016
+240,c,Evolutionary Multi-task Learning for Modular Training of Feedforward Neural Networks.,"['Rohitash Chandra', 'Abhishek Gupta', 'Yew-Soon Ong', 'Chi Keong Goh']",ICONIP (2),2016
+241,c,Creating human-like non-player game characters using a Memetic Multi-Agent System.,"['Yaqing Hou', 'Liang Feng', 'Yew-Soon Ong']",IJCNN,2016
+242,c,Semi-supervised auto-encoder based on manifold learning.,"['Yawei Li', 'Lizuo Jin', 'A. Kai Qin', 'Changyin Sun', 'Yew-Soon Ong', 'Tong Cui']",IJCNN,2016
+243,c,A conceptual modeling of flocking-regulated multi-agent reinforcement learning.,"['C. S. Chen', 'Yaqing Hou', 'Yew-Soon Ong']",IJCNN,2016
+244,c,Preface KSE 2016.,"['Minh Le Nguyen', 'Le Sy Vinh', 'Yew-Soon Ong', 'Lam Thu Bui', 'Keiji Hirata']",KSE,2016
+245,c,Genetic transfer or population diversification? Deciphering the secret ingredients of evolutionary multitask optimization.,"['Abhishek Gupta', 'Yew-Soon Ong']",SSCI,2016
+246,c,Concurrently searching branches in software tests generation through multitask evolution.,"['Ramón Sagarna', 'Yew-Soon Ong']",SSCI,2016
+247,c,Evolutionary multitasking in combinatorial search spaces: A case study in capacitated vehicle routing problem.,"['Lei Zhou', 'Liang Feng', 'Jinghui Zhong', 'Yew-Soon Ong', 'Zexuan Zhu', 'Edwin Hsing-Mean Sha']",SSCI,2016
+248,c,Three-Dimensional Vehicle Routing Problem for Urban Last Mile Logistics: Problem Formulation and Computational Analysis.,"['Stanley Frederick W. T. Lim', 'Allan N. Zhang', 'Mark Goh', 'Yew-Soon Ong', 'Puay Siew Tan']",UKSim,2016
+249,c,An Adaptive Gradient Method for Online AUC Maximization.,"['Yi Ding', 'Peilin Zhao', 'Steven C. H. Hoi', 'Yew-Soon Ong']",AAAI,2015
+250,c,An evolutionary algorithm with adaptive scalarization for multiobjective bilevel programs.,"['Abhishek Gupta', 'Yew-Soon Ong']",CEC,2015
+251,c,Solving multi-vehicle profitable tour problem via knowledge adoption in evolutionary bi-level programming.,"['Stephanus Daniel Handoko', 'Hoong Chuin Lau', 'Abhishek Gupta', 'Yew-Soon Ong', 'Chen Kim Heng', 'Puay Siew Tan']",CEC,2015
+252,c,A data-driven approach for online adaptation of game difficulty.,"['Haiyan Yin', 'Linbo Luo', 'Wentong Cai', 'Yew-Soon Ong', 'Jinghui Zhong']",CIG,2015
+253,c,Offline time-sensitive travel time estimation in an urban road network.,"['Qing Guo', 'Chen Kim Heng', 'Yin-Leng Theng', 'Yew-Soon Ong', 'Puay Siew Tan']",IEEM,2015
+254,c,Towards Evolutionary Multitasking: A New Paradigm.,['Yew-Soon Ong'],SoICT,2015
+255,c,A pheromone-based traffic management model for vehicle re-routing and traffic light control.,"['Siwei Jiang', 'Jie Zhang', 'Yew-Soon Ong']",AAMAS,2014
+256,c,Transformation of input space using statistical moments: EA-based approach.,"['Ahmed Kattan', 'Michael Kampouridis', 'Yew-Soon Ong', 'Khalid Mehamdi']",IEEE Congress on Evolutionary Computation,2014
+257,c,An integrated intelligent technique for monthly rainfall time series prediction.,"['Jesada Kajornrit', 'Kevin Kok Wai Wong', 'Lance Chun Che Fung', 'Yew-Soon Ong']",FUZZ-IEEE,2014
+258,c,An evolutionary model for constructing robust trust networks.,"['Siwei Jiang', 'Jie Zhang', 'Yew-Soon Ong']",AAMAS,2013
+259,c,A study on like-attracts-like versus elitist selection criterion for human-like social behavior of memetic mulitagent systems.,"['Xuefeng Chen', 'Yifeng Zeng', 'Yew-Soon Ong', 'Choon Sing Ho', 'Yanping Xiang']",IEEE Congress on Evolutionary Computation,2013
+260,c,Multi-agent multi-issue negotiations with incomplete information: A Genetic Algorithm based on discrete surrogate approach.,"['Ahmed Kattan', 'Yew-Soon Ong', 'Edgar Galván López']",IEEE Congress on Evolutionary Computation,2013
+261,c,Multi-game playing - A challenge for computational intelligence.,"['Jacek Mandziuk', 'Yew-Soon Ong', 'Karol Waledzik']",CIHLI,2013
+262,c,Near-optimal packet allocation algorithm for content uploading to media cloud via collaborative wireless network.,"['Ge Zhang', 'Yonggang Wen', 'Yew-Soon Ong']",ICNC,2013
+263,c,Agent-Based Modeling and Simulation for Supply Chain Risk Management - A Survey of the State-of-the-Art.,"['Xianshun Chen', 'Yew-Soon Ong', 'Puay Siew Tan', 'NengSheng Zhang', 'Zhengping Li']",SMC,2013
+264,c,A Review of Complex Systems Technologies for Supply Chain Risk Management.,"['Zhengping Li', 'Puay Siew Tan', 'Qi Ming Gabriel Yee', 'Quoc Chinh Nguyen', 'Yew-Soon Ong', 'Xianshun Chen']",SMC,2013
+265,c,An Agent-Based Simulation to Quantify and Analyze Bullwhip Effects in Supply Chains.,"['Quoc Chinh Nguyen', 'Zhengping Li', 'Puay Siew Tan', 'Xianshun Chen', 'Yew-Soon Ong']",SMC,2013
+266,c,A multiagent evolutionary framework based on trust for multiobjective optimization.,"['Siwei Jiang', 'Jie Zhang', 'Yew-Soon Ong']",AAMAS,2012
+267,c,Virtual characters in agent-augmented co-space (demonstration).,"['Yilin Kang', 'Budhitama Subagdja', 'Ah-Hwee Tan', 'Yew-Soon Ong', 'Chunyan Miao']",AAMAS,2012
+268,c,An evolutionary search paradigm that learns with past experiences.,"['Liang Feng', 'Yew-Soon Ong', 'Ivor Wai-Hung Tsang', 'Ah-Hwee Tan']",IEEE Congress on Evolutionary Computation,2012
+269,c,Autonomous flock brush for non-photorealistic rendering.,"['Hsueh En Huang', 'Yew-Soon Ong', 'Xianshun Chen']",IEEE Congress on Evolutionary Computation,2012
+270,c,Multi co-objective evolutionary optimization: Cross surrogate augmentation for computationally expensive problems.,"['Minh Nghia Le', 'Yew-Soon Ong', 'Stefan Menzel', 'Chun-Wei Seah', 'Bernhard Sendhoff']",IEEE Congress on Evolutionary Computation,2012
+271,c,Pareto Rank Learning in Multi-objective Evolutionary Algorithms.,"['Chun-Wei Seah', 'Yew-Soon Ong', 'Ivor W. Tsang', 'Siwei Jiang']",IEEE Congress on Evolutionary Computation,2012
+272,c,Maximum margin clustering on evolutionary data.,"['Xuhui Fan', 'Lin Zhu', 'Longbing Cao', 'Xia Cui', 'Yew-Soon Ong']",CIKM,2012
+273,c,Experiences on memetic computation for locating transition states in biochemical applications.,"['Mostafa Mostafa Hashim Ellabaan', 'Yew-Soon Ong']",GECCO (Companion),2012
+274,c,An improved CUDA-based implementation of differential evolution on GPU.,"['A. Kai Qin', 'Federico Raimondo', 'Florence Forbes', 'Yew-Soon Ong']",GECCO,2012
+275,c,Learning Target Predictive Function without Target Labels.,"['Chun-Wei Seah', 'Ivor Wai-Hung Tsang', 'Yew-Soon Ong', 'Qi Mao']",ICDM,2012
+276,c,Discovering Support and Affiliated Features from Very High Dimensions.,"['Yiteng Zhai', 'Mingkui Tan', 'Ivor W. Tsang', 'Yew-Soon Ong']",ICML,2012
+277,c,"FAME, Soft Flock Formation Control for Collective Behavior Studies and Rapid Games Development.","['Choon Sing Ho', 'Yew-Soon Ong', 'Xianshun Chen', 'Ah-Hwee Tan']",SEAL,2012
+278,c,Asymmetric Pareto-adaptive Scheme for Multiobjective Optimization.,"['Siwei Jiang', 'Jie Zhang', 'Yew-Soon Ong']",Australasian Conference on Artificial Intelligence,2011
+279,c,A surrogate-assisted memetic co-evolutionary algorithm for expensive constrained optimization problems.,"['Chi Keong Goh', 'Dudy Lim', 'Learning Ma', 'Yew-Soon Ong', 'Partha Sarathi Dutta']",IEEE Congress on Evolutionary Computation,2011
+280,c,Towards human-like social multi-agents with memetic automaton.,"['Liang Feng', 'Yew-Soon Ong', 'Ah-Hwee Tan', 'Xianshun Chen']",IEEE Congress on Evolutionary Computation,2011
+281,c,Classification-assisted memetic algorithms for solving optimization problems with restricted equality constraint function mapping.,"['Stephanus Daniel Handoko', 'Chee Keong Kwoh', 'Yew-Soon Ong', 'Jonathan H. Chan']",IEEE Congress on Evolutionary Computation,2011
+282,c,Healing Sample Selection Bias by Source Classifier Selection.,"['Chun-Wei Seah', 'Ivor Wai-Hung Tsang', 'Yew-Soon Ong']",ICDM,2011
+283,c,Multiobjective optimization by decomposition with Pareto-adaptive weight vectors.,"['Siwei Jiang', 'Zhihua Cai', 'Jie Zhang', 'Yew-Soon Ong']",ICNC,2011
+284,c,RELIEF-C: Efficient Feature Selection for Clustering over Noisy Data.,"['Manoranjan Dash', 'Yew-Soon Ong']",ICTAI,2011
+285,c,Neural meta-memes framework for managing search algorithms in combinatorial optimization.,"['Li Qin Song', 'Meng-Hiot Lim', 'Yew-Soon Ong']",Memetic Computing,2011
+286,c,Structural analysis of (TCR - )HLA/peptide complexes: An initial study.,"['Stephanus Daniel Handoko', 'Chinh Tran To Su', 'Chee Keong Kwoh', 'Yew-Soon Ong']",BIBM Workshops,2010
+287,c,Clustering-based methodology with minimal user supervision for displaying cell-phenotype signatures in image-based screening.,"['William-Chandra Tjhi', 'Gary Kee Khoon Lee', 'Terence Hung', 'Yew-Soon Ong', 'Ivor Wai-Hung Tsang', 'Victor Racine', 'Frédéric Bard']",BIBM Workshops,2010
+288,c,Towards probabilistic memetic algorithm: An initial study on capacitated arc routing problem.,"['Liang Feng', 'Yew-Soon Ong', 'Quang Huy Nguyen', 'Ah-Hwee Tan']",IEEE Congress on Evolutionary Computation,2010
+289,c,Classifier-assisted constrained evolutionary optimization for automated geometry selection of orthodontic retraction spring.,"['Dudy Lim', 'Yew-Soon Ong', 'Rachman Setiawan', 'Muhammad Idris']",IEEE Congress on Evolutionary Computation,2010
+290,c,Youth Olympic Village Co-space.,"['Zin-Yan Chua', 'Yilin Kang', 'Xing Jiang', 'Kah-Hoe Pang', 'Andrew C. Gregory', 'Chi-Yun Tan', 'Wai-Lun Wong', 'Ah-Hwee Tan', 'Yew-Soon Ong', 'Chunyan Miao']",CW,2010
+291,c,Autonomous Multi-agents in Flexible Flock Formation.,"['Choon Sing Ho', 'Quang Huy Nguyen', 'Yew-Soon Ong', 'Xianshun Chen']",MIG,2010
+292,c,Predictive Distribution Matching SVM for Multi-domain Learning.,"['Chun-Wei Seah', 'Ivor W. Tsang', 'Yew-Soon Ong', 'Gary Kee Khoon Lee']",ECML/PKDD (1),2010
+293,c,Neural Meta-Memes Framework for Combinatorial Optimization.,"['Li Qin Song', 'Meng-Hiot Lim', 'Yew-Soon Ong']",SEMCCO,2010
+294,c,Classification-Assisted Memetic Algorithms for Equality-Constrained Optimization Problems.,"['Stephanus Daniel Handoko', 'Chee Keong Kwoh', 'Yew-Soon Ong']",Australasian Conference on Artificial Intelligence,2009
+295,c,Finding multiple first order saddle points using a valley adaptive clearing genetic algorithm.,"['Mostafa Mostafa Hashim Ellabaan', 'Yew-Soon Ong', 'Meng-Hiot Lim', 'Jer-Lai Kuo']",CIRA,2009
+296,c,Valley-Adaptive Clearing Scheme for Multimodal Optimization Evolutionary Search.,"['Mostafa Mostafa Hashim Ellabaan', 'Yew-Soon Ong']",ISDA,2009
+297,c,Automatic configuration of metaheuristic algorithms for complex combinatorial optimization problems.,"['Yiliang Xu', 'Meng-Hiot Lim', 'Yew-Soon Ong']",IEEE Congress on Evolutionary Computation,2008
+298,c,Memetic Gradient Search.,"['Boyang Li', 'Yew-Soon Ong', 'Minh Nghia Le', 'Chi Keong Goh']",IEEE Congress on Evolutionary Computation,2008
+299,c,An investigation on evolutionary gradient search for multi-objective optimization.,"['Chi Keong Goh', 'Yew-Soon Ong', 'Kay Chen Tan', 'Eu Jin Teoh']",IEEE Congress on Evolutionary Computation,2008
+300,c,A study on constrained MA using GA and SQP: Analytical vs. finite-difference gradients.,"['Stephanus Daniel Handoko', 'Chee Keong Kwoh', 'Yew-Soon Ong', 'Meng-Hiot Lim']",IEEE Congress on Evolutionary Computation,2008
+301,c,Non-genetic transmission of memes by diffusion.,"['Quang Huy Nguyen', 'Yew-Soon Ong', 'Meng-Hiot Lim']",GECCO,2008
+302,c,Optinformatics for schema analysis of binary genetic algorithms.,"['Minh Nghia Le', 'Yew-Soon Ong', 'Quang Huy Nguyen']",GECCO,2008
+303,c,A Multi-Objective Memetic Algorithm Based Clustering Method.,"['Anh-Duc Do', 'Siu-Yeung Cho', 'Yew-Soon Ong']",IC-AI,2008
+304,c,A Frequent Pattern Mining Algorithm for Understanding Genetic Algorithms.,"['Minh Nghia Le', 'Yew-Soon Ong']",ICIC (2),2008
+305,c,Evolutionary Optimization with Dynamic Fidelity Computational Models.,"['Dudy Lim', 'Yew-Soon Ong', 'Yaochu Jin', 'Bernhard Sendhoff']",ICIC (2),2008
+306,c,Extreme learning machine for multi-categories classification applications.,"['Hai-Jun Rong', 'Guang-Bin Huang', 'Yew-Soon Ong']",IJCNN,2008
+307,c,Using classification for constrained memetic algorithm: A new paradigm.,"['Stephanus Daniel Handoko', 'Chee Keong Kwoh', 'Yew-Soon Ong']",SMC,2008
+308,c,Grid-based PSE for Engineering of Materials (GPEM).,"['Mohamed Salahuddin', 'Terence Hung', 'Harold Soh', 'Endang Sulaiman', 'Yew-Soon Ong', 'Bu-Sung Lee', 'Ren Yunxia']",CCGRID,2007
+309,c,Noise-induced features in robust multi-objective optimization problems.,"['Chi Keong Goh', 'Kay Chen Tan', 'Chun Yew Cheong', 'Yew-Soon Ong']",IEEE Congress on Evolutionary Computation,2007
+310,c,A study on the design issues of Memetic Algorithm.,"['Quang Huy Nguyen', 'Yew-Soon Ong', 'Natalio Krasnogor']",IEEE Congress on Evolutionary Computation,2007
+311,c,Hierarchical model parallel memetic algorithm in heterogeneous computing environment.,"['Jing Tang', 'Meng-Hiot Lim', 'Yew-Soon Ong', 'L. Q. Song']",IEEE Congress on Evolutionary Computation,2007
+312,c,Playing in the Objective Space: Coupled Approximators for Multi-Objective Optimization.,"['Harold Soh', 'Yew-Soon Ong', 'Mohamed Salahuddin', 'Terence Hung', 'Bu-Sung Lee']",MCDM,2007
+313,c,"A study on metamodeling techniques, ensembles, and multi-surrogates in evolutionary computation.","['Dudy Lim', 'Yew-Soon Ong', 'Yaochu Jin', 'Bernhard Sendhoff']",GECCO,2007
+314,c,Memetic Algorithms for Feature Selection on Microarray Data.,"['Zexuan Zhu', 'Yew-Soon Ong']",ISNN (1),2007
+315,c,Analysis of Jobs in a Multi-Organizational Grid Test-bed.,"['Bu-Sung Lee', 'Ming Tang', 'Junwei Zhang', 'Yew-Soon Ong', 'Cindy Zheng', 'Peter W. Arzberger', 'David Abramson']",CCGRID,2006
+316,c,Trusted Evolutionary Algorithm.,"['Dudy Lim', 'Yew-Soon Ong', 'Yaochu Jin', 'Bernhard Sendhoff']",IEEE Congress on Evolutionary Computation,2006
+317,c,Curse and Blessing of Uncertainty in Evolutionary Algorithm Using Approximation.,"['Yew-Soon Ong', 'Zongzhao Zhou', 'Dudy Lim']",IEEE Congress on Evolutionary Computation,2006
+318,c,Adaptation for parallel memetic algorithm based on population entropy.,"['Jing Tang', 'Meng-Hiot Lim', 'Yew-Soon Ong']",GECCO,2006
+319,c,A GA-ACO-local search hybrid algorithm for solving quadratic assignment problem.,"['Yiliang Xu', 'Meng-Hiot Lim', 'Yew-Soon Ong', 'Jing Tang']",GECCO,2006
+320,c,Computational Capabilities of Soft-Computing Frameworks: An Overview.,"['Narendra S. Chaudhari', 'Yew-Soon Ong', 'V. Trivedi']",ICARCV,2006
+321,c,Extreme Learning Machine for Predicting HLA-Peptide Binding.,"['Stephanus Daniel Handoko', 'Chee Keong Kwoh', 'Yew-Soon Ong', 'Guanglan Zhang', 'Vladimir Brusic']",ISNN (2),2006
+322,c,Design and implementation of an efficient multi-cluster GridRPC system.,"['Quoc-Thuan Ho', 'Wentong Cai', 'Yew-Soon Ong']",CCGRID,2005
+323,c,A study on polynomial regression and Gaussian process global surrogate model in hierarchical surrogate-assisted evolutionary algorithm.,"['Zongzhao Zhou', 'Yew-Soon Ong', 'My Hanh Nguyen', 'Dudy Lim']",Congress on Evolutionary Computation,2005
+324,c,Reservoir Characterization Using Support Vector Machines.,"['Kok Wai Wong', 'Chun Che Fung', 'Yew-Soon Ong', 'Tamás D. Gedeon']",CIMCA/IAWTIC,2005
+325,c,Grid Enabled Optimization.,"['Hee-Khiang Ng', 'Yew-Soon Ong', 'Terence Hung', 'Bu-Sung Lee']",EGC,2005
+326,c,Inverse multi-objective robust evolutionary design optimization in the presence of uncertainty.,"['Dudy Lim', 'Yew-Soon Ong', 'Bu-Sung Lee']",GECCO Workshops,2005
+327,c,Solving large scale combinatorial optimization using PMA-SLS.,"['Jing Tang', 'Meng-Hiot Lim', 'Yew-Soon Ong', 'Meng Joo Er']",GECCO,2005
+328,c,A Multi-cluster Grid Enabled Evolution Framework for Aerodynamic Airfoil Design Optimization.,"['Hee-Khiang Ng', 'Dudy Lim', 'Yew-Soon Ong', 'Bu-Sung Lee', 'Lars Freund', 'Shuja Parvez', 'Bernhard Sendhoff']",ICNC (2),2005
+329,c,Whole-Genome Functional Classification of Genes by Latent Semantic Analysis on Microarray Data.,"['See-Kiong Ng', 'Zexuan Zhu', 'Yew-Soon Ong']",APBC,2004
+330,c,Hierarchical surrogate-assisted evolutionary optimization framework.,"['Zongzhao Zhou', 'Yew-Soon Ong', 'Prasanth B. Nair']",IEEE Congress on Evolutionary Computation,2004
+331,c,A service-oriented approach for aerodynamic shape optimisation across institutional boundaries.,"['Wenbin Song', 'Yew-Soon Ong', 'Hee-Khiang Ng', 'Andy J. Keane', 'Simon J. Cox', 'Bu-Sung Lee']",ICARCV,2004
+332,c,Study of migration topology in island model parallel hybrid-GA for large scale quadratic assignment problems.,"['Jing Tang', 'Meng-Hiot Lim', 'Yew-Soon Ong', 'Meng Joo Er']",ICARCV,2004
+333,c,"GAD Kit - A Toolkit for ""Gridifying"" Applications.","['Quoc-Thuan Ho', 'Yew-Soon Ong', 'Wentong Cai', 'Hee-Khiang Ng', 'Bu-Sung Lee']",PDCAT,2004
+334,c,Global convergence of unconstrained and bound constrained surrogate-assisted evolutionary search in aerodynamic shape design.,"['Yew-Soon Ong', 'Kai Yew Lum', 'Prasanth B. Nair', 'Daming Shi', 'Z. K. Zhang']",IEEE Congress on Evolutionary Computation,2003
+335,c,A parallel hybrid GA for combinatorial optimization using grid technology.,"['Jing Tang', 'Meng-Hiot Lim', 'Yew-Soon Ong']",IEEE Congress on Evolutionary Computation,2003
+336,c,"""Gridifying"" Aerodynamic Design Problem Using GridRPC.","['Quoc-Thuan Ho', 'Yew-Soon Ong', 'Wentong Cai']",GCC (1),2003
+337,c,Handwritten Chinese character recognition using kernel active handwriting model.,"['Daming Shi', 'Yew-Soon Ong', 'Eng Chong Tan']",SMC,2003
+338,i,Learning Multi-Task Gaussian Process Over Heterogeneous Input Domains.,"['Haitao Liu', 'Kai Wu', 'Yew-Soon Ong', 'Xiaomo Jiang', 'Xiaofang Wang']",CoRR,2022
+339,i,Lean Evolutionary Reinforcement Learning by Multitasking with Importance Sampling.,"['Nick Zhang', 'Abhishek Gupta', 'Zefeng Chen', 'Yew-Soon Ong']",CoRR,2022
+340,i,Jack and Masters of All Trades: One-Pass Learning of a Set of Model Sets from Foundation Models.,"['Han Xiang Choong', 'Yew-Soon Ong', 'Abhishek Gupta', 'Ray Lim']",CoRR,2022
+341,i,A Survey on AI Sustainability: Emerging Trends on Learning Algorithms and Research Challenges.,"['Zhenghua Chen', 'Min Wu', 'Alvin Chan', 'Xiaoli Li', 'Yew-Soon Ong']",CoRR,2022
+342,i,How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?,"['Alvin Chan', 'Yew-Soon Ong', 'Clement Tan']",CoRR,2022
+343,i,Jacobian Granger Causal Neural Networks for Analysis of Stationary and Nonstationary Data.,"['Suryadi', 'Yew-Soon Ong', 'Lock Yue Chew']",CoRR,2022
+344,i,Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction.,"['Qiancheng Fu', 'Qingshan Xu', 'Yew-Soon Ong', 'Wenbing Tao']",CoRR,2022
+345,i,Masked Frequency Modeling for Self-Supervised Visual Pre-Training.,"['Jiahao Xie', 'Wei Li', 'Xiaohang Zhan', 'Ziwei Liu', 'Yew Soon Ong', 'Chen Change Loy']",CoRR,2022
+346,i,DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation.,"['Zhu Sun', 'Hui Fang', 'Jie Yang', 'Xinghua Qu', 'Hongyang Liu', 'Di Yu', 'Yew-Soon Ong', 'Jie Zhang']",CoRR,2022
+347,i,Understanding Diversity in Session-Based Recommendation.,"['Qing Yin', 'Hui Fang', 'Zhu Sun', 'Yew-Soon Ong']",CoRR,2022
+348,i,A Multi-Channel Next POI Recommendation Framework with Multi-Granularity Check-in Signals.,"['Zhu Sun', 'Yu Lei', 'Lu Zhang', 'Chen Li', 'Yew-Soon Ong', 'Jie Zhang']",CoRR,2022
+349,i,Not All Neighbors Are Worth Attending to: Graph Selective Attention Networks for Semi-supervised Learning.,"['Tiantian He', 'Haicang Zhou', 'Yew-Soon Ong', 'Gao Cong']",CoRR,2022
+350,i,Can Transfer Neuroevolution Tractably Solve Your Differential Equations?,"['Jian Cheng Wong', 'Abhishek Gupta', 'Yew-Soon Ong']",CoRR,2021
+351,i,Graph Joint Attention Networks.,"['Tiantian He', 'Lu Bai', 'Yew-Soon Ong']",CoRR,2021
+352,i,Multi-Space Evolutionary Search for Large-Scale Optimization.,"['Liang Feng', 'Qingxia Shang', 'Yaqing Hou', 'Kay Chen Tan', 'Yew-Soon Ong']",CoRR,2021
+353,i,RNA Alternative Splicing Prediction with Discrete Compositional Energy Network.,"['Alvin Chan', 'Anna Korsakova', 'Yew-Soon Ong', 'Fernaldo Richtia Winnerdy', 'Kah Wai Lim', 'Anh Tuan Phan']",CoRR,2021
+354,i,Multi-Party Dual Learning.,"['Maoguo Gong', 'Yuan Gao', 'Yu Xie', 'A. Kai Qin', 'Ke Pan', 'Yew-Soon Ong']",CoRR,2021
+355,i,Unsupervised Object-Level Representation Learning from Scene Images.,"['Jiahao Xie', 'Xiaohang Zhan', 'Ziwei Liu', 'Yew-Soon Ong', 'Chen Change Loy']",CoRR,2021
+356,i,Word2Pix: Word to Pixel Cross Attention Transformer in Visual Grounding.,"['Heng Zhao', 'Joey Tianyi Zhou', 'Yew-Soon Ong']",CoRR,2021
+357,i,Learning in Sinusoidal Spaces with Physics-Informed Neural Networks.,"['Jian Cheng Wong', 'Chinchun Ooi', 'Abhishek Gupta', 'Yew-Soon Ong']",CoRR,2021
+358,i,Half a Dozen Real-World Applications of Evolutionary Multitasking and More.,"['Abhishek Gupta', 'Lei Zhou', 'Yew-Soon Ong', 'Zefeng Chen', 'Yaqing Hou']",CoRR,2021
+359,i,CAN-PINN: A Fast Physics-Informed Neural Network Based on Coupled-Automatic-Numerical Differentiation Method.,"['Pao-Hsiung Chiu', 'Jian Cheng Wong', 'Chinchun Ooi', 'My Ha Dao', 'Yew-Soon Ong']",CoRR,2021
+360,i,Relational Thematic Clustering with Mutually Preferred Neighbors.,"['Tiantian He', 'Lu Bai', 'Yew-Soon Ong']",CoRR,2020
+361,i,Heterogeneous Representation Learning: A Review.,"['Joey Tianyi Zhou', 'Xi Peng', 'Yew-Soon Ong']",CoRR,2020
+362,i,Deep Latent-Variable Kernel Learning.,"['Haitao Liu', 'Yew-Soon Ong', 'Xiaomo Jiang', 'Xiaofang Wang']",CoRR,2020
+363,i,CoCon: A Self-Supervised Approach for Controlled Text Generation.,"['Alvin Chan', 'Yew-Soon Ong', 'Bill Pung', 'Aston Zhang', 'Jie Fu']",CoRR,2020
+364,i,Online Deep Clustering for Unsupervised Representation Learning.,"['Xiaohang Zhan', 'Jiahao Xie', 'Ziwei Liu', 'Yew-Soon Ong', 'Chen Change Loy']",CoRR,2020
+365,i,Defending Adversarial Attacks without Adversarial Attacks in Deep Reinforcement Learning.,"['Xinghua Qu', 'Yew-Soon Ong', 'Abhishek Gupta', 'Zhu Sun']",CoRR,2020
+366,i,Delving into Inter-Image Invariance for Unsupervised Visual Representations.,"['Jiahao Xie', 'Xiaohang Zhan', 'Ziwei Liu', 'Yew-Soon Ong', 'Chen Change Loy']",CoRR,2020
+367,i,Modulating Scalable Gaussian Processes for Expressive Statistical Learning.,"['Haitao Liu', 'Yew-Soon Ong', 'Xiaomo Jiang', 'Xiaofang Wang']",CoRR,2020
+368,i,Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.,"['Alvin Chan', 'Yi Tay', 'Yew-Soon Ong', 'Aston Zhang']",CoRR,2020
+369,i,Scalable Transfer Evolutionary Optimization: Coping with Big Task Instances.,"['Mojtaba Shakeri', 'Erfan Miahi', 'Abhishek Gupta', 'Yew-Soon Ong']",CoRR,2020
+370,i,A Survey on Multi-output Learning.,"['Donna Xu', 'Yaxin Shi', 'Ivor W. Tsang', 'Yew-Soon Ong', 'Chen Gong', 'Xiaobo Shen']",CoRR,2019
+371,i,Scalable Gaussian Process Classification with Additive Noise for Various Likelihoods.,"['Haitao Liu', 'Yew-Soon Ong', 'Ziwei Yu', 'Jianfei Cai', 'Xiaobo Shen']",CoRR,2019
+372,i,Automatic Construction of Multi-layer Perceptron Network from Streaming Examples.,"['Mahardhika Pratama', ""Choiru Za'in"", 'Andri Ashfahani', 'Yew-Soon Ong', 'Weiping Ding']",CoRR,2019
+373,i,DEVDAN: Deep Evolving Denoising Autoencoder.,"['Andri Ashfahani', 'Mahardhika Pratama', 'Edwin Lughofer', 'Yew-Soon Ong']",CoRR,2019
+374,i,Minimalistic Attacks: How Little it Takes to Fool a Deep Reinforcement Learning Policy.,"['Xinghua Qu', 'Zhu Sun', 'Yew-Soon Ong', 'Pengfei Wei', 'Abhishek Gupta']",CoRR,2019
+375,i,A Multi-Task Gradient Descent Method for Multi-Label Learning.,"['Lu Bai', 'Yew-Soon Ong', 'Tiantian He', 'Abhishek Gupta']",CoRR,2019
+376,i,Poison as a Cure: Detecting & Neutralizing Variable-Sized Backdoor Attacks in Deep Neural Networks.,"['Alvin Chan', 'Yew-Soon Ong']",CoRR,2019
+377,i,What it Thinks is Important is Important: Robustness Transfers through Input Gradients.,"['Alvin Chan', 'Yi Tay', 'Yew-Soon Ong']",CoRR,2019
+378,i,Jacobian Adversarially Regularized Networks for Robustness.,"['Alvin Chan', 'Yi Tay', 'Yew-Soon Ong', 'Jie Fu']",CoRR,2019
+379,i,Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression.,"['Haitao Liu', 'Jianfei Cai', 'Yi Wang', 'Yew-Soon Ong']",CoRR,2018
+380,i,When Gaussian Process Meets Big Data: A Review of Scalable GPs.,"['Haitao Liu', 'Yew-Soon Ong', 'Xiaobo Shen', 'Jianfei Cai']",CoRR,2018
+381,i,Metamorphic Relation Based Adversarial Attacks on Differentiable Neural Computer.,"['Alvin Chan', 'Lei Ma', 'Felix Juefei-Xu', 'Xiaofei Xie', 'Yang Liu', 'Yew-Soon Ong']",CoRR,2018
+382,i,Autonomous Deep Learning: Incremental Learning of Denoising Autoencoder for Evolving Data Streams.,"['Mahardhika Pratama', 'Andri Ashfahani', 'Yew-Soon Ong', 'Savitha Ramasamy', 'Edwin Lughofer']",CoRR,2018
+383,i,Ockham's Razor in Memetic Computing: Three Stage Optimal Memetic Exploration.,"['Giovanni Iacca', 'Ferrante Neri', 'Ernesto Mininno', 'Yew-Soon Ong', 'Meng-Hiot Lim']",CoRR,2018
+384,i,Understanding and Comparing Scalable Gaussian Process Regression for Big Data.,"['Haitao Liu', 'Jianfei Cai', 'Yew-Soon Ong', 'Yi Wang']",CoRR,2018
+385,i,Large-scale Heteroscedastic Regression via Gaussian Process.,"['Haitao Liu', 'Yew-Soon Ong', 'Jianfei Cai']",CoRR,2018
+386,i,Towards Safer Smart Contracts: A Sequence Learning Approach to Detecting Vulnerabilities.,"['Wesley Joon-Wie Tann', 'Xing Jie Han', 'Sourav Sen Gupta', 'Yew-Soon Ong']",CoRR,2018
+387,i,AIR5: Five Pillars of Artificial Intelligence Research.,"['Yew-Soon Ong', 'Abhishek Gupta']",CoRR,2018
+388,i,MIML-FCN+: Multi-instance Multi-label Learning via Fully Convolutional Networks with Privileged Information.,"['Hao Yang', 'Joey Tianyi Zhou', 'Jianfei Cai', 'Yew-Soon Ong']",CoRR,2017
+389,i,Co-evolutionary multi-task learning for dynamic time series prediction.,"['Rohitash Chandra', 'Yew-Soon Ong', 'Chi-Keong Goh']",CoRR,2017
+390,i,"Evolutionary Multitasking for Multiobjective Continuous Optimization: Benchmark Problems, Performance Metrics and Baseline Results.","['Yuan Yuan', 'Yew-Soon Ong', 'Liang Feng', 'A. Kai Qin', 'Abhishek Gupta', 'Bingshui Da', 'Qingfu Zhang', 'Kay Chen Tan', 'Yaochu Jin', 'Hisao Ishibuchi']",CoRR,2017
+391,i,"Evolutionary Multitasking for Single-objective Continuous Optimization: Benchmark Problems, Performance Metric, and Baseline Results.","['Bingshui Da', 'Yew-Soon Ong', 'Liang Feng', 'A. Kai Qin', 'Abhishek Gupta', 'Zexuan Zhu', 'Chuan-Kang Ting', 'Ke Tang', 'Xin Yao']",CoRR,2017
+392,i,Addressing Expensive Multi-objective Games with Postponed Preference Articulation via Memetic Co-evolution.,"['Adam Zychowski', 'Abhishek Gupta', 'Jacek Mandziuk', 'Yew-Soon Ong']",CoRR,2017
+393,i,Adaptive Subgradient Methods for Online AUC Maximization.,"['Yi Ding', 'Peilin Zhao', 'Steven C. H. Hoi', 'Yew-Soon Ong']",CoRR,2016
+394,i,Genetic Transfer or Population Diversification? Deciphering the Secret Ingredients of Evolutionary Multitask Optimization.,"['Abhishek Gupta', 'Yew-Soon Ong']",CoRR,2016
+395,i,Meme as Building Block for Evolutionary Optimization of Problem Instances.,"['Liang Feng', 'Yew-Soon Ong', 'Ah-Hwee Tan', 'Ivor Wai-Hung Tsang']",CoRR,2012
+396,i,Transductive Ordinal Regression.,"['Chun-Wei Seah', 'Ivor W. Tsang', 'Yew-Soon Ong']",CoRR,2011
+397,p,On the Emerging Notion of Evolutionary Multitasking: A Computational Analog of Cognitive Multitasking.,"['Abhishek Gupta', 'Bingshui Da', 'Yuan Yuan', 'Yew-Soon Ong']",Recent Advances in Evolutionary Multi-objective Optimization,2017
+398,p,Evolvable Fuzzy Scheduling Scheme for Multiple-ChannelPacket Switching Network.,"['Ju Hui Li', 'Meng-Hiot Lim', 'Yew-Soon Ong', 'Qi Cao']",Evolutionary Scheduling,2007
+399,p,Single/Multi-objective Inverse Robust Evolutionary Design Methodology in the Presence of Uncertainty.,"['Dudy Lim', 'Yew-Soon Ong', 'Meng-Hiot Lim', 'Yaochu Jin']",Evolutionary Computation in Dynamic and Uncertain Environments,2007
+400,e,"2018 IEEE International Conference on Big Knowledge, ICBK 2018, Singapore, November 17-18, 2018.","['Xindong Wu', 'Yew-Soon Ong', 'Charu C. Aggarwal', 'Huanhuan Chen']",Evolutionary Computation in Dynamic and Uncertain Environments,2018
+401,e,"2016 Eighth International Conference on Knowledge and Systems Engineering, KSE 2016, Hanoi, Vietnam, October 6-8, 2016.","['Minh Le Nguyen', 'Le Sy Vinh', 'Lam Thu Bui', 'Van-Giang Nguyen', 'Yew-Soon Ong', 'Keiji Hirata']",Evolutionary Computation in Dynamic and Uncertain Environments,2016
+402,e,"Simulated Evolution and Learning - 9th International Conference, SEAL 2012, Hanoi, Vietnam, December 16-19, 2012. Proceedings.","['Lam Thu Bui', 'Yew-Soon Ong', 'Nguyen Xuan Hoai', 'Hisao Ishibuchi', 'Ponnuthurai Nagaratnam Suganthan']",Lecture Notes in Computer Science,2012
+403,e,"Computational Systems-Biology and Bioinformatics - First International Conference, CSBio 2010, Bangkok, Thailand, November 3-5, 2010. Proceedings.","['Jonathan H. Chan', 'Yew-Soon Ong', 'Sung-Bae Cho']",Communications in Computer and Information Science,2010
+404,e,Evolutionary Computation in Dynamic and Uncertain Environments.,"['Shengxiang Yang', 'Yew-Soon Ong', 'Yaochu Jin']",Studies in Computational Intelligence,2007
+405,e,"Advances in Natural Computation, First International Conference, ICNC 2005, Changsha, China, August 27-29, 2005, Proceedings, Part I.","['Lipo Wang', 'Ke Chen', 'Yew-Soon Ong']",Lecture Notes in Computer Science,2005
+406,e,"Advances in Natural Computation, First International Conference, ICNC 2005, Changsha, China, August 27-29, 2005, Proceedings, Part II.","['Lipo Wang', 'Ke Chen', 'Yew-Soon Ong']",Lecture Notes in Computer Science,2005
+407,e,"Advances in Natural Computation, First International Conference, ICNC 2005, Changsha, China, August 27-29, 2005, Proceedings, Part III.","['Lipo Wang', 'Ke Chen', 'Yew-Soon Ong']",Lecture Notes in Computer Science,2005

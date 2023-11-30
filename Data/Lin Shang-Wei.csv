@@ -1,0 +1,83 @@
+,type,name,author,event,year
+0,j,A Survey of Smart Contract Formal Specification and Verification.,"['Palina Tolmach', 'Yi Li', 'Shangwei Lin', 'Yang Liu', 'Zengxiang Li']",ACM Comput. Surv.,2022
+1,j,A Quantum interpretation of separating conjunction for local reasoning of Quantum programs based on separation logic.,"['Xuan-Bach Le', 'Shang-Wei Lin', 'Jun Sun', 'David Sanán']",Proc. ACM Program. Lang.,2022
+2,j,Oracle-Supported Dynamic Exploit Generation for Smart Contracts.,"['Haijun Wang', 'Ye Liu', 'Yi Li', 'Shangwei Lin', 'Cyrille Artho', 'Lei Ma', 'Yang Liu']",IEEE Trans. Dependable Secur. Comput.,2022
+3,j,Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.,"['Yupeng Cheng', 'Qing Guo', 'Felix Juefei-Xu', 'Shang-Wei Lin', 'Wei Feng', 'Weisi Lin', 'Yang Liu']",IEEE Trans. Multim.,2022
+4,j,A security type verifier for smart contracts.,"['Xinwen Hu', 'Yi Zhuang', 'Shangwei Lin', 'Fuyuan Zhang', 'Shuanglong Kan', 'Zining Cao']",Comput. Secur.,2021
+5,j,A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.,"['Ruitao Feng', 'Sen Chen', 'Xiaofei Xie', 'Guozhu Meng', 'Shang-Wei Lin', 'Yang Liu']",IEEE Trans. Inf. Forensics Secur.,2021
+6,j,CSim,"['David Sanán', 'Yongwang Zhao', 'Shang-Wei Lin', 'Yang Liu']",ACM Trans. Program. Lang. Syst.,2021
+7,j,A distributed method to avoid higher-order deadlocks in multi-robot systems.,"['Yuan Zhou', 'Hesuan Hu', 'Yang Liu', 'Shang-Wei Lin', 'Zuohua Ding']",Autom.,2020
+8,j,A Real-Time and Fully Distributed Approach to Motion Planning for Multirobot Systems.,"['Yuan Zhou', 'Hesuan Hu', 'Yang Liu', 'Shang-Wei Lin', 'Zuohua Ding']",IEEE Trans. Syst. Man Cybern. Syst.,2019
+9,j,A distributed approach to robust control of multi-robot systems.,"['Yuan Zhou', 'Hesuan Hu', 'Yang Liu', 'Shang-Wei Lin', 'Zuohua Ding']",Autom.,2018
+10,j,APIReal: an API recognition and linking approach for online developer forums.,"['Deheng Ye', 'Lingfeng Bao', 'Zhenchang Xing', 'Shang-Wei Lin']",Empir. Softw. Eng.,2018
+11,j,The language preservation problem is undecidable for parametric event-recording automata.,"['Étienne André', 'Shang-Wei Lin']",Inf. Process. Lett.,2018
+12,j,From verified model to executable program: the PAT approach.,"['Huiquan Zhu', 'Jing Sun', 'Jin Song Dong', 'Shang-Wei Lin']",Innov. Syst. Softw. Eng.,2016
+13,j,Learning Assumptions for CompositionalVerification of Timed Systems.,"['Shang-Wei Lin', 'Étienne André', 'Yang Liu', 'Jun Sun', 'Jin Song Dong']",IEEE Trans. Software Eng.,2014
+14,j,Model Checking Prioritized Timed Systems.,"['Shang-Wei Lin', 'Pao-Ann Hsiung']",IEEE Trans. Computers,2012
+15,j,VERTAF/Multi-Core: A SysML-Based Application Framework for Multi-Core Embedded Software Development.,"['Chao-Sheng Lin', 'Chun-Hsien Lu', 'Shang-Wei Lin', 'Yean-Ru Chen', 'Pao-Ann Hsiung']",J. Comput. Sci. Technol.,2011
+16,j,Counterexample-Guided Assume-Guarantee Synthesis through Learning.,"['Shang-Wei Lin', 'Pao-Ann Hsiung']",IEEE Trans. Computers,2011
+17,j,Real-Time Embedded Software Design for Mobile and Ubiquitous Systems.,"['Pao-Ann Hsiung', 'Shang-Wei Lin', 'Chao-Sheng Lin']",J. Signal Process. Syst.,2010
+18,j,Modeling and verification of real-time embedded systems with urgency.,"['Pao-Ann Hsiung', 'Shang-Wei Lin', 'Yean-Ru Chen', 'Chun-Hsian Huang', 'Chihhsiong Shih', 'William C. Chu']",J. Syst. Softw.,2009
+19,j,Automatic synthesis and verification of real-time embedded software for mobile and ubiquitous systems.,"['Pao-Ann Hsiung', 'Shang-Wei Lin']",Comput. Lang. Syst. Struct.,2008
+20,j,VERTAF: An Application Framework for the Design and Verification of Embedded Real-Time Software.,"['Pao-Ann Hsiung', 'Shang-Wei Lin', 'Chih-Hao Tseng', 'Trong-Yen Lee', 'Jih-Ming Fu', 'Win-Bin See']",IEEE Trans. Software Eng.,2004
+21,c,Finding permission bugs in smart contracts with role mining.,"['Ye Liu', 'Yi Li', 'Shang-Wei Lin', 'Cyrille Artho']",ISSTA,2022
+22,c,Formal Analysis of Composable DeFi Protocols.,"['Palina Tolmach', 'Yi Li', 'Shang-Wei Lin', 'Yang Liu']",Financial Cryptography Workshops,2021
+23,c,Automatic HMI Structure Exploration Via Curiosity-Based Reinforcement Learning.,"['Yushi Cao', 'Yan Zheng', 'Shang-Wei Lin', 'Yang Liu', 'Yon Shin Teo', 'Yuxuan Toh', 'Vinay Vishnumurthy Adiga']",ASE,2021
+24,c,A Generalized Formal Semantic Framework for Smart Contracts.,"['Jiao Jiao', 'Shang-Wei Lin', 'Jun Sun']",FASE,2020
+25,c,Automatic Verification of Multi-threaded Programs by Inference of Rely-Guarantee Specifications.,"['Xuan-Bach Le', 'David Sanán', 'Jun Sun', 'Shang-Wei Lin']",ICECCS,2020
+26,c,SeqMobile: An Efficient Sequence-Based Malware Detection System Using RNN on Mobile Devices.,"['Ruitao Feng', 'Jing Qiang Lim', 'Sen Chen', 'Shang-Wei Lin', 'Yang Liu']",ICECCS,2020
+27,c,Defense for adversarial videos by self-adaptive JPEG compression and optical texture.,"['Yupeng Cheng', 'Xingxing Wei', 'Huazhu Fu', 'Shang-Wei Lin', 'Weisi Lin']",MMAsia,2020
+28,c,Towards automated verification of smart contract fairness.,"['Ye Liu', 'Yi Li', 'Shang-Wei Lin', 'Rong Zhao']",ESEC/SIGSOFT FSE,2020
+29,c,ModCon: a model-based testing platform for smart contracts.,"['Ye Liu', 'Yi Li', 'Shang-Wei Lin', 'Qiang Yan']",ESEC/SIGSOFT FSE,2020
+30,c,Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity.,"['Jiao Jiao', 'Shuanglong Kan', 'Shang-Wei Lin', 'David Sanán', 'Yang Liu', 'Jun Sun']",IEEE Symposium on Security and Privacy,2020
+31,c,MobiDroid: A Performance-Sensitive Malware Detection System on Mobile Platform.,"['Ruitao Feng', 'Sen Chen', 'Xiaofei Xie', 'Lei Ma', 'Guozhu Meng', 'Yang Liu', 'Shang-Wei Lin']",ICECCS,2019
+32,c,A Performance-Sensitive Malware Detection System on Mobile Platform.,"['Ruitao Feng', 'Yang Liu', 'Shangwei Lin']",ICFEM,2019
+33,c,Vultron: catching vulnerable smart contracts once and for all.,"['Haijun Wang', 'Yi Li', 'Shang-Wei Lin', 'Lei Ma', 'Yang Liu']",ICSE (NIER),2019
+34,c,Learning Performance Optimization from Code Changes for Android Apps.,"['Ruitao Feng', 'Guozhu Meng', 'Xiaofei Xie', 'Ting Su', 'Yang Liu', 'Shang-Wei Lin']",ICST Workshops,2019
+35,c,Locating vulnerabilities in binaries via memory layout recovering.,"['Haijun Wang', 'Xiaofei Xie', 'Shang-Wei Lin', 'Yun Lin', 'Yuekang Li', 'Shengchao Qin', 'Yang Liu', 'Ting Liu']",ESEC/SIGSOFT FSE,2019
+36,c,A Neural Model for Method Name Generation from Functional Description.,"['Sa Gao', 'Chunyang Chen', 'Zhenchang Xing', 'Yukun Ma', 'Wen Song', 'Shang-Wei Lin']",SANER,2019
+37,c,Compositional Reasoning for Shared-Variable Concurrent Programs.,"['Fuyuan Zhang', 'Yongwang Zhao', 'David Sanán', 'Yang Liu', 'Alwen Tiu', 'Shang-Wei Lin', 'Jun Sun']",FM,2018
+38,c,Quasi-Open Bisimilarity with Mismatch is Intuitionistic.,"['Ross Horne', 'Ki Yung Ahn', 'Shang-Wei Lin', 'Alwen Tiu']",LICS,2018
+39,c,Process Patterns: Reusable Design Artifacts for Business Process Models.,"['Muhammad Ashad Kabir', 'Zhenchang Xing', 'Prakash Chandrasekaran', 'Shang-Wei Lin']",COMPSAC (1),2017
+40,c,Learning-Based Compositional Parameter Synthesis for Event-Recording Automata.,"['Étienne André', 'Shang-Wei Lin']",FORTE,2017
+41,c,Enhancing Knowledge Sharing in Stack Overflow via Automatic External Web Resources Linking.,"['Sa Gao', 'Zhenchang Xing', 'Yukun Ma', 'Deheng Ye', 'Shang-Wei Lin']",ICECCS,2017
+42,c,Automatic loop-invariant generation and refinement through selective sampling.,"['Jiaying Li', 'Jun Sun', 'Li Li', 'Quang Loc Le', 'Shang-Wei Lin']",ASE,2017
+43,c,FiB: squeezing loop invariants by interpolation between Forward/Backward predicate transformers.,"['Shang-Wei Lin', 'Jun Sun', 'Hao Xiao', 'Yang Liu', 'David Sanán', 'Henri Hansen']",ASE,2017
+44,c,Loopster: static loop termination analysis.,"['Xiaofei Xie', 'Bihuan Chen', 'Liang Zou', 'Shang-Wei Lin', 'Yang Liu', 'Xiaohong Li']",ESEC/SIGSOFT FSE,2017
+45,c,Steelix: program-state based binary fuzzing.,"['Yuekang Li', 'Bihuan Chen', 'Mahinthan Chandramohan', 'Shang-Wei Lin', 'Yang Liu', 'Alwen Tiu']",ESEC/SIGSOFT FSE,2017
+46,c,HDSKG: Harvesting domain specific knowledge graph from content of webpages.,"['Xuejiao Zhao', 'Zhenchang Xing', 'Muhammad Ashad Kabir', 'Naoya Sawada', 'Jing Li', 'Shang-Wei Lin']",SANER,2017
+47,c,Engineering Socially-Aware Systems and Applications.,"['Muhammad Ashad Kabir', 'Jun Han', 'Alan W. Colman', 'Naif R. Aljohani', 'Mohammed Basheri', 'Zhenchang Xing', 'Shang-Wei Lin']",ICECCS,2016
+48,c,Interpolation Guided Compositional Verification (T).,"['Shang-Wei Lin', 'Jun Sun', 'Truong Khanh Nguyen', 'Yang Liu', 'Jin Song Dong']",ASE,2015
+49,c,"TLV: abstraction through testing, learning, and validation.","['Jun Sun', 'Hao Xiao', 'Yang Liu', 'Shang-Wei Lin', 'Shengchao Qin']",ESEC/SIGSOFT FSE,2015
+50,c,Diamonds Are a Girl's Best Friend: Partial Order Reduction for Timed Automata with Abstractions.,"['Henri Hansen', 'Shang-Wei Lin', 'Yang Liu', 'Truong Khanh Nguyen', 'Jun Sun']",CAV,2014
+51,c,Compositional Synthesis of Concurrent Systems through Causal Model Checking and Learning.,"['Shang-Wei Lin', 'Pao-Ann Hsiung']",FM,2014
+52,c,CELL: A Compositional Verification Framework.,"['Kun Ji', 'Yang Liu', 'Shang-Wei Lin', 'Jun Sun', 'Jin Song Dong', 'Truong Khanh Nguyen']",ATVA,2013
+53,c,PSyHCoS: Parameter Synthesis for Hierarchical Concurrent Real-Time Systems.,"['Étienne André', 'Yang Liu', 'Jun Sun', 'Jin Song Dong', 'Shang-Wei Lin']",CAV,2013
+54,c,Generating C# Programs from CSP# Models.,"['Huiquan Zhu', 'Jin Song Dong', 'Bimlesh Wadhwa', 'Shang-Wei Lin']",ICST Workshops,2013
+55,c,TzuYu: Learning stateful typestates.,"['Hao Xiao', 'Jun Sun', 'Yang Liu', 'Shang-Wei Lin', 'Chengnian Sun']",ASE,2013
+56,c,Automatic Compositional Verification of Timed Systems.,"['Shang-Wei Lin', 'Yang Liu', 'Jun Sun', 'Jin Song Dong', 'Étienne André']",FM,2012
+57,c,Automatic Generation of Provably Correct Embedded Systems.,"['Shang-Wei Lin', 'Yang Liu', 'Pao-Ann Hsiung', 'Jun Sun', 'Jin Song Dong']",ICFEM,2012
+58,c,An Efficient Algorithm for Learning Event-Recording Automata.,"['Shang-Wei Lin', 'Étienne André', 'Jin Song Dong', 'Jun Sun', 'Yang Liu']",ATVA,2011
+59,c,VERTAF/Multi-Core: A SysML-Based Application Framework for Multi-Core Embedded Software Development.,"['Pao-Ann Hsiung', 'Chao-Sheng Lin', 'Shang-Wei Lin', 'Yean-Ru Chen', 'Chun-Hsien Lu', 'Sheng-Ya Tong', 'Wan-Ting Su', 'Chihhsiong Shih', 'Chorng-Shiuh Koong', 'Nien-Lin Hsueh', 'Chih-Hung Chang', 'William C. Chu']",ICA3PP,2009
+60,c,Model-driven development of multi-core embedded software.,"['Pao-Ann Hsiung', 'Shang-Wei Lin', 'Yean-Ru Chen', 'Nien-Lin Hsueh', 'Chih-Hung Chang', 'Chihhsiong Shih', 'Chorng-Shiuh Koong', 'Chao-Sheng Lin', 'Chun-Hsien Lu', 'Sheng-Ya Tong', 'Wan-Ting Su', 'William C. Chu']",IWMSE@ICSE,2009
+61,c,Real-Time Embedded Software Design for Mobile and Ubiquitous Systems.,"['Pao-Ann Hsiung', 'Shang-Wei Lin', 'Chin-Chieh Hung', 'Jih-Ming Fu', 'Chao-Sheng Lin', 'Cheng-Chi Chiang', 'Kuo-Cheng Chiang', 'Chun-Hsien Lu', 'Pin-Hsien Lu']",EUC,2007
+62,c,From ISA to application design via RTOS - a course design framework for embedded software.,"['Pao-Ann Hsiung', 'Shang-Wei Lin']",ICPADS,2007
+63,c,Model Checking Timed Systems with Urgencies.,"['Pao-Ann Hsiung', 'Shang-Wei Lin', 'Yean-Ru Chen', 'Chun-Hsian Huang', 'Jia-Jen Yeh', 'Hong-Yu Sun', 'Chao-Sheng Lin', 'Hsiao-Win Liao']",ATVA,2006
+64,c,Model Checking Prioritized Timed Automata.,"['Shang-Wei Lin', 'Pao-Ann Hsiung', 'Chun-Hsian Huang', 'Yean-Ru Chen']",ATVA,2005
+65,c,Model Checking Timed Systems with Priorities.,"['Pao-Ann Hsiung', 'Shang-Wei Lin']",RTCSA,2005
+66,c,Formal Design and Verification of Real-Time Embedded Software.,"['Pao-Ann Hsiung', 'Shang-Wei Lin']",APLAS,2004
+67,c,Automatic Synthesis and Verification of Real-Time Embedded Software.,"['Pao-Ann Hsiung', 'Shang-Wei Lin']",EUC,2004
+68,i,Enhancing Security Patch Identification by Capturing Structures in Commits.,"['Bozhi Wu', 'Shangqing Liu', 'Ruitao Feng', 'Xiaofei Xie', 'Jing Kai Siow', 'Shang-Wei Lin']",CoRR,2022
+69,i,Formal Analysis of Composable DeFi Protocols.,"['Palina Tolmach', 'Yi Li', 'Shang-Wei Lin', 'Yang Liu']",CoRR,2021
+70,i,A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.,"['Ruitao Feng', 'Sen Chen', 'Xiaofei Xie', 'Guozhu Meng', 'Shang-Wei Lin', 'Yang Liu']",CoRR,2020
+71,i,Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.,"['Yupeng Cheng', 'Qing Guo', 'Felix Juefei-Xu', 'Xiaofei Xie', 'Shang-Wei Lin', 'Weisi Lin', 'Wei Feng', 'Yang Liu']",CoRR,2020
+72,i,A Survey of Smart Contract Formal Specification and Verification.,"['Palina Tolmach', 'Yi Li', 'Shang-Wei Lin', 'Yang Liu', 'Zengxiang Li']",CoRR,2020
+73,i,Adversarial Exposure Attack on Diabetic Retinopathy Imagery.,"['Yupeng Cheng', 'Felix Juefei-Xu', 'Qing Guo', 'Huazhu Fu', 'Xiaofei Xie', 'Shang-Wei Lin', 'Weisi Lin', 'Yang Liu']",CoRR,2020
+74,i,SeqMobile: A Sequence Based Efficient Android Malware Detection System Using RNN on Mobile Devices.,"['Ruitao Feng', 'Jing Qiang Lim', 'Sen Chen', 'Shang-Wei Lin', 'Yang Liu']",CoRR,2020
+75,i,Oracle-Supported Dynamic Exploit Generation for Smart Contracts.,"['Haijun Wang', 'Yi Li', 'Shang-Wei Lin', 'Cyrille Artho', 'Lei Ma', 'Yang Liu']",CoRR,2019
+76,i,Executable Operational Semantics of Solidity.,"['Jiao Jiao', 'Shuanglong Kan', 'Shang-Wei Lin', 'David Sanán', 'Yang Liu', 'Jun Sun']",CoRR,2018
+77,i,K-Rust: An Executable Formal Semantics for Rust.,"['Shuanglong Kan', 'David Sanán', 'Shang-Wei Lin', 'Yang Liu']",CoRR,2018
+78,i,The language preservation problem is undecidable for parametric event-recording automata.,"['Étienne André', 'Shang-Wei Lin']",CoRR,2018
+79,i,Compositional Reasoning for Shared-variable Concurrent Programs.,"['Fuyuan Zhang', 'Yongwang Zhao', 'David Sanán', 'Yang Liu', 'Alwen Tiu', 'Shang-Wei Lin', 'Zhimin Wu', 'Jun Sun']",CoRR,2016
+80,e,"Formal Methods and Software Engineering - 22nd International Conference on Formal Engineering Methods, ICFEM 2020, Singapore, Singapore, March 1-3, 2021, Proceedings.","['Shang-Wei Lin', 'Zhe Hou', 'Brendan P. Mahony']",Lecture Notes in Computer Science,2020
+81,e,"Proceedings 2nd French Singaporean Workshop on Formal Methods and Applications, FSFMA 2014, Singapore, 13th May 2014.","['Shang-Wei Lin', 'Laure Petrucci']",EPTCS,2014

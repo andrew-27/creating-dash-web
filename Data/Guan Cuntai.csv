@@ -1,0 +1,275 @@
+,type,name,author,event,year
+0,j,ME-PLAN: A deep prototypical learning with local attention network for dynamic micro-expression recognition.,"['Sirui Zhao', 'Huaying Tang', 'Shifeng Liu', 'Yangsong Zhang', 'Hao Wang', 'Tong Xu', 'Enhong Chen', 'Cuntai Guan']",Neural Networks,2022
+1,j,Visual-to-EEG cross-modal knowledge distillation for continuous emotion recognition.,"['Su Zhang', 'Chuangao Tang', 'Cuntai Guan']",Pattern Recognit.,2022
+2,j,Design a Novel BCI for Neurorehabilitation Using Concurrent LFP and EEG Features: A Case Study.,"['Zhao Feng', 'Yi Sun', 'Linze Qian', 'Yu Qi', 'Yueming Wang', 'Cuntai Guan', 'Yu Sun']",IEEE Trans. Biomed. Eng.,2022
+3,j,MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification.,"['Phairot Autthasan', 'Rattanaphon Chaisaen', 'Thapanun Sudhawiyangkul', 'Phurin Rangpong', 'Suktipol Kiatthaveephong', 'Nat Dilokthanakul', 'Gun Bhakdisongkhram', 'Huy Phan', 'Cuntai Guan', 'Theerawit Wilaiprasitporn']",IEEE Trans. Biomed. Eng.,2022
+4,j,Spatio-Spectral Feature Representation for Motor Imagery Classification Using Convolutional Neural Networks.,"['Ji-Seon Bang', 'Min-Ho Lee', 'Siamac Fazli', 'Cuntai Guan', 'Seong-Whan Lee']",IEEE Trans. Neural Networks Learn. Syst.,2022
+5,j,Neurorehabilitation From a Distance: Can Intelligent Technology Support Decentralized Access to Quality Therapy?,"['Olivier Lambercy', 'Rea Lehner', 'Karen Sui Geok Chua', 'Seng Kwee Wee', 'Deshan Kumar Rajeswaran', 'Christopher Wee Keong Kuah', 'Wei Tech Ang', 'Phyllis Liang', 'Domenico Campolo', 'Asif Hussain', 'Gabriel Aguirre-Ollinger', 'Cuntai Guan', 'Christoph M. Kanzler', 'Nicole Wenderoth', 'Roger Gassert']",Frontiers Robotics AI,2021
+6,j,fMRI-SI-STBF: An fMRI-informed Bayesian electromagnetic spatio-temporal extended source imaging.,"['Ke Liu', 'Zhu Liang Yu', 'Wei Wu', 'Xun Chen', 'Zhenghui Gu', 'Cuntai Guan']",Neurocomputing,2021
+7,j,WiFi-Sleep: Sleep Stage Monitoring Using Commodity Wi-Fi Devices.,"['Bohan Yu', 'Yuxiang Wang', 'Kai Niu', 'Youwei Zeng', 'Tao Gu', 'Leye Wang', 'Cuntai Guan', 'Daqing Zhang']",IEEE Internet Things J.,2021
+8,j,Adaptive transfer learning for EEG motor imagery classification with deep Convolutional Neural Network.,"['Kaishuo Zhang', 'Neethu Robinson', 'Seong-Whan Lee', 'Cuntai Guan']",Neural Networks,2021
+9,j,An end-to-end 3D convolutional neural network for decoding attentive mental state.,"['Yangsong Zhang', 'Huan Cai', 'Li Nie', 'Peng Xu', 'Sirui Zhao', 'Cuntai Guan']",Neural Networks,2021
+10,j,Decoding Single-Hand and Both-Hand Movement Directions From Noninvasive Neural Signals.,"['Jiarong Wang', 'Luzheng Bi', 'Weijie Fei', 'Cuntai Guan']",IEEE Trans. Biomed. Eng.,2021
+11,j,DSAL: Deeply Supervised Active Learning From Strong and Weak Labelers for Biomedical Image Segmentation.,"['Ziyuan Zhao', 'Zeng Zeng', 'Kaixin Xu', 'Cen Chen', 'Cuntai Guan']",IEEE J. Biomed. Health Informatics,2021
+12,j,Generative Adversarial Networks-Based Data Augmentation for Brain-Computer Interface.,"['Fatemeh Fahimi', 'Strahinja Dosen', 'Kai Keng Ang', 'Natalie Mrachacz-Kersting', 'Cuntai Guan']",IEEE Trans. Neural Networks Learn. Syst.,2021
+13,j,A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI.,"['Erico Tjoa', 'Cuntai Guan']",IEEE Trans. Neural Networks Learn. Syst.,2021
+14,j,A Brain-Computer Interface Framework Based on Compressive Sensing and Deep Learning.,"['Ritu Ranjan Shrivastwa', 'Vikramkumar Pudi', 'Duo Chen', 'Rosa Q. So', 'Anupam Chattopadhyay', 'Cuntai Guan']",IEEE Consumer Electron. Mag.,2020
+15,j,Assessment of the Efficacy of EEG-Based MI-BCI With Visual Feedback and EEG Correlates of Mental Fatigue for Upper-Limb Stroke Rehabilitation.,"['Ruyi Foong', 'Ning Tang', 'Effie Chew', 'Karen Sui Geok Chua', 'Kai Keng Ang', 'Chai Quek', 'Cuntai Guan', 'Kok Soon Phua', 'Christopher Wee Keong Kuah', 'Deshmukh Arun Vishwanath', 'Lester Hon Lum Yam', 'Deshan Kumar Rajeswaran']",IEEE Trans. Biomed. Eng.,2020
+16,j,Brain-Computer Interface-Based Soft Robotic Glove Rehabilitation for Stroke.,"['Nicholas Cheng', 'Kok Soon Phua', 'Hwa Sen Lai', 'Pui Kit Tam', 'Ka Yin Tang', 'Cheng Kai Kei', 'Raye Chen-Hua Yeow', 'Kai Keng Ang', 'Cuntai Guan', 'Jeong Hoon Lim']",IEEE Trans. Biomed. Eng.,2020
+17,j,A Context-Aware Locality Measure for Inlier Pool Enrichment in Stepwise Image Registration.,"['Su Zhang', 'Wanjing Zhao', 'Xuying Hao', 'Yang Yang', 'Cuntai Guan']",IEEE Trans. Image Process.,2020
+18,j,Subject-Independent Brain-Computer Interfaces Based on Deep Convolutional Neural Networks.,"['O-Yeon Kwon', 'Min-Ho Lee', 'Cuntai Guan', 'Seong-Whan Lee']",IEEE Trans. Neural Networks Learn. Syst.,2020
+19,j,A review on EMG-based motor intention prediction of continuous human upper limb motion for human-robot collaboration.,"['Luzheng Bi', 'Feleke Aberham Genetu', 'Cuntai Guan']",Biomed. Signal Process. Control.,2019
+20,j,Robust Nonlinear Causality Analysis of Nonstationary Multivariate Physiological Time Series.,"['Tim Schäck', 'Michael Muma', 'Mengling Feng', 'Cuntai Guan', 'Abdelhak M. Zoubir']",IEEE Trans. Biomed. Eng.,2018
+21,j,Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks.,"['Siavash Sakhavi', 'Cuntai Guan', 'Shuicheng Yan']",IEEE Trans. Neural Networks Learn. Syst.,2018
+22,j,Facilitating motor imagery-based brain-computer interface for stroke patients using passive movement.,"['Mahnaz Arvaneh', 'Cuntai Guan', 'Kai Keng Ang', 'Tomás E. Ward', 'Karen Sui Geok Chua', 'Christopher Wee Keong Kuah', 'Gopal Joseph Ephraim Joseph', 'Kok Soon Phua', 'Chuanchu Wang']",Neural Comput. Appl.,2017
+23,j,Discriminative Ocular Artifact Correction for Feature Learning in EEG Analysis.,"['Xinyang Li', 'Cuntai Guan', 'Haihong Zhang', 'Kai Keng Ang']",IEEE Trans. Biomed. Eng.,2017
+24,j,Automatic EEG Artifact Removal Techniques by Detecting Influential Independent Components.,"['Sim Kuan Goh', 'Hussein A. Abbass', 'Kay Chen Tan', 'Abdullah Al Mamun', 'Chuanchu Wang', 'Cuntai Guan']",IEEE Trans. Emerg. Top. Comput. Intell.,2017
+25,j,A New Variational Method for Bias Correction and Its Applications to Rodent Brain Extraction.,"['Huibin Chang', 'Weimin Huang', 'Chunlin Wu', 'Su Huang', 'Cuntai Guan', 'Sakthivel Sekar', 'Kishore Kumar Bhakoo', 'Yuping Duan']",IEEE Trans. Medical Imaging,2017
+26,j,A Unified Fisher's Ratio Learning Method for Spatial Filter Optimization.,"['Xinyang Li', 'Cuntai Guan', 'Haihong Zhang', 'Kai Keng Ang']",IEEE Trans. Neural Networks Learn. Syst.,2017
+27,j,Computational Intelligence for Brain Computer Interface [Guest Editorial].,"['Hussein A. Abbass', 'Cuntai Guan', 'Kay Chen Tan']",IEEE Comput. Intell. Mag.,2016
+28,j,Brain-Computer Interface for Neurorehabilitation of Upper Limb After Stroke.,"['Kai Keng Ang', 'Cuntai Guan']",Proc. IEEE,2015
+29,j,Cluster-Based Analysis for Personalized Stress Evaluation Using Physiological Signals.,"['Qianli Xu', 'Tin Lay Nwe', 'Cuntai Guan']",IEEE J. Biomed. Health Informatics,2015
+30,j,Mutual information-based optimization of sparse spatio-spectral filters in brain-computer interface.,"['Mahnaz Arvaneh', 'Cuntai Guan', 'Kai Keng Ang', 'Chai Quek']",Neural Comput. Appl.,2014
+31,j,eT2FIS: An Evolving Type-2 Neural Fuzzy Inference System.,"['Sau Wai Tung', 'Chai Quek', 'Cuntai Guan']",Inf. Sci.,2013
+32,j,Brain-Computer Interface in Stroke Rehabilitation.,"['Kai Keng Ang', 'Cuntai Guan']",J. Comput. Sci. Eng.,2013
+33,j,EEG Data Space Adaptation to Reduce Intersession Nonstationarity in Brain-Computer Interface.,"['Mahnaz Arvaneh', 'Cuntai Guan', 'Kai Keng Ang', 'Chai Quek']",Neural Comput.,2013
+34,j,Discriminative Learning of Propagation and Spatial Pattern for Motor Imagery EEG Analysis.,"['Xinyang Li', 'Haihong Zhang', 'Cuntai Guan', 'Sim Heng Ong', 'Kai Keng Ang', 'Yaozhang Pan']",Neural Comput.,2013
+35,j,Quantifying Limb Movements in Epileptic Seizures Through Color-Based Video Analysis.,"['Haiping Lu', 'Yaozhang Pan', 'Bappaditya Mandal', 'How-Lung Eng', 'Cuntai Guan', 'Derrick W. S. Chan']",IEEE Trans. Biomed. Eng.,2013
+36,j,EEG-Based Classification of Fast and Slow Hand Movements Using Wavelet-CSP Algorithm.,"['Neethu Robinson', 'A. Prasad Vinod', 'Kai Keng Ang', 'Keng Peng Tee', 'Cuntai Guan']",IEEE Trans. Biomed. Eng.,2013
+37,j,Optimizing Spatial Filters by Minimizing Within-Class Dissimilarities in Electroencephalogram-Based Brain-Computer Interface.,"['Mahnaz Arvaneh', 'Cuntai Guan', 'Kai Keng Ang', 'Chai Quek']",IEEE Trans. Neural Networks Learn. Syst.,2013
+38,j,Bayesian Learning for Spatial Filtering in an EEG-Based Brain-Computer Interface.,"['Haihong Zhang', 'Huijuan Yang', 'Cuntai Guan']",IEEE Trans. Neural Networks Learn. Syst.,2013
+39,j,SoHyFIS-Yager: A self-organizing Yager based Hybrid neural Fuzzy Inference System.,"['Sau Wai Tung', 'Chai Quek', 'Cuntai Guan']",Expert Syst. Appl.,2012
+40,j,Mutual information-based selection of optimal spatial-temporal patterns for single-trial EEG-based BCIs.,"['Kai Keng Ang', 'Zhengyang Chin', 'Haihong Zhang', 'Cuntai Guan']",Pattern Recognit.,2012
+41,j,A linear discriminant analysis method based on mutual information maximization.,"['Haihong Zhang', 'Cuntai Guan', 'Yuanqing Li']",Pattern Recognit.,2011
+42,j,Regularizing Common Spatial Patterns to Improve BCI Designs: Unified Theory and New Algorithms.,"['Fabien Lotte', 'Cuntai Guan']",IEEE Trans. Biomed. Eng.,2011
+43,j,Optimizing the Channel Selection and Classification Accuracy in EEG-Based BCI.,"['Mahnaz Arvaneh', 'Cuntai Guan', 'Kai Keng Ang', 'Chai Quek']",IEEE Trans. Biomed. Eng.,2011
+44,j,Optimum Spatio-Spectral Filtering Network for Brain-Computer Interface.,"['Haihong Zhang', 'Zhengyang Chin', 'Kai Keng Ang', 'Cuntai Guan', 'Chuanchu Wang']",IEEE Trans. Neural Networks,2011
+45,j,SaFIN: A Self-Adaptive Fuzzy Inference Network.,"['Sau Wai Tung', 'Chai Quek', 'Cuntai Guan']",IEEE Trans. Neural Networks,2011
+46,j,An EEG-Based BCI System for 2-D Cursor Control by Combining Mu/Beta Rhythm and P300 Potential.,"['Yuanqing Li', 'Jinyi Long', 'Tianyou Yu', 'Zhuliang Yu', 'Chuanchu Wang', 'Haihong Zhang', 'Cuntai Guan']",IEEE Trans. Biomed. Eng.,2010
+47,j,Regularized Common Spatial Pattern With Aggregation for EEG Classification in Small-Sample Setting.,"['Haiping Lu', 'How-Lung Eng', 'Cuntai Guan', 'Konstantinos N. Plataniotis', 'Anastasios N. Venetsanopoulos']",IEEE Trans. Biomed. Eng.,2010
+48,j,Voxel Selection in fMRI Data Analysis Based on Sparse Representation.,"['Yuanqing Li', 'Praneeth Namburi', 'Zhuliang Yu', 'Cuntai Guan', 'Jianfeng Feng', 'Zhenghui Gu']",IEEE Trans. Biomed. Eng.,2009
+49,j,A New Discriminative Common Spatial Pattern Method for Motor Imagery Brain-Computer Interfaces.,"['Kavitha P. Thomas', 'Cuntai Guan', 'Chiew Tong Lau', 'A. Prasad Vinod', 'Kai Keng Ang']",IEEE Trans. Biomed. Eng.,2009
+50,j,Joint feature re-extraction and classification using an iterative semi-supervised support vector machine algorithm.,"['Yuanqing Li', 'Cuntai Guan']",Mach. Learn.,2008
+51,j,A self-training semi-supervised SVM algorithm and its application in an EEG-based brain computer interface speller system.,"['Yuanqing Li', 'Cuntai Guan', 'Huiqi Li', 'Zhengyang Chin']",Pattern Recognit. Lett.,2008
+52,j,Asynchronous P300-Based Brain-Computer Interfaces: A Computational Approach With Statistical Models.,"['Haihong Zhang', 'Cuntai Guan', 'Chuanchu Wang']",IEEE Trans. Biomed. Eng.,2008
+53,j,Equivalence Probability and Sparsity of Two Sparse Solutions in Sparse Representation.,"['Yuanqing Li', 'Andrzej Cichocki', 'Shun-ichi Amari', 'Shengli Xie', 'Cuntai Guan']",IEEE Trans. Neural Networks,2008
+54,j,Expectation-Maximization Method for EEG-Based Continuous Cursor Control.,"['Xiaoyuan Zhu', 'Cuntai Guan', 'Jiankang Wu', 'Yimin Cheng', 'Yixiao Wang']",EURASIP J. Adv. Signal Process.,2007
+55,j,Controlling a Wheelchair Indoors Using Thought.,"['Brice Rebsamen', 'Etienne Burdet', 'Cuntai Guan', 'Haihong Zhang', 'Chee Leong Teo', 'Qiang Zeng', 'Christian Laugier', 'Marcelo H. Ang Jr.']",IEEE Intell. Syst.,2007
+56,j,Temporal classification of multichannel near-infrared spectroscopy signals of motor imagery for developing a brain-computer interface.,"['Ranganatha Sitaram', 'Haihong Zhang', 'Cuntai Guan', 'Manoj Thulasidas', 'Yoko Hoshi', 'Akihiro Ishikawa', 'Koji Shimizu', 'Niels Birbaumer']",NeuroImage,2007
+57,j,An Extended EM Algorithm for Joint Feature Extraction and Classification in Brain-Computer Interfaces.,"['Yuanqing Li', 'Cuntai Guan']",Neural Comput.,2006
+58,j,Probability Estimation for Recoverability Analysis of Blind Source Separation Based on Sparse Representation.,"['Yuanqing Li', 'Shun-ichi Amari', 'Andrzej Cichocki', 'Cuntai Guan']",IEEE Trans. Inf. Theory,2006
+59,c,Continuous Emotion Recognition using Visual-audio-linguistic Information: A Technical Report for ABAW3.,"['Su Zhang', 'Ruyi An', 'Yi Ding', 'Cuntai Guan']",CVPR Workshops,2022
+60,c,Self-supervised Assisted Active Learning for Skin Lesion Segmentation.,"['Ziyuan Zhao', 'Wenjing Lu', 'Zeng Zeng', 'Kaixin Xu', 'Bharadwaj Veeravalli', 'Cuntai Guan']",EMBC,2022
+61,c,MATN: Multi-model Attention Network for Gait Prediction from EEG.,"['Xi Fu', 'Liming Zhao', 'Cuntai Guan']",IJCNN,2022
+62,c,TESANet: Self-attention network for olfactory EEG classification.,"['Chengxuan Tong', 'Yi Ding', 'Kevin Lim Jun Liang', 'Zhuo Zhang', 'Haihong Zhang', 'Cuntai Guan']",IJCNN,2022
+63,c,Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation.,"['Ziyuan Zhao', 'Fangcheng Zhou', 'Zeng Zeng', 'Cuntai Guan', 'S. Kevin Zhou']",MICCAI (5),2022
+64,c,Learning Generalized Representations of EEG between Multiple Cognitive Attention Tasks.,"['Yi Ding', 'Nigel Wei Jun Ang', 'Aung Aung Phyo Wai', 'Cuntai Guan']",EMBC,2021
+65,c,Performance Evaluation of Compressed Deep CNN for Motor Imagery Classification using EEG.,"['R. Vishnupriya', 'Neethu Robinson', 'Ramasubba Reddy M', 'Cuntai Guan']",EMBC,2021
+66,c,Hierarchical Consistency Regularized Mean Teacher for Semi-supervised 3D Left Atrium Segmentation.,"['Shumeng Li', 'Ziyuan Zhao', 'Kaixin Xu', 'Zeng Zeng', 'Cuntai Guan']",EMBC,2021
+67,c,A Study of Visual Search based Calibration Protocol for EEG Attention Detection.,"['Aung Aung Phyo Wai', 'Jee Ern Tchen', 'Cuntai Guan']",EMBC,2021
+68,c,Investigation on Robustness of EEG-based Brain-Computer Interfaces.,"['Aarthy Nagarajan', 'Neethu Robinson', 'Cuntai Guan']",EMBC,2021
+69,c,Continuous Emotion Recognition with Audio-visual Leader-follower Attentive Fusion.,"['Su Zhang', 'Yi Ding', 'Ziquan Wei', 'Cuntai Guan']",ICCVW,2021
+70,c,Time-Series Representation Learning via Temporal and Contextual Contrasting.,"['Emadeldeen Eldele', 'Mohamed Ragab', 'Zhenghua Chen', 'Min Wu', 'Chee Keong Kwoh', 'Xiaoli Li', 'Cuntai Guan']",IJCAI,2021
+71,c,MT-UDA: Towards Unsupervised Cross-modality Medical Image Segmentation with Limited Source Labels.,"['Ziyuan Zhao', 'Kaixin Xu', 'Shumeng Li', 'Zeng Zeng', 'Cuntai Guan']",MICCAI (1),2021
+72,c,BCI Facilitates the Improvement of Cognitive Functions in Children and Elderly.,"['Cuntai Guan', 'Choon Guan Lim', 'Daniel Fung', 'Juan Helen Zhou', 'Ranga Krishnan', 'Tih Shih Lee']",BCI,2020
+73,c,Interpreting mechanisms of prediction for skin cancer diagnosis using multi-task learning.,"['Davide Coppola', 'Hwee Kuan Lee', 'Cuntai Guan']",CVPR Workshops,2020
+74,c,Emotion Recognition with Refined Labels for Deep Learning.,"['Su Zhang', 'Cuntai Guan']",EMBC,2020
+75,c,Minimizing Hybrid Dice Loss for Highly Imbalanced 3D Neuroimage Segmentation.,"['Yuhao Lu', 'Juan Helen Zhou', 'Cuntai Guan']",EMBC,2020
+76,c,Deep Learning for Neuroimaging Segmentation with a Novel Data Augmentation Strategy.,"['Wenshan Wu', 'Yuhao Lu', 'Ravikiran Mane', 'Cuntai Guan']",EMBC,2020
+77,c,Brain MRI-based 3D Convolutional Neural Networks for Classification of Schizophrenia and Controls.,"['Mengjiao Hu', 'Kang Sim', 'Juan Helen Zhou', 'Xudong Jiang', 'Cuntai Guan']",EMBC,2020
+78,c,A Multi-view CNN with Novel Variance Layer for Motor Imagery Brain Computer Interface.,"['Ravikiran Mane', 'Neethu Robinson', 'A. Prasad Vinod', 'Seong-Whan Lee', 'Cuntai Guan']",EMBC,2020
+79,c,Generalizability of EEG-based Mental Attention Modeling with Multiple Cognitive Tasks.,"['Aung Aung Phyo Wai', 'Maokang Dou', 'Cuntai Guan']",EMBC,2020
+80,c,Effects of Stimulus Spatial Resolution on SSVEP Responses under Overt and Covert Attention.,"['Aung Aung Phyo Wai', 'Jun Cong Lee', 'Tao Yang', 'Rosa Q. So', 'Cuntai Guan']",EMBC,2020
+81,c,Federated Transfer Learning for EEG Signal Classification.,"['Ce Ju', 'Dashan Gao', 'Ravikiran Mane', 'Ben Tan', 'Yang Liu', 'Cuntai Guan']",EMBC,2020
+82,c,TSception: A Deep Learning Framework for Emotion Detection Using EEG.,"['Yi Ding', 'Neethu Robinson', 'Qiuhao Zeng', 'Duo Chen', 'Aung Aung Phyo Wai', 'Tih Shih Lee', 'Cuntai Guan']",IJCNN,2020
+83,c,Optimizing Filter-bank Canonical Correlation Analysis for fast response SSVEP Brain-Computer Interface (BCI).,"['Aung Aung Phyo Wai', 'Heng Guo', 'Ying Chi', 'Lei Zhang', 'Xian-Sheng Hua', 'Cuntai Guan']",IJCNN,2020
+84,c,Deep Multi-Task Learning for SSVEP Detection and Visual Response Mapping.,"['Hong Jing Khok', 'Victor Teck Chang Koh', 'Cuntai Guan']",SMC,2020
+85,c,Towards EEG Generation Using GANs for BCI Applications.,"['Fatemeh Fahimi', 'Zhuo Zhang', 'Wooi Boon Goh', 'Kai Keng Ang', 'Cuntai Guan']",BHI,2019
+86,c,Three-class Motor Imagery Classification Based on FBCSP Combined with Voting Mechanism.,"['Bo Li', 'Banghua Yang', 'Cuntai Guan', 'Chenxiao Hu']",CIVEMSA,2019
+87,c,Motor imagery signal classification based on transfer learning.,"['Banghua Yang', 'Minmin Zheng', 'Cuntai Guan', 'Li Bo']",CIVEMSA,2019
+88,c,A Framework on Optimization Strategy for EEG Motor Imagery Recognition.,"['Banghua Yang', 'Chengcheng Fan', 'Cuntai Guan', 'Xuelin Gu', 'Minmin Zheng']",EMBC,2019
+89,c,Exploring Cortex Connectivity Signal in Sensory Response to Odors.,"['Zhuo Zhang', 'Haihong Zhang', 'Lu Zhang', 'Cuntai Guan']",EMBC,2019
+90,c,Intracortical Activity decoding of motor imagery based on Deep Convolutional Neural Network: a Pilot Study.,"['Duo Chen', 'Rosa Q. So', 'Yi Ding', 'Cuntai Guan']",GBCIC,2019
+91,c,Improving the Performance of SSVEP BCI with Short Response Time by Temporal Alignments Enhanced CCA.,"['Aung Aung Phyo Wai', 'Min-Ho Lee', 'Seong-Whan Lee', 'Cuntai Guan']",NER,2019
+92,c,Motor-Controlled Spindle (MCS) Detection for Primate in BCI System.,"['Duo Chen', 'Rosa Q. So', 'Yi Ding', 'Cuntai Guan']",NER,2019
+93,c,EEG Representation in Deep Convolutional Neural Networks for Classification of Motor Imagery.,"['Neethu Robinson', 'Seong-Whan Lee', 'Cuntai Guan']",SMC,2019
+94,c,A Comparative Study of Mental States in 2D and 3D Virtual Environments Using EEG.,"['Pinar Bilgin', 'Kat Agres', 'Neethu Robinson', 'Aung Aung Phyo Wai', 'Cuntai Guan']",SMC,2019
+95,c,A Single-Trial Event-Related Potential Estimation Based on Independent Component Analysis and Kalman Smoother.,"['Jingwei Zhang', 'Luzheng Bi', 'Jinling Lian', 'Cuntai Guan']",AIM,2018
+96,c,A Study of the Role of Attention in Classifying Covert and Overt Motor Activities.,"['Banghua Yang', 'Jinlong Wang', 'Cuntai Guan', 'Chenxiao Hu', 'Jianguo Wang']",BICS,2018
+97,c,Motor Imagery EEG Recognition Based on FBCSP and PCA.,"['Banghua Yang', 'Jianzhen Tang', 'Cuntai Guan', 'Bo Li']",BICS,2018
+98,c,Spectrum and Phase Adaptive CCA for SSVEP-based Brain Computer Interface.,"['Zhuo Zhang', 'Chuanchu Wang', 'Kai Keng Ang', 'Aung Aung Phyo Wai', 'Cuntai Guan']",EMBC,2018
+99,c,Differential Amplitude of Low-Frequency Fluctuations in brain networks after BCI Training with and without tDCS in Stroke.,"['Mengjiao Hu', 'Fang Ji', 'Zhongkang Lu', 'Weimin Huang', 'Reza Khosrowabadi', 'Ling Zhao', 'Kai Keng Ang', 'Kok Soon Phua', 'Fatima Ali Nasrallah', 'Kai-Hsiang Chuang', 'Mary C. Stephenson', 'John J. Totman', 'Xudong Jiang', 'Effie Chew', 'Cuntai Guan', 'Juan Helen Zhou']",EMBC,2018
+100,c,Quantitative EEG as Biomarkers for the Monitoring of Post-Stroke Motor Recovery in BCI and tDCS Rehabilitation.,"['Ravikiran Mane', 'Effie Chew', 'Kok Soon Phua', 'Kai Keng Ang', 'A. Prasad Vinod', 'Cuntai Guan']",EMBC,2018
+101,c,Neural Indexes of Attention Extracted from EEG Correlate with Elderly Reaction Time in response to an Attentional Task.,"['Fatemeh Fahimi', 'Wooi Boon Goh', 'Tih Shih Lee', 'Cuntai Guan']",ICCSE,2018
+102,c,A Study of SSVEP Responses in Case of Overt and Covert Visual Attention with Different View Angles.,"['Aung Aung Phyo Wai', 'Zhiyan Goh', 'Shi De Foo', 'Cuntai Guan']",SMC,2018
+103,c,Detecting and tracking multiple directional movements in EEG based BCI.,"['Cuntai Guan', 'Neethu Robinson', 'Vikram Shenoy Handiru', 'A. Prasad Vinod']",BCI,2017
+104,c,Personalized features for attention detection in children with Attention Deficit Hyperactivity Disorder.,"['Fatemeh Fahimi', 'Cuntai Guan', 'Wooi Boon Goh', 'Kai Keng Ang', 'Choon Guan Lim', 'Tih Shih Lee']",EMBC,2017
+105,c,Boosting performance in brain-machine interface by classifier-level fusion based on accumulative training models from multi-day data.,"['Huijuan Yang', 'Camilo Libedinsky', 'Cuntai Guan', 'Kai Keng Ang', 'Rosa Q. So']",EMBC,2017
+106,c,Stop state classification in intracortical brain-machine-interface.,"['Tze Hui Koh', 'Camilo Libedinsky', 'Cuntai Guan', 'Kai Keng Ang', 'Rosa Q. So']",EMBC,2017
+107,c,The P300 BCI: on its Way to End-Users?,"['Andrea Kübler', 'Klaus-Robert Müller', 'Cuntai Guan']",GBCIC,2017
+108,c,Use of wavelet transform coefficients for spike detection for a Robust Intracortical Brain Machine Interface.,"['Gary C. F. Lee', 'Camilo Libedinsky', 'Cuntai Guan', 'Rosa Q. So']",NER,2017
+109,c,A comparison of DTI pre-processing tools on a dataset of chronic subcortical stroke rehabilitation patients.,"['Zhongkang Lu', 'Weimin Huang', 'Cuntai Guan']",NER,2017
+110,c,Convolutional neural network-based transfer learning and knowledge distillation using multi-subject data in motor imagery BCI.,"['Siavash Sakhavi', 'Cuntai Guan']",NER,2017
+111,c,Effects of transcranial direct current stimulation on the motor-imagery brain-computer interface for stroke recovery: An EEG source-space study.,"['Vikram Shenoy Handiru', 'A. Prasad Vinod', 'Kai Keng Ang', 'Effie Chew', 'Cuntai Guan']",SMC,2017
+112,c,Adaptation in motor imagery brain-computer interfaces and its implication in rehabilitation.,['Cuntai Guan'],BCI,2016
+113,c,Multi-direction hand movement classification using EEG-based source space analysis.,"['Vikram Shenoy Handiru', 'A. Prasad Vinod', 'Cuntai Guan']",EMBC,2016
+114,c,Adaptive decoding using local field potentials in a brain-machine interface.,"['Rosa Q. So', 'Camilo Libedinsky', 'Kai Keng Ang', 'Wee Chiek Clement Lim', 'Kyaw Kyar Toe', 'Cuntai Guan']",EMBC,2016
+115,c,Multiway analysis of EEG artifacts based on Block Term Decomposition.,"['Sim Kuan Goh', 'Hussein A. Abbass', 'Kay Chen Tan', 'Abdullah Al Mamun', 'Cuntai Guan', 'Chuanchu Wang']",IJCNN,2016
+116,c,High-resolution in vivo Wistar rodent brain atlas based on T1 weighted image.,"['Su Huang', 'Zhongkang Lu', 'Weimin Huang', 'Sankar Seramani', 'Boominathan Ramasamy', 'Sakthivel Sekar', 'Cuntai Guan', 'Kishore Kumar Bhakoo']","Medical Imaging: Biomedical Applications in Molecular, Structural, and Functional Imaging",2016
+117,c,A novel supervised locality sensitive Factor analysis to classify voluntary hand movement in multi direction using EEG source space.,"['Vikram Shenoy Handiru', 'A. Prasad Vinod', 'Cuntai Guan']",SMC,2016
+118,c,Spatial filter subspace optimization based on mutual information.,"['Xinyang Li', 'Cuntai Guan', 'Kai Keng Ang', 'Haihong Zhang']",ICICS,2015
+119,c,Shrinkage estimator based regularization for EEG motor imagery classification.,"['H. Vikram Shenoy', 'A. Prasad Vinod', 'Cuntai Guan']",ICICS,2015
+120,c,A measurement of motor recovery for motor imagery-based BCI using EEG coherence analysis.,"['Sau Wai Tung', 'Cuntai Guan', 'Kai Keng Ang', 'Kok Soon Phua', 'Chuanchu Wang', 'Christopher Wee Keong Kuah', 'Karen Sui Geok Chua', 'Yee Sien Ng', 'Ling Zhao', 'Effie Chew']",ICICS,2015
+121,c,Brain-computer interface and its applications in cognitive training.,"['Cuntai Guan', 'Tih Shih Lee', 'Choon Guan Lim', 'Daniel Fung', 'Ranga Krishnan']",BCI,2015
+122,c,Combining firing rate and spike-train synchrony features in the decoding of motor cortical activity.,"['Gabriel Chew', 'Kai Keng Ang', 'Rosa Q. So', 'Zhiming Xu', 'Cuntai Guan']",EMBC,2015
+123,c,On the use of convolutional neural networks and augmented CSP features for multi-class motor imagery of EEG signals classification.,"['Huijuan Yang', 'Siavash Sakhavi', 'Kai Keng Ang', 'Cuntai Guan']",EMBC,2015
+124,c,EC-PC spike detection for high performance brain-computer interface.,"['Wing-Kin Tam', 'Rosa Q. So', 'Cuntai Guan', 'Zhi Yang']",EMBC,2015
+125,c,Combining EPI and motion correction for fMRI human brain images with big motion.,"['Zhongkang Lu', 'Kok Soon Phua', 'Weimin Huang', 'Xin Hong', 'Fatima Ali Nasrallah', 'Kai-Hsiang Chuang', 'Cuntai Guan']",EMBC,2015
+126,c,Frame-based compressive sensing MR image reconstruction with balanced regularization.,"['Shoulie Xie', 'Cuntai Guan', 'Weimin Huang', 'Zhongkang Lu']",EMBC,2015
+127,c,An analysis on driver drowsiness based on reaction time and EEG band power.,"['Ruyi Foong', 'Kai Keng Ang', 'Chai Quek', 'Cuntai Guan', 'Aung Aung Phyo Wai']",EMBC,2015
+128,c,Reduction in time-to-sleep through EEG based brain state detection and audio stimulation.,"['Zhuo Zhang', 'Cuntai Guan', 'Ti-Eu Chan', 'Juanhong Yu', 'Aung Aung Phyo Wai', 'Chuanchu Wang', 'Haihong Zhang']",EMBC,2015
+129,c,An ocular artefacts correction method for discriminative EEG analysis based on logistic regression.,"['Xinyang Li', 'Cuntai Guan', 'Kai Keng Ang', 'Chuanchu Wang', 'Zhengyang Chin', 'Haihong Zhang', 'Choon Guan Lim', 'Tih Shih Lee']",EUSIPCO,2015
+130,c,Parallel convolutional-linear neural network for motor imagery classification.,"['Siavash Sakhavi', 'Cuntai Guan', 'Shuicheng Yan']",EUSIPCO,2015
+131,c,On robust extraction of pulse transit time from multimodal pulsatile signals.,"['Yongwei Zhu', 'Haihong Zhang', 'Cuntai Guan']",DSP,2015
+132,c,Fast TVL1-L2 MR image reconstruction using variable splitting and accelerated alternating direction method with adaptive restart.,"['Shoulie Xie', 'Cuntai Guan', 'Weimin Huang', 'Zhongkang Lu']",DSP,2015
+133,c,Stress level detection using double-layer subband filter.,"['Tin Lay Nwe', 'Qianli Xu', 'Cuntai Guan', 'Bin Ma']",INTERSPEECH,2015
+134,c,Towards improvement of MI-BCI performance of subjects with BCI deficiency.,"['Atieh Bamdadian', 'Cuntai Guan', 'Kai Keng Ang', 'Jianxin Xu']",NER,2015
+135,c,Motor cortical adaptation induced by closed-loop BCI.,"['Zhiming Xu', 'Cuntai Guan', 'Rosa Q. So', 'Kai Keng Ang', 'Kyaw Kyar Toe']",NER,2015
+136,c,Neural representations of movement intentions during brain-controlled self-motion.,"['Rosa Q. So', 'Zhiming Xu', 'Camilo Libedinsky', 'Kyaw Kyar Toe', 'Kai Keng Ang', 'Shih-Cheng Yen', 'Cuntai Guan']",NER,2015
+137,c,Cortical Source Localization for Analysing Single-Trial Motor Imagery EEG.,"['Vikram Shenoy Handiru', 'A. Prasad Vinod', 'Cuntai Guan']",SMC,2015
+138,c,Brain-computer interface for neurorehabilitation: Looking beyond upper limbs.,"['Cuntai Guan', 'Huijuan Yang', 'Kai Keng Ang', 'Kok Soon Phua', 'Juanhong Yu', 'Chuanchu Wang', 'Karen Sui Geok Chua', 'Effie Chew']",BCI,2014
+139,c,Selection of effective EEG channels in brain computer interfaces based on inconsistencies of classifiers.,"['Huijuan Yang', 'Cuntai Guan', 'Kai Keng Ang', 'Kok Soon Phua', 'Chuanchu Wang']",EMBC,2014
+140,c,Discriminative channel addition and reduction for filter bank common spatial pattern in motor imagery BCI.,"['Zheng Yang Chin', 'Kai Keng Ang', 'Chuanchu Wang', 'Cuntai Guan']",EMBC,2014
+141,c,Spatial filter adaptation based on the divergence framework for motor imagery EEG classification.,"['Xinyang Li', 'Cuntai Guan', 'Kai Keng Ang', 'Haihong Zhang', 'Sim Heng Ong']",EMBC,2014
+142,c,Single-trial classification of NIRS data from prefrontal cortex during working memory tasks.,"['Kai Keng Ang', 'Juanhong Yu', 'Cuntai Guan']",EMBC,2014
+143,c,Cortical activation of passive hand movement using Haptic Knob: A preliminary multi-channel fNIRS study.,"['Juanhong Yu', 'Kai Keng Ang', 'Huijuan Yang', 'Cuntai Guan']",EMBC,2014
+144,c,Automatic sleep onset detection using single EEG sensor.,"['Zhuo Zhang', 'Cuntai Guan', 'Ti-Eu Chan', 'Juanhong Yu', 'Andrew Keong Ng', 'Haihong Zhang', 'Chee Keong Kwoh']",EMBC,2014
+145,c,Detection of variations in cognitive workload using multi-modality physiological sensors and a large margin unbiased regression machine.,"['Haihong Zhang', 'Yongwei Zhu', 'Maniyeri Jayachandran', 'Cuntai Guan']",EMBC,2014
+146,c,On the asynchronously continuous control of mobile robot movement by motor cortical spiking activity.,"['Zhiming Xu', 'Rosa Q. So', 'Kyaw Kyar Toe', 'Kai Keng Ang', 'Cuntai Guan']",EMBC,2014
+147,c,Heart rate estimation from FBG sensors using cepstrum analysis and sensor fusion.,"['Yongwei Zhu', 'Victor Foo Siang Fook', 'Emily Hao Jianzhong', 'Maniyeri Jayachandran', 'Cuntai Guan', 'Haihong Zhang', 'Eugene Phua Jiliang', 'Jit Biswas']",EMBC,2014
+148,c,Spatio-temporal variations in hand movement trajectory based brain activation patterns.,"['Neethu Robinson', 'A. Prasad Vinod', 'Cuntai Guan']",ICARCV,2014
+149,c,Spatial filter adaptation based on geodesic-distance for motor EEG classification.,"['Xinyang Li', 'Cuntai Guan', 'Kai Keng Ang', 'Haihong Zhang', 'Sim Heng Ong']",IJCNN,2014
+150,c,Information processing of optical sensor data in ambient applications.,"['Jit Biswas', 'Yongwei Zhu', 'Haihong Zhang', 'Maniyeri Jayachandran', 'Zhihao Chen', 'Cuntai Guan']",ISSNIP,2014
+151,c,A BCI speller based on SSVEP using high frequency stimuli design.,"['Dong-Ok Won', 'Haihong Zhang', 'Cuntai Guan', 'Seong-Whan Lee']",SMC,2014
+152,c,Evaluation of EEG features during overt visual attention during neurofeedback game.,"['Kavitha P. Thomas', 'A. Prasad Vinod', 'Cuntai Guan']",SMC,2014
+153,c,Quality assessment of EEG signals based on statistics of signal fluctuations.,"['Huijuan Yang', 'Cuntai Guan', 'Kai Keng Ang', 'Kok Soon Phua', 'Chuanchu Wang']",SMC,2014
+154,c,Brain-computer interface for stroke rehabilitation with clinical studies.,['Cuntai Guan'],BCI,2013
+155,c,Neural representation and identification of reaching targets by spike trains in motor cortex.,"['Zhiming Xu', 'Kai Keng Ang', 'Cuntai Guan', 'Huynh Thai Hoa']",CCMB,2013
+156,c,Navigation in a virtual environment using multiclass motor imagery Brain-Computer Interface.,"['Zhengyang Chin', 'Kai Keng Ang', 'Chuanchu Wang', 'Cuntai Guan']",CCMB,2013
+157,c,A novel hand strength assessment method integrated into haptic knob for stroke rehabilitation.,"['Longjiang Zhou', 'Kai Keng Ang', 'Chuanchu Wang', 'Kok Soon Phua', 'Cuntai Guan']",CIRAT,2013
+158,c,Motor imagery BCI for upper limb stroke rehabilitation: An evaluation of the EEG recordings using coherence analysis.,"['Sau Wai Tung', 'Cuntai Guan', 'Kai Keng Ang', 'Kok Soon Phua', 'Chuanchu Wang', 'Ling Zhao', 'Wei Peng Teo', 'Effie Chew']",EMBC,2013
+159,c,Feature consistency-based model adaptation in session-to-session classification: A study using motor imagery of swallow EEG signals.,"['Huijuan Yang', 'Cuntai Guan', 'Kai Keng Ang', 'Chuanchu Wang', 'Kok Soon Phua', 'Christina Tang Ka Yin', 'Longjiang Zhou']",EMBC,2013
+160,c,Design of an online EEG based neurofeedback game for enhancing attention and memory.,"['Kavitha P. Thomas', 'A. Prasad Vinod', 'Cuntai Guan']",EMBC,2013
+161,c,Improving session-to-session transfer performance of motor imagery-based BCI using adaptive extreme learning machine.,"['Atieh Bamdadian', 'Cuntai Guan', 'Kai Keng Ang', 'Jianxin Xu']",EMBC,2013
+162,c,Optimizing low-frequency common spatial pattern features for multi-class classification of hand movement directions.,"['Andrew Keong Ng', 'Kai Keng Ang', 'Keng Peng Tee', 'Cuntai Guan']",EMBC,2013
+163,c,Estimation of glance from EEG for cursor control.,"['Tele Tan', 'Jan Philipp Hakenberg', 'Cuntai Guan']",EMBC,2013
+164,c,A clinical study of motor imagery BCI performance in stroke by including calibration data from passive movement.,"['Kai Keng Ang', 'Cuntai Guan', 'Karen Sui Geok Chua', 'Kok Soon Phua', 'Chuanchu Wang', 'Zheng Yang Chin', 'Longjiang Zhou', 'Ka Yin Tang', 'Gopal Joseph Ephraim Joseph', 'Christopher Wee Keong Kuah']",EMBC,2013
+165,c,Neural decoding of movement targets by unsorted spike trains.,"['Zhiming Xu', 'Kai Keng Ang', 'Cuntai Guan']",ICASSP,2013
+166,c,Joint spatial-temporal filter design for analysis of motor imagery EEG.,"['Xinyang Li', 'Haihong Zhang', 'Cuntai Guan', 'S. H. Ong', 'Yaozhang Pan', 'Kai Keng Ang']",ICASSP,2013
+167,c,Maximum dependency and minimum redundancy-based channel selection for motor imagery of walking EEG signal detection.,"['Huijuan Yang', 'Cuntai Guan', 'Chuanchu Wang', 'Kai Keng Ang']",ICASSP,2013
+168,c,Error entropy based adaptive kernel classification for non-stationary EEG analysis.,"['Sidath Ravindra Liyanage', 'Cuntai Guan', 'Haihong Zhang', 'Kai Keng Ang', 'Jian-Xin Xu', 'Tong Heng Lee']",ICASSP,2013
+169,c,Hand Movement Trajectory Reconstruction from EEG for Brain-Computer Interface Systems.,"['Neethu Robinson', 'A. Prasad Vinod', 'Cuntai Guan']",SMC,2013
+170,c,Speaking mode recognition from functional Near Infrared Spectroscopy.,"['Christian Herff', 'Felix Putze', 'Dominic Heger', 'Cuntai Guan', 'Tanja Schultz']",EMBC,2012
+171,c,Online semi-supervised learning with KL distance weighting for Motor Imagery-based BCI.,"['Atieh Bamdadian', 'Cuntai Guan', 'Kai Keng Ang', 'Jianxin Xu']",EMBC,2012
+172,c,Utilization of temporal information for intracranial pressure development trend forecasting in traumatic brain injury.,"['Mengling Feng', 'Zhuo Zhang', 'Cuntai Guan', 'David R. Hardoon', 'Nicolas Kon Kam King', 'Boon Chuan Pang', 'Beng Ti Ang']",EMBC,2012
+173,c,Omitting the intra-session calibration in EEG-based brain computer interface used for stroke rehabilitation.,"['Mahnaz Arvaneh', 'Cuntai Guan', 'Kai Keng Ang', 'Chai Quek']",EMBC,2012
+174,c,Transcranial direct current stimulation and EEG-based motor imagery BCI for upper limb stroke rehabilitation.,"['Kai Keng Ang', 'Cuntai Guan', 'Kok Soon Phua', 'Chuanchu Wang', 'Irvin Teh', 'Chang Wu Chen', 'Effie Chew']",EMBC,2012
+175,c,Impact of obstructive sleep apnea on sleep-wake stage ratio.,"['Andrew Keong Ng', 'Cuntai Guan']",EMBC,2012
+176,c,Prefrontal cortical activation during arithmetic processing differentiated by cultures: A preliminary fNIRS study.,"['Juanghong Yu', 'Yaozhang Pan', 'Kai Keng Ang', 'Cuntai Guan', 'Darren J. Leamy']",EMBC,2012
+177,c,Cluster impurity and forward-backward error maximization-based active learning for EEG signals classification.,"['Huijuan Yang', 'Cuntai Guan', 'Kai Keng Ang', 'Yaozhang Pan', 'Haihong Zhang']",ICASSP,2012
+178,c,Fast emotion detection from EEG using asymmetric spatial filtering.,"['Dong Huang', 'Haihong Zhang', 'Kai Keng Ang', 'Cuntai Guan', 'Yaozhang Pan', 'Chuanchu Wang', 'Juanhong Yu']",ICASSP,2012
+179,c,Extracting effective features from high density nirs-based BCI for assessing numerical cognition.,"['Kai Keng Ang', 'Juanhong Yu', 'Cuntai Guan']",ICASSP,2012
+180,c,Multi-frequency band common spatial pattern with sparse optimization in Brain-Computer Interface.,"['Mahnaz Arvaneh', 'Cuntai Guan', 'Kai Keng Ang', 'Chai Quek']",ICASSP,2012
+181,c,Cross-Subject Classification of Speaking Modes Using fNIRS.,"['Christian Herff', 'Dominic Heger', 'Felix Putze', 'Cuntai Guan', 'Tanja Schultz']",ICONIP (2),2012
+182,c,Online ICP forecast for patients with traumatic brain injury.,"['Feng Zhang', 'Mengling Feng', 'Liang Yu Loy', 'Zhuo Zhang', 'Cuntai Guan']",ICPR,2012
+183,c,Artifact correction with robust statistics for non-stationary intracranial pressure signal monitoring.,"['Mengling Feng', 'Liang Yu Loy', 'Kelvin Sim', 'Clifton Phua', 'Feng Zhang', 'Cuntai Guan']",ICPR,2012
+184,c,Iterative clustering and support vectors-based high-confidence query selection for motor imagery EEG signals classification.,"['Huijuan Yang', 'Cuntai Guan', 'Kai Keng Ang', 'Haihong Zhang', 'Chuanchu Wang']",ICPR,2012
+185,c,Extracting and selecting discriminative features from high density NIRS-based BCI for numerical cognition.,"['Kai Keng Ang', 'Juanhong Yu', 'Cuntai Guan']",IJCNN,2012
+186,c,Robust EEG channel selection across sessions in brain-computer interface involving stroke patients.,"['Mahnaz Arvaneh', 'Cuntai Guan', 'Kai Keng Ang', 'Chai Quek']",IJCNN,2012
+187,c,Asymmetric Spatial Pattern for EEG-based emotion detection.,"['Dong Huang', 'Cuntai Guan', 'Kai Keng Ang', 'Haihong Zhang', 'Yaozhang Pan']",IJCNN,2012
+188,c,Dynamically Weighted Classification with Clustering to tackle non-stationarity in Brain computer Interfacing.,"['Sidath Ravindra Liyanage', 'Cuntai Guan', 'Haihong Zhang', 'Kai Keng Ang', 'Jian-Xin Xu', 'Tong Heng Lee']",IJCNN,2012
+189,c,Seizure detection based on spatiotemporal correlation and frequency regularity of scalp EEG.,"['Yaozhang Pan', 'Cuntai Guan', 'Kai Keng Ang', 'Kok Soon Phua', 'Huijuan Yang', 'Dong Huang', 'Shih-Hui Lim']",IJCNN,2012
+190,c,A modified Wavelet-Common Spatial Pattern method for decoding hand movement directions in brain computer interfaces.,"['Neethu Robinson', 'A. Prasad Vinod', 'Cuntai Guan', 'Kai Keng Ang', 'Keng Peng Tee']",IJCNN,2012
+191,c,Traffic modeling and identification using a Self-adaptive Fuzzy Inference Network.,"['Sau Wai Tung', 'Chai Quek', 'Cuntai Guan']",IJCNN,2012
+192,c,Dynamic initiation and dual-tree complex wavelet feature-based classification of motor imagery of swallow EEG signals.,"['Huijuan Yang', 'Cuntai Guan', 'Kai Keng Ang', 'Chuanchu Wang', 'Kok Soon Phua', 'Juanhong Yu']",IJCNN,2012
+193,c,A Wavelet-CSP method to classify hand movement directions in EEG based BCI system.,"['Neethu Robinson', 'A. Prasad Vinod', 'Cuntai Guan', 'Kai Keng Ang', 'Keng Peng Tee']",ICICS,2011
+194,c,Composite Filter Bank Common Spatial Pattern for motor imagery-based Brain-Computer Interface.,"['Kai Keng Ang', 'Zhengyang Chin', 'Haihong Zhang', 'Cuntai Guan']",CCMB,2011
+195,c,Artifact removal for intracranial pressure monitoring signals: A robust solution with signal decomposition.,"['Mengling Feng', 'Liang Yu Loy', 'Feng Zhang', 'Cuntai Guan']",EMBC,2011
+196,c,Calibrating EEG-based motor imagery brain-computer interface from passive movement.,"['Kai Keng Ang', 'Cuntai Guan', 'Chuanchu Wang', 'Kok Soon Phua', 'Adrian Hock Guan Tan', 'Zheng Yang Chin']",EMBC,2011
+197,c,iSyNCC: An intelligent system for patient monitoring & clinical decision support in Neuro-Critical-Care.,"['Mengling Feng', 'Zhuo Zhang', 'Feng Zhang', 'Yu Ge', 'Liang Yu Loy', 'Kuralmani Vellaisamy', 'Wenyuan Guo', 'Pei Loon Chin', 'Nicolas Kon Kam King', 'Beng Ti Ang', 'Cuntai Guan']",EMBC,2011
+198,c,Artificial neural network based intracranial pressure mean forecast algorithm for medical decision support.,"['Feng Zhang', 'Mengling Feng', 'Sinno Jialin Pan', 'Liang Yu Loy', 'Wenyuan Guo', 'Zhuo Zhang', 'Pei Loon Chin', 'Cuntai Guan', 'Nicolas Kon Kam King', 'Beng Ti Ang']",EMBC,2011
+199,c,FAPOP: Feature analysis enhanced pseudo outer-product fuzzy rule identification system.,"['Sau Wai Tung', 'Chai Quek', 'Cuntai Guan']",FUZZ-IEEE,2011
+200,c,Spatially sparsed Common Spatial Pattern to improve BCI performance.,"['Mahnaz Arvaneh', 'Cuntai Guan', 'Kai Keng Ang', 'Hiok Chai Quek']",ICASSP,2011
+201,c,Real coded GA-based SVM for motor imagery classification in a Brain-Computer Interface.,"['Atieh Bamdadian', 'Cuntai Guan', 'Kai Keng Ang', 'Jianxin Xu']",ICCA,2011
+202,c,Filter Bank Common Spatial Pattern (FBCSP) algorithm using online adaptive and semi-supervised learning.,"['Kai Keng Ang', 'Zhengyang Chin', 'Haihong Zhang', 'Cuntai Guan']",IJCNN,2011
+203,c,Filter Bank Feature Combination (FBFC) approach for brain-computer interface.,"['Zhengyang Chin', 'Kai Keng Ang', 'Cuntai Guan', 'Chuanchu Wang', 'Haihong Zhang']",IJCNN,2011
+204,c,Learning from other subjects helps reducing Brain-Computer Interface calibration time.,"['Fabien Lotte', 'Cuntai Guan']",ICASSP,2010
+205,c,Towards optimum linear transformation under zero-mean Gaussian mixtures for detection of motor imagery EEG.,"['Haihong Zhang', 'Cuntai Guan', 'Chuanchu Wang']",ICASSP,2010
+206,c,A Covariate Shift Minimisation Method to Alleviate Non-stationarity Effects for an Adaptive Brain-Computer Interface.,"['Abdul Rehman Satti', 'Cuntai Guan', 'Damien Coyle', 'Girijesh Prasad']",ICPR,2010
+207,c,Spatially Regularized Common Spatial Patterns for EEG Classification.,"['Fabien Lotte', 'Cuntai Guan']",ICPR,2010
+208,c,A Brain-Computer Interface for Mental Arithmetic Task from Single-Trial Near-Infrared Spectroscopy Brain Signals.,"['Kai Keng Ang', 'Cuntai Guan', 'Kerry Lee', 'Jie Qi Lee', 'Shoko Nioka', 'Britton Chance']",ICPR,2010
+209,c,An Information Theoretic Linear Discriminant Analysis Method.,"['Haihong Zhang', 'Cuntai Guan', 'Kai Keng Ang']",ICPR,2010
+210,c,Application of rough set-based neuro-fuzzy system in NIRS-based BCI for assessing numerical cognition in classroom.,"['Kai Keng Ang', 'Cuntai Guan', 'Kerry Lee', 'Jie Qi Lee', 'Shoko Nioka', 'Britton Chance']",IJCNN,2010
+211,c,EEG signal separation for multi-class motor imagery using common spatial patterns based on Joint Approximate Diagonalization.,"['Sidath Ravindra Liyanage', 'Jian-Xin Xu', 'Cuntai Guan', 'Kai Keng Ang', 'Tong Heng Lee']",IJCNN,2010
+212,c,A Study on the impact of spectral variability in brain-computer interface.,"['Kavitha P. Thomas', 'Cuntai Guan', 'Chiew Tong Lau', 'A. Prasad Vinod']",ISCAS,2010
+213,c,An Evolving Type-2 Neural Fuzzy Inference System.,"['Sau Wai Tung', 'Chai Quek', 'Cuntai Guan']",PRICAI,2010
+214,c,T2-HyFIS-yager: Type 2 hybrid neural fuzzy inference system realizing yager inference.,"['Sau Wai Tung', 'Chai Quek', 'Cuntai Guan']",FUZZ-IEEE,2009
+215,c,Voxel selection in fMRI data analysis: A sparse representation method.,"['Yuanqing Li', 'Zhuliang Yu', 'Praneeth Namburi', 'Cuntai Guan']",ICASSP,2009
+216,c,Learning EEG-based Spectral-spatial Patterns for Attention Level Measurement.,"['Brahim Hamadicharef', 'Haihong Zhang', 'Cuntai Guan', 'Chuanchu Wang', 'Kok Soon Phua', 'Keng Peng Tee', 'Kai Keng Ang']",ISCAS,2009
+217,c,Discriminative FilterBank Selection and EEG Information Fusion for Brain Computer Interface.,"['Kavitha P. Thomas', 'Cuntai Guan', 'Chiew Tong Lau', 'A. Prasad Vinod']",ISCAS,2009
+218,c,Performance Evaluation and Fusion of Methods for Early Detection of Alzheimer Disease.,"['Brahim Hamadicharef', 'Cuntai Guan', 'Emmanuel C. Ifeachor', 'Nigel R. Hudson', 'Sunil Wimalaratna']",BMEI (1),2008
+219,c,HyFIS-Yager-gDIC: A Self-organizing Hybrid Neural Fuzzy Inference System Realizing Yager Inference.,"['Sau Wai Tung', 'Chai Quek', 'Cuntai Guan']",ICONIP (1),2008
+220,c,Subject-independent brain computer interface through boosting.,"['Shijian Lu', 'Cuntai Guan', 'Haihong Zhang']",ICPR,2008
+221,c,An EEG-based BCI system for 2D cursor control.,"['Yuanqing Li', 'Chuanchu Wang', 'Haihong Zhang', 'Cuntai Guan']",IJCNN,2008
+222,c,Filter Bank Common Spatial Pattern (FBCSP) in Brain-Computer Interface.,"['Kai Keng Ang', 'Zhengyang Chin', 'Haihong Zhang', 'Cuntai Guan']",IJCNN,2008
+223,c,Learning adaptive subject-independent P300 models for EEG-based brain-computer interfaces.,"['Shijian Lu', 'Cuntai Guan', 'Haihong Zhang']",IJCNN,2008
+224,c,Feature Selection Based on Fisher Ratio and Mutual Information Analyses for Robust Brain Computer Interface.,"['Tran Huy Dat', 'Cuntai Guan']",ICASSP (1),2007
+225,c,A Self-Training Semi-Supervised Support Vector Machine Algorithm and its Applications in Brain Computer Interface.,"['Yuanqing Li', 'Huiqi Li', 'Cuntai Guan', 'Zhengyang Chin']",ICASSP (1),2007
+226,c,Brainy Communicator.,"['Haihong Zhang', 'Cuntai Guan', 'Chuanchu Wang']",ICME,2007
+227,c,An Effective BCI Speller Based on Semi-supervised Learning.,"['Huiqi Li', 'Yuanqing Li', 'Cuntai Guan']",EMBC,2006
+228,c,Electrocorticographic signal classification based on time-frequency decomposition and nonparametric statistical modeling.,"['Tran Huy Dat', 'Louis Shue', 'Cuntai Guan']",EMBC,2006
+229,c,A Semi-supervised SVM Learning Algorithm for Joint Feature Extraction and Classification in Brain Computer Interfaces.,"['Yuanqing Li', 'Cuntai Guan']",EMBC,2006
+230,c,Media Communication Center Using Brain Computer Interface.,"['Eugene Teo', 'Alvin Huang', 'Yong Lian', 'Cuntai Guan', 'Yuanqing Li', 'Haihong Zhang']",EMBC,2006
+231,c,Analysis of Source Sparsity and Recoverability for SCA Based Blind Source Separation.,"['Yuanqing Li', 'Andrzej Cichocki', 'Shun-ichi Amari', 'Cuntai Guan']",ICA,2006
+232,c,A Kernel-based Signal Localization Method for NIRS Brain-computer Interfaces.,"['Haihong Zhang', 'Cuntai Guan']",ICPR (1),2006
+233,c,Signal processing for brain-computer interface: enhance feature extraction and classification.,"['Haihong Zhang', 'Cuntai Guan', 'Yuanqing Li']",ISCAS,2006
+234,c,High Accuracy Classification of EEG Signal.,"['Wenjie Xu', 'Cuntai Guan', 'Chng Eng Siong', 'S. Ranganatha', 'M. Thulasidas', 'Jiankang Wu']",ICPR (2),2004
+235,c,On unit analysis for Cantonese corpus-based TTS.,"['Jun Xu', 'Thomas Choy', 'Minghui Dong', 'Cuntai Guan', 'Haizhou Li']",INTERSPEECH,2003
+236,c,Multilingual speech recognition with language identification.,"['Bin Ma', 'Cuntai Guan', 'Haizhou Li', 'Chin-Hui Lee']",INTERSPEECH,2002
+237,c,A space transformation approach for robust speech recognition in noisy environments.,"['Cuntai Guan', 'Shu-hung Leung', 'Wing Hong Lau']",EUROSPEECH,1997
+238,c,Direct modulation on LPC coefficients with application to speech enhancement and improving the performance of speech recognition in noise.,"['Cuntai Guan', 'Yong Bin Chen', 'Boxiu Wu']",ICASSP (2),1993
+239,i,Improving Deep Neural Network Classification Confidence using Heatmap-based eXplainable AI.,"['Erico Tjoa', 'Hong Jing Khok', 'Tushar Chouhan', 'Cuntai Guan']",CoRR,2022
+240,i,Deep Optimal Transport on SPD Manifolds for Domain Adaptation.,"['Ce Ju', 'Cuntai Guan']",CoRR,2022
+241,i,Tensor-CSPNet: A Novel Geometric Deep Learning Framework for Motor Imagery Classification.,"['Ce Ju', 'Cuntai Guan']",CoRR,2022
+242,i,MT-UDA: Towards Unsupervised Cross-modality Medical Image Segmentation with Limited Source Labels.,"['Ziyuan Zhao', 'Kaixin Xu', 'Shumeng Li', 'Zeng Zeng', 'Cuntai Guan']",CoRR,2022
+243,i,Continuous Emotion Recognition using Visual-audio-linguistic information: A Technical Report for ABAW3.,"['Su Zhang', 'Ruyi An', 'Yi Ding', 'Cuntai Guan']",CoRR,2022
+244,i,Self-supervised Assisted Active Learning for Skin Lesion Segmentation.,"['Ziyuan Zhao', 'Wenjing Lu', 'Zeng Zeng', 'Kaixin Xu', 'Bharadwaj Veeravalli', 'Cuntai Guan']",CoRR,2022
+245,i,MMGL: Multi-Scale Multi-View Global-Local Contrastive learning for Semi-supervised Cardiac Image Segmentation.,"['Ziyuan Zhao', 'Jinxuan Hu', 'Zeng Zeng', 'Xulei Yang', 'Peisheng Qian', 'Bharadwaj Veeravalli', 'Cuntai Guan']",CoRR,2022
+246,i,ACT-Net: Asymmetric Co-Teacher Network for Semi-supervised Memory-efficient Medical Image Segmentation.,"['Ziyuan Zhao', 'Andong Zhu', 'Zeng Zeng', 'Bharadwaj Veeravalli', 'Cuntai Guan']",CoRR,2022
+247,i,OCTAve: 2D en face Optical Coherence Tomography Angiography Vessel Segmentation in Weakly-Supervised Learning with Locality Augmentation.,"['Amrest Chinkamol', 'Vetit Kanjaras', 'Phattarapong Sawangjai', 'Yitian Zhao', 'Thapanun Sudhawiyangkul', 'Chantana Chantrapornchai', 'Cuntai Guan', 'Theerawit Wilaiprasitporn']",CoRR,2022
+248,i,Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification.,"['Emadeldeen Eldele', 'Mohamed Ragab', 'Zhenghua Chen', 'Min Wu', 'Chee Keong Kwoh', 'Xiaoli Li', 'Cuntai Guan']",CoRR,2022
+249,i,A Transformer-based deep neural network model for SSVEP classification.,"['Jianbo Chen', 'Yangsong Zhang', 'Yudong Pan', 'Peng Xu', 'Cuntai Guan']",CoRR,2022
+250,i,DSAL: Deeply Supervised Active Learning from Strong and Weak Labelers for Biomedical Image Segmentation.,"['Ziyuan Zhao', 'Zeng Zeng', 'Kaixin Xu', 'Cen Chen', 'Cuntai Guan']",CoRR,2021
+251,i,MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification.,"['Phairot Autthasan', 'Rattanaphon Chaisaen', 'Thapanun Sudhawiyangkul', 'Phurin Rangpong', 'Suktipol Kiatthaveephong', 'Nat Dilokthanakul', 'Gun Bhakdisongkhram', 'Huy Phan', 'Cuntai Guan', 'Theerawit Wilaiprasitporn']",CoRR,2021
+252,i,Convolutional Neural Network Interpretability with General Pattern Theory.,"['Erico Tjoa', 'Cuntai Guan']",CoRR,2021
+253,i,A Pilot Study on Visually-Stimulated Cognitive Tasks for EEG-Based Dementia Recognition Using Frequency and Time Features.,"['Supavit Kongwudhikunakorn', 'Suktipol Kiatthaveephong', 'Kamonwan Thanontip', 'Pitshaporn Leelaarporn', 'Maytus Piriyajitakonkij', 'Thananya Charoenpattarawut', 'Phairot Autthasan', 'Rattanaphon Chaisaen', 'Pathitta Dujada', 'Thapanun Sudhawiyangkul', 'Cuntai Guan', 'Vorapun Senanarong', 'Theerawit Wilaiprasitporn']",CoRR,2021
+254,i,FBCNet: A Multi-view Convolutional Neural Network for Brain-Computer Interface.,"['Ravikiran Mane', 'Effie Chew', 'Karen Sui Geok Chua', 'Kai Keng Ang', 'Neethu Robinson', 'A. Prasad Vinod', 'Seong-Whan Lee', 'Cuntai Guan']",CoRR,2021
+255,i,TSception: Capturing Temporal Dynamics and Spatial Asymmetry from EEG for Emotion Recognition.,"['Yi Ding', 'Neethu Robinson', 'Qiuhao Zeng', 'Cuntai Guan']",CoRR,2021
+256,i,LGGNet: Learning from Local-Global-Graph Representations for Brain-Computer Interface.,"['Yi Ding', 'Neethu Robinson', 'Qiuhao Zeng', 'Cuntai Guan']",CoRR,2021
+257,i,Hierarchical Consistency Regularized Mean Teacher for Semi-supervised 3D Left Atrium Segmentation.,"['Shumeng Li', 'Ziyuan Zhao', 'Kaixin Xu', 'Zeng Zeng', 'Cuntai Guan']",CoRR,2021
+258,i,Time-Series Representation Learning via Temporal and Contextual Contrasting.,"['Emadeldeen Eldele', 'Mohamed Ragab', 'Zhenghua Chen', 'Min Wu', 'Chee Keong Kwoh', 'Xiaoli Li', 'Cuntai Guan']",CoRR,2021
+259,i,Audio-visual Attentive Fusion for Continuous Emotion Recognition.,"['Su Zhang', 'Yi Ding', 'Ziquan Wei', 'Cuntai Guan']",CoRR,2021
+260,i,Adversarial Domain Adaptation with Self-Training for EEG-based Sleep Stage Classification.,"['Emadeldeen Eldele', 'Mohamed Ragab', 'Zhenghua Chen', 'Min Wu', 'Chee Keong Kwoh', 'Xiaoli Li', 'Cuntai Guan']",CoRR,2021
+261,i,Two Instances of Interpretable Neural Network for Universal Approximations.,"['Erico Tjoa', 'Cuntai Guan']",CoRR,2021
+262,i,Self Reward Design with Fine-grained Interpretability.,"['Erico Tjoa', 'Cuntai Guan']",CoRR,2021
+263,i,Towards a Fast Steady-State Visual Evoked Potentials (SSVEP) Brain-Computer Interface (BCI).,"['Aung Aung Phyo Wai', 'Yangsong Zhang', 'Heng Guo', 'Ying Chi', 'Lei Zhang', 'Xian-Sheng Hua', 'Seong-Whan Lee', 'Cuntai Guan']",CoRR,2020
+264,i,Brain MRI-based 3D Convolutional Neural Networks for Classification of Schizophrenia and Controls.,"['Mengjiao Hu', 'Kang Sim', 'Juan Helen Zhou', 'Xudong Jiang', 'Cuntai Guan']",CoRR,2020
+265,i,TSception: A Deep Learning Framework for Emotion Detection Using EEG.,"['Yi Ding', 'Neethu Robinson', 'Qiuhao Zeng', 'Duo Chen', 'Aung Aung Phyo Wai', 'Tih Shih Lee', 'Cuntai Guan']",CoRR,2020
+266,i,Federated Transfer Learning for EEG Signal Classification.,"['Ce Ju', 'Dashan Gao', 'Ravikiran Mane', 'Ben Tan', 'Yang Liu', 'Cuntai Guan']",CoRR,2020
+267,i,Generalization on the Enhancement of Layerwise Relevance Interpretability of Deep Neural Network.,"['Erico Tjoa', 'Cuntai Guan']",CoRR,2020
+268,i,Quantifying Explainability of Saliency Methods in Deep Neural Networks.,"['Erico Tjoa', 'Cuntai Guan']",CoRR,2020
+269,i,Machine learning-guided synthesis of advanced inorganic materials.,"['Bijun Tang', 'Yuhao Lu', 'Jiadong Zhou', 'Han Wang', 'Prafful Golani', 'Manzhang Xu', 'Quan Xu', 'Cuntai Guan', 'Zheng Liu']",CoRR,2019
+270,i,A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI.,"['Erico Tjoa', 'Cuntai Guan']",CoRR,2019
+271,i,Machine learning driven synthesis of few-layered WTe2.,"['Manzhang Xu', 'Bijun Tang', 'Chao Zhu', 'Yuhao Lu', 'Chao Zhu', 'Lu Zheng', 'Jingyu Zhang', 'Nannan Han', 'Yuxi Guo', 'Jun Di', 'Pin Song', 'Yongmin He', 'Lixing Kang', 'Zhiyong Zhang', 'Wu Zhao', 'Cuntai Guan', 'Xuewen Wang', 'Zheng Liu']",CoRR,2019
+272,i,Enhancing the Extraction of Interpretable Information for Ischemic Stroke Imaging from Deep Neural Networks.,"['Erico Tjoa', 'Heng Guo', 'Yuhao Lu', 'Cuntai Guan']",CoRR,2019
+273,e,"SIGGRAPH Asia 2012 Emerging Technologies, Singapore, November 28 - December 1, 2012.","['Masahiko Inami', 'Cuntai Guan']",CoRR,2012

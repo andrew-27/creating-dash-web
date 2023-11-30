@@ -1,0 +1,305 @@
+,type,name,author,event,year
+0,j,Efficient Self-Supervised Learning Representations for Spoken Language Identification.,"['Hexin Liu', 'Leibny Paola García-Perera', 'Andy W. H. Khong', 'Eng Siong Chng', 'Suzy J. Styles', 'Sanjeev Khudanpur']",IEEE J. Sel. Top. Signal Process.,2022
+1,j,Learning affective representations based on magnitude and dynamic relative phase information for speech emotion recognition.,"['Lili Guo', 'Longbiao Wang', 'Jianwu Dang', 'Eng Siong Chng', 'Seiichi Nakagawa']",Speech Commun.,2022
+2,j,SpEx: Multi-Scale Time Domain Speaker Extraction Network.,"['Chenglin Xu', 'Wei Rao', 'Eng Siong Chng', 'Haizhou Li']",IEEE ACM Trans. Audio Speech Lang. Process.,2020
+3,j,Learning distributed sentence representations for story segmentation.,"['Jia Yu', 'Lei Xie', 'Xiong Xiao', 'Eng Siong Chng']",Signal Process.,2018
+4,j,Re-ranking spoken term detection with acoustic exemplars of keywords.,"['Van Tung Pham', 'Haihua Xu', 'Xiong Xiao', 'Nancy F. Chen', 'Eng Siong Chng', 'Haizhou Li']",Speech Commun.,2018
+5,j,A hybrid neural network hidden Markov model approach for automatic story segmentation.,"['Jia Yu', 'Lei Xie', 'Xiong Xiao', 'Eng Siong Chng']",J. Ambient Intell. Humaniz. Comput.,2017
+6,j,An Exemplar-Based Approach to Frequency Warping for Voice Conversion.,"['Xiaohai Tian', 'Siu Wa Lee', 'Zhizheng Wu', 'Eng Siong Chng', 'Haizhou Li']",IEEE ACM Trans. Audio Speech Lang. Process.,2017
+7,j,Speech dereverberation for enhancement and recognition using dynamic features constrained deep neural networks and feature adaptation.,"['Xiong Xiao', 'Shengkui Zhao', 'Duc Hoang Ha Nguyen', 'Xionghu Zhong', 'Douglas L. Jones', 'Eng Siong Chng', 'Haizhou Li']",EURASIP J. Adv. Signal Process.,2016
+8,j,High quality voice conversion using prosodic and high-resolution spectral features.,"['Nguyen Quy Hy', 'Siu Wa Lee', 'Xiaohai Tian', 'Minghui Dong', 'Eng Siong Chng']",Multim. Tools Appl.,2016
+9,j,Feature Adaptation Using Linear Spectro-Temporal Transform for Robust Speech Recognition.,"['Duc Hoang Ha Nguyen', 'Xiong Xiao', 'Eng Siong Chng', 'Haizhou Li']",IEEE ACM Trans. Audio Speech Lang. Process.,2016
+10,j,Single-channel Dereverberation for Distant-Talking Speech Recognition by Combining Denoising Autoencoder and Temporal Structure Normalization.,"['Yuma Ueda', 'Longbiao Wang', 'Atsuhiko Kai', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",J. Signal Process. Syst.,2016
+11,j,Context-dependent Phone Mapping for Acoustic Modeling of Under-resourced Languages.,"['Van Hai Do', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",Int. J. Asian Lang. Process.,2015
+12,j,Mandarin-English code-switching speech corpus in South-East Asia: SEAME.,"['Dau-Cheng Lyu', 'Tien Ping Tan', 'Engsiong Chng', 'Haizhou Li']",Lang. Resour. Evaluation,2015
+13,j,Exemplar-based voice conversion using joint nonnegative matrix factorization.,"['Zhizheng Wu', 'Engsiong Chng', 'Haizhou Li']",Multim. Tools Appl.,2015
+14,j,Decoupling Word-Pair Distance and Co-occurrence Information for Effective Long History Context Language Modeling.,"['Tze Yuang Chong', 'Rafael E. Banchs', 'Engsiong Chng', 'Haizhou Li']",IEEE ACM Trans. Audio Speech Lang. Process.,2015
+15,j,Cross-Lingual Phone Mapping for Large Vocabulary Speech Recognition of Under-Resourced Languages.,"['Van Hai Do', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",IEICE Trans. Inf. Syst.,2014
+16,j,Exemplar-Based Sparse Representation With Residual Compensation for Voice Conversion.,"['Zhizheng Wu', 'Tuomas Virtanen', 'Engsiong Chng', 'Haizhou Li']",IEEE ACM Trans. Audio Speech Lang. Process.,2014
+17,j,Overlapping sound event recognition using local spectrogram features and the generalised hough transform.,"['Jonathan William Dennis', 'Tran Huy Dat', 'Engsiong Chng']",Pattern Recognit. Lett.,2013
+18,j,Hadoop framework: impact of data organization on performance.,"['Yu Shyang Tan', 'Jiaqi Tan', 'Engsiong Chng', 'Bu-Sung Lee', 'Jiaming Li', 'Susumu Date', 'Hui Ping Chak', 'Xiong Xiao', 'Atsushi Narishige']",Softw. Pract. Exp.,2013
+19,j,Image Feature Representation of the Subband Power Distribution for Robust Sound Event Classification.,"['Jonathan William Dennis', 'Tran Huy Dat', 'Engsiong Chng']",IEEE Trans. Speech Audio Process.,2013
+20,j,Broadcast News Story Segmentation Using Conditional Random Fields and Multimodal Features.,"['Xiaoxuan Wang', 'Lei Xie', 'Mimi Lu', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",IEICE Trans. Inf. Syst.,2012
+21,j,Discriminative feature extraction for speech recognition using continuous output codes.,"['Omid Dehzangi', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",Pattern Recognit. Lett.,2012
+22,j,Mixture of Factor Analyzers Using Priors From Non-Parallel Speech for Voice Conversion.,"['Zhizheng Wu', 'Tomi Kinnunen', 'Engsiong Chng', 'Haizhou Li']",IEEE Signal Process. Lett.,2012
+23,j,Error Corrective Fusion of Classifier Scores for Spoken Language Recognition.,"['Omid Dehzangi', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",IEICE Trans. Inf. Syst.,2011
+24,j,A tree-construction search approach for multivariate time series motifs discovery.,"['Lei Wang', 'Engsiong Chng', 'Haizhou Li']",Pattern Recognit. Lett.,2010
+25,j,A Study on the Generalization Capability of Acoustic Models for Robust Speech Recognition.,"['Xiong Xiao', 'Jinyu Li', 'Engsiong Chng', 'Haizhou Li', 'Chin-Hui Lee']",IEEE Trans. Speech Audio Process.,2010
+26,j,A Target-Oriented Phonotactic Front-End for Spoken Language Recognition.,"['Rong Tong', 'Bin Ma', 'Haizhou Li', 'Chng Eng Siong']",IEEE Trans. Speech Audio Process.,2009
+27,j,Efficient mobile phone Chinese optical character recognition systems by use of heuristic fuzzy rules and bigram Markov language models.,"['Adrian David Cheok', 'Jian Zhang', 'Chng Eng Siong']",Appl. Soft Comput.,2008
+28,j,Automatic composition of broadcast sports video.,"['Jinjun Wang', 'Changsheng Xu', 'Engsiong Chng', 'Hanqing Lu', 'Qi Tian']",Multim. Syst.,2008
+29,j,Normalization of the Speech Modulation Spectra for Robust Speech Recognition.,"['Xiong Xiao', 'Chng Eng Siong', 'Haizhou Li']",IEEE Trans. Speech Audio Process.,2008
+30,j,Temporal Structure Normalization of Speech Feature for Robust Speech Recognition.,"['Xiong Xiao', 'Chng Eng Siong', 'Haizhou Li']",IEEE Signal Process. Lett.,2007
+31,j,Generation of Personalized Music Sports Video Using Multimodal Cues.,"['Jinjun Wang', 'Engsiong Chng', 'Changsheng Xu', 'Hanqing Lu', 'Qi Tian']",IEEE Trans. Multim.,2007
+32,j,Determining the optimal decision delay parameter for a linear equalizer.,"['Eng Siong Chng', 'Sheng Chen']",Int. J. Autom. Comput.,2005
+33,j,Orthogonal least-squares learning algorithm with local adaptation process for the radial basis function networks.,"['Eng Siong Chng', 'Howard Hua Yang', 'Siegfried Bös']",IEEE Signal Process. Lett.,1996
+34,j,Gradient radial basis function networks for nonlinear and nonstationary time series prediction.,"['Engsiong Chng', 'Sheng Chen', 'Bernard Mulgrew']",IEEE Trans. Neural Networks,1996
+35,j,Efficient computational schemes for the orthogonal least squares algorithm.,"['Engsiong Chng', 'Sheng Chen', 'Bernard Mulgrew']",IEEE Trans. Signal Process.,1995
+36,c,Convmixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-Field Keyword Spotting.,"['Dianwen Ng', 'Yunqi Chen', 'Biao Tian', 'Qiang Fu', 'Eng Siong Chng']",ICASSP,2022
+37,c,Self-Critical Sequence Training for Automatic Speech Recognition.,"['Chen Chen', 'Yuchen Hu', 'Nana Hou', 'Xiaofeng Qi', 'Heqing Zou', 'Eng Siong Chng']",ICASSP,2022
+38,c,Noise-Robust Speech Recognition With 10 Minutes Unparalleled In-Domain Data.,"['Chen Chen', 'Nana Hou', 'Yuchen Hu', 'Shashank Shirol', 'Eng Siong Chng']",ICASSP,2022
+39,c,Interactive Feature Fusion for End-to-End Noise-Robust Speech Recognition.,"['Yuchen Hu', 'Nana Hou', 'Chen Chen', 'Eng Siong Chng']",ICASSP,2022
+40,c,An Embarrassingly Simple Model for Dialogue Relation Extraction.,"['Fuzhao Xue', 'Aixin Sun', 'Hao Zhang', 'Jinjie Ni', 'Eng Siong Chng']",ICASSP,2022
+41,c,L-SpEx: Localized Target Speaker Extraction.,"['Meng Ge', 'Chenglin Xu', 'Longbiao Wang', 'Eng Siong Chng', 'Jianwu Dang', 'Haizhou Li']",ICASSP,2022
+42,c,Speech Emotion Recognition with Co-Attention Based Multi-Level Acoustic Information.,"['Heqing Zou', 'Yuke Si', 'Chen Chen', 'Deepu Rajan', 'Eng Siong Chng']",ICASSP,2022
+43,c,Automated Audio Captioning Using Transfer Learning and Reconstruction Latent Space Similarity Regularization.,"['Andrew Koh', 'Fuzhao Xue', 'Chng Eng Siong']",ICASSP,2022
+44,c,Minimum Word Error Training For Non-Autoregressive Transformer-Based Code-Switching ASR.,"['Yizhou Peng', 'Jicheng Zhang', 'Haihua Xu', 'Hao Huang', 'Eng Siong Chng']",ICASSP,2022
+45,c,Estimation of speaker age and height from speech signal using bi-encoder transformer mixture model.,"['Tarun Gupta', 'Duc-Tuan Truong', 'Tran The Anh', 'Eng Siong Chng']",INTERSPEECH,2022
+46,c,Interactive Auido-text Representation for Automated Audio Captioning with Contrastive Learning.,"['Chen Chen', 'Nana Hou', 'Yuchen Hu', 'Heqing Zou', 'Xiaofeng Qi', 'Eng Siong Chng']",INTERSPEECH,2022
+47,c,Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting.,"['Yang Xiao', 'Nana Hou', 'Eng Siong Chng']",INTERSPEECH,2022
+48,c,DENT-DDSP: Data-efficient noisy speech generator using differentiable digital signal processors for explicit distortion modelling and noise-robust speech recognition.,"['Zixun Guo', 'Chen Chen', 'Eng Siong Chng']",INTERSPEECH,2022
+49,c,GDPNet: Refining Latent Multi-View Graph for Relation Extraction.,"['Fuzhao Xue', 'Aixin Sun', 'Hao Zhang', 'Eng Siong Chng']",AAAI,2021
+50,c,End-to-End Speaker Age and Height Estimation using Attention Mechanism and Triplet Loss.,"['Manav Kaushik', 'Van Tung Pham', 'Tran The Anh', 'Eng Siong Chng']",APSIPA ASC,2021
+51,c,Multitask-based joint learning approach to robust ASR for radio communication speech.,"['Duo Ma', 'Nana Hou', 'Van Tung Pham', 'Haihua Xu', 'Eng Siong Chng']",APSIPA ASC,2021
+52,c,Time Domain Speech Enhancement With Attentive Multi-scale Approach.,"['Chen Chen', 'Nana Hou', 'Duo Ma', 'Eng Siong Chng']",APSIPA ASC,2021
+53,c,Enriching Under-Represented Named Entities for Improved Speech Recognition.,"['Tingzhi Mao', 'Yerbolat Khassanov', 'Van Tung Pham', 'Haihua Xu', 'Hao Huang', 'Aishan Wumaier', 'Eng Siong Chng']",APSIPA ASC,2021
+54,c,Multilingual Approach to Joint Speech and Accent Recognition with DNN-HMM Framework.,"['Yizhou Peng', 'Jicheng Zhang', 'Haobo Zhang', 'Haihua Xu', 'Hao Huang', 'Sheng Li', 'Eng Siong Chng']",APSIPA ASC,2021
+55,c,A Unified Speaker Adaptation Approach for ASR.,"['Yingzhu Zhao', 'Chongjia Ni', 'Cheung-Chi Leung', 'Shafiq R. Joty', 'Eng Siong Chng', 'Bin Ma']",EMNLP (1),2021
+56,c,Learning Disentangled Feature Representations for Speech Enhancement Via Adversarial Training.,"['Nana Hou', 'Chenglin Xu', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2021
+57,c,Multi-Stage Speaker Extraction with Utterance and Frame-Level Reference Signals.,"['Meng Ge', 'Chenglin Xu', 'Longbiao Wang', 'Eng Siong Chng', 'Jianwu Dang', 'Haizhou Li']",ICASSP,2021
+58,c,Representation Learning with Spectro-Temporal-Channel Attention for Speech Emotion Recognition.,"['Lili Guo', 'Longbiao Wang', 'Chenglin Xu', 'Jianwu Dang', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2021
+59,c,Preventing Early Endpointing for Online Automatic Speech Recognition.,"['Yingzhu Zhao', 'Chongjia Ni', 'Cheung-Chi Leung', 'Shafiq R. Joty', 'Eng Siong Chng', 'Bin Ma']",ICASSP,2021
+60,c,E2E-Based Multi-Task Learning Approach to Joint Speech and Accent Recognition.,"['Jicheng Zhang', 'Yizhou Peng', 'Van Tung Pham', 'Haihua Xu', 'Hao Huang', 'Eng Siong Chng']",Interspeech,2021
+61,c,Overlapped Speech Detection Based on Spectral and Spatial Feature Fusion.,"['Weiguang Chen', 'Van Tung Pham', 'Eng Siong Chng', 'Xionghu Zhong']",Interspeech,2021
+62,c,Approaches to Improving Recognition of Underrepresented Named Entities in Hybrid ASR Systems.,"['Tingzhi Mao', 'Yerbolat Khassanov', 'Van Tung Pham', 'Haihua Xu', 'Hao Huang', 'Eng Siong Chng']",ISCSLP,2021
+63,c,Leveraging Text Data Using Hybrid Transformer-LSTM Based End-to-End ASR in Transfer Learning.,"['Zhiping Zeng', 'Van Tung Pham', 'Haihua Xu', 'Yerbolat Khassanov', 'Eng Siong Chng', 'Chongjia Ni', 'Bin Ma']",ISCSLP,2021
+64,c,Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences.,"['Boon Peng Yap', 'Andrew Koh', 'Eng Siong Chng']",EMNLP (Findings),2020
+65,c,Time-Domain Neural Network Approach for Speech Bandwidth Extension.,"['Xiang Hao', 'Chenglin Xu', 'Nana Hou', 'Lei Xie', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2020
+66,c,Independent Language Modeling Architecture for End-To-End ASR.,"['Van Tung Pham', 'Haihua Xu', 'Yerbolat Khassanov', 'Zhiping Zeng', 'Eng Siong Chng', 'Chongjia Ni', 'Bin Ma', 'Haizhou Li']",ICASSP,2020
+67,c,Speech Transformer with Speaker Aware Persistent Memory.,"['Yingzhu Zhao', 'Chongjia Ni', 'Cheung-Chi Leung', 'Shafiq R. Joty', 'Eng Siong Chng', 'Bin Ma']",INTERSPEECH,2020
+68,c,SpEx+: A Complete Time Domain Speaker Extraction Network.,"['Meng Ge', 'Chenglin Xu', 'Longbiao Wang', 'Eng Siong Chng', 'Jianwu Dang', 'Haizhou Li']",INTERSPEECH,2020
+69,c,Monolingual Data Selection Analysis for English-Mandarin Hybrid Code-Switching Speech Recognition.,"['Haobo Zhang', 'Haihua Xu', 'Van Tung Pham', 'Hao Huang', 'Eng Siong Chng']",INTERSPEECH,2020
+70,c,Speaker and Phoneme-Aware Speech Bandwidth Extension with Residual Dual-Path Network.,"['Nana Hou', 'Chenglin Xu', 'Van Tung Pham', 'Joey Tianyi Zhou', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2020
+71,c,Multi-Task Learning for End-to-End Noise-Robust Bandwidth Extension.,"['Nana Hou', 'Chenglin Xu', 'Joey Tianyi Zhou', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2020
+72,c,Universal Speech Transformer.,"['Yingzhu Zhao', 'Chongjia Ni', 'Cheung-Chi Leung', 'Shafiq R. Joty', 'Eng Siong Chng', 'Bin Ma']",INTERSPEECH,2020
+73,c,Cross Attention with Monotonic Alignment for Speech Transformer.,"['Yingzhu Zhao', 'Chongjia Ni', 'Cheung-Chi Leung', 'Shafiq R. Joty', 'Eng Siong Chng', 'Bin Ma']",INTERSPEECH,2020
+74,c,Audio Codec Simulation based Data Augmentation for Telephony Speech Recognition.,"['Thi-Ly Vu', 'Zhiping Zeng', 'Haihua Xu', 'Eng Siong Chng']",APSIPA,2019
+75,c,Transfer Learning for Punctuation Prediction.,"['Karan Makhija', 'Thi-Nga Ho', 'Eng Siong Chng']",APSIPA,2019
+76,c,Domain Adversarial Training for Speech Enhancement.,"['Nana Hou', 'Chenglin Xu', 'Eng Siong Chng', 'Haizhou Li']",APSIPA,2019
+77,c,Improving code-switching speech recognition with data augmentation and system combination.,"['Duo Ma', 'Guanyu Li', 'Haihua Xu', 'Eng Siong Chng']",APSIPA,2019
+78,c,Time-Domain Speaker Extraction Network.,"['Chenglin Xu', 'Wei Rao', 'Eng Siong Chng', 'Haizhou Li']",ASRU,2019
+79,c,Optimization of Speaker Extraction Neural Network with Magnitude and Temporal Spectrum Approximation Loss.,"['Chenglin Xu', 'Wei Rao', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2019
+80,c,QASA: Advanced Document Retriever for Open-Domain Question Answering by Learning to Rank Question-Aware Self-Attentive Document Representations.,"['Trang M. Nguyen', 'Van-Lien Tran', 'Duy-Cat Can', 'Quang-Thuy Ha', 'Ly T. Vu', 'Engsiong Chng']",ICMLSC,2019
+81,c,A Speaker-Dependent WaveNet for Voice Conversion with Non-Parallel Data.,"['Xiaohai Tian', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2019
+82,c,Target Speaker Extraction for Multi-Talker Speaker Verification.,"['Wei Rao', 'Chenglin Xu', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2019
+83,c,Constrained Output Embeddings for End-to-End Code-Switching Speech Recognition with Only Monolingual Data.,"['Yerbolat Khassanov', 'Haihua Xu', 'Van Tung Pham', 'Zhiping Zeng', 'Eng Siong Chng', 'Chongjia Ni', 'Bin Ma']",INTERSPEECH,2019
+84,c,On the End-to-End Solution to Mandarin-English Code-Switching Speech Recognition.,"['Zhiping Zeng', 'Yerbolat Khassanov', 'Van Tung Pham', 'Haihua Xu', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2019
+85,c,Enriching Rare Word Representations in Neural Language Models by Embedding Matrix Augmentation.,"['Yerbolat Khassanov', 'Zhiping Zeng', 'Van Tung Pham', 'Haihua Xu', 'Eng Siong Chng']",INTERSPEECH,2019
+86,c,Online FAQ Chatbot for Customer Support.,"['Thi-Ly Vu', 'Zin Tun Kyaw', 'Chng Eng Siong', 'Rafael E. Banchs']",IWSDS,2019
+87,c,Named-Entity Tagging and Domain adaptation for Better Customized Translation.,"['Zhongwei Li', 'Xuancong Wang', 'AiTi Aw', 'Eng Siong Chng', 'Haizhou Li']",NEWS@ACL,2018
+88,c,A Hybrid Deep Learning Architecture for Sentence Unit Detection.,"['Duy-Cat Can', 'Thi-Nga Ho', 'Eng Siong Chng']",IALP,2018
+89,c,An Investigation of Word Embeddings with Deep Bidirectional LSTM for Sentence Unit Detection in Automatic Speech Transcription.,"['Thi-Nga Ho', 'Duy-Cat Can', 'Engsiong Chng']",IALP,2018
+90,c,Single Channel Speech Separation with Constrained Utterance Level Permutation Invariant Training Using Grid LSTM.,"['Chenglin Xu', 'Wei Rao', 'Xiong Xiao', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2018
+91,c,Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition.,"['Qing Wang', 'Wei Rao', 'Sining Sun', 'Lei Xie', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2018
+92,c,Mandarin-English Code-switching Speech Recognition.,"['Haihua Xu', 'Van Tung Pham', 'Zin Tun Kyaw', 'Zhi Hao Lim', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2018
+93,c,Study of Semi-supervised Approaches to Improving English-Mandarin Code-Switching Speech Recognition.,"['Pengcheng Guo', 'Haihua Xu', 'Lei Xie', 'Eng Siong Chng']",INTERSPEECH,2018
+94,c,Unsupervised and Efficient Vocabulary Expansion for Recurrent Neural Network Language Models in ASR.,"['Yerbolat Khassanov', 'Eng Siong Chng']",INTERSPEECH,2018
+95,c,A Shifted Delta Coefficient Objective for Monaural Speech Separation Using Multi-task Learning.,"['Chenglin Xu', 'Wei Rao', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2018
+96,c,Average Modeling Approach to Voice Conversion with Non-Parallel Data.,"['Xiaohai Tian', 'Junchao Wang', 'Haihua Xu', 'Eng Siong Chng', 'Haizhou Li']",Odyssey,2018
+97,c,Unsupervised Language Model Adaptation by Data Selection for Speech Recognition.,"['Yerbolat Khassanov', 'Tze Yuang Chong', 'Benjamin Bigot', 'Eng Siong Chng']",ACIIDS (1),2017
+98,c,An end-to-end neural network approach to story segmentation.,"['Jia Yu', 'Lei Xie', 'Xiong Xiao', 'Eng Siong Chng']",APSIPA,2017
+99,c,Low-resource spoken keyword search strategies in georgian inspired by distinctive feature theory.,"['Nancy F. Chen', 'Boon Pang Lim', 'Van Hai Do', 'Van Tung Pham', 'Chongjia Ni', 'Haihua Xu', 'Mark Hasegawa-Johnson', 'Wenda Chen', 'Xiong Xiao', 'Sunil Sivadas', 'Eng Siong Chng', 'Bin Ma', 'Haizhou Li']",APSIPA,2017
+100,c,An investigation of spectral feature partitioning for replay attacks detection.,"['Zhi Hao Lim', 'Xiaohai Tian', 'Wei Rao', 'Eng Siong Chng']",APSIPA,2017
+101,c,Improving N-gram language modeling for code-switching speech recognition.,"['Zhiping Zeng', 'Haihua Xu', 'Tze Yuang Chong', 'Eng Siong Chng', 'Haizhou Li']",APSIPA,2017
+102,c,Topic embedding of sentences for story segmentation.,"['Jia Yu', 'Xiong Xiao', 'Lei Xie', 'Eng Siong Chng']",APSIPA,2017
+103,c,Novel Functional Technologies for Age-Friendly E-commerce.,"['Xiaohai Tian', 'Lei Meng', 'Siyuan Liu', 'Zhiqi Shen', 'Eng Siong Chng', 'Cyril Leung', 'Frank Guan', 'Chunyan Miao']",HCI (28),2017
+104,c,Improving air traffic control speech intelligibility by reducing speaking rate effectively.,"['Nana Hou', 'Xiaohai Tian', 'Eng Siong Chng', 'Bin Ma', 'Haizhou Li']",IALP,2017
+105,c,A review of the mandarin-english code-switching corpus: SEAME.,"['Grandee Lee', 'Thi-Nga Ho', 'Eng Siong Chng', 'Haizhou Li']",IALP,2017
+106,c,Named entity transliteration with sequence-to-sequence neural network.,"['Zhongwei Li', 'Eng Siong Chng', 'Haizhou Li']",IALP,2017
+107,c,On time-frequency mask estimation for MVDR beamforming with application in robust speech recognition.,"['Xiong Xiao', 'Shengkui Zhao', 'Douglas L. Jones', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2017
+108,c,"Towards Age-friendly E-commerce Through Crowd-Improved Speech Recognition, Multimodal Search, and Personalized Speech Feedback.","['Lei Meng', 'Nguyen Quy Hy', 'Xiaohai Tian', 'Zhiqi Shen', 'Eng Siong Chng', 'Frank Yunqing Guan', 'Chunyan Miao', 'Cyril Leung']",ICCSE,2017
+109,c,Weighted Spatial Covariance Matrix Estimation for MUSIC Based TDOA Estimation of Speech Source.,"['Chenglin Xu', 'Xiong Xiao', 'Sining Sun', 'Wei Rao', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2017
+110,c,Pruning Strategies for Partial Search in Spoken Term Detection.,"['Van Tung Pham', 'Haihua Xu', 'Xiong Xiao', 'Nancy F. Chen', 'Eng Siong Chng']",SoICT,2017
+111,c,Improving Efficiency of Sentence Boundary Detection by Feature Selection.,"['Thi-Nga Ho', 'Tze Yuang Chong', 'Van Hai Do', 'Van Tung Pham', 'Eng Siong Chng']",ACIIDS (2),2016
+112,c,Zero resource anti-spoofing detection for unit selection based synthetic speech using image spectrogram artifacts.,"['Su Jun Leow', 'Eng Siong Chng', 'Chin-Hui Lee']",APSIPA,2016
+113,c,Spoofing speech detection using temporal convolutional neural network.,"['Xiaohai Tian', 'Xiong Xiao', 'Eng Siong Chng', 'Haizhou Li']",APSIPA,2016
+114,c,Beamforming networks using spatial covariance features for far-field speech recognition.,"['Xiong Xiao', 'Shinji Watanabe', 'Eng Siong Chng', 'Haizhou Li']",APSIPA,2016
+115,c,I-vector based deep neural network acoustic model adaptation using multilingual language resource.,"['Haihua Xu', 'Wei Rao', 'Xiong Xiao', 'Hao Huang', 'Eng Siong Chng', 'Haizhou Li']",APSIPA,2016
+116,c,Combining non-negative matrix factorization and deep neural networks for speech enhancement and automatic speech recognition.,"['Thanh T. Vu', 'Benjamin Bigot', 'Eng Siong Chng']",ICASSP,2016
+117,c,Spoofing detection from a feature representation perspective.,"['Xiaohai Tian', 'Zhizheng Wu', 'Xiong Xiao', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2016
+118,c,Content-aware local variability vector for speaker verification with short utterance.,"['Liping Chen', 'Kong-Aik Lee', 'Eng Siong Chng', 'Bin Ma', 'Haizhou Li', 'Li-Rong Dai']",ICASSP,2016
+119,c,Approximate search of audio queries by using DTW with phone time boundary and data augmentation.,"['Haihua Xu', 'Jingyong Hou', 'Xiong Xiao', 'Van Tung Pham', 'Cheung-Chi Leung', 'Lei Wang', 'Van Hai Do', 'Hang Lv', 'Lei Xie', 'Bin Ma', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2016
+120,c,Keyword search using query expansion for graph-based rescoring of hypothesized detections.,"['Van Tung Pham', 'Haihua Xu', 'Xiong Xiao', 'Nancy F. Chen', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2016
+121,c,Exemplar-inspired strategies for low-resource spoken keyword search in Swahili.,"['Nancy F. Chen', 'Van Tung Pham', 'Haihua Xu', 'Xiong Xiao', 'Van Hai Do', 'Chongjia Ni', 'I-Fan Chen', 'Sunil Sivadas', 'Chin-Hui Lee', 'Eng Siong Chng', 'Bin Ma', 'Haizhou Li']",ICASSP,2016
+122,c,An expectation-maximization eigenvector clustering approach to direction of arrival estimation of multiple speech sources.,"['Xiong Xiao', 'Shengkui Zhao', 'Thi Ngoc Tho Nguyen', 'Douglas L. Jones', 'Eng Siong Chng', 'Haizhou Li']",ICASSP,2016
+123,c,Rescoring Hypothesized Detections of Out-of-Vocabulary Keywords Using Subword Samples.,"['Van Tung Pham', 'Haihua Xu', 'Xiong Xiao', 'Nancy F. Chen', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2016
+124,c,Semi-Supervised and Cross-Lingual Knowledge Transfer Learnings for DNN Hybrid Acoustic Models Under Low-Resource Conditions.,"['Haihua Xu', 'Hang Su', 'Chongjia Ni', 'Xiong Xiao', 'Hao Huang', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2016
+125,c,A DNN-HMM Approach to Story Segmentation.,"['Jia Yu', 'Xiong Xiao', 'Lei Xie', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2016
+126,c,An Investigation of Spoofing Speech Detection Under Additive Noise and Reverberant Conditions.,"['Xiaohai Tian', 'Zhizheng Wu', 'Xiong Xiao', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2016
+127,c,"The 2015 NIST Language Recognition Evaluation: The Shared View of I2R, Fantastic4 and SingaMS.","['Kong-Aik Lee', 'Haizhou Li', 'Li Deng', 'Ville Hautamäki', 'Wei Rao', 'Xiong Xiao', 'Anthony Larcher', 'Hanwu Sun', 'Trung Hieu Nguyen', 'Guangsen Wang', 'Aleksandr Sizov', 'Jianshu Chen', 'Ivan Kukanov', 'Amir Hossein Poorjam', 'Trung Ngo Trong', 'Chenglin Xu', 'Haihua Xu', 'Bin Ma', 'Eng Siong Chng', 'Sylvain Meignier']",INTERSPEECH,2016
+128,c,Toward High-Performance Language-Independent Query-by-Example Spoken Term Detection for MediaEval 2015: Post-Evaluation Analysis.,"['Cheung-Chi Leung', 'Lei Wang', 'Haihua Xu', 'Jingyong Hou', 'Van Tung Pham', 'Hang Lv', 'Lei Xie', 'Xiong Xiao', 'Chongjia Ni', 'Bin Ma', 'Eng Siong Chng', 'Haizhou Li']",INTERSPEECH,2016
+129,c,Neural networks based channel compensation for i-vector speaker verification.,"['Wei Rao', 'Xiong Xiao', 'Chenglin Xu', 'Haihua Xu', 'Kong-Aik Lee', 'Eng Siong Chng', 'Haizhou Li']",ISCSLP,2016
+130,c,Multi-channel feature adaptation for robust speech recognition.,"['Zhaofeng Zhang', 'Xiong Xiao', 'Longbiao Wang', 'Jianwu Dang', 'Masahiro Iwahashi', 'Eng Siong Chng', 'Haizhou Li']",ISCSLP,2016
+131,c,The NNI Vietnamese Speech Recognition System for MediaEval 2016.,"['Lei Wang', 'Chongjia Ni', 'Cheung-Chi Leung', 'Changhuai You', 'Lei Xie', 'Haihua Xu', 'Xiong Xiao', 'Tin Lay Nwe', 'Eng Siong Chng', 'Bin Ma', 'Haizhou Li']",MediaEval,2016
+132,c,Distance metric learning for kernel density-based acoustic model under limited training data conditions.,"['Van Hai Do', 'Xiong Xiao', 'Eng Siong Chng', 'Haizhou Li']",APSIPA,2015
+133,c,A density peak clustering approach to unsupervised acoustic subword units discovery.,"['Jia Yu', 'Lei Xie', 'Xiong Xiao', 'Eng Siong Chng', 'Haizhou Li']",APSIPA,2015
+134,c,Non-negative matrix factorization using stable alternating direction method of multipliers for source separation.,"['Shaofei Zhang', 'Dong-Yan Huang', 'Lei Xie', 'Eng Siong Chng', 'Haizhou Li', 'Minghui Dong']",APSIPA,2015
+135,c,On the study of very low-resource language keyword search.,"['Van Tung Pham', 'Haihua Xu', 'Van Hai Do', 'Tze Yuang Chong', 'Xiong Xiao', 'Eng Siong Chng', 'Haizhou Li']",APSIPA,2015
+136,c,Multilingual exemplar-based acoustic model for the NIST Open KWS 2015 evaluation.,"['Van Hai Do', 'Xiong Xiao', 'Haihua Xu', 'Eng Siong Chng', 'Haizhou Li']",APSIPA,2015
+137,c,Speech enhancement using beamforming and non negative matrix factorization for robust speech recognition in the CHiME-3 challenge.,"['Thanh T. Vu', 'Benjamin Bigot', 'Engsiong Chng']",ASRU,2015
+138,c,Robust speech recognition using beamforming with adaptive microphone gains and multichannel noise reduction.,"['Shengkui Zhao', 'Xiong Xiao', 'Zhaofeng Zhang', 'Thi Ngoc Tho Nguyen', 'Xionghu Zhong', 'Bo Ren', 'Longbiao Wang', 'Douglas L. Jones', 'Engsiong Chng', 'Haizhou Li']",ASRU,2015
+139,c,On statistical machine translation method for lexicon refinement in speech recognition.,"['Haihua Xu', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",ChinaSIP,2015
+140,c,Detecting synthetic speech using long term magnitude and phase information.,"['Xiaohai Tian', 'Steven Du', 'Xiong Xiao', 'Haihua Xu', 'Engsiong Chng', 'Haizhou Li']",ChinaSIP,2015
+141,c,DNN feature compensation for noise robust speaker verification.,"['Steven Du', 'Xiong Xiao', 'Engsiong Chng']",ChinaSIP,2015
+142,c,Modelling Public Sentiment in Twitter: Using Linguistic Patterns to Enhance Supervised Learning.,"['Prerna Chikersal', 'Soujanya Poria', 'Erik Cambria', 'Alexander F. Gelbukh', 'Chng Eng Siong']",CICLing (2),2015
+143,c,A learning-based approach to direction of arrival estimation in noisy and reverberant environments.,"['Xiong Xiao', 'Shengkui Zhao', 'Xionghu Zhong', 'Douglas L. Jones', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2015
+144,c,Sparse representation for frequency warping based voice conversion.,"['Xiaohai Tian', 'Zhizheng Wu', 'Siu Wa Lee', 'Nguyen Quy Hy', 'Engsiong Chng', 'Minghui Dong']",ICASSP,2015
+145,c,Language independent query-by-example spoken term detection using N-best phone sequences and partial matching.,"['Haihua Xu', 'Peng Yang', 'Xiong Xiao', 'Lei Xie', 'Cheung-Chi Leung', 'Hongjie Chen', 'Jia Yu', 'Hang Lv', 'Lei Wang', 'Su Jun Leow', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2015
+146,c,Low-resource keyword search strategies for tamil.,"['Nancy F. Chen', 'Chongjia Ni', 'I-Fan Chen', 'Sunil Sivadas', 'Van Tung Pham', 'Haihua Xu', 'Xiong Xiao', 'Tze Siong Lau', 'Su Jun Leow', 'Boon Pang Lim', 'Cheung-Chi Leung', 'Lei Wang', 'Chin-Hui Lee', 'Alvina Goh', 'Engsiong Chng', 'Bin Ma', 'Haizhou Li']",ICASSP,2015
+147,c,Language-resource independent speech segmentation using cues from a spectrogram image.,"['Su Jun Leow', 'Engsiong Chng', 'Chin-Hui Lee']",ICASSP,2015
+148,c,TDTO language modeling with feedforward neural networks.,"['Tze Yuang Chong', 'Rafael E. Banchs', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2015
+149,c,Regularized non-negative matrix factorization using alternating direction method of multipliers and its application to source separation.,"['Shaofei Zhang', 'Dong-Yan Huang', 'Lei Xie', 'Engsiong Chng', 'Haizhou Li', 'Minghui Dong']",INTERSPEECH,2015
+150,c,Spoofing speech detection using high dimensional magnitude and phase features: the NTU approach for ASVspoof 2015 challenge.,"['Xiong Xiao', 'Xiaohai Tian', 'Steven Du', 'Haihua Xu', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2015
+151,c,A comparative study of BNF and DNN multilingual training on cross-lingual low-resource speech recognition.,"['Haihua Xu', 'Van Hai Do', 'Xiong Xiao', 'Engsiong Chng']",INTERSPEECH,2015
+152,c,System fusion for high-performance voice conversion.,"['Xiaohai Tian', 'Zhizheng Wu', 'Siu Wa Lee', 'Nguyen Quy Hy', 'Minghui Dong', 'Engsiong Chng']",INTERSPEECH,2015
+153,c,Learning to estimate reverberation time in noisy and reverberant rooms.,"['Xiong Xiao', 'Shengkui Zhao', 'Xionghu Zhong', 'Douglas L. Jones', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2015
+154,c,The NNI Query-by-Example System for MediaEval 2015.,"['Jingyong Hou', 'Van Tung Pham', 'Cheung-Chi Leung', 'Lei Wang', 'Haihua Xu', 'Hang Lv', 'Lei Xie', 'Zhonghua Fu', 'Chongjia Ni', 'Xiong Xiao', 'Hongjie Chen', 'Shaofei Zhang', 'Sining Sun', 'Yougen Yuan', 'Pengcheng Li', 'Tin Lay Nwe', 'Sunil Sivadas', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",MediaEval,2015
+155,c,Multi-view features in a DNN-CRF model for improved sentence unit detection on English broadcast news.,"['Guangpu Huang', 'Chenglin Xu', 'Xiong Xiao', 'Lei Xie', 'Chng Eng Siong', 'Haizhou Li']",APSIPA,2014
+156,c,A study on replay attack and anti-spoofing for text-dependent speaker verification.,"['Zhizheng Wu', 'Sheng Gao', 'Engsiong Chng', 'Haizhou Li']",APSIPA,2014
+157,c,Towards better keyword search performance on Malay broadcast news data.,"['Haihua Xu', 'Van Tung Pham', 'Engsiong Chng', 'Haizhou Li']",APSIPA,2014
+158,c,A Bayesian performance bound for time-delay of arrival based acoustic source tracking in a reverberant environment.,"['Xionghu Zhong', 'Wenwu Wang', 'Syed Mohsen Naqvi', 'Engsiong Chng']",FUSION,2014
+159,c,Feature compensation using linear combination of speaker and environment dependent correction vectors.,"['Xiong Xiao', 'Jinyu Li', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2014
+160,c,Generalization of temporal filter and linear transformation for robust speech recognition.,"['Duc Hoang Ha Nguyen', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2014
+161,c,A discriminatively trained Hough Transform for frame-level phoneme recognition.,"['Jonathan William Dennis', 'Tran Huy Dat', 'Haizhou Li', 'Engsiong Chng']",ICASSP,2014
+162,c,Improving language modeling by using distance and co-occurrence information of word-pairs and its application to LVCSR.,"['Tze Yuang Chong', 'Rafael E. Banchs', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2014
+163,c,Discriminative score normalization for keyword search decision.,"['Van Tung Pham', 'Haihua Xu', 'Nancy F. Chen', 'Sunil Sivadas', 'Boon Pang Lim', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2014
+164,c,Kernel density-based acoustic model with cross-lingual bottleneck features for resource limited LVCSR.,"['Van Hai Do', 'Xiong Xiao', 'Chng Eng Siong', 'Haizhou Li']",INTERSPEECH,2014
+165,c,Semi-supervised training for bottle-neck feature based DNN-HMM hybrid systems.,"['Haihua Xu', 'Hang Su', 'Chng Eng Siong', 'Haizhou Li']",INTERSPEECH,2014
+166,c,Joint nonnegative matrix factorization for exemplar-based voice conversion.,"['Zhizheng Wu', 'Chng Eng Siong', 'Haizhou Li']",INTERSPEECH,2014
+167,c,Analysis of spectrogram image methods for sound event classification.,"['Jonathan William Dennis', 'Tran Huy Dat', 'Chng Eng Siong']",INTERSPEECH,2014
+168,c,A deep neural network approach for sentence boundary detection in broadcast news.,"['Chenglin Xu', 'Lei Xie', 'Guangpu Huang', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2014
+169,c,Correlation-based frequency warping for voice conversion.,"['Xiaohai Tian', 'Zhizheng Wu', 'Siu Wa Lee', 'Engsiong Chng']",ISCSLP,2014
+170,c,Single-channel dereverberation for distant-talking speech recognition by combining denoising autoencoder and temporal structure normalization.,"['Yuma Ueda', 'Longbiao Wang', 'Atsuhiko Kai', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",ISCSLP,2014
+171,c,The NNI Query-by-Example System for MediaEval 2014.,"['Peng Yang', 'Haihua Xu', 'Xiong Xiao', 'Lei Xie', 'Cheung-Chi Leung', 'Hongjie Chen', 'Jia Yu', 'Hang Lv', 'Lei Wang', 'Su Jun Leow', 'Bin Ma', 'Chng Eng Siong', 'Haizhou Li']",MediaEval,2014
+172,c,System and keyword dependent fusion for spoken term detection.,"['Van Tung Pham', 'Nancy F. Chen', 'Sunil Sivadas', 'Haihua Xu', 'I-Fan Chen', 'Chongjia Ni', 'Engsiong Chng', 'Haizhou Li']",SLT,2014
+173,c,Modeling of term-distance and term-occurrence information for improving n-gram language model performance.,"['Tze Yuang Chong', 'Rafael E. Banchs', 'Engsiong Chng', 'Haizhou Li']",ACL (2),2013
+174,c,A robust sound event recognition framework under TV playing conditions.,"['Wen Zheng Terence Ng', 'Tran Huy Dat', 'Jonathan William Dennis', 'Chng Eng Siong']",APSIPA,2013
+175,c,Adaptive semi-supervised tree SVM for sound event recognition in home environments.,"['Wen Zheng Terence Ng', 'Tran Huy Dat', 'Huynh Thai Hoa', 'Chng Eng Siong']",APSIPA,2013
+176,c,A particle filter compensation approach to robust LVCSR.,"['Duc Hoang Ha Nguyen', 'Aleem Mushtaq', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li', 'Chin-Hui Lee']",APSIPA,2013
+177,c,Local partial least square regression for spectral mapping in voice conversion.,"['Xiaohai Tian', 'Zhizheng Wu', 'Engsiong Chng']",APSIPA,2013
+178,c,Conditional restricted Boltzmann machine for voice conversion.,"['Zhizheng Wu', 'Engsiong Chng', 'Haizhou Li']",ChinaSIP,2013
+179,c,Language diarization for conversational code-switch speech with pronunciation dictionary adaptation.,"['Dau-Cheng Lyu', 'Engsiong Chng', 'Haizhou Li']",ChinaSIP,2013
+180,c,Robust sound event recognition under TV playing conditions.,"['Wen Zheng Terence Ng', 'Tran Huy Dat', 'Jonathan William Dennis', 'Chng Eng Siong']",ChinaSIP,2013
+181,c,Constrained adaptation of histogram equalization for robust speech recognition.,"['Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",ChinaSIP,2013
+182,c,Synthetic speech detection using temporal modulation feature.,"['Zhizheng Wu', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2013
+183,c,Language diarization for code-switch conversational speech.,"['Dau-Cheng Lyu', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2013
+184,c,Temporal filter design by minimum KL divergence criterion for robust speech recognition.,"['Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2013
+185,c,Context-dependent phone mapping for LVCSR of under-resourced languages.,"['Van Hai Do', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2013
+186,c,Attribute-based histogram equalization (HEQ) and its adaptation for robust speech recognition.,"['Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2013
+187,c,Vulnerability evaluation of speaker verification under voice conversion spoofing: the effect of text constraints.,"['Zhizheng Wu', 'Anthony Larcher', 'Kong-Aik Lee', 'Engsiong Chng', 'Tomi Kinnunen', 'Haizhou Li']",INTERSPEECH,2013
+188,c,Exemplar-based unit selection for voice conversion utilizing temporal information.,"['Zhizheng Wu', 'Tuomas Virtanen', 'Tomi Kinnunen', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2013
+189,c,The development and analysis of a Malay broadcasr news corpus.,"['Tze Yuang Chong', 'Xiong Xiao', 'Haihua Xu', 'Tien Ping Tan', 'Chau Khoa Pham', 'Dau-Cheng Lyu', 'Chng Eng Siong', 'Haizhou Li']",O-COCOSDA/CASLRE,2013
+190,c,Exemplar-based voice conversion using non-negative spectrogram deconvolution.,"['Zhizheng Wu', 'Tuomas Virtanen', 'Tomi Kinnunen', 'Eng Siong Chng', 'Haizhou Li']",SSW,2013
+191,c,A study on spoofing attack in state-of-the-art speaker verification: the telephone speech case.,"['Zhizheng Wu', 'Tomi Kinnunen', 'Engsiong Chng', 'Haizhou Li', 'Eliathamby Ambikairajah']",APSIPA,2012
+192,c,An Empirical Evaluation of Stop Word Removal in Statistical Machine Translation.,"['Tze Yuang Chong', 'Rafael E. Banchs', 'Eng Siong Chng']",ESIRMT/HyTra@EACL,2012
+193,c,A Phone Mapping Technique for Acoustic Modeling of Under-Resourced Languages.,"['Van Hai Do', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",IALP,2012
+194,c,Lasso environment model combination for robust speech recognition.,"['Xiong Xiao', 'Jinyu Li', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2012
+195,c,Joint spectral and temporal normalization of features for robust recognition of noisy and reverberated speech.,"['Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2012
+196,c,Vulnerability of speaker verification systems against voice conversion spoofing attacks: The case of telephone speech.,"['Tomi Kinnunen', 'Zhizheng Wu', 'Kong-Aik Lee', 'Filip Sedlak', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2012
+197,c,A first speech recognition system for Mandarin-English code-switch conversational speech.,"['Ngoc Thang Vu', 'Dau-Cheng Lyu', 'Jochen Weiner', 'Dominic Telaar', 'Tim Schlippe', 'Fabian Blaicher', 'Engsiong Chng', 'Tanja Schultz', 'Haizhou Li']",ICASSP,2012
+198,c,Detecting Converted Speech and Natural Speech for anti-Spoofing Attack in Speaker Recognition.,"['Zhizheng Wu', 'Chng Eng Siong', 'Haizhou Li']",INTERSPEECH,2012
+199,c,Overlapping Sound Event Recognition using Local Spectrogram Features with the Generalised Hough Transform.,"['Jonathan William Dennis', 'Tran Huy Dat', 'Engsiong Chng']",INTERSPEECH,2012
+200,c,Context dependant phone mapping for cross-lingual acoustic modeling.,"['Van Hai Do', 'Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",ISCSLP,2012
+201,c,An analysis of vector Taylor series model compensation for non-stationary noise in speech recognition.,"['Duc Hoang Ha Nguyen', 'Xiong Xiao', 'Chng Eng Siong', 'Haizhou Li']",ISCSLP,2012
+202,c,Integration of language identification into a recognition system for spoken conversations containing code-Switches.,"['Jochen Weiner', 'Ngoc Thang Vu', 'Dominic Telaar', 'Florian Metze', 'Tanja Schultz', 'Dau-Cheng Lyu', 'Engsiong Chng', 'Haizhou Li']",SLTU,2012
+203,c,Maximum likelihood adaptation of histogram equalization with constraint for robust speech recognition.,"['Xiong Xiao', 'Jinyu Li', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2011
+204,c,Feature Normalization Using Structured Full Transforms for Robust Speech Recognition.,"['Xiong Xiao', 'Jinyu Li', 'Chng Eng Siong', 'Haizhou Li']",INTERSPEECH,2011
+205,c,Target-Aware Lattice Rescoring for Dialect Recognition.,"['Rong Tong', 'Bin Ma', 'Haizhou Li', 'Chng Eng Siong']",INTERSPEECH,2011
+206,c,Speech Modulation Features for Robust Nonnative Speech Accent Detection.,"['Sethserey Sam', 'Xiong Xiao', 'Laurent Besacier', 'Eric Castelli', 'Haizhou Li', 'Chng Eng Siong']",INTERSPEECH,2011
+207,c,Linear Dynamic Models for Voice Activity Detection.,"['Kannu Mehta', 'Chau Khoa Pham', 'Chng Eng Siong']",INTERSPEECH,2011
+208,c,Non-Isomorphic Forest Pair Translation.,"['Hui Zhang', 'Min Zhang', 'Haizhou Li', 'Engsiong Chng']",EMNLP,2010
+209,c,Error corrective classifier fusion for spoken Language Recognition.,"['Omid Dehzangi', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",ICASSP,2010
+210,c,Framewise Phone Classification Using Weighted Fuzzy Classification Rules.,"['Omid Dehzangi', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",ICPR,2010
+211,c,Selecting phonotactic features for language recognition.,"['Rong Tong', 'Bin Ma', 'Haizhou Li', 'Engsiong Chng']",INTERSPEECH,2010
+212,c,Phoneme lattice based texttiling towards multilingual story segmentation.,"['Xiaoxuan Wang', 'Lei Xie', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2010
+213,c,Text-independent F0 transformation with non-parallel data for voice conversion.,"['Zhizheng Wu', 'Tomi Kinnunen', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2010
+214,c,SEAME: a Mandarin-English code-switching speech corpus in south-east asia.,"['Dau-Cheng Lyu', 'Tien Ping Tan', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2010
+215,c,A discriminative performance metric for GMM-UBM speaker identification.,"['Omid Dehzangi', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2010
+216,c,A study on hidden Markov model's generalization capability for speech recognition.,"['Xiong Xiao', 'Jinyu Li', 'Engsiong Chng', 'Haizhou Li', 'Chin-Hui Lee']",ASRU,2009
+217,c,Cluster criterion functions in spectral subspace and their application in speaker clustering.,"['Trung Hieu Nguyen', 'Haizhou Li', 'Chng Eng Siong']",ICASSP,2009
+218,c,The I4U system in NIST 2008 speaker recognition evaluation.,"['Haizhou Li', 'Bin Ma', 'Kong-Aik Lee', 'Hanwu Sun', 'Donglai Zhu', 'Khe Chai Sim', 'Changhuai You', 'Rong Tong', 'Ismo Kärkkäinen', 'Chien-Lin Huang', 'Vladimir Pervouchine', 'Wu Guo', 'Yijie Li', 'Li-Rong Dai', 'Mohaddeseh Nosratighods', 'Tharmarajah Thiruvaran', 'Julien Epps', 'Eliathamby Ambikairajah', 'Chng Eng Siong', 'Tanja Schultz', 'Qin Jin']",ICASSP,2009
+219,c,Exploiting prosodic information for Speaker Recognition.,"['Yanhua Long', 'Bin Ma', 'Haizhou Li', 'Wu Guo', 'Chng Eng Siong', 'Li-Rong Dai']",ICASSP,2009
+220,c,Efficient sparse self-similarity matrix construction for repeating sequence detection.,"['Lei Wang', 'Chng Eng Siong', 'Haizhou Li']",ICME,2009
+221,c,Target-aware language models for spoken language recognition.,"['Rong Tong', 'Bin Ma', 'Haizhou Li', 'Engsiong Chng', 'Kong-Aik Lee']",INTERSPEECH,2009
+222,c,Discriminative feature transformation using output coding for speech recognition.,"['Omid Dehzangi', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2009
+223,c,Improved Keypoint Matching Method for Near-Duplicate Keyframe Retrieval.,"['Ehsan Younessian', 'Deepu Rajan', 'Chng Eng Siong']",ISM,2009
+224,c,MICRO-EBLOCK: A Modular Platform for Embedded System Education.,"['Choon-Ching Tan', 'Su-Lim Tan', 'Chng Eng Siong', 'Wooi-Boon Goh']",CSSE (5),2008
+225,c,Target-oriented phone tokenizers for spoken language recognition.,"['Rong Tong', 'Bin Ma', 'Haizhou Li', 'Engsiong Chng']",ICASSP,2008
+226,c,Fuzzy rule selection using Iterative Rule Learning for speech data classification.,"['Omid Dehzangi', 'Bin Ma', 'Chng Eng Siong', 'Haizhou Li']",ICPR,2008
+227,c,T-test distance and clustering criterion for speaker diarization.,"['Trung Hieu Nguyen', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2008
+228,c,Target-oriented phone selection from universal phone set for spoken language recognition.,"['Rong Tong', 'Bin Ma', 'Haizhou Li', 'Engsiong Chng']",INTERSPEECH,2008
+229,c,Effect of Feature Smoothing for Robust Speech Recognition.,"['Xiong Xiao', 'Chng Eng Siong', 'Haizhou Li']",ISCSLP,2008
+230,c,Discriminative Output Coding Features for Speech Recognition.,"['Omid Dehzangi', 'Bin Ma', 'Chng Eng Siong', 'Haizhou Li']",ISCSLP,2008
+231,c,Speaker Diarization Using Direction of Arrival Estimate and Acoustic Feature Information: The I2R-NTU Submission for the NIST RT 2007 Evaluation.,"['Chin-Wei Eugene Koh', 'Hanwu Sun', 'Tin Lay Nwe', 'Trung Hieu Nguyen', 'Bin Ma', 'Chng Eng Siong', 'Haizhou Li', 'Susanto Rahardja']",CLEAR,2007
+232,c,Spoken Language Recognition with Relevance Feedback.,"['Rong Tong', 'Haizhou Li', 'Bin Ma', 'Engsiong Chng', 'Siu-Yeung Cho']",ICASSP (4),2007
+233,c,Normalizing the Speech Modulation Spectrum for Robust Speech Recognition.,"['Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",ICASSP (4),2007
+234,c,A Vector-Based Approach to Broadcast Audio Database Indexing and Retrieval.,"['Lei Wang', 'Haizhou Li', 'Engsiong Chng']",ICME,2007
+235,c,An MCU description methodology for initialization code generation software.,"['Yunfei Bai', 'Chng Eng Siong', 'Gorthi Prashant Bhanu']",ICPADS,2007
+236,c,Evaluating the temporal structure normalisation technique on the Aurora-4 task.,"['Xiong Xiao', 'Engsiong Chng', 'Haizhou Li']",INTERSPEECH,2007
+237,c,Using direction of arrival estimate and acoustic feature information in speaker diarization.,"['Chin-Wei Eugene Koh', 'Hanwu Sun', 'Tin Lay Nwe', 'Trung Hieu Nguyen', 'Bin Ma', 'Engsiong Chng', 'Haizhou Li', 'Susanto Rahardja']",INTERSPEECH,2007
+238,c,"Integrating Acoustic, Prosodic and Phonotactic Features for Spoken Language Identification.","['Rong Tong', 'Bin Ma', 'Donglai Zhu', 'Haizhou Li', 'Engsiong Chng']",ICASSP (1),2006
+239,c,"Identify Sports Video Shots with ""Happy"" or ""Sad"" Emotions.","['Jinjun Wang', 'Engsiong Chng', 'Changsheng Xu', 'Hanqing Lu', 'Xiaofeng Tong']",ICME,2006
+240,c,Fully and Semi-Automatic Music Sports Video Composition.,"['Jinjun Wang', 'Engsiong Chng', 'Changsheng Xu']",ICME,2006
+241,c,Automatic Sports Video Genre Classification using Pseudo-2D-HMM.,"['Jinjun Wang', 'Changsheng Xu', 'Engsiong Chng']",ICPR (4),2006
+242,c,Vector Autoregressive Model for Missing Feature Reconstruction.,"['Xiong Xiao', 'Haizhou Li', 'Engsiong Chng']",ISCSLP,2006
+243,c,The IIR Submission to CSLP 2006 Speaker Recognition Evaluation.,"['Kong-Aik Lee', 'Hanwu Sun', 'Rong Tong', 'Bin Ma', 'Minghui Dong', 'Changhuai You', 'Donglai Zhu', 'Chin-Wei Eugene Koh', 'Lei Wang', 'Tomi Kinnunen', 'Chng Eng Siong', 'Haizhou Li']",ISCSLP,2006
+244,c,Fusion of Acoustic and Tokenization Features for Speaker Recognition.,"['Rong Tong', 'Bin Ma', 'Kong-Aik Lee', 'Changhuai You', 'Donglai Zhu', 'Tomi Kinnunen', 'Hanwu Sun', 'Minghui Dong', 'Chng Eng Siong', 'Haizhou Li']",ISCSLP,2006
+245,c,Soccer replay detection using scene transition structure analysis.,"['Jinjun Wang', 'Engsiong Chng', 'Changsheng Xu']",ICASSP (2),2005
+246,c,A Player-Possession Acquisition System for Broadcast Soccer Video.,"['Xinguo Yu', 'Tze Sen Hay', 'Xin Yan', 'Engsiong Chng']",ICME,2005
+247,c,Automatic generation of personalized music sports video.,"['Jinjun Wang', 'Changsheng Xu', 'Chng Eng Siong', 'Ling-Yu Duan', 'Kongwah Wan', 'Qi Tian']",ACM Multimedia,2005
+248,c,Concurrent constant modulus algorithm and soft decision directed scheme for fractionally-spaced blind equalization.,"['Sheng Chen', 'Engsiong Chng']",ICC,2004
+249,c,Event detection based on non-broadcast sports video.,"['Jinjun Wang', 'Changsheng Xu', 'Chng Eng Siong', 'Xinguo Yu', 'Qi Tian']",ICIP,2004
+250,c,Sports highlight detection from keyword sequences using HMM.,"['Jinjun Wang', 'Changsheng Xu', 'Chng Eng Siong', 'Qi Tian']",ICME,2004
+251,c,High Accuracy Classification of EEG Signal.,"['Wenjie Xu', 'Cuntai Guan', 'Chng Eng Siong', 'S. Ranganatha', 'M. Thulasidas', 'Jiankang Wu']",ICPR (2),2004
+252,c,Automatic replay generation for soccer video broadcasting.,"['Jinjun Wang', 'Changsheng Xu', 'Chng Eng Siong', 'Kongwah Wan', 'Qi Tian']",ACM Multimedia,2004
+253,c,Using weight decay to optimize the generalization ability of a perceptron.,"['Siegfried Bös', 'Eng Siong Chng']",ICNN,1996
+254,c,Reducing the computational requirement of the orthogonal least squares algorithm.,"['Engsiong Chng', 'Sheng Chen', 'Bernard Mulgrew']",ICASSP (3),1994
+255,i,ConvMixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-field Keyword Spotting.,"['Dianwen Ng', 'Yunqi Chen', 'Biao Tian', 'Qiang Fu', 'Eng Siong Chng']",CoRR,2022
+256,i,L-SpEx: Localized Target Speaker Extraction.,"['Meng Ge', 'Chenglin Xu', 'Longbiao Wang', 'Eng Siong Chng', 'Jianwu Dang', 'Haizhou Li']",CoRR,2022
+257,i,Estimation of speaker age and height from speech signal using bi-encoder transformer mixture model.,"['Tarun Gupta', 'Duc-Tuan Truong', 'Tran The Anh', 'Chng Eng Siong']",CoRR,2022
+258,i,Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition.,"['Yuchen Hu', 'Nana Hou', 'Chen Chen', 'Eng Siong Chng']",CoRR,2022
+259,i,Noise-robust Speech Recognition with 10 Minutes Unparalleled In-domain Data.,"['Chen Chen', 'Nana Hou', 'Yuchen Hu', 'Shashank Shirol', 'Eng Siong Chng']",CoRR,2022
+260,i,Speech Emotion Recognition with Co-Attention based Multi-level Acoustic Information.,"['Heqing Zou', 'Yuke Si', 'Chen Chen', 'Deepu Rajan', 'Eng Siong Chng']",CoRR,2022
+261,i,Interactive Audio-text Representation for Automated Audio Captioning with Contrastive Learning.,"['Chen Chen', 'Nana Hou', 'Yuchen Hu', 'Heqing Zou', 'Xiaofeng Qi', 'Eng Siong Chng']",CoRR,2022
+262,i,Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting.,"['Yang Xiao', 'Nana Hou', 'Eng Siong Chng']",CoRR,2022
+263,i,Small Footprint Multi-channel ConvMixer for Keyword Spotting with Centroid Based Awareness.,"['Dianwen Ng', 'Jin Hui Pang', 'Yang Xiao', 'Biao Tian', 'Qiang Fu', 'Eng Siong Chng']",CoRR,2022
+264,i,Self-critical Sequence Training for Automatic Speech Recognition.,"['Chen Chen', 'Yuchen Hu', 'Nana Hou', 'Xiaofeng Qi', 'Heqing Zou', 'Eng Siong Chng']",CoRR,2022
+265,i,Automated Audio Captioning with Epochal Difficult Captions for Curriculum Learning.,"['Andrew Koh', 'Soham Tiwari', 'Chng Eng Siong']",CoRR,2022
+266,i,Language-Based Audio Retrieval with Converging Tied Layers and Contrastive Loss.,"['Andrew Koh', 'Eng Siong Chng']",CoRR,2022
+267,i,Internal Language Model Estimation based Language Model Fusion for Cross-Domain Code-Switching Speech Recognition.,"['Yizhou Peng', 'Yufei Liu', 'Jicheng Zhang', 'Haihua Xu', 'Yi He', 'Hao Huang', 'Eng Siong Chng']",CoRR,2022
+268,i,Intermediate-layer output Regularization for Attention-based Speech Recognition with Shared Decoder.,"['Jicheng Zhang', 'Yizhou Peng', 'Haihua Xu', 'Yi He', 'Eng Siong Chng', 'Hao Huang']",CoRR,2022
+269,i,Continual Learning For On-Device Environmental Sound Classification.,"['Yang Xiao', 'Xubo Liu', 'James A. King', 'Arshdeep Singh', 'Eng Siong Chng', 'Mark D. Plumbley', 'Wenwu Wang']",CoRR,2022
+270,i,DENT-DDSP: Data-efficient noisy speech generator using differentiable digital signal processors for explicit distortion modelling and noise-robust speech recognition.,"['Zixun Guo', 'Chen Chen', 'Eng Siong Chng']",CoRR,2022
+271,i,I2CR: Improving Noise Robustness on Keyword Spotting Using Inter-Intra Contrastive Regularization.,"['Dianwen Ng', 'Jia Qi Yip', 'Tanmay Surana', 'Zhao Yang', 'Chong Zhang', 'Yukun Ma', 'Chongjia Ni', 'Eng Siong Chng', 'Bin Ma']",CoRR,2022
+272,i,End-to-End Speaker Height and age estimation using Attention Mechanism with LSTM-RNN.,"['Manav Kaushik', 'Van Tung Pham', 'Eng Siong Chng']",CoRR,2021
+273,i,Multitask-Based Joint Learning Approach To Robust ASR For Radio Communication Speech.,"['Duo Ma', 'Nana Hou', 'Van Tung Pham', 'Haihua Xu', 'Eng Siong Chng']",CoRR,2021
+274,i,Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization.,"['Andrew Koh', 'Fuzhao Xue', 'Eng Siong Chng']",CoRR,2021
+275,i,Interactive Feature Fusion for End-to-End Noise-Robust Speech Recognition.,"['Yuchen Hu', 'Nana Hou', 'Chen Chen', 'Eng Siong Chng']",CoRR,2021
+276,i,A Unified Speaker Adaptation Approach for ASR.,"['Yingzhu Zhao', 'Chongjia Ni', 'Cheung-Chi Leung', 'Shafiq R. Joty', 'Eng Siong Chng', 'Bin Ma']",CoRR,2021
+277,i,Learning Speaker Representation with Semi-supervised Learning approach for Speaker Profiling.,"['Shangeth Rajaa', 'Van Tung Pham', 'Chng Eng Siong']",CoRR,2021
+278,i,SpEx: Multi-Scale Time Domain Speaker Extraction Network.,"['Chenglin Xu', 'Wei Rao', 'Eng Siong Chng', 'Haizhou Li']",CoRR,2020
+279,i,Time-domain speaker extraction network.,"['Chenglin Xu', 'Wei Rao', 'Eng Siong Chng', 'Haizhou Li']",CoRR,2020
+280,i,SpEx+: A Complete Time Domain Speaker Extraction Network.,"['Meng Ge', 'Chenglin Xu', 'Longbiao Wang', 'Eng Siong Chng', 'Jianwu Dang', 'Haizhou Li']",CoRR,2020
+281,i,Approaches to Improving Recognition of Underrepresented Named Entities in Hybrid ASR Systems.,"['Tingzhi Mao', 'Yerbolat Khassanov', 'Van Tung Pham', 'Haihua Xu', 'Hao Huang', 'Eng Siong Chng']",CoRR,2020
+282,i,Leveraging Text Data Using Hybrid Transformer-LSTM Based End-to-End ASR in Transfer Learning.,"['Zhiping Zeng', 'Van Tung Pham', 'Haihua Xu', 'Yerbolat Khassanov', 'Eng Siong Chng', 'Chongjia Ni', 'Bin Ma']",CoRR,2020
+283,i,Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences.,"['Boon Peng Yap', 'Andrew Koh', 'Eng Siong Chng']",CoRR,2020
+284,i,A multilingual approach to joint Speech and Accent Recognition with DNN-HMM framework.,"['Yizhou Peng', 'Jicheng Zhang', 'Haobo Zhang', 'Haihua Xu', 'Hao Huang', 'Eng Siong Chng']",CoRR,2020
+285,i,Enriching Under-Represented Named-Entities To Improve Speech Recognition Performance.,"['Tingzhi Mao', 'Yerbolat Khassanov', 'Van Tung Pham', 'Haihua Xu', 'Hao Huang', 'Aishan Wumaier', 'Eng Siong Chng']",CoRR,2020
+286,i,Multi-stage Speaker Extraction with Utterance and Frame-Level Reference Signals.,"['Meng Ge', 'Chenglin Xu', 'Longbiao Wang', 'Eng Siong Chng', 'Jianwu Dang', 'Haizhou Li']",CoRR,2020
+287,i,GDPNet: Refining Latent Multi-View Graph for Relation Extraction.,"['Fuzhao Xue', 'Aixin Sun', 'Hao Zhang', 'Eng Siong Chng']",CoRR,2020
+288,i,An Embarrassingly Simple Model for Dialogue Relation Extraction.,"['Fuzhao Xue', 'Aixin Sun', 'Hao Zhang', 'Eng Siong Chng']",CoRR,2020
+289,i,Target Speaker Extraction for Overlapped Multi-Talker Speaker Verification.,"['Wei Rao', 'Chenglin Xu', 'Eng Siong Chng', 'Haizhou Li']",CoRR,2019
+290,i,A Vocoder-free WaveNet Voice Conversion with Non-Parallel Data.,"['Xiaohai Tian', 'Eng Siong Chng', 'Haizhou Li']",CoRR,2019
+291,i,Optimization of Speaker Extraction Neural Network with Magnitude and Temporal Spectrum Approximation Loss.,"['Chenglin Xu', 'Wei Rao', 'Eng Siong Chng', 'Haizhou Li']",CoRR,2019
+292,i,Enriching Rare Word Representations in Neural Language Models by Embedding Matrix Augmentation.,"['Yerbolat Khassanov', 'Zhiping Zeng', 'Van Tung Pham', 'Haihua Xu', 'Eng Siong Chng']",CoRR,2019
+293,i,Constrained Output Embeddings for End-to-End Code-Switching Speech Recognition with Only Monolingual Data.,"['Yerbolat Khassanov', 'Haihua Xu', 'Van Tung Pham', 'Zhiping Zeng', 'Eng Siong Chng', 'Chongjia Ni', 'Bin Ma']",CoRR,2019
+294,i,I4U Submission to NIST SRE 2018: Leveraging from a Decade of Shared Experiences.,"['Kong Aik Lee', 'Ville Hautamäki', 'Tomi Kinnunen', 'Hitoshi Yamamoto', 'Koji Okabe', 'Ville Vestman', 'Jing Huang', 'Guohong Ding', 'Hanwu Sun', 'Anthony Larcher', 'Rohan Kumar Das', 'Haizhou Li', 'Mickael Rouvier', 'Pierre-Michel Bousquet', 'Wei Rao', 'Qing Wang', 'Chunlei Zhang', 'Fahimeh Bahmaninezhad', 'Héctor Delgado', 'Jose Patino', 'Qiongqiong Wang', 'Ling Guo', 'Takafumi Koshinaka', 'Jiacen Zhang', 'Koichi Shinoda', 'Trung Ngo Trong', 'Md. Sahidullah', 'Fan Lu', 'Yun Tang', 'Ming Tu', 'Kah Kuan Teh', 'Tran Huy Dat', 'Kuruvachan K. George', 'Ivan Kukanov', 'Florent Desnous', 'Jichen Yang', 'Emre Yilmaz', 'Longting Xu', 'Jean-François Bonastre', 'Chenglin Xu', 'Zhi Hao Lim', 'Eng Siong Chng', 'Shivesh Ranjan', 'John H. L. Hansen', 'Massimiliano Todisco', 'Nicholas W. D. Evans']",CoRR,2019
+295,i,Independent language modeling architecture for end-to-end ASR.,"['Van Tung Pham', 'Haihua Xu', 'Yerbolat Khassanov', 'Zhiping Zeng', 'Eng Siong Chng', 'Chongjia Ni', 'Bin Ma', 'Haizhou Li']",CoRR,2019
+296,i,Study of Semi-supervised Approaches to Improving English-Mandarin Code-Switching Speech Recognition.,"['Pengcheng Guo', 'Haihua Xu', 'Lei Xie', 'Eng Siong Chng']",CoRR,2018
+297,i,Unsupervised and Efficient Vocabulary Expansion for Recurrent Neural Network Language Models in ASR.,"['Yerbolat Khassanov', 'Eng Siong Chng']",CoRR,2018
+298,i,On the End-to-End Solution to Mandarin-English Code-switching Speech Recognition.,"['Zhiping Zeng', 'Yerbolat Khassanov', 'Van Tung Pham', 'Haihua Xu', 'Eng Siong Chng', 'Haizhou Li']",CoRR,2018
+299,i,Spoofing detection under noisy conditions: a preliminary investigation and an initial database.,"['Xiaohai Tian', 'Zhizheng Wu', 'Xiong Xiao', 'Eng Siong Chng', 'Haizhou Li']",CoRR,2016
+300,i,Noise Robust Speech Recognition Using Multi-Channel Based Channel Selection And ChannelWeighting.,"['Zhaofeng Zhang', 'Xiong Xiao', 'Longbiao Wang', 'Eng Siong Chng', 'Haizhou Li']",CoRR,2016
+301,i,High quality voice conversion using prosodic and high-resolution spectral features.,"['Nguyen Quy Hy', 'Siu Wa Lee', 'Xiaohai Tian', 'Minghui Dong', 'Engsiong Chng']",CoRR,2015
+302,e,"INTERSPEECH 2014, 15th Annual Conference of the International Speech Communication Association, Singapore, September 14-18, 2014.","['Haizhou Li', 'Helen M. Meng', 'Bin Ma', 'Engsiong Chng', 'Lei Xie']",CoRR,2014
+303,e,"Chinese Spoken Language Processing, 5th International Symposium, ISCSLP 2006, Singapore, December 13-16, 2006, Proceedings.","['Qiang Huo', 'Bin Ma', 'Chng Eng Siong', 'Haizhou Li']",Lecture Notes in Computer Science,2006

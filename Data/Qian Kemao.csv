@@ -1,0 +1,26 @@
+,type,name,author,event,year
+0,j,Outage Bridging and Trajectory Recovery in Visible Light Positioning Using Insufficient RSS Information.,"['Ran Zhang', 'Zichuan Liu', 'Kemao Qian', 'Sheng Zhang', 'Pengfei Du', 'Chen Chen', 'Arokiaswami Alphones']",IEEE Access,2020
+1,j,A Reversed Visible Light Multitarget Localization System via Sparse Matrix Reconstruction.,"['Ran Zhang', 'Wen-De Zhong', 'Kemao Qian', 'Sheng Zhang', 'Pengfei Du']",IEEE Internet Things J.,2018
+2,j,Image Sensor Based Visible Light Positioning System With Improved Positioning Algorithm.,"['Ran Zhang', 'Wen-De Zhong', 'Kemao Qian', 'Dehao Wu']",IEEE Access,2017
+3,j,Modeling and dynamics simulation for deformable objects of orthotropic materials.,"['Jianping Cai', 'Feng Lin', 'Yong Tsui Lee', 'Kemao Qian', 'Hock Soon Seah']",Vis. Comput.,2017
+4,j,Regenerated Phase-Shifted Sinusoid-Assisted Empirical Mode Decomposition.,"['Chenxing Wang', 'Qian Kemao', 'Feipeng Da']",IEEE Signal Process. Lett.,2016
+5,j,A heterogeneous computing system for coupling 3D endomicroscopy with volume rendering in real-time image visualization.,"['Wei Ming Chiew', 'Feng Lin', 'Kemao Qian', 'Hock Soon Seah']",Comput. Ind.,2014
+6,j,Oriented boundary padding for iterative and oriented fringe pattern denoising techniques.,"['Haixia Wang', 'Qian Kemao', 'Ronghua Liang', 'Huayin Wang', 'Ming Zhao', 'Xiaofei He']",Signal Process.,2014
+7,j,Coupling between Meshless FEM Modeling and Rendering on GPU for Real-time Physically-based Volumetric Deformation.,"['Muhammad Mobeen Movania', 'Feng Lin', 'Kemao Qian', 'Wei Ming Chiew', 'Hock Soon Seah']",J. WSCG,2012
+8,j,Embedded Computing for Fluorescence Confocal Endomicroscopy Imaging.,"['Lee Sing Cheong', 'Feng Lin', 'Hock Soon Seah', 'Kemao Qian', 'Feng Zhao', 'Patricia S. P. Thong', 'Khee Chee Soo', 'Malini Olivo', 'Sun-Yuan Kung']",J. Signal Process. Syst.,2009
+9,c,Learning-Based Parallax Transfer on Multispectral Light Field.,"['Shengyu Nan', 'Jie Chen', 'Lap-Pui Chau', 'Kemao Qian']",DSL,2018
+10,c,Real-Time Texture-less Object Recognition on Mobile Devices.,"['Jacob Chan', 'Jimmy Addison Lee', 'Qian Kemao']",ICPR,2018
+11,c,BIND: Binary Integrated Net Descriptors for Texture-Less Object Recognition.,"['Jacob Chan', 'Jimmy Addison Lee', 'Qian Kemao']",CVPR,2017
+12,c,F-SORT: An Alternative for Faster Geometric Verification.,"['Jacob Chan', 'Jimmy Addison Lee', 'Kemao Qian']",ACCV (1),2016
+13,c,BORDER: An Oriented Rectangles Approach to Texture-Less Object Recognition.,"['Jacob Chan', 'Jimmy Addison Lee', 'Kemao Qian']",CVPR,2016
+14,c,A Novel Sensor Fusion Based Indoor Visible Light Positioning System.,"['Ran Zhang', 'Wen-De Zhong', 'Dehao Wu', 'Kemao Qian']",GLOBECOM Workshops,2016
+15,c,An accurate and efficient sampling algorithm for capacitive touch panels.,"['Humza Akhtar', 'Qian Kemao']",I2MTC,2016
+16,c,Simulation and Visualization of Deformation with Anisotropic Materials.,"['Jianping Cai', 'Feng Lin', 'Kemao Qian', 'Yong Tsui Lee', 'Seah Hock Soon']",IV,2015
+17,c,Visual Analysis with Dynamic Geometric Complementarity and Physicochemical Matching in Protein Docking.,"['Hui Liu', 'Feng Lin', 'Kemao Qian', 'Hock Soon Seah', 'Yong Tsui Lee']",IV,2014
+18,c,Incorporating Fiber Controls into FEM Model for Transversely Isotropic Materials.,"['Jianping Cai', 'Feng Lin', 'Yong Tsui Lee', 'Kemao Qian', 'Hock Soon Seah']",PG (Short Papers),2014
+19,c,Demons Kernel Computation with Single-pass Stream Processing on FPGA.,"['Wei Ming Chiew', 'Feng Lin', 'Kemao Qian', 'Hock Soon Seah']",HPCC-ICESS,2012
+20,c,Automated Local Adaptive Thresholding for Real-time Feature Detection and Rendering of 3D Endomicroscopic Images on GPU.,"['Muhammad Mobeen Movania', 'Feng Lin', 'Kemao Qian', 'Hock Soon Seah']",CGVR,2009
+21,c,Synchronized Volumetric Cell Image Acquisition with FPGA-Controlled Endomicroscope.,"['Stephanus Surijadarma Tandjung', 'Feng Zhao', 'Feng Lin', 'Kemao Qian', 'Hock Soon Seah']",ESA,2009
+22,c,Feature-based registration of confocal fluorescence endomicroscopy images.,"['Feng Zhao', 'Feng Lin', 'Kemao Qian', 'Hock Soon Seah', 'Sun-Yuan Kung']",ICIP,2009
+23,c,A NURBS Volume Based Mass-spring Model for Real-time Simulation through its GPU Implementation.,"['Sandeep Menon', 'Feng Lin', 'Kemao Qian', 'Hock Soon Seah']",MSV,2009
+24,c,Block Motion Model for Optical Flow with Smoothness Prior Function.,"['Stephanus Surijadarma Tandjung', 'Seah Hock Soon', 'Kemao Qian']",ICARCV,2006

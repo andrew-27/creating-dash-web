@@ -1,0 +1,55 @@
+,type,name,author,event,year
+0,j,Probabilistic sentence satisfiability: An approach to PSAT.,"['Thomas C. Henderson', 'Robert Simmons', 'Bernard Serbinowski', 'Michael Cline', 'David Sacharny', 'Xiuyi Fan', 'Amar Mitiche']",Artif. Intell.,2020
+1,j,An explainable multi-attribute decision model based on argumentation.,"['Qiaoting Zhong', 'Xiuyi Fan', 'Xudong Luo', 'Francesca Toni']",Expert Syst. Appl.,2019
+2,j,"Assumption-based Argumentation: Disputes, Explanations, Preferences.","['Kristijonas Cyras', 'Xiuyi Fan', 'Claudia Schulz', 'Francesca Toni']",FLAP,2017
+3,j,A general framework for sound assumption-based argumentation dialogues.,"['Xiuyi Fan', 'Francesca Toni']",Artif. Intell.,2014
+4,j,Robotshare: a Google for Robots.,"['Xiuyi Fan', 'Thomas C. Henderson']",Int. J. Humanoid Robotics,2008
+5,c,Rule-PSAT: Relaxing Rule Constraints in Probabilistic Assumption-Based Argumentation.,['Xiuyi Fan'],COMMA,2022
+6,c,On Understanding the Influence of Controllable Factors with a Feature Attribution Algorithm: a Medical Case Study.,"['Veera Raghava Reddy Kovvuri', 'Siyuan Liu', 'Monika Seisenberger', 'Xiuyi Fan', 'Berndt Müller', 'Hsuan Fu']",INISTA,2022
+7,c,Towards Polynomial Adaptive Local Explanations for Healthcare Classifiers.,"['Jamie Andrew Duell', 'Xiuyi Fan', 'Monika Seisenberger']",ISMIS,2022
+8,c,Safe and Secure Future AI-Driven Railway Technologies: Challenges for Formal Methods in Railway.,"['Monika Seisenberger', 'Maurice H. ter Beek', 'Xiuyi Fan', 'Alessio Ferrari', 'Anne E. Haxthausen', 'Phillip James', 'Andrew Lawrence', 'Bas Luttik', 'Jaco van de Pol', 'Simon Wimmer']",ISoLA (4),2022
+9,c,A Comparison of Explanations Given by Explainable Artificial Intelligence Methods on Analysing Electronic Health Records.,"['Jamie Andrew Duell', 'Xiuyi Fan', 'Bruce Burnett', 'Gert Aarts', 'Shang-Ming Zhou']",BHI,2021
+10,c,Explainable AI for Classification Using Probabilistic Logic Inference.,"['Xiuyi Fan', 'Siyuan Liu']",CICAI (2),2021
+11,c,ExMed: An AI Tool for Experimenting Explainable AI Techniques on Medical Data Analytics.,"['Marcin Kapcia', 'Hassan Eshkiki', 'Jamie Andrew Duell', 'Xiuyi Fan', 'Shang-Ming Zhou', 'Benjamin Mora']",ICTAI,2021
+12,c,An Initial Study of Machine Learning Underspecification Using Feature Attribution Explainable AI Algorithms: A COVID-19 Virus Transmission Case Study.,"['James Hinns', 'Xiuyi Fan', 'Siyuan Liu', 'Veera Raghava Reddy Kovvuri', 'Mehmet Orcun Yalcin', 'Markus Roggenbach']",PRICAI (1),2021
+13,c,Context-based and Explainable Decision Making with Argumentation.,"['Zhiwei Zeng', 'Xiuyi Fan', 'Chunyan Miao', 'Cyril Leung', 'Jing Jih Chin', 'Yew-Soon Ong']",AAMAS,2018
+14,c,Probabilistic Logic for Intelligent Systems.,"['Thomas C. Henderson', 'Robert Simmons', 'Bernard Serbinowski', 'Xiuyi Fan', 'Amar Mitiche', 'Michael Cline']",IAS,2018
+15,c,On Generating Explainable Plans with Assumption-Based Argumentation.,['Xiuyi Fan'],PRIMA,2018
+16,c,A Temporal Planning Example with Assumption-Based Argumentation.,['Xiuyi Fan'],PRIMA,2018
+17,c,Two Forms of Explanations in Computational Assumption-based Argumentation.,"['Xiuyi Fan', 'Siyuan Liu', 'Huiguo Zhang', 'Chunyan Miao', 'Cyril Leung']",AAMAS,2017
+18,c,Robust unobtrusive fall detection using infrared array sensors.,"['Xiuyi Fan', 'Huiguo Zhang', 'Cyril Leung', 'Zhiqi Shen']",MFI,2017
+19,c,BRECCIA: A novel multi-source fusion framework for dynamic geospatial data analysis.,"['David Sacharny', 'Thomas C. Henderson', 'Robert Simmons', 'Amar Mitiche', 'T. Welker', 'Xiuyi Fan']",MFI,2017
+20,c,A probabilistic logic for multi-source heterogeneous information fusion.,"['Thomas C. Henderson', 'Robert Simmons', 'David Sacharny', 'Amar Mitiche', 'Xiuyi Fan']",MFI,2017
+21,c,Fun-Knee™: A novel smart knee sleeve for Total-Knee-Replacement rehabilitation with gamification.,"['Yang Qiu', 'Kun Man Li', 'Eng Chuan Neoh', 'Huiguo Zhang', 'Xin Yue Khaw', 'Xiuyi Fan', 'Chunyan Miao']",SeGAH,2017
+22,c,"On the Interplay between Games, Argumentation and Dialogues.","['Xiuyi Fan', 'Francesca Toni']",AAMAS,2016
+23,c,Identifying and Rewarding Subcrowds in Crowdsourcing.,"['Siyuan Liu', 'Xiuyi Fan', 'Chunyan Miao']",ECAI,2016
+24,c,Explained Activity Recognition with Computational Assumption-Based Argumentation.,"['Xiuyi Fan', 'Siyuan Liu', 'Huiguo Zhang', 'Cyril Leung', 'Chunyan Miao']",ECAI,2016
+25,c,Comparative study of machine learning algorithms for activity recognition with data sequence in home-like environment.,"['Xiuyi Fan', 'Huiguo Zhang', 'Cyril Leung', 'Chunyan Miao']",MFI,2016
+26,c,A first step towards explained activity recognition with computational abstract argumentation.,"['Xiuyi Fan', 'Huiguo Zhang', 'Cyril Leung', 'Chunyan Miao']",MFI,2016
+27,c,On Computing Explanations in Argumentation.,"['Xiuyi Fan', 'Francesca Toni']",AAAI,2015
+28,c,An Overview of Argumentation Frameworks for Decision Support.,"['Lucas Carstens', 'Xiuyi Fan', 'Yang Gao', 'Francesca Toni']",GKR,2015
+29,c,Mechanism Design for Argumentation-Based Information-Seeking and Inquiry.,"['Xiuyi Fan', 'Francesca Toni']",PRIMA,2015
+30,c,On Explanations for Non-Acceptable Arguments.,"['Xiuyi Fan', 'Francesca Toni']",TAFA,2015
+31,c,Dialogical two-agent decision making with assumption-based argumentation.,"['Xiuyi Fan', 'Francesca Toni', 'Andrei Mocanu', 'Matthew Williams']",AAMAS,2014
+32,c,On Computing Explanations in Abstract Argumentation.,"['Xiuyi Fan', 'Francesca Toni']",ECAI,2014
+33,c,Explaining Best Decisions via Argumentation.,"['Qiaoting Zhong', 'Xiuyi Fan', 'Francesca Toni', 'Xudong Luo']",ECSI,2014
+34,c,Assumption-Based Argumentation for Decision-Making with Preferences: A Medical Case Study.,"['Xiuyi Fan', 'Robert Craven', 'Ramsay Singer', 'Francesca Toni', 'Matthew Williams']",CLIMA,2013
+35,c,Decision Making with Assumption-Based Argumentation.,"['Xiuyi Fan', 'Francesca Toni']",TAFA,2013
+36,c,Argumentation Dialogues for Two-Agent Conflict Resolution.,"['Xiuyi Fan', 'Francesca Toni']",COMMA,2012
+37,c,Mechanism Design for Argumentation-based Persuasion.,"['Xiuyi Fan', 'Francesca Toni']",COMMA,2012
+38,c,Agent Strategies for ABA-based Information-seeking and Inquiry Dialogues.,"['Xiuyi Fan', 'Francesca Toni']",ECAI,2012
+39,c,Conflict resolution with argumentation dialogues.,"['Xiuyi Fan', 'Francesca Toni']",AAMAS,2011
+40,c,Agent dialogues and argumentation.,['Xiuyi Fan'],AAMAS,2011
+41,c,Assumption-Based Argumentation Dialogues.,"['Xiuyi Fan', 'Francesca Toni']",IJCAI,2011
+42,c,A First Step towards Argumentation Dialogues for Discovery.,"['Xiuyi Fan', 'Francesca Toni']",TAFA,2011
+43,c,Two-Agent Conflict Resolution with Assumption-Based Argumentation.,"['Xiuyi Fan', 'Francesca Toni', 'Adil Hussain']",COMMA,2010
+44,c,Integrated planning and control of large tracked vehicles in open terrain.,"['Xiuyi Fan', 'Surya P. N. Singh', 'Florian Oppolzer', 'Eric Nettleton', 'Ross Hennessy', 'Alexander Lowe', 'Hugh F. Durrant-Whyte']",ICRA,2010
+45,c,Towards a Transparent Grid Access an Introduction to Grid Resource Utilization Package in Computational Science and Engineering Online.,"['Xiuyi Fan', 'Thanh N. Truong']",GCA,2007
+46,i,Explainable Decision Making with Lean and Argumentative Explanations.,"['Xiuyi Fan', 'Francesca Toni']",CoRR,2022
+47,i,On Understanding the Influence of Controllable Factors with a Feature Attribution Algorithm: a Medical Case Study.,"['Veera Raghava Reddy Kovvuri', 'Siyuan Liu', 'Monika Seisenberger', 'Berndt Müller', 'Xiuyi Fan']",CoRR,2022
+48,i,Probabilistic Deduction: an Approach to Probabilistic Structured Argumentation.,['Xiuyi Fan'],CoRR,2022
+49,i,Evaluating the Correctness of Explainable AI Algorithms for Classification.,"['Orcun Yalcin', 'Xiuyi Fan', 'Siyuan Liu']",CoRR,2021
+50,i,An Investigation of the Impact of COVID-19 Non-Pharmaceutical Interventions and Economic Support Policies on Foreign Exchange Markets with Explainable AI Techniques.,"['Siyuan Liu', 'Mehmet Orcun Yalcin', 'Hsuan Fu', 'Xiuyi Fan']",CoRR,2021
+51,i,Towards a Shapley Value Graph Framework for Medical peer-influence.,"['Jamie Andrew Duell', 'Monika Seisenberger', 'Gert Aarts', 'Shang-Ming Zhou', 'Xiuyi Fan']",CoRR,2021
+52,i,Explainable AI for Classification using Probabilistic Logic Inference.,"['Xiuyi Fan', 'Siyuan Liu', 'Thomas C. Henderson']",CoRR,2020
+53,i,An Investigation of COVID-19 Spreading Factors with Explainable AI Techniques.,"['Xiuyi Fan', 'Siyuan Liu', 'Jiarong Chen', 'Thomas C. Henderson']",CoRR,2020
