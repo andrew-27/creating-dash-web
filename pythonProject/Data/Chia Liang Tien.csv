@@ -1,0 +1,139 @@
+,type,name,author,event,year
+0,j,Deep residual pooling network for texture recognition.,"['Shangbo Mao', 'Deepu Rajan', 'Liang-Tien Chia']",Pattern Recognit.,2021
+1,j,Region-Based Saliency Detection and Its Application in Object Recognition.,"['Zhixiang Ren', 'Shenghua Gao', 'Liang-Tien Chia', 'Ivor Wai-Hung Tsang']",IEEE Trans. Circuits Syst. Video Technol.,2014
+2,j,Concurrent Single-Label Image Classification and Annotation via Efficient Multi-Layer Group Sparse Coding.,"['Shenghua Gao', 'Liang-Tien Chia', 'Ivor Wai-Hung Tsang', 'Zhixiang Ren']",IEEE Trans. Multim.,2014
+3,j,"Laplacian Sparse Coding, Hypergraph Laplacian Sparse Coding, and Applications.","['Shenghua Gao', 'Ivor Wai-Hung Tsang', 'Liang-Tien Chia']",IEEE Trans. Pattern Anal. Mach. Intell.,2013
+4,j,Sparse Representation With Kernels.,"['Shenghua Gao', 'Ivor Wai-Hung Tsang', 'Liang-Tien Chia']",IEEE Trans. Image Process.,2013
+5,j,Regularized Feature Reconstruction for Spatio-Temporal Saliency Detection.,"['Zhixiang Ren', 'Shenghua Gao', 'Liang-Tien Chia', 'Deepu Rajan']",IEEE Trans. Image Process.,2013
+6,j,Learning image-to-class distance metric for image classification.,"['Zhengxiang Wang', 'Yiqun Hu', 'Liang-Tien Chia']",ACM Trans. Intell. Syst. Technol.,2013
+7,j,Content on demand video adaptation based on MPEG-21 digital item adaptation.,"['Min Xu', 'Xiangjian He', 'Yu Peng', 'Jesse S. Jin', 'Suhuai Luo', 'Liang-Tien Chia', 'Yusuo Hu']",EURASIP J. Wirel. Commun. Netw.,2012
+8,j,A non-parametric visual-sense model of images - extending the cluster hypothesis beyond text.,"['Kong-Wah Wan', 'Ah-Hwee Tan', 'Joo-Hwee Lim', 'Liang-Tien Chia']",Multim. Tools Appl.,2012
+9,j,Nonintrusive Quality Assessment of Noise Suppressed Speech With Mel-Filtered Energies and Support Vector Regression.,"['Manish Narwaria', 'Weisi Lin', 'Ian Vince McLoughlin', 'Sabu Emmanuel', 'Liang-Tien Chia']",IEEE Trans. Speech Audio Process.,2012
+10,j,Fourier Transform-Based Scalable Image Quality Measure.,"['Manish Narwaria', 'Weisi Lin', 'Ian Vince McLoughlin', 'Sabu Emmanuel', 'Liang-Tien Chia']",IEEE Trans. Image Process.,2012
+11,j,Exploiting local dependencies with spatial-scale space (S-Cube) for near-duplicate retrieval.,"['Xiangang Cheng', 'Yiqun Hu', 'Liang-Tien Chia']",Comput. Vis. Image Underst.,2011
+12,j,Improved learning of I2C distance and accelerating the neighborhood search for image classification.,"['Zhengxiang Wang', 'Yiqun Hu', 'Liang-Tien Chia']",Pattern Recognit.,2011
+13,j,Stratification-Based Keyframe Cliques for Effective and Efficient Video Representation.,"['Xiangang Cheng', 'Liang-Tien Chia']",IEEE Trans. Multim.,2011
+14,j,Scene classification using multiple features in a two-stage probabilistic classification framework.,"['Zhan-Li Sun', 'Deepu Rajan', 'Liang-Tien Chia']",Neurocomputing,2010
+15,j,"Wikipedia2Onto. Building Concept Ontology Automatically, Experimenting with Web Image Retrieval.","['Huan Wang', 'Xing Jiang', 'Liang-Tien Chia', 'Ah-Hwee Tan']",Informatica (Slovenia),2010
+16,j,Web image concept annotation with better understanding of tags and visual features.,"['Shenghua Gao', 'Liang-Tien Chia', 'Xiangang Cheng']",J. Vis. Commun. Image Represent.,2010
+17,j,Cross-media retrieval using query dependent search methods.,"['Yi Yang', 'Fei Wu', 'Dong Xu', 'Yueting Zhuang', 'Liang-Tien Chia']",Pattern Recognit.,2010
+18,j,Attention-from-motion: A factorization approach for detecting attention objects in motion.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",Comput. Vis. Image Underst.,2009
+19,j,Coherent Phrase Model for Efficient Image Near-Duplicate Retrieval.,"['Yiqun Hu', 'Xiangang Cheng', 'Liang-Tien Chia', 'Xing Xie', 'Deepu Rajan', 'Ah-Hwee Tan']",IEEE Trans. Multim.,2009
+20,j,NBgossip: An Energy-Efficient Gossip Algorithm for Wireless Sensor Networks.,"['Feng Lu', 'Liang-Tien Chia', 'Kok-Leong Tay', 'Wai-Hoe Chong']",J. Comput. Sci. Technol.,2008
+21,j,Detection of visual attention regions in images using robust subspace analysis.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",J. Vis. Commun. Image Represent.,2008
+22,j,Study on the distribution of DCT residues and its application to R-D analysis of video coding.,"['Jun Xie', 'Liang-Tien Chia']",J. Vis. Commun. Image Represent.,2008
+23,j,Image retrieval with a multi-modality ontology.,"['Huan Wang', 'Song Liu', 'Liang-Tien Chia']",Multim. Syst.,2008
+24,j,Image retrieval ++ - web image retrieval with an enhanced multi-modality ontology.,"['Huan Wang', 'Liang-Tien Chia', 'Song Liu']",Multim. Tools Appl.,2008
+25,j,"Mapping, indexing and querying of MPEG-7 descriptors in RDBMS with IXMDB.","['Yang Chu', 'Liang-Tien Chia', 'Sourav S. Bhowmick']",Data Knowl. Eng.,2007
+26,j,Efficient sampling of training set in large and noisy multimedia data.,"['Surong Wang', 'Manoranjan Dash', 'Liang-Tien Chia', 'Min Xu']",ACM Trans. Multim. Comput. Commun. Appl.,2007
+27,j,Efficient data reduction in multimedia data.,"['Surong Wang', 'Manoranjan Dash', 'Liang-Tien Chia', 'Min Xu']",Appl. Intell.,2006
+28,j,FRACTURE mining: Mining frequently and concurrently mutating structures from historical XML documents.,"['Ling Chen', 'Sourav S. Bhowmick', 'Liang-Tien Chia']",Data Knowl. Eng.,2006
+29,j,Multimodal Semantic Analysis and Annotation for Basketball Video.,"['Song Liu', 'Min Xu', 'Haoran Yi', 'Liang-Tien Chia', 'Deepu Rajan']",EURASIP J. Adv. Signal Process.,2006
+30,j,A motion-based scene tree for browsing and retrieval of compressed videos.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",Inf. Syst.,2006
+31,j,A motion-based scene tree for compressed video content management.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",Image Vis. Comput.,2006
+32,j,Dynamic Programming-Based Reverse Frame Selection for VBR Video Delivery Under Constrained Resources.,"['Dayong Tao', 'Jianfei Cai', 'Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia', 'King Ngi Ngan']",IEEE Trans. Circuits Syst. Video Technol.,2006
+33,j,Semantics in Service Discovery and QoS Measurement.,"['Chen Zhou', 'Liang-Tien Chia', 'Bu-Sung Lee']",IT Prof.,2005
+34,j,Enhancement layer rate control for high bitrate SNR scalable video coding.,"['Jun Xie', 'Liang-Tien Chia']",J. Vis. Commun. Image Represent.,2005
+35,j,Web Services Discovery with DAML-QoS Ontology.,"['Chen Zhou', 'Liang-Tien Chia', 'Bu-Sung Lee']",Int. J. Web Serv. Res.,2005
+36,j,Automatic Generation of MPEG-7 Compliant XML Document for Motion Trajectory Descriptor in Sports Video.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",Multim. Tools Appl.,2005
+37,j,A new motion histogram to index motion content in video segments.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",Pattern Recognit. Lett.,2005
+38,j,QoS-Aware and Federated Enhancement for UDDI.,"['Chen Zhou', 'Liang-Tien Chia', 'Bu-Sung Lee']",Int. J. Web Serv. Res.,2004
+39,j,The transmission of MPEG-2 VBR video under usage parameter control.,"['Wenjing Lou', 'Liang-Tien Chia', 'Bu-Sung Lee', 'Bin Wang']",Int. J. Commun. Syst.,2001
+40,c,Salient Textural Anomaly Proposals and Classification for Metal Surface Anomalies.,"['Vidhya Natarajan', 'Shangbo Mao', 'Liang-Tien Chia']",ICTAI,2019
+41,c,Texture Recognition on Metal Surface using Order-Less Scale Invariant GLAC.,"['Shangbo Mao', 'Vidhya Natarajan', 'Liang-Tien Chia', 'Guang-Bin Huang']",ICTAI,2019
+42,c,Convolutional networks for voting-based anomaly classification in metal surface inspection.,"['Vidhya Natarajan', 'Tzu-Yi Hung', 'Sriram Vaikundam', 'Liang-Tien Chia']",ICIT,2017
+43,c,Phase Fourier Reconstruction for Anomaly Detection on Metal Surface Using Salient Irregularity.,"['Tzu-Yi Hung', 'Sriram Vaikundam', 'Vidhya Natarajan', 'Liang-Tien Chia']",MMM (1),2017
+44,c,A fast sparse reconstruction approach for high resolution image-based object surface anomaly detection.,"['Woon Huei Chai', 'Shen-Shyang Ho', 'Chi-Keong Goh', 'Liang-Tien Chia', 'Hiok Chai Quek']",MVA,2017
+45,c,Anomaly region detection and localization in metal surface inspection.,"['Sriram Vaikundam', 'Tzu-Yi Hung', 'Liang-Tien Chia']",ICIP,2016
+46,c,Using material classification methods for steel surface defect inspection.,"['Siyi Pan', 'Tzu-Yi Hung', 'Liang-Tien Chia']",ISIE,2016
+47,c,Background subtraction via coherent trajectory decomposition.,"['Zhixiang Ren', 'Liang-Tien Chia', 'Deepu Rajan', 'Shenghua Gao']",ACM Multimedia,2013
+48,c,Learning Class-to-Image Distance via Large Margin and L1-Norm Regularization.,"['Zhengxiang Wang', 'Shenghua Gao', 'Liang-Tien Chia']",ECCV (2),2012
+49,c,Spatiotemporal Saliency Detection via Sparse Representation.,"['Zhixiang Ren', 'Shenghua Gao', 'Deepu Rajan', 'Liang-Tien Chia', 'Yun Huang']",ICME,2012
+50,c,Video saliency detection with robust temporal alignment and local-global spatial contrast.,"['Zhixiang Ren', 'Liang-Tien Chia', 'Deepu Rajan']",ICMR,2012
+51,c,Topic Based Query Suggestions for Video Search.,"['Kong-Wah Wan', 'Ah-Hwee Tan', 'Joo-Hwee Lim', 'Liang-Tien Chia']",MMM,2012
+52,c,Multi-layer group sparse coding - For concurrent image classification and annotation.,"['Shenghua Gao', 'Liang-Tien Chia', 'Ivor Wai-Hung Tsang']",CVPR,2011
+53,c,Spatially-coherent pyramid matching based on max-pooling.,"['Xiangang Cheng', 'Liang-Tien Chia']",ACM Multimedia,2011
+54,c,Salient Region Detection by Jointly Modeling Distinctness and Redundancy of Image Content.,"['Yiqun Hu', 'Zhixiang Ren', 'Deepu Rajan', 'Liang-Tien Chia']",ACCV (2),2010
+55,c,Multi-label learning by Image-to-Class distance for scene classification and image annotation.,"['Zhengxiang Wang', 'Yiqun Hu', 'Liang-Tien Chia']",CIVR,2010
+56,c,Estimating camera pose from a single urban ground-view omnidirectional image and a 2D building outline map.,"['Tat-Jen Cham', 'Arridhana Ciptadi', 'Wei-Chian Tan', 'Minh-Tri Pham', 'Liang-Tien Chia']",CVPR,2010
+57,c,Local features are not lonely - Laplacian sparse coding for image classification.,"['Shenghua Gao', 'Ivor Wai-Hung Tsang', 'Liang-Tien Chia', 'Peilin Zhao']",CVPR,2010
+58,c,Kernel Sparse Representation for Image Classification and Face Recognition.,"['Shenghua Gao', 'Ivor Wai-Hung Tsang', 'Liang-Tien Chia']",ECCV (4),2010
+59,c,Image-to-Class Distance Metric Learning for Image Classification.,"['Zhengxiang Wang', 'Yiqun Hu', 'Liang-Tien Chia']",ECCV (1),2010
+60,c,Learning to combine multi-resolution spatially-weighted co-occurrence matrices for image representation.,"['Xiangang Cheng', 'Jingdong Wang', 'Liang-Tien Chia', 'Xian-Sheng Hua']",ICME,2010
+61,c,Faceted topic retrieval of news video using joint topic modeling of visual features and speech transcripts.,"['Kong-Wah Wan', 'Ah-Hwee Tan', 'Joo-Hwee Lim', 'Liang-Tien Chia']",ICME,2010
+62,c,Image Retargeting in Compressed Domain.,"['O. V. Ramana Murthy', 'Karthik Muthuswamy', 'Deepu Rajan', 'Liang-Tien Chia']",ICPR,2010
+63,c,Stratification-based keyframe cliques for removal of near-duplicates in video search results.,"['Xiangang Cheng', 'Liang-Tien Chia']",Multimedia Information Retrieval,2010
+64,c,Wikipedia-assisted concept thesaurus for better web media understanding.,"['Huan Wang', 'Liang-Tien Chia', 'Shenghua Gao']",Multimedia Information Retrieval,2010
+65,c,Improved saliency detection based on superpixel clustering and saliency propagation.,"['Zhixiang Ren', 'Yiqun Hu', 'Liang-Tien Chia', 'Deepu Rajan']",ACM Multimedia,2010
+66,c,Automatic image tagging via category label and web data.,"['Shenghua Gao', 'Zhengxiang Wang', 'Liang-Tien Chia', 'Ivor Wai-Hung Tsang']",ACM Multimedia,2010
+67,c,Discovering Class-Specific Informative Patches and Its Application in Landmark Charaterization.,"['Shenghua Gao', 'Xiangang Cheng', 'Liang-Tien Chia']",MMM,2010
+68,c,Non-intrusive Speech Quality Assessment with Support Vector Regression.,"['Manish Narwaria', 'Weisi Lin', 'Ian Vince McLoughlin', 'Sabu Emmanuel', 'Liang-Tien Chia']",MMM,2010
+69,c,A Latent Model for Visual Disambiguation of Keyword-based Image Search.,"['Kong-Wah Wan', 'Ah-Hwee Tan', 'Joo-Hwee Lim', 'Liang-Tien Chia', 'Sujoy Roy']",BMVC,2009
+70,c,Hierarchicalword image representation for parts-based object recognition.,"['Xiangang Cheng', 'Yiqun Hu', 'Liang-Tien Chia']",ICIP,2009
+71,c,Concept model-based unsupervised web image re-ranking.,"['Shenghua Gao', 'Xiangang Cheng', 'Huan Wang', 'Liang-Tien Chia']",ICIP,2009
+72,c,Learning instance-to-class distance for human action recognition.,"['Zhengxiang Wang', 'Yiqun Hu', 'Liang-Tien Chia']",ICIP,2009
+73,c,A Bayesian approach integrating regional and global features for image semantic learning.,"['Luong-Dong Nguyen', 'Ghim-Eng Yap', 'Ying Liu', 'Ah-Hwee Tan', 'Liang-Tien Chia', 'Joo-Hwee Lim']",ICME,2009
+74,c,LT codes decoding: Design and analysis.,"['Feng Lu', 'Chuan Heng Foh', 'Jianfei Cai', 'Liang-Tien Chia']",ISIT,2009
+75,c,Motion Context: A New Representation for Human Action Recognition.,"['Ziming Zhang', 'Yiqun Hu', 'Syin Chan', 'Liang-Tien Chia']",ECCV (4),2008
+76,c,Ontology enhanced web image retrieval: aided by wikipedia & spreading activation theory.,"['Huan Wang', 'Xing Jiang', 'Liang-Tien Chia', 'Ah-Hwee Tan']",Multimedia Information Retrieval,2008
+77,c,Image near-duplicate retrieval using local dependencies in spatial-scale space.,"['Xiangang Cheng', 'Yiqun Hu', 'Liang-Tien Chia']",ACM Multimedia,2008
+78,c,Discriminative Signatures for Image Classification.,"['Ziming Zhang', 'Syin Chan', 'Liang-Tien Chia']",ICIP (2),2007
+79,c,Semantic Retrieval with Enhanced Matchmaking and Multi-Modality Ontology.,"['Huan Wang', 'Liang-Tien Chia', 'Song Liu']",ICME,2007
+80,c,A ZGPCA Algorithm for Subspace Estimation.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",ICME,2007
+81,c,Codebook+: A New Module for Creating Discriminative Codebooks.,"['Ziming Zhang', 'Syin Chan', 'Liang-Tien Chia']",ICME,2007
+82,c,Click4BuildingID@NTU: Click for Building Identification with GPS-enabled Camera Cell Phone.,"['Chai Kiat Yeo', 'Liang-Tien Chia', 'Tat-Jen Cham', 'D. Rajon']",ICME,2007
+83,c,MobileMaps@SG - Mappedia Version 1.1.,"['Daniel Dengyang Gan', 'Liang-Tien Chia']",ICME,2007
+84,c,NBgossip - Neighborhood Gossip with Network Coding Based Message Aggregation.,"['Feng Lu', 'Liang-Tien Chia', 'Kok-Leong Tay']",MASS,2007
+85,c,Image classification using tensor representation.,"['Ziming Zhang', 'Syin Chan', 'Liang-Tien Chia']",ACM Multimedia,2007
+86,c,Scale adaptive visual attention detection by subspace analysis.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",ACM Multimedia,2007
+87,c,Multimedia Web Services for an Object Tracking and Highlighting Application.,"['Feng Lu', 'Liang-Tien Chia']",MMM (2),2007
+88,c,Secure multi-path in sensor networks.,"['Feng Lu', 'Lijuan Geng', 'Liang-Tien Chia', 'Ying-Chang Liang']",SenSys,2007
+89,c,A Repository Adapter for Resource Management Information.,"['T. M. Ong', 'Liang-Tien Chia', 'Bu-Sung Lee']",CCGRID,2006
+90,c,An Event-Driven Sports Video Adaptation for the MPEG-21 DIA Framework.,"['Min Xu', 'Jiaming Li', 'Yiqun Hu', 'Liang-Tien Chia', 'Bu-Sung Lee', 'Deepu Rajan', 'Jianfei Cai']",ICME,2006
+91,c,"Does ontology help in image retrieval?: a comparison between keyword, text ontology and multi-modality ontology approaches.","['Huan Wang', 'Song Liu', 'Liang-Tien Chia']",ACM Multimedia,2006
+92,c,Event on demand with MPEG-21 video adaptation system.,"['Min Xu', 'Jiaming Li', 'Liang-Tien Chia', 'Yiqun Hu', 'Bu-Sung Lee', 'Deepu Rajan', 'Jesse S. Jin']",ACM Multimedia,2006
+93,c,Image model based on salient regions and its applications.,"['Surong Wang', 'Liang-Tien Chia']",MMM,2006
+94,c,An improved distortion model for rate control of DCT-based video coding.,"['Jun Xie', 'Liang-Tien Chia', 'Bu-Sung Lee']",MMM,2006
+95,c,Affective content detection in sitcom using subtitle and audio.,"['Min Xu', 'Liang-Tien Chia', 'Haoran Yi', 'Deepu Rajan']",MMM,2006
+96,c,Web Image Clustering with Reduced Keywords and Weighted Bipartite Spectral Graph Partitioning.,"['Su Ming Koh', 'Liang-Tien Chia']",PCM,2006
+97,c,Mining Positive and Negative Association Rules from XML Query Patterns for Caching.,"['Ling Chen', 'Sourav S. Bhowmick', 'Liang-Tien Chia']",DASFAA,2005
+98,c,SM3+: An XML Database Solution for the Management of MPEG-7 Descriptions.,"['Yang Chu', 'Liang-Tien Chia', 'Sourav S. Bhowmick']",DEXA,2005
+99,c,Global Motion Compensated Key Frame Extraction from Compressed Videos.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",ICASSP (2),2005
+100,c,QoS Measurement Issues with DAML-QoS Ontology.,"['Chen Zhou', 'Liang-Tien Chia', 'Bu-Sung Lee']",ICEBE,2005
+101,c,Adaptive local context suppression of multiple cues for salient visual attention detection.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",ICME,2005
+102,c,Affective content analysis in comedy and horror videos by audio emotional event detection.,"['Min Xu', 'Liang-Tien Chia', 'Jesse S. Jin']",ICME,2005
+103,c,Adaptive hierarchical multi-class SVM classifier for texture-based image classification.,"['Song Liu', 'Haoran Yi', 'Liang-Tien Chia', 'Deepu Rajan']",ICME,2005
+104,c,EASIER Sampling for Audio Event Identification.,"['Surong Wang', 'Min Xu', 'Liang-Tien Chia', 'Manoranjan Dash']",ICME,2005
+105,c,Semantic Knowledge Building for Image Database by Analyzing Web Page Contents.,"['Yung-Kwang Lai', 'Song Liu', 'Liang-Tien Chia', 'Syin Chan']",ICME,2005
+106,c,Attention region selection with information from professional digital camera.,"['Song Liu', 'Liang-Tien Chia', 'Deepu Rajan']",ACM Multimedia,2005
+107,c,Robust subspace analysis for detecting visual attention regions in images.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",ACM Multimedia,2005
+108,c,Efficient Sampling: Application to Image Data.,"['Surong Wang', 'Manoranjan Dash', 'Liang-Tien Chia']",PAKDD,2005
+109,c,Service discovery and measurement based on DAML-QoS ontology.,"['Chen Zhou', 'Liang-Tien Chia', 'Bu-Sung Lee']",WWW (Special interest tracks and posters),2005
+110,c,Ontology for Nature-Scene Image Retrieval.,"['Song Liu', 'Liang-Tien Chia', 'Syin Chan']",CoopIS/DOA/ODBASE (2),2004
+111,c,Mining Maximal Frequently Changing Subtree Patterns from XML Documents.,"['Ling Chen', 'Sourav S. Bhowmick', 'Liang-Tien Chia']",DaWaK,2004
+112,c,Coefficient thresholding and optimized selection of the lagrangian multiplier for non-reference frames in H.264 video coding.,"['Pontus Carlsson', 'F. Pan', 'Liang-Tien Chia']",ICIP,2004
+113,c,Optimum bit allocation for fgs video coding.,"['Jun Xie', 'Liang-Tien Chia', 'Bu-Sung Lee']",ICIP,2004
+114,c,MPEG-21 digital item adaptation by applying perceived motion energy to H.264 video.,"['Zhao Gang', 'Liang-Tien Chia', 'Yang Zongkai']",ICIP,2004
+115,c,DAML-QoS Ontology for Web Services.,"['Chen Zhou', 'Liang-Tien Chia', 'Bu-Sung Lee']",ICWS,2004
+116,c,Motion Histogram: A New Motion Feature to Index Motion Content in Video Segment.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",IKE,2004
+117,c,Automatic extraction of motion trajectories in compressed sports videos.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",ACM Multimedia,2004
+118,c,Region-of-interest based image resolution adaptation for MPEG-21 digital item.,"['Yiqun Hu', 'Liang-Tien Chia', 'Deepu Rajan']",ACM Multimedia,2004
+119,c,Audio keyword generation for sports video analysis.,"['Min Xu', 'Ling-Yu Duan', 'Liang-Tien Chia', 'Changsheng Xu']",ACM Multimedia,2004
+120,c,A motion based scene tree for browsing and retrieval of compressed videos.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",MMDB,2004
+121,c,"Looking at mapping, indexing & querying of MPEG-7 descriptors in RDBMS with SM3.","['Yang Chu', 'Liang-Tien Chia', 'Sourav S. Bhowmick']",MMDB,2004
+122,c,VRules: an effective association-based classifier for videos.,"['Ling Chen', 'Sourav S. Bhowmick', 'Liang-Tien Chia']",MMDB,2004
+123,c,Mining Association Rules from Structural Deltas of Historical XML Documents.,"['Ling Chen', 'Sourav S. Bhowmick', 'Liang-Tien Chia']",PAKDD,2004
+124,c,Semantic Analysis of Basketball Video Using Motion Information.,"['Song Liu', 'Haoran Yi', 'Liang-Tien Chia', 'Deepu Rajan', 'Syin Chan']",PCM (1),2004
+125,c,Region-Based Image Retrieval with Scale and Orientation Invariant Features.,"['Surong Wang', 'Liang-Tien Chia', 'Deepu Rajan']",PCM (1),2004
+126,c,JPEG2000 Image Adaptation for MPEG-21 Digital Items.,"['Yiqun Hu', 'Liang-Tien Chia', 'Deepu Rajan']",PCM (1),2004
+127,c,HMM-Based Audio Keyword Generation.,"['Min Xu', 'Ling-Yu Duan', 'Jianfei Cai', 'Liang-Tien Chia', 'Changsheng Xu', 'Qi Tian']",PCM (3),2004
+128,c,Semantic Video Indexing and Summarization Using Subtitles.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",PCM (1),2004
+129,c,Salient Region Detection Using Weighted Feature Maps Based on the Human Visual Attention Model.,"['Yiqun Hu', 'Xing Xie', 'Wei-Ying Ma', 'Liang-Tien Chia', 'Deepu Rajan']",PCM (2),2004
+130,c,Image Retrieval Using Dominant Color Descriptor.,"['Surong Wang', 'Liang-Tien Chia', 'Deepu Rajan']",CISST,2003
+131,c,Efficient image retrieval using MPEG-7 descriptors.,"['Surong Wang', 'Liang-Tien Chia', 'Deepu Rajan']",ICIP (3),2003
+132,c,A unified approach to detection of shot boundaries and subshots in compressed video.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",ICIP (2),2003
+133,c,UX- An Architecture Providing QoS-Aware and Federated Support for UDDI.,"['Chen Zhou', 'Liang-Tien Chia', 'Bilhanan Silverajan', 'Bu-Sung Lee']",ICWS,2003
+134,c,Automatic generation of MPEG-7 compliant XML document for motion trajectory descriptor in sports video.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",MMDB,2003
+135,c,An ATM-Enhanced Meeting System.,"['Tony K. Y. Chan', 'Bu-Sung Lee', 'Liang-Tien Chia', 'Lai Lai Tung', 'Chai Kiat Yeo']",PDPTA,1997
+136,e,"Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part I.","['Tat-Jen Cham', 'Jianfei Cai', 'Chitra Dorai', 'Deepu Rajan', 'Tat-Seng Chua', 'Liang-Tien Chia']",Lecture Notes in Computer Science,2007
+137,e,"Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part II.","['Tat-Jen Cham', 'Jianfei Cai', 'Chitra Dorai', 'Deepu Rajan', 'Tat-Seng Chua', 'Liang-Tien Chia']",Lecture Notes in Computer Science,2007

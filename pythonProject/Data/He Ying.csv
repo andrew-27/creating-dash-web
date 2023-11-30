@@ -1,0 +1,215 @@
+,type,name,author,event,year
+0,j,An Accuracy Controllable and Memory Efficient Method for Computing High-Quality Geodesic Distances on Triangle Meshes.,"['Yohanes Yudhi Adikusuma', 'Jie Du', 'Zheng Fang', 'Ying He']",Comput. Aided Des.,2022
+1,j,Constructing self-supporting surfaces with planar quadrilateral elements.,"['Long Ma', 'Sidan Yao', 'Jianmin Zheng', 'Yang Liu', 'Yuanfeng Zhou', 'Shi-Qing Xin', 'Ying He']",Comput. Vis. Media,2022
+2,j,Low Rank Matrix Approximation for 3D Geometry Filtering.,"['Xuequan Lu', 'Scott Schaefer', 'Jun Luo', 'Lizhuang Ma', 'Ying He']",IEEE Trans. Vis. Comput. Graph.,2022
+3,j,C3 Assignment: Camera Cubemap Color Assignment for Creative Interior Design.,"['Juncong Lin', 'Pintong Xiao', 'Yinan Fu', 'Yubin Shi', 'Hongran Wang', 'Shihui Guo', 'Ying He', 'Tong-Yee Lee']",IEEE Trans. Vis. Comput. Graph.,2022
+4,j,On the Vertex-oriented Triangle Propagation (VTP) Algorithm: Parallelization and Approximation.,"['Jie Du', 'Ying He', 'Zheng Fang', 'Wenlong Meng', 'Shi-Qing Xin']",Comput. Aided Des.,2021
+5,j,A Variational Framework for Computing Geodesic Paths on Sweep Surfaces.,"['Wenlong Meng', 'Shiqing Xin', 'Jinhui Zhao', 'Shuang-Min Chen', 'Changhe Tu', 'Ying He']",Comput. Aided Des.,2021
+6,j,Poisson Vector Graphics (PVG)-Guided Face Color Transfer in Videos.,"['Qian Fu', 'Ying He', 'Fei Hou', 'Qian Sun', 'Anxiang Zeng', 'Zhenchuan Huang', 'Juyong Zhang', 'Yong-Jin Liu']",IEEE Computer Graphics and Applications,2021
+7,j,Parallel and Scalable Heat Methods for Geodesic Distance Computation.,"['Jiong Tao', 'Juyong Zhang', 'Bailin Deng', 'Zheng Fang', 'Yue Peng', 'Ying He']",IEEE Trans. Pattern Anal. Mach. Intell.,2021
+8,j,Blur Removal Via Blurred-Noisy Image Pair.,"['Chunzhi Gu', 'Xuequan Lu', 'Ying He', 'Chao Zhang']",IEEE Trans. Image Process.,2021
+9,j,Deep Magnification-Flexible Upsampling Over 3D Point Clouds.,"['Yue Qian', 'Junhui Hou', 'Sam Kwong', 'Ying He']",IEEE Trans. Image Process.,2021
+10,j,Automatic Sitting Pose Generation for Ergonomic Ratings of Chairs.,"['Aihua Mao', 'Hong Zhang', 'Zhenfeng Xie', 'Minjing Yu', 'Yong-Jin Liu', 'Ying He']",IEEE Trans. Vis. Comput. Graph.,2021
+11,j,Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling.,"['Dongbo Zhang', 'Xuequan Lu', 'Hong Qin', 'Ying He']",IEEE Trans. Vis. Comput. Graph.,2021
+12,j,An electromyogram-based tapping gesture model with differentiated vibration feedback by low-fidelity actuators.,"['Pengfei Xu', 'Zhongke Wu', 'Xingce Wang', 'Yan Fu', 'Ying He']",Virtual Real.,2021
+13,j,HLO: Half-kernel Laplacian operator for surface smoothing.,"['Wei Pan', 'Xuequan Lu', 'Yuanhao Gong', 'Wenming Tang', 'Jun Liu', 'Ying He', 'Guoping Qiu']",Comput. Aided Des.,2020
+14,j,Dirichlet energy of Delaunay meshes and intrinsic Delaunay triangulations.,"['Zipeng Ye', 'Ran Yi', 'Wen-Yong Gong', 'Ying He', 'Yong-Jin Liu']",Comput. Aided Des.,2020
+15,j,Computing Smooth Quasi-geodesic Distance Field (QGDF) with Quadratic Programming.,"['Luming Cao', 'Junhao Zhao', 'Jian Xu', 'Shuang-Min Chen', 'Guozhu Liu', 'Shiqing Xin', 'Yuanfeng Zhou', 'Ying He']",Comput. Aided Des.,2020
+16,j,Robust Computation of 3D Apollonius Diagrams.,"['Peihui Wang', 'Na Yuan', 'Yuewen Ma', 'Shiqing Xin', 'Ying He', 'Shuang-Min Chen', 'Jian Xu', 'Wenping Wang']",Comput. Graph. Forum,2020
+17,j,Preface.,"['Shi-Min Hu', 'Ying He', 'Belén Masiá']",J. Comput. Sci. Technol.,2020
+18,j,Fast Construction of Discrete Geodesic Graphs.,"['Yohanes Yudhi Adikusuma', 'Zheng Fang', 'Ying He']",ACM Trans. Graph.,2020
+19,j,Poisson Vector Graphics (PVG).,"['Fei Hou', 'Qian Sun', 'Zheng Fang', 'Yong-Jin Liu', 'Shi-Min Hu', 'Hong Qin', 'Aimin Hao', 'Ying He']",IEEE Trans. Vis. Comput. Graph.,2020
+20,j,DE-Path: A Differential-Evolution-Based Method for Computing Energy-Minimizing Paths on Surfaces.,"['Zipeng Ye', 'Yong-Jin Liu', 'Jianmin Zheng', 'Kai Hormann', 'Ying He']",Comput. Aided Des.,2019
+21,j,Vectorization Based Color Transfer for Portrait Images.,"['Qian Fu', 'Ying He', 'Fei Hou', 'Juyong Zhang', 'Anxiang Zeng', 'Yong-Jin Liu']",Comput. Aided Des.,2019
+22,j,Parallelizing discrete geodesic algorithms with perfect efficiency.,"['Xiang Ying', 'Caibao Huang', 'Xuzhou Fu', 'Ying He', 'Ruiguo Yu', 'Jianrong Wang', 'Mei Yu']",Comput. Aided Des.,2019
+23,j,Field-aligned Quadrangulation for Image Vectorization.,"['Guangshun Wei', 'Yuanfeng Zhou', 'Xifeng Gao', 'Qian Ma', 'Shiqing Xin', 'Ying He']",Comput. Graph. Forum,2019
+24,j,3D articulated skeleton extraction using a single consumer-grade depth camera.,"['Xuequan Lu', 'Zhigang Deng', 'Jun Luo', 'Wenzhi Chen', 'Sai-Kit Yeung', 'Ying He']",Comput. Vis. Image Underst.,2019
+25,j,VisioMap: Lightweight 3-D Scene Reconstruction Toward Natural Indoor Localization.,"['Feng Li', 'Jie Hao', 'Jin Wang', 'Jun Luo', 'Ying He', 'Dongxiao Yu', 'Xiuzhen Cheng']",IEEE Internet Things J.,2019
+26,j,ImmerTai: Immersive Motion Learning in VR Environments.,"['Xiaoming Chen', 'Zhibo Chen', 'Ye Li', 'Tianyu He', 'Junhui Hou', 'Sen Liu', 'Ying He']",J. Vis. Commun. Image Represent.,2019
+27,j,LineUp: Computing Chain-Based Physical Transformation.,"['Minjing Yu', 'Zipeng Ye', 'Yong-Jin Liu', 'Ying He', 'Charlie C. L. Wang']",ACM Trans. Graph.,2019
+28,j,Constructing 3D Self-Supporting Surfaces with Isotropic Stress Using 4D Minimal Hypersurfaces of Revolution.,"['Long Ma', 'Ying He', 'Qian Sun', 'Yuanfeng Zhou', 'Caiming Zhang', 'Wenping Wang']",ACM Trans. Graph.,2019
+29,j,Decorating 3D models with Poisson vector graphics.,"['Qian Fu', 'Fei Hou', 'Qian Sun', 'Shi-Qing Xin', 'Yong-Jin Liu', 'Wencheng Wang', 'Hong Qin', 'Ying He']",Comput. Aided Des.,2018
+30,j,Lightweight preprocessing and fast query of geodesic distance via proximity graph.,"['Shiqing Xin', 'Wenping Wang', 'Ying He', 'Yuanfeng Zhou', 'Shuang-Min Chen', 'Changhe Tu', 'Zhenyu Shu']",Comput. Aided Des.,2018
+31,j,Interactive Partitioning of 3D Models into Printable Parts.,"['Aamir Khan Jadoon', 'Chenming Wu', 'Yong-Jin Liu', 'Ying He', 'Charlie C. L. Wang']",IEEE Computer Graphics and Applications,2018
+32,j,An approximate method for circle packing and disc covering.,"['Shuang-Min Chen', 'Yuen-Shan Leung', 'Shiqing Xin', 'Ying He', 'Yuanfeng Zhou', 'Changhe Tu']",Commun. Inf. Syst.,2018
+33,j,Algebraic equation of geodesics on the 2D Euclidean space with an exponential density function.,"['Shuang-Min Chen', 'Guozhu Liu', 'Shiqing Xin', 'Yuanfeng Zhou', 'Ying He', 'Changhe Tu']",Commun. Inf. Syst.,2018
+34,j,FoldedGI: A highly parallel algorithm for interference detection by folding a geometry image into a 1D buffer.,"['Shuang-Min Chen', 'Bangquan Liu', 'Taijun Liu', 'Xiaokang Yu', 'Shiqing Xin', 'Ying He', 'Changhe Tu']",Graph. Model.,2018
+35,j,Intrinsic Manifold SLIC: A Simple and Efficient Method for Computing Content-Sensitive Superpixels.,"['Yong-Jin Liu', 'Minjing Yu', 'Bing-Jun Li', 'Ying He']",IEEE Trans. Pattern Anal. Mach. Intell.,2018
+36,j,Delta DLP 3-D Printing of Large Models.,"['Ran Yi', 'Chenming Wu', 'Yong-Jin Liu', 'Ying He', 'Charlie C. L. Wang']",IEEE Trans Autom. Sci. Eng.,2018
+37,j,Delaunay mesh simplification with differential evolution.,"['Ran Yi', 'Yong-Jin Liu', 'Ying He']",ACM Trans. Graph.,2018
+38,j,An optimization-driven approach for computing geodesic paths on triangle meshes.,"['Bangquan Liu', 'Shuang-Min Chen', 'Shi-Qing Xin', 'Ying He', 'Zhen Liu', 'Jieyu Zhao']",Comput. Aided Des.,2017
+39,j,Discrete geodesic graph (DGG) for computing geodesic distances on polyhedral surfaces.,"['Xiaoning Wang', 'Zheng Fang', 'Jiajun Wu', 'Shi-Qing Xin', 'Ying He']",Comput. Aided Geom. Des.,2017
+40,j,Space complexity of exact discrete geodesic algorithms on regular triangulations.,"['Yong-Jin Liu', 'Dian Fan', 'Chunxu Xu', 'Ying He']",Inf. Process. Lett.,2017
+41,j,Sparse Low-Rank Matrix Approximation for Data Compression.,"['Junhui Hou', 'Lap-Pui Chau', 'Nadia Magnenat-Thalmann', 'Ying He']",IEEE Trans. Circuits Syst. Video Technol.,2017
+42,j,ART: Adaptive fRequency-Temporal Co-Existing of ZigBee and WiFi.,"['Feng Li', 'Jun Luo', 'Gaotao Shi', 'Ying He']",IEEE Trans. Mob. Comput.,2017
+43,j,Constructing Intrinsic Delaunay Triangulations from the Dual of Geodesic Voronoi Diagrams.,"['Yong-Jin Liu', 'Dian Fan', 'Chunxu Xu', 'Ying He']",ACM Trans. Graph.,2017
+44,j,Knot Optimization for Biharmonic B-splines on Manifold Triangle Meshes.,"['Fei Hou', 'Ying He', 'Hong Qin', 'Aimin Hao']",IEEE Trans. Vis. Comput. Graph.,2017
+45,j,Consistent quadrangulation for shape collections via feature line co-extraction.,"['Min Meng', 'Ying He']",Comput. Aided Des.,2016
+46,j,Solving the initial value problem of discrete geodesics.,"['Peng Cheng', 'Chunyan Miao', 'Yong-Jin Liu', 'Changhe Tu', 'Ying He']",Comput. Aided Des.,2016
+47,j,Low-latency compression of mocap data using learned spatial decorrelation transform.,"['Junhui Hou', 'Lap-Pui Chau', 'Nadia Magnenat-Thalmann', 'Ying He']",Comput. Aided Geom. Des.,2016
+48,j,Autonomous deployment of wireless sensor networks for optimal coverage with directional sensing model.,"['Feng Li', 'Jun Luo', 'Shi-Qing Xin', 'Ying He']",Comput. Networks,2016
+49,j,User controllable anisotropic shape distribution on 3D meshes.,"['Xiaoning Wang', 'Tien Hung Le', 'Xiang Ying', 'Qian Sun', 'Ying He']",Comput. Vis. Media,2016
+50,j,Manifold differential evolution (MDE): a global optimization method for geodesic centroidal voronoi tessellations on meshes.,"['Yong-Jin Liu', 'Chunxu Xu', 'Ran Yi', 'Dian Fan', 'Ying He']",ACM Trans. Graph.,2016
+51,j,Intrinsic computation of centroidal Voronoi tessellation (CVT) on meshes.,"['Xiaoning Wang', 'Xiang Ying', 'Yong-Jin Liu', 'Shi-Qing Xin', 'Wenping Wang', 'Xianfeng Gu', 'Wolfgang Müller-Wittig', 'Ying He']",Comput. Aided Des.,2015
+52,j,A unified framework for isotropic meshing based on narrow-band Euclidean distance transformation.,"['Yuen-Shan Leung', 'Xiaoning Wang', 'Ying He', 'Yong-Jin Liu', 'Charlie C. L. Wang']",Comput. Vis. Media,2015
+53,j,Interior structure transfer via harmonic 1-forms.,"['Juncong Lin', 'Jiazhi Xia', 'Xing Gao', 'Minghong Liao', 'Ying He', 'Xianfeng Gu']",Multim. Tools Appl.,2015
+54,j,Burial Level Change Defines a High Energetic Relevance for Protein Binding Interfaces.,"['Zhenhua Li', 'Ying He', 'Limsoon Wong', 'Jinyan Li']",IEEE ACM Trans. Comput. Biol. Bioinform.,2015
+55,j,Compressing 3-D Human Motions via Keyframe-Based Geometry Videos.,"['Junhui Hou', 'Lap-Pui Chau', 'Nadia Magnenat-Thalmann', 'Ying He']",IEEE Trans. Circuits Syst. Video Technol.,2015
+56,j,Efficient construction and simplification of Delaunay meshes.,"['Yong-Jin Liu', 'Chunxu Xu', 'Dian Fan', 'Ying He']",ACM Trans. Graph.,2015
+57,j,Fast Wavefront Propagation (FWP) for Computing Exact Geodesic Distances on Meshes.,"['Chunxu Xu', 'Tuanfeng Y. Wang', 'Yong-Jin Liu', 'Ligang Liu', 'Ying He']",IEEE Trans. Vis. Comput. Graph.,2015
+58,j,Human Motion Capture Data Tailored Transform Coding.,"['Junhui Hou', 'Lap-Pui Chau', 'Nadia Magnenat-Thalmann', 'Ying He']",IEEE Trans. Vis. Comput. Graph.,2015
+59,j,Autonomous Deployment for Load Balancing k-Surface Coverage in Sensor Networks.,"['Feng Li', 'Jun Luo', 'Wenping Wang', 'Ying He']",IEEE Trans. Wirel. Commun.,2015
+60,j,GRIP: Greedy Routing through dIstributed Parametrization for guaranteed delivery in WSNs.,"['Minqi Zhang', 'Feng Li', 'Ying He', 'Juncong Lin', 'Xianfeng Gu', 'Jun Luo']",Wirel. Networks,2015
+61,j,A parallel algorithm for improving the maximal property of Poisson disk sampling.,"['Xiang Ying', 'Zhenhua Li', 'Ying He']",Comput. Aided Des.,2014
+62,j,A simple and local method for computing quasi-conformal map on 3D surfaces.,"['Minqi Zhang', 'Ying He']",Comput. Aided Des.,2014
+63,j,Making sky lanterns from polygonal meshes.,"['Juncong Lin', 'Xing Gao', 'Minghong Liao', 'Jiazhi Xia', 'Guilin Li', 'Ying He']",Comput. Electr. Eng.,2014
+64,j,Polyline-sourced Geodesic Voronoi Diagrams on Triangle Meshes.,"['Chunxu Xu', 'Yong-Jin Liu', 'Qian Sun', 'Jinyan Li', 'Ying He']",Comput. Graph. Forum,2014
+65,j,Preface.,"['Pierre Alliez', 'Ying He', 'Yongjie Zhang']",Graph. Model.,2014
+66,j,Automatic registration of vestibular systems with exact landmark correspondence.,"['Minqi Zhang', 'Fang Li', 'Xingce Wang', 'Zhongke Wu', 'Shi-Qing Xin', 'Lok Ming Lui', 'Lin Shi', 'Defeng Wang', 'Ying He']",Graph. Model.,2014
+67,j,SnapBlocks: a snapping interface for assembling toy blocks with XBOX Kinect.,"['Juncong Lin', 'Qian Sun', 'Guilin Li', 'Ying He']",Multim. Tools Appl.,2014
+68,j,Retrieval-Based Face Annotation by Weak Label Regularized Local Coordinate Coding.,"['Dayong Wang', 'Steven C. H. Hoi', 'Ying He', 'Jianke Zhu', 'Tao Mei', 'Jiebo Luo']",IEEE Trans. Pattern Anal. Mach. Intell.,2014
+69,j,Scalable and Compact Representation for Motion Capture Data Using Tensor Decomposition.,"['Junhui Hou', 'Lap-Pui Chau', 'Nadia Magnenat-Thalmann', 'Ying He']",IEEE Signal Process. Lett.,2014
+70,j,A Highly Efficient Compression Framework for Time-Varying 3-D Facial Expressions.,"['Junhui Hou', 'Lap-Pui Chau', 'Minqi Zhang', 'Nadia Magnenat-Thalmann', 'Ying He']",IEEE Trans. Circuits Syst. Video Technol.,2014
+71,j,Mining Weakly Labeled Web Facial Images for Search-Based Face Annotation.,"['Dayong Wang', 'Steven C. H. Hoi', 'Ying He', 'Jianke Zhu']",IEEE Trans. Knowl. Data Eng.,2014
+72,j,Parallel chen-han (PCH) algorithm for discrete geodesics.,"['Xiang Ying', 'Shi-Qing Xin', 'Ying He']",ACM Trans. Graph.,2014
+73,j,LBDP: Localized Boundary Detection and Parametrization for 3-D Sensor Networks.,"['Feng Li', 'Chi Zhang', 'Jun Luo', 'Shi-Qing Xin', 'Ying He']",IEEE/ACM Trans. Netw.,2014
+74,j,Structural analysis on mutation residues and interfacial water molecules for human TIM disease understanding.,"['Zhenhua Li', 'Ying He', 'Qian Liu', 'Liang Zhao', 'Limsoon Wong', 'Chee Keong Kwoh', 'Hung T. Nguyen', 'Jinyan Li']",BMC Bioinform.,2013
+75,j,Unsupervised co-segmentation for 3D shapes using iterative multi-label optimization.,"['Min Meng', 'Jiazhi Xia', 'Jun Luo', 'Ying He']",Comput. Aided Des.,2013
+76,j,Parallel computing 2D Voronoi diagrams using untransformed sweepcircles.,"['Shi-Qing Xin', 'Xiaoning Wang', 'Jiazhi Xia', 'Wolfgang Müller-Wittig', 'Guo-Jin Wang', 'Ying He']",Comput. Aided Des.,2013
+77,j,Rate-Distortion Model Based Bit Allocation for 3-D Facial Compression Using Geometry Video.,"['Junhui Hou', 'Lap-Pui Chau', 'Ying He', 'Minqi Zhang', 'Nadia Magnenat-Thalmann']",IEEE Trans. Circuits Syst. Video Technol.,2013
+78,j,Saddle vertex graph (SVG): a novel solution to the discrete geodesic problem.,"['Xiang Ying', 'Xiaoning Wang', 'Ying He']",ACM Trans. Graph.,2013
+79,j,Interactive Applications for Sketch-Based Editable Polycube Map.,"['Ismael García', 'Jiazhi Xia', 'Ying He', 'Shi-Qing Xin', 'Gustavo Patow']",IEEE Trans. Vis. Comput. Graph.,2013
+80,j,An Intrinsic Algorithm for Parallel Poisson Disk Sampling on Arbitrary Surfaces.,"['Xiang Ying', 'Shi-Qing Xin', 'Qian Sun', 'Ying He']",IEEE Trans. Vis. Comput. Graph.,2013
+81,j,Progressive dry-core-wet-rim hydration trend in a nested-ring topology of protein binding interfaces.,"['Zhenhua Li', 'Ying He', 'Limsoon Wong', 'Jinyan Li']",BMC Bioinform.,2012
+82,j,"Sparse Coding for Flexible, Robust 3D Facial-Expression Synthesis.","['Yuxu Lin', 'Mingli Song', 'Dao Thi Phuong Quynh', 'Ying He', 'Chun Chen']",IEEE Computer Graphics and Applications,2012
+83,j,Efficient and robust 3D line drawings using difference-of-Gaussian.,"['Long Zhang', 'Jiazhi Xia', 'Xiang Ying', 'Ying He', 'Wolfgang Müller-Wittig', 'Hock Soon Seah']",Graph. Model.,2012
+84,j,An intrinsic algorithm for computing geodesic distance fields on triangle meshes with holes.,"['Dao Thi Phuong Quynh', 'Ying He', 'Shi-Qing Xin', 'Zhonggui Chen']",Graph. Model.,2012
+85,j,Conservation of water molecules in protein binding interfaces.,"['Zhenhua Li', 'Ying He', 'Longbing Cao', 'Limsoon Wong', 'Jinyan Li']",Int. J. Bioinform. Res. Appl.,2012
+86,j,Sketch Based Image Deformation and Editing with Guaranteed Feature Correspondence.,"['Yaqiong Liu', 'Seah Hock Soon', 'Ying He', 'Juncong Lin', 'Jiazhi Xia']",Int. J. Virtual Real.,2012
+87,j,Modeling and Compressing 3-D Facial Expressions Using Geometry Videos.,"['Jiazhi Xia', 'Dao Thi Phuong Quynh', 'Ying He', 'Xiaoming Chen', 'Steven C. H. Hoi']",IEEE Trans. Circuits Syst. Video Technol.,2012
+88,j,Efficiently Computing Exact Geodesic Loops within Finite Steps.,"['Shi-Qing Xin', 'Ying He', 'Chi-Wing Fu']",IEEE Trans. Vis. Comput. Graph.,2012
+89,j,A Sketching Interface for Sitting Pose Design in the Virtual Environment.,"['Juncong Lin', 'Takeo Igarashi', 'Jun Mitani', 'Minghong Liao', 'Ying He']",IEEE Trans. Vis. Comput. Graph.,2012
+90,j,Constructing hexahedral shell meshes via volumetric polycube maps.,"['Shuchu Han', 'Jiazhi Xia', 'Ying He']",Comput. Aided Des.,2011
+91,j,Efficiently computing geodesic offsets on triangle meshes by the extended Xin-Wang algorithm.,"['Shi-Qing Xin', 'Xiang Ying', 'Ying He']",Comput. Aided Des.,2011
+92,j,Orienting raw point sets by global contraction and visibility voting.,"['Junjie Cao', 'Ying He', 'Zhiyang Li', 'Xiuping Liu', 'Zhixun Su']",Comput. Graph.,2011
+93,j,Spectral Geometry Image: Image Based 3D Models for Digital Broadcasting Applications.,"['Boon-Seng Chew', 'Lap-Pui Chau', 'Ying He', 'Dayong Wang', 'Steven C. H. Hoi']",IEEE Trans. Broadcast.,2011
+94,j,Making burr puzzles from 3D models.,"['Shi-Qing Xin', 'Chi-Fu Lai', 'Chi-Wing Fu', 'Tien-Tsin Wong', 'Ying He', 'Daniel Cohen-Or']",ACM Trans. Graph.,2011
+95,j,Real-Time Shape Illustration Using Laplacian Lines.,"['Long Zhang', 'Ying He', 'Jiazhi Xia', 'Xuexiang Xie', 'Wei Chen']",IEEE Trans. Vis. Comput. Graph.,2011
+96,j,K-set tilable surfaces.,"['Chi-Wing Fu', 'Chi-Fu Lai', 'Ying He', 'Daniel Cohen-Or']",ACM Trans. Graph.,2010
+97,j,Metric-Driven RoSy Field Design and Remeshing.,"['Yu-Kun Lai', 'Miao Jin', 'Xuexiang Xie', 'Ying He', 'Jonathan Palacios', 'Eugene Zhang', 'Shi-Min Hu', 'Xianfeng Gu']",IEEE Trans. Vis. Comput. Graph.,2010
+98,j,Real-time computation of photic extremum lines (PELs).,"['Long Zhang', 'Ying He', 'Hock Soon Seah']",Vis. Comput.,2010
+99,j,Geometry-aware domain decomposition for T-spline-based manifold modeling.,"['Hongyu Wang', 'Ying He', 'Xin Li', 'Xianfeng Gu', 'Hong Qin']",Comput. Graph.,2009
+100,j,A divide-and-conquer approach for automatic polycube map construction.,"['Ying He', 'Hongyu Wang', 'Chi-Wing Fu', 'Hong Qin']",Comput. Graph.,2009
+101,j,Harmonic 1-form based skeleton extraction from examples.,"['Ying He', 'Xian Xiao', 'Hock Soon Seah']",Graph. Model.,2009
+102,j,Meshless Harmonic Volumetric Mapping Using Fundamental Solution Methods.,"['Xin Li', 'Xiaohu Guo', 'Hongyu Wang', 'Ying He', 'Xianfeng Gu', 'Hong Qin']",IEEE Trans Autom. Sci. Eng.,2009
+103,j,Manifold splines with a single extraordinary point.,"['Xianfeng Gu', 'Ying He', 'Miao Jin', 'Feng Luo', 'Hong Qin', 'Shing-Tung Yau']",Comput. Aided Des.,2008
+104,j,Polycube splines.,"['Hongyu Wang', 'Ying He', 'Xin Li', 'Xianfeng Gu', 'Hong Qin']",Comput. Aided Des.,2008
+105,j,Geometric accuracy analysis for discrete surface approximation.,"['Junfei Dai', 'Wei Luo', 'Miao Jin', 'Wei Zeng', 'Ying He', 'Shing-Tung Yau', 'Xianfeng Gu']",Comput. Aided Geom. Des.,2007
+106,j,An Effective Illustrative Visualization Framework Based on Photic Extremum Lines (PELs).,"['Xuexiang Xie', 'Ying He', 'Feng Tian', 'Hock Soon Seah', 'Xianfeng Gu', 'Hong Qin']",IEEE Trans. Vis. Comput. Graph.,2007
+107,j,Manifold splines.,"['Xianfeng Gu', 'Ying He', 'Hong Qin']",Graph. Model.,2006
+108,j,Automatic Shape Control of Triangular ,"['Ying He', 'Xianfeng Gu', 'Hong Qin']",J. Comput. Sci. Technol.,2006
+109,j,Trivariate Simplex Splines for Inhomogeneous Solid Modeling in Engineering Design.,"['Jing Hua', 'Ying He', 'Hong Qin']",J. Comput. Inf. Sci. Eng.,2005
+110,c,CorrNet3D: Unsupervised End-to-End Learning of Dense Correspondence for 3D Point Clouds.,"['Yiming Zeng', 'Yue Qian', 'Zhiyu Zhu', 'Junhui Hou', 'Hui Yuan', 'Ying He']",CVPR,2021
+111,c,PhysioTreadmill: An Auto-Controlled Treadmill Featuring Physiological-Data-Driven Visual/Audio Feedback.,"['Shaolong Liu', 'Xingce Wang', 'Zhongke Wu', 'Ying He']",CW,2020
+112,c,PUGeo-Net: A Geometry-Centric Network for 3D Point Cloud Upsampling.,"['Yue Qian', 'Junhui Hou', 'Sam Kwong', 'Ying He']",ECCV (19),2020
+113,c,Deep Patch-Based Human Segmentation.,"['Dongbo Zhang', 'Zheng Fang', 'Xuequan Lu', 'Hong Qin', 'Antonio Robles-Kelly', 'Chao Zhang', 'Ying He']",ICONIP (1),2020
+114,c,Fast Computation of Content-Sensitive Superpixels and Supervoxels Using Q-Distances.,"['Zipeng Ye', 'Ran Yi', 'Minjing Yu', 'Yong-Jin Liu', 'Ying He']",ICCV,2019
+115,c,Sparse representation for colors of 3D point cloud via virtual adaptive sampling.,"['Junhui Hou', 'Lap-Pui Chau', 'Ying He', 'Philip A. Chou']",ICASSP,2017
+116,c,Immersive and collaborative Taichi motion learning in various VR environments.,"['Tianyu He', 'Xiaoming Chen', 'Zhibo Chen', 'Ye Li', 'Sen Liu', 'Junhui Hou', 'Ying He']",VR,2017
+117,c,Sparsifying orthogonal transforms with compact bases for data compression.,"['Junhui Hou', 'Hui Liu', 'Lap-Pui Chau', 'Ying He', 'Jie Chen']",APSIPA,2016
+118,c,Manifold SLIC: A Fast Method to Compute Content-Sensitive Superpixels.,"['Yong-Jin Liu', 'Cheng-Chi Yu', 'Minjing Yu', 'Ying He']",CVPR,2016
+119,c,Robust laplacian matrix learning for smooth graph signals.,"['Junhui Hou', 'Lap-Pui Chau', 'Ying He', 'Huanqiang Zeng']",ICIP,2016
+120,c,Sparse two-dimensional singular value decomposition.,"['Junhui Hou', 'Jie Chen', 'Lap-Pui Chau', 'Ying He']",ICME,2016
+121,c,Delta DLP 3D printing with large size.,"['Chenming Wu', 'Ran Yi', 'Yong-Jin Liu', 'Ying He', 'Charlie C. L. Wang']",IROS,2016
+122,c,Barehanded music: real-time hand interaction for virtual piano.,"['Hui Liang', 'Jin Wang', 'Qian Sun', 'Yong-Jin Liu', 'Junsong Yuan', 'Jun Luo', 'Ying He']",I3D,2016
+123,c,Reordering-based transform for compressing human motion capture data.,"['Junhui Hou', 'Lap-Pui Chau', 'Ying He', 'Nadia Magnenat-Thalmann']",ISCAS,2015
+124,c,Robust and GPU-friendly Isotropic Meshing Based on Narrow-banded Euclidean Distance Transformation.,"['Yuen-Shan Leung', 'Xiaoning Wang', 'Ying He', 'Yong-Jin Liu', 'Charlie C. L. Wang']",PG (Short Papers),2015
+125,c,Critical points with discrete Morse theory.,"['Peihong Guo', 'Ergun Akleman', 'Ying He', 'Xiaoning Wang', 'Wei Liu']",SIGGRAPH Posters,2015
+126,c,The Duality of Geodesic Voronoi/Delaunay Diagrams For An Intrinsic Discrete Laplace-Beltrami Operator on Simplicial Surfaces.,"['Yong-Jin Liu', 'Chunxu Xu', 'Ying He', 'Deok-Soo Kim']",CCCG,2014
+127,c,Low-rank based compact representation of motion capture data.,"['Junhui Hou', 'Lap-Pui Chau', 'Ying He', 'Nadia Magnenat-Thalmann']",ICIP,2014
+128,c,Restoring corrupted motion capture data via jointly low-rank matrix completion.,"['Junhui Hou', 'Zhen-Peng Bian', 'Lap-Pui Chau', 'Nadia Magnenat-Thalmann', 'Ying He']",ICME,2014
+129,c,A novel compression framework for 3D time-varying meshes.,"['Junhui Hou', 'Lap-Pui Chau', 'Ying He', 'Nadia Magnenat-Thalmann']",ISCAS,2014
+130,c,iLocScan: harnessing multipath for simultaneous indoor source localization and space scanning.,"['Chi Zhang', 'Feng Li', 'Jun Luo', 'Ying He']",SenSys,2014
+131,c,Geodesic Voronoi Diagrams with Polyline Generators.,"['Chunxu Xu', 'Yong-Jin Liu', 'Qian Sun', 'Jinyan Li', 'Ying He']",SGP Posters,2014
+132,c,Splatting lines: an efficient method for illustrating 3D surfaces and volumes.,"['Long Zhang', 'Qian Sun', 'Ying He']",I3D,2014
+133,c,A multi-touch interface for fast architectural sketching and massing.,"['Qian Sun', 'Juncong Lin', 'Chi-Wing Fu', 'Sawako Kaijima', 'Ying He']",CHI,2013
+134,c,Human motion capture data recovery via trajectory-based sparse representation.,"['Junhui Hou', 'Lap-Pui Chau', 'Ying He', 'Jie Chen', 'Nadia Magnenat-Thalmann']",ICIP,2013
+135,c,FAVOR: frequency allocation for versatile occupancy of spectrum in wireless sensor networks.,"['Feng Li', 'Jun Luo', 'Gaotao Shi', 'Ying He']",MobiHoc,2013
+136,c,Texture brush: an interactive surface texturing interface.,"['Qian Sun', 'Long Zhang', 'Minqi Zhang', 'Xiang Ying', 'Shi-Qing Xin', 'Jiazhi Xia', 'Ying He']",I3D,2013
+137,c,Splatting lines for 3D mesh illustration.,"['Qian Sun', 'Long Zhang', 'Ying He']",I3D,2013
+138,c,Learning to name faces: a multimodal learning scheme for search-based face annotation.,"['Dayong Wang', 'Steven C. H. Hoi', 'Pengcheng Wu', 'Jianke Zhu', 'Ying He', 'Chunyan Miao']",SIGIR,2013
+139,c,Expression-invariant and sparse representation for mesh-based compression for 3-D face models.,"['Junhui Hou', 'Lap-Pui Chau', 'Ying He', 'Nadia Magnenat-Thalmann']",VCIP,2013
+140,c,FANS: face annotation by searching large-scale web facial images.,"['Steven C. H. Hoi', 'Dayong Wang', 'I. Yeu Cheng', 'Elmer Weijie Lin', 'Jianke Zhu', 'Ying He', 'Chunyan Miao']",WWW (Companion Volume),2013
+141,c,A unified learning framework for auto face annotation by mining web facial images.,"['Dayong Wang', 'Steven Chu-Hong Hoi', 'Ying He']",CIKM,2012
+142,c,LAACAD: Load Balancing k-Area Coverage through Autonomous Deployment in Wireless Sensor Networks.,"['Feng Li', 'Jun Luo', 'Shi-Qing Xin', 'Wenping Wang', 'Ying He']",ICDCS,2012
+143,c,Harmonic quorum systems: Data management in 2D/3D wireless sensor networks with holes.,"['Chi Zhang', 'Jun Luo', 'Liu Xiang', 'Feng Li', 'Juncong Lin', 'Ying He']",SECON,2012
+144,c,Constant-time all-pairs geodesic distance query on triangle meshes.,"['Shi-Qing Xin', 'Xiang Ying', 'Ying He']",I3D,2012
+145,c,Dynamic 3-D facial compression using low rank and sparse decomposition.,"['Junhui Hou', 'Lap-Pui Chau', 'Ying He', 'Dao Thi Phuong Quynh', 'Nadia Magnenat-Thalmann']",SIGGRAPH Asia Technical Briefs,2012
+146,c,A global algorithm to compute defect-tolerant geodesic distance.,"['Shi-Qing Xin', 'Dao Thi Phuong Quynh', 'Xiang Ying', 'Ying He']",SIGGRAPH Asia Technical Briefs,2012
+147,c,An interactive multi-touch sketching interface for diffusion curves.,"['Qian Sun', 'Chi-Wing Fu', 'Ying He']",CHI,2011
+148,c,3DQS: Distributed Data Access in 3D Wireless Sensor Networks.,"['Jun Luo', 'Feng Li', 'Ying He']",ICC,2011
+149,c,GeoQuorum: Load balancing and energy efficient data access in wireless sensor networks.,"['Jun Luo', 'Ying He']",INFOCOM,2011
+150,c,Isotropic Mesh Simplification by Evolving the Geodesic Delaunay Triangulation.,"['Shi-Qing Xin', 'Shuang-Min Chen', 'Ying He', 'Guo-Jin Wang', 'Xianfeng Gu', 'Hong Qin']",ISVD,2011
+151,c,Euclidean Geodesic Loops on High-Genus Surfaces Applied to the Morphometry of Vestibular Systems.,"['Shi-Qing Xin', 'Ying He', 'Chi-Wing Fu', 'Defeng Wang', 'Lin Shi', 'Winnie C. W. Chu', 'Jack Chun Yiu Cheng', 'Xianfeng Gu', 'Lok Ming Lui']",MICCAI (2),2011
+152,c,Retrieval-based face annotation by weak label regularized local coordinate coding.,"['Dayong Wang', 'Steven C. H. Hoi', 'Ying He', 'Jianke Zhu']",ACM Multimedia,2011
+153,c,Modeling 3D articulated motions with conformal geometry videos (CGVs).,"['Dao Thi Phuong Quynh', 'Ying He', 'Xiaoming Chen', 'Jiazhi Xia', 'Qian Sun', 'Steven C. H. Hoi']",ACM Multimedia,2011
+154,c,An Effective Approach to Pose Invariant 3D Face Recognition.,"['Dayong Wang', 'Steven C. H. Hoi', 'Ying He']",MMM (1),2011
+155,c,Randomly Projected KD-Trees with Distance Metric Learning for Image Retrieval.,"['Pengcheng Wu', 'Steven C. H. Hoi', 'Duc Dung Nguyen', 'Ying He']",MMM (2),2011
+156,c,UNFOLD: uniform fast on-line boundary detection for dynamic 3D wireless sensor networks.,"['Feng Li', 'Jun Luo', 'Chi Zhang', 'Shi-Qing Xin', 'Ying He']",MobiHoc,2011
+157,c,Editable polycube map for GPU-based subdivision surfaces.,"['Jiazhi Xia', 'Ismael García', 'Ying He', 'Shi-Qing Xin', 'Gustavo Patow']",SI3D,2011
+158,c,Parallel and accurate Poisson disk sampling on arbitrary surfaces.,"['Ying Xiang', 'Shi-Qing Xin', 'Qian Sun', 'Ying He']",SIGGRAPH Asia Sketches,2011
+159,c,A hybrid object/image space approach for efficient and robust line drawings.,"['Long Zhang', 'Ying He', 'Hock Soon Seah', 'Wolfgang Müller-Wittig']",SIGGRAPH Asia Sketches,2011
+160,c,Constant-time ,"['Shi-Qing Xin', 'Xiang Ying', 'Ying He']",SIGGRAPH Asia Sketches,2011
+161,c,Mining weakly labeled web facial images for search-based face annotation.,"['Dayong Wang', 'Steven C. H. Hoi', 'Ying He']",SIGIR,2011
+162,c,Sketch based image deformation and editing with guaranteed feature correspondence.,"['Yaqiong Liu', 'Hock Soon Seah', 'Ying He', 'Juncong Lin', 'Jiazhi Xia']",VRCAI,2011
+163,c,Mining social images with distance metric learning for automated image tagging.,"['Pengcheng Wu', 'Steven C. H. Hoi', 'Peilin Zhao', 'Ying He']",WSDM,2011
+164,c,LayerPaint: a multi-layer interactive 3D painting interface.,"['Chi-Wing Fu', 'Jiazhi Xia', 'Ying He']",CHI,2010
+165,c,"A System for Capturing, Rendering and Multiplexing Images on Multi-view Autostereoscopic Display.","['Hock Soon Tan', 'Jiazhi Xia', 'Ying He', 'Y. Q. Q. Guan']",CW,2010
+166,c,Re-texturing by Intrinsic Video.,"['Xing Yan', 'Jianbing Shen', 'Ying He', 'Xiaoyang Mao']",DICTA,2010
+167,c,Parameterization of Star-Shaped Volumes Using Green's Functions.,"['Jiazhi Xia', 'Ying He', 'Shuchu Han', 'Chi-Wing Fu', 'Feng Luo', 'Xianfeng Gu']",GMP,2010
+168,c,Modeling 3D facial expressions using geometry videos.,"['Jiazhi Xia', 'Ying He', 'Dao Thi Phuong Quynh', 'Xiaoming Chen', 'Steven C. H. Hoi']",ACM Multimedia,2010
+169,c,Hexahedral shell mesh construction via volumetric polycube map.,"['Shuchu Han', 'Jiazhi Xia', 'Ying He']",Symposium on Solid and Physical Modeling,2010
+170,c,Direct-Product Volumetric Parameterization of Handlebodies via Harmonic Fields.,"['Jiazhi Xia', 'Ying He', 'Xiaotian Yin', 'Shuchu Han', 'Xianfeng Gu']",Shape Modeling International,2010
+171,c,Streaming 3D meshes using spectral geometry images.,"['Ying He', 'Boon-Seng Chew', 'Dayong Wang', 'Steven Chu-Hong Hoi', 'Lap-Pui Chau']",ACM Multimedia,2009
+172,c,Laplacian lines for real-time shape illustration.,"['Long Zhang', 'Ying He', 'Xuexiang Xie', 'Wei Chen']",SI3D,2009
+173,c,C,"['Wei Zeng', 'Ying He', 'Jiazhi Xia', 'Xianfeng Gu', 'Hong Qin']",Symposium on Solid and Physical Modeling,2009
+174,c,User-controllable polycube map for manifold spline construction.,"['Hongyu Wang', 'Miao Jin', 'Ying He', 'Xianfeng Gu', 'Hong Qin']",Symposium on Solid and Physical Modeling,2008
+175,c,Example based skeletonization using harmonic one-forms.,"['Ying He', 'Xian Xiao', 'Hock Soon Seah']",Shape Modeling International,2008
+176,c,Manifold splines with single extraordinary point.,"['Xianfeng Gu', 'Ying He', 'Miao Jin', 'Feng Luo', 'Hong Qin', 'Shing-Tung Yau']",Symposium on Solid and Physical Modeling,2007
+177,c,Harmonic volumetric mapping for solid modeling applications.,"['Xin Li', 'Xiaohu Guo', 'Hongyu Wang', 'Ying He', 'Xianfeng Gu', 'Hong Qin']",Symposium on Solid and Physical Modeling,2007
+178,c,Polycube splines.,"['Hongyu Wang', 'Ying He', 'Xin Li', 'Xianfeng Gu', 'Hong Qin']",Symposium on Solid and Physical Modeling,2007
+179,c,Spline Thin-Shell Simulation of Manifold Surfaces.,"['Kexiang Wang', 'Ying He', 'Xiaohu Guo', 'Hong Qin']",Computer Graphics International,2006
+180,c,Manifold T-Spline.,"['Ying He', 'Kexiang Wang', 'Hongyu Wang', 'Xianfeng Gu', 'Hong Qin']",GMP,2006
+181,c,Temporal registration of 2D x-ray mammogram using triangular B-splines finite element method (TBFEM).,"['Kexiang Wang', 'Ying He', 'Hong Qin', 'Paul R. Fisher', 'Wei Zhao']",Medical Imaging: Image Processing,2006
+182,c,Curves-on-Surface: A General Shape Comparison Framework.,"['Xin Li', 'Ying He', 'Xianfeng Gu', 'Hong Qin']",SMI,2006
+183,c,Brain Image Analysis Using Spherical Splines.,"['Ying He', 'Xin Li', 'Xianfeng Gu', 'Hong Qin']",EMMCVPR,2005
+184,c,Adapted unstructured LBM for flow simulation on curved surfaces.,"['Zhe Fan', 'Ye Zhao', 'Arie E. Kaufman', 'Ying He']",Symposium on Computer Animation,2005
+185,c,Manifold splines.,"['Xianfeng Gu', 'Ying He', 'Hong Qin']",Symposium on Solid and Physical Modeling,2005
+186,c,Rational Spherical Splines for Genus Zero Shape Modeling.,"['Ying He', 'Xianfeng Gu', 'Hong Qin']",SMI,2005
+187,c,Incorporating Rigid Structures in Non-rigid Registration Using Triangular B-Splines.,"['Kexiang Wang', 'Ying He', 'Hong Qin']",VLSM,2005
+188,c,A C,"['Ying He', 'Miao Jin', 'Xianfeng Gu', 'Hong Qin']",VLSM,2005
+189,c,Surface Reconstruction with Triangular B-splines.,"['Ying He', 'Hong Qin']",GMP,2004
+190,i,Flexible Portrait Image Editing with Fine-Grained Control.,"['Linlin Liu', 'Qian Fu', 'Fei Hou', 'Ying He']",CoRR,2022
+191,i,Hierarchical Vectorization for Portrait Images.,"['Qian Fu', 'Linlin Liu', 'Fei Hou', 'Ying He']",CoRR,2022
+192,i,PU-Flow: a Point Cloud Upsampling Networkwith Normalizing Flows.,"['Aihua Mao', 'Zihui Du', 'Junhui Hou', 'Yaqi Duan', 'Yong-Jin Liu', 'Ying He']",CoRR,2021
+193,i,GeodesicEmbedding (GE): A High-Dimensional Embedding Approach for Fast Geodesic Distance Queries.,"['Qianwei Xia', 'Juyong Zhang', 'Zheng Fang', 'Jin Li', 'Mingyue Zhang', 'Bailin Deng', 'Ying He']",CoRR,2021
+194,i,Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling.,"['Dongbo Zhang', 'Xuequan Lu', 'Hong Qin', 'Ying He']",CoRR,2020
+195,i,PUGeo-Net: A Geometry-centric Network for 3D Point Cloud Upsampling.,"['Yue Qian', 'Junhui Hou', 'Sam Kwong', 'Ying He']",CoRR,2020
+196,i,STD-Net: Structure-preserving and Topology-adaptive Deformation Network for 3D Reconstruction from a Single Image.,"['Aihua Mao', 'Canglan Dai', 'Lin Gao', 'Ying He', 'Yong-Jin Liu']",CoRR,2020
+197,i,MOPS-Net: A Matrix Optimization-driven Network forTask-Oriented 3D Point Cloud Downsampling.,"['Yue Qian', 'Junhui Hou', 'Yiming Zeng', 'Qijian Zhang', 'Sam Kwong', 'Ying He']",CoRR,2020
+198,i,Deep Patch-based Human Segmentation.,"['Dongbo Zhang', 'Zheng Fang', 'Xuequan Lu', 'Hong Qin', 'Antonio Robles-Kelly', 'Chao Zhang', 'Ying He']",CoRR,2020
+199,i,Deep Magnification-Arbitrary Upsampling over 3D Point Clouds.,"['Yue Qian', 'Junhui Hou', 'Sam Kwong', 'Ying He']",CoRR,2020
+200,i,ParaNet: Deep Regular Representation for 3D Point Clouds.,"['Qijian Zhang', 'Junhui Hou', 'Yue Qian', 'Juyong Zhang', 'Ying He']",CoRR,2020
+201,i,CorrNet3D: Unsupervised End-to-end Learning of Dense Correspondence for 3D Point Clouds.,"['Yiming Zeng', 'Yue Qian', 'Zhiyu Zhu', 'Junhui Hou', 'Hui Yuan', 'Ying He']",CoRR,2020
+202,i,Kernel-Free Image Deblurring with a Pair of Blurred/Noisy Images.,"['Chunzhi Gu', 'Xuequan Lu', 'Ying He', 'Chao Zhang']",CoRR,2019
+203,i,HLO: Half-kernel Laplacian Operator for Surface Smoothing.,"['Wei Pan', 'Xuequan Lu', 'Yuanhao Gong', 'Wenming Tang', 'Jun Liu', 'Ying He', 'Guoping Qiu']",CoRR,2019
+204,i,"Geodesic Centroidal Voronoi Tessellations: Theories, Algorithms and Applications.","['Zipeng Ye', 'Ran Yi', 'Minjing Yu', 'Yong-Jin Liu', 'Ying He']",CoRR,2019
+205,i,Low Rank Matrix Approximation for Geometry Filtering.,"['Xuequan Lu', 'Scott Schaefer', 'Jun Luo', 'Lizhuang Ma', 'Ying He']",CoRR,2018
+206,i,Parallel and Scalable Heat Method.,"['Jiong Tao', 'Juyong Zhang', 'Bailin Deng', 'Zheng Fang', 'Yue Peng', 'Ying He']",CoRR,2018
+207,i,Poisson Vector Graphics (PVG) and Its Closed-Form Solver.,"['Fei Hou', 'Qian Sun', 'Zheng Fang', 'Yong-Jin Liu', 'Shi-Min Hu', 'Hong Qin', 'Aimin Hao', 'Ying He']",CoRR,2017
+208,i,Constructing Intrinsic Delaunay Triangulations from the Dual of Geodesic Voronoi Diagrams.,"['Yong-Jin Liu', 'Chunxu Xu', 'Dian Fan', 'Ying He']",CoRR,2015
+209,i,Human Motion Capture Data Compression based on Learned Spatial Transform.,"['Junhui Hou', 'Lap-Pui Chau', 'Nadia Magnenat-Thalmann', 'Ying He']",CoRR,2015
+210,i,CLRMA: Compact Low Rank Matrix Approximation for Data Compression.,"['Junhui Hou', 'Lap-Pui Chau', 'Nadia Magnenat-Thalmann', 'Ying He']",CoRR,2015
+211,i,Human Motion Capture Data Tailored Transform Coding.,"['Junhui Hou', 'Lap-Pui Chau', 'Nadia Magnenat-Thalmann', 'Ying He']",CoRR,2014
+212,i,Parallel Chen-Han (PCH) Algorithm for Discrete Geodesics.,"['Xiang Ying', 'Shi-Qing Xin', 'Ying He']",CoRR,2013
+213,i,GeoQuorum: Load Balancing and Energy Efficient Data Access in Wireless Sensor Networks.,"['Jun Luo', 'Ying He']",CoRR,2011

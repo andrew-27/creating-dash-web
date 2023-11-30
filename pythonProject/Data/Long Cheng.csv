@@ -1,0 +1,55 @@
+,type,name,author,event,year
+0,j,Identification Tool for Gastric Cancer Based on Integration of 33 Clinical Available Blood Indices Through Deep Learning.,"['Bowen Zhang', 'Long Cheng', 'Yuzhen Niu', 'Aming Wang', 'Pengyi Zhang', 'Tiantian Shen', 'Lili Xi', 'Dekui Zhang', 'Shuyan Li']",IEEE Access,2022
+1,j,Containment control with input and velocity constraints.,"['Jiahao Xu', 'Peng Lin', 'Long Cheng', 'Hairong Dong']",Autom.,2022
+2,j,"A cascaded algorithm based on GMM, GKF, and data fusion for mobile tracking in wireless sensor network.","['Long Cheng', 'Dacheng Wei', 'Peng Zhao', 'Yan Wang']",Int. J. Commun. Syst.,2022
+3,j,Noninvasive oral cancer screening based on local residual adaptation network using optical coherence tomography.,"['Wei Yuan', 'Long Cheng', 'Jinsuo Yang', 'Boya Yin', 'Xingyu Fan', 'Jing Yang', 'Sen Li', 'Jianjun Zhong', 'Xin Huang']",Medical Biol. Eng. Comput.,2022
+4,j,GCdiscrimination: identification of gastric cancer based on a milliliter of blood.,"['Jiangpeng Wu', 'Yifan Yang', 'Long Cheng', 'Jing Wu', 'Lili Xi', 'Ying Ma', 'Pengyi Zhang', 'Xiaoying Xu', 'Dekui Zhang', 'Shuyan Li']",Briefings Bioinform.,2021
+5,j,Fuzzy inference based contextual dissimilarity histogram equalization algorithm for image enhancement.,"['Songcheng Li', 'Junyong Lu', 'Long Cheng', 'Xiangping Li']",Int. J. Imaging Syst. Technol.,2021
+6,j,Novel local information kernelized fuzzy C-means algorithm for image segmentation.,"['Songcheng Li', 'Junyong Lu', 'Long Cheng', 'Xiangping Li']",Int. J. Imaging Syst. Technol.,2021
+7,j,A Multifilter Location Optimization Algorithm Based on Neural Network in LOS/NLOS Mixed Environment.,"['Zhentian Bian', 'Long Cheng', 'Yan Wang']",J. Sensors,2021
+8,j,A Survey of Energy Management in Interconnected Multi-Microgrids.,"['Hualei Zou', 'Shiwen Mao', 'Yu Wang', 'Fanghua Zhang', 'Xin Chen', 'Long Cheng']",IEEE Access,2019
+9,j,Operation space design of microbial fuel cells combined anaerobic-anoxic-oxic process based on support vector regression inverse model.,"['Jing Wang', 'Qilun Wang', 'Jinglin Zhou', 'Xiaohui Wang', 'Long Cheng']",Eng. Appl. Artif. Intell.,2018
+10,j,Software change-proneness prediction through combination of bagging and resampling methods.,"['Xiaoyan Zhu', 'Yueyang He', 'Long Cheng', 'Xiaolin Jia', 'Lei Zhu']",J. Softw. Evol. Process.,2018
+11,j,Component-Level Tuning of Kinematic Features From Composite Therapist Impressions of Movement Quality.,"['Vinay Venkataraman', 'Pavan K. Turaga', 'Michael Baran', 'Nicole Lehrer', 'Tingfang Du', 'Long Cheng', 'Thanassis Rikakis', 'Steven L. Wolf']",IEEE J. Biomed. Health Informatics,2016
+12,j,CADgene: a comprehensive database for coronary artery disease genes.,"['Hui Liu', 'Wei Liu', 'Yifang Liao', 'Long Cheng', 'Qian Liu', 'Xiang Ren', 'Lisong Shi', 'Xin Tu', 'Qing Kenneth Wang', 'An-Yuan Guo']",Nucleic Acids Res.,2011
+13,j,System-performance modeling for massively multiplayer online role-playing games.,"['Meng Ye', 'Long Cheng']",IBM Syst. J.,2006
+14,c,Towards Connecting the Disconnected Internet.,"['Jim Martin', 'Manveen Kaur', 'Long Cheng', 'Abolfazi Razi']",ICCCN,2022
+15,c,An Image Compression Method Based on Compressive Sensing and Convolution Neural Network for Massive Imaging Flow Cytometry Data.,"['Long Cheng', 'Yi Gu']",ICIC (3),2022
+16,c,"Clairvoyance: Exploiting Far-field EM Emanations of GPU to ""See"" Your DNN Models through Obstacles at a Distance.","['Sisheng Liang', 'Zihao Zhan', 'Fan Yao', 'Long Cheng', 'Zhenkai Zhang']",SP Workshops,2022
+17,c,Joint Activity Localization and Recognition with Ultra Wideband based on Machine Learning and Compressed Sensing.,"['Long Cheng', 'Yifan Wang', 'Ruogu Jin', 'Kangnan Dong', 'Zhaoqi Wu', 'Yuanchen Zhao']",CCWC,2021
+18,c,Asteria: Deep Learning-based AST-Encoding for Cross-platform Binary Code Similarity Detection.,"['Shouguo Yang', 'Long Cheng', 'Yicheng Zeng', 'Zhe Lang', 'Hongsong Zhu', 'Zhiqiang Shi']",DSN,2021
+19,c,Design of Customer Satisfaction Evaluation System Based on Big Data.,"['Long Cheng', 'Jing Cao', 'Zhongwei Gu']",HCI (35),2021
+20,c,Design and Control of an Index Finger Exoskeleton with Cable-Driven Translational Joints.,"['Houcheng Li', 'Long Cheng', 'Zhengwei Li']",ICARM,2020
+21,c,3D Object Detection and Tracking Based on Streaming Data.,"['Xusen Guo', 'Jianfeng Gu', 'Silu Guo', 'Zixiao Xu', 'Chengzhang Yang', 'Shanghua Liu', 'Long Cheng', 'Kai Huang']",ICRA,2020
+22,c,Ultra Wideband Indoor Positioning System based on Artificial Intelligence Techniques.,"['Long Cheng', 'Zhaoqi Wu', 'Bo Lai', 'Qiang Yang', 'Anguo Zhao', 'Yuanting Wang']",IRI,2020
+23,c,Twine: A Unified Cluster Management System for Shared Infrastructure.,"['Chunqiang Tang', 'Kenny Yu', 'Kaushik Veeraraghavan', 'Jonathan Kaldor', 'Scott Michelson', 'Thawan Kooburat', 'Aravind Anbudurai', 'Matthew Clark', 'Kabir Gogia', 'Long Cheng', 'Ben Christensen', 'Alex Gartrell', 'Maxim Khutornenko', 'Sachin Kulkarni', 'Marcin Pawlowski', 'Tuomas Pelkonen', 'Andre Rodrigues', 'Rounak Tibrewal', 'Vaishnavi Venkatesan', 'Peter Zhang']",OSDI,2020
+24,c,Target Assignment for Anti-Ship Missile Groups based on Fuzzy Cognitive Maps.,"['Long Cheng', 'Hao Lu', 'Teng Lei', 'Jun Chen', 'Lin Ding']",ICCA,2019
+25,c,A Cognitive Load Assessment Method Considering Individual Differences in Eye Movement Data.,"['Jun Chen', 'Qilin Zhang', 'Long Cheng', 'Xudong Gao', 'Lin Ding']",ICCA,2019
+26,c,Small Defect Detection in Industrial X-Ray Using Convolutional Neural Network.,"['Long Cheng', 'Ping Gong', 'Guanghui Qiu', 'Jing Wang', 'Ziyuan Liu']",PRCV (3),2019
+27,c,Multiple Performance Analysis for Nonlinear Networked Control Systems with Limited Channels.,"['Tianwei Zhou', 'Zhiqiang Zuo', 'Yijing Wang', 'Long Cheng']",ICCA,2018
+28,c,Spiking-Neural-Network Based Fugl-Meyer Hand Gesture Recognition For Wearable Hand Rehabilitation Robot.,"['Yang Liu', 'Long Cheng']",IJCNN,2018
+29,c,Recognition of human activities using machine learning methods with wearable sensors.,"['Long Cheng', 'Yani Guan', 'Kecheng Zhu', 'Yiyang Li']",CCWC,2017
+30,c,Human activity recognition based on compressed sensing.,"['Long Cheng', 'Yiyang Li', 'Yani Guan']",CCWC,2017
+31,c,Recognition of Human Activities Using Fast and Adaptive Sparse Representation Based on Wearable Sensors.,"['Long Cheng', 'Yiyi Yu', 'Xinyang Liu', 'Jinyu Su', 'Yani Guan']",ICMLA,2017
+32,c,An iterative learning controller for a cable-driven hand rehabilitation robot.,"['Siyuan Liu', 'Deyuan Meng', 'Long Cheng', 'Miao Chen']",IECON,2017
+33,c,Accelerated Sparse Representation for Human Activity Recognition.,"['Long Cheng', 'Yani Guan', 'Kecheng Zhu', 'Yiyang Li', 'Ruokun Xu']",IRI,2017
+34,c,Design and dynamic analysis for Amoeba-like robot's turning-mechanism applied with spring and damp system.,"['Xiang Dong', 'HengHui Sun', 'ZengFu Wang', 'Long Cheng']",ICARM,2016
+35,c,Model identification of lithium-ion batteries in the portable power system.,"['Xing Zhou', 'Long Cheng', 'Yanzhen Tang', 'Zhengqiang Pan', 'Quan Sun']",ICPHM,2016
+36,c,Identification of Power Line Outages Based on PMU Measurements and Sparse Overcomplete Representation.,"['Long Cheng', 'Chenyu You', 'Liguo Chen']",IRI,2016
+37,c,Continuous-Time Multi-agent Network for Distributed Least Absolute Deviation.,"['Qingshan Liu', 'Yan Zhao', 'Long Cheng']",ISNN,2015
+38,c,The Research of Matching Area Selection Criterion for Gravity Gradient Aided Navigation.,"['KaiHan Li', 'Ling Xiong', 'Long Cheng', 'Jie Ma']",CCPR (1),2014
+39,c,A Study of Human Flesh Search Based on SIR Flooding on Scale-Free Networks.,"['Dawei Meng', 'Lei Zhang', 'Long Cheng']",ICSI (1),2013
+40,c,Research on Code Migration Framework for Mobile Computing.,"['Long Cheng', 'Hongming Cai', 'Lihong Jiang']",CGC,2012
+41,c,Output-dependent delay cancellation technique for high-accuracy current-steering DACs.,"['Long Cheng', 'Yu-Jing Lin', 'Fan Ye', 'Ning Li', 'Junyan Ren']",ISCAS,2012
+42,c,A digitally calibrated current-steering DAC with current-splitting array.,"['Long Cheng', 'Chixiao Chen', 'Fan Ye', 'Ning Li', 'Junyan Ren']",MWSCAS,2012
+43,c,A cancellation technique for output-dependent delay differences in high-accuracy DACs.,"['Long Cheng', 'Yu-Jing Lin', 'Mingshuo Wang', 'Fan Ye', 'Ning Li', 'Junyan Ren']",MWSCAS,2012
+44,c,A study of human flesh search with epidemic models.,"['Long Cheng', 'Lei Zhang', 'Jinchuan Wang']",WebSci,2012
+45,c,Nyquist-rate time-interleaved current-steering DAC with dynamic channel matching.,"['Long Cheng', 'Fan Ye', 'Hai-Feng Yang', 'Ning Li', 'Jun Xu', 'Junyan Ren']",ISCAS,2011
+46,c,VITS Test Suit: A Micro-benchmark for Evaluating Performance Isolation of Virtualization Systems.,"['Pingpeng Yuan', 'Chong Ding', 'Long Cheng', 'Shengli Li', 'Hai Jin', 'Wenzhi Cao']",ICEBE,2010
+47,c,A digitally calibrated 14-bit linear 100-MS/s pipelined ADC with wideband sampling frontend.,"['Lei Luo', 'Kaihui Lin', 'Long Cheng', 'Liren Zhou', 'Fan Ye', 'Junyan Ren']",ESSCIRC,2009
+48,i,CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning.,"['Jiaying Guo', 'Long Cheng', 'Shen Wang']",CoRR,2022
+49,i,Revealing the real-world CO2 emission reduction of ridesplitting and its determinants based on machine learning.,"['Wenxiang Li', 'Yuanyuan Li', 'Ziyuan Pu', 'Long Cheng', 'Lei Wang', 'Linchuan Yang']",CoRR,2022
+50,i,Iterative Qubits Management for Quantum Index Searching in a Hybrid System.,"['Wenrui Mu', 'Ying Mao', 'Long Cheng', 'Qingle Wang', 'Weiwen Jiang', 'Pin-Yu Chen']",CoRR,2022
+51,i,Asteria: Deep Learning-based AST-Encoding for Cross-platform Binary Code Similarity Detection.,"['Shouguo Yang', 'Long Cheng', 'Yicheng Zeng', 'Zhe Lang', 'Hongsong Zhu', 'Zhiqiang Shi']",CoRR,2021
+52,i,3D Object Detection and Tracking Based on Streaming Data.,"['Xusen Guo', 'Jiangfeng Gu', 'Silu Guo', 'Zixiao Xu', 'Chengzhang Yang', 'Shanghua Liu', 'Long Cheng', 'Kai Huang']",CoRR,2020
+53,e,"Advances in Neural Networks - ISNN 2016 - 13th International Symposium on Neural Networks, ISNN 2016, St. Petersburg, Russia, July 6-8, 2016, Proceedings.","['Long Cheng', 'Qingshan Liu', 'Andrey Ronzhin']",Lecture Notes in Computer Science,2016

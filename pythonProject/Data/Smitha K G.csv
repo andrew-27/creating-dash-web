@@ -1,0 +1,41 @@
+,type,name,author,event,year
+0,j,A Survey of Algorithmic and Hardware Optimization Techniques for Vision Convolutional Neural Networks on FPGAs.,"['Arish Sateesan', 'Sharad Sinha', 'Smitha K. G.', 'A. P. Vinod']",Neural Process. Lett.,2021
+1,j,Use of Mobile EEG in Decoding Hand Movement Speed and Position.,"['Neethu Robinson', 'Tan Wei Jie Chester', 'Smitha K. G.']",IEEE Trans. Hum. Mach. Syst.,2021
+2,j,Facial emotion recognition system for autistic children: a feasible study based on FPGA implementation.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",Medical Biol. Eng. Comput.,2015
+3,j,Flexible Low Complexity Uniform and Nonuniform Digital Filter Banks With High Frequency Resolution for Multistandard Radios.,"['Abhishek Ambede', 'Smitha K. G.', 'A. Prasad Vinod']",IEEE Trans. Very Large Scale Integr. Syst.,2015
+4,j,Design of Reconfigurable Filter Bank Architecture Using Improved Coefficient Decimation-Interpolation-Masking Technique for Multi-Standard Wireless Communication Receivers.,"['Sumedh Dhabu', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",J. Low Power Electron.,2014
+5,j,Low-Complexity Reconfigurable Fast Filter Bank for Multi-Standard Wireless Receivers.,"['Sumit Jagdish Darak', 'Smitha Kavallur Pisharath Gopi', 'Achutavarrier Prasad Vinod', 'Edmund Ming-Kit Lai']",IEEE Trans. Very Large Scale Integr. Syst.,2014
+6,j,A Low-Complexity Uniform and Non-uniform Digital Filter Bank Based on an Improved Coefficient Decimation Method for Multi-standard Communication Channelizers.,"['Abhishek Ambede', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",Circuits Syst. Signal Process.,2013
+7,j,Fast two-stage spectrum detector for cognitive radios in uncertain noise channels.,"['Prashob R. Nair', 'A. Prasad Vinod', 'Kavallur Gopi Smitha', 'Anoop Kumar Krishna']",IET Commun.,2012
+8,j,A Multi-Resolution Fast Filter Bank for Spectrum Sensing in Military Radio Receivers.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",IEEE Trans. Very Large Scale Integr. Syst.,2012
+9,j,A Reconfigurable Channel Filter for Software Defined Radio Using RNS.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",J. Signal Process. Syst.,2012
+10,j,A Low Complexity Reconfigurable Multi-stage Channel Filter Architecture for Resource-Constrained Software Radio Handsets.,"['Smitha K. G.', 'A. Prasad Vinod']",J. Signal Process. Syst.,2011
+11,j,A Low Power Reconfigurable Channel Filter Using Multi-Band and Masking Architecture for Channel Adaptation in Cognitive Radio.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",IEICE Trans. Fundam. Electron. Commun. Comput. Sci.,2009
+12,j,A new low power reconfigurable decimation-interpolation and masking based filter architecture for channel adaptation in cognitive radio handsets.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",Phys. Commun.,2009
+13,j,Low Power Realization and Synthesis of Higher-Order FIR Filters Using an Improved Common Subexpression Elimination Method.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",IEICE Trans. Fundam. Electron. Commun. Comput. Sci.,2008
+14,c,DASH: Design Automation for Synthesis and Hardware Generation for CNN.,"['Arish Sateesan', 'Sharad Sinha', 'Smitha K. G.']",FPT,2020
+15,c,Smart Nation: Indoor Navigation for the Visually Impaired.,"['Lim Boon Leng', 'Smitha K. G.', 'Sharad Sinha']",ICITE,2019
+16,c,Smart Nation: Offline Public Transport Made Easy.,"['Ang Poh Keong', 'K. G. Smitha', 'Sharad Sinha']",ICITE,2019
+17,c,Optimization of Convolutional Neural Networks on Resource Constrained Devices.,"['Arish S', 'Sharad Sinha', 'Smitha K. G.']",ISVLSI,2019
+18,c,Pipelined MIPS Simulation: A plug-in to MARS simulator for supporting pipeline simulation and branch prediction.,"['Di Xiang Lim', 'K. G. Smitha']",TALE,2019
+19,c,EEG-based Discriminative Features During Hand Movement Execution and Imagination.,"['Kavitha P. Thomas', 'Neethu Robinson', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",ICARCV,2018
+20,c,Low-Cost Wireless Electrooculography Speller.,"['Hoi Ka Hou', 'Smitha Kavallur Pisharath Gopi']",SMC,2018
+21,c,Covert Visuospatial Attention (VSA) for EEG-Based Asynchronous Control of Robot.,"['Oh Yoke Chew', 'Neethu Robinson', 'Smitha Kavallur Pisharath Gopi']",SMC,2018
+22,c,Classifying subjective emotional stress response evoked by multitasking using EEG.,"['Kavallur Gopi Smitha', 'Ng Yu Xin', 'Seah Sze Lian', 'Neethu Robinson']",SMC,2017
+23,c,Voice familiarity detection using EEG-based Brain-Computer Interface.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod', 'Mahesh K']",SMC,2016
+24,c,EEG based stress level identification.,"['Guo Jun', 'Kavallur Gopi Smitha']",SMC,2016
+25,c,A Comparative Study on the Effect of Audio and Visual Stimuli for Enhancing Attention and Memory in Brain Computer Interface System.,"['Tushar Chouhan', 'Ankit Panse', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",SMC,2015
+26,c,Detection of Familiar and Unfamiliar Images Using EEG-Based Brain-Computer Interface.,"['Zheng Hui Ernest Tan', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",SMC,2015
+27,c,Low complexity spectrum sensing using variable digital filters for cognitive radio based air-ground communication.,"['Abhishek Ambede', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",CCS,2014
+28,c,Two player EEG-based neurofeedback ball game for attention enhancement.,"['Sun Shenjie', 'Kavitha P. Thomas', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",SMC,2014
+29,c,"A low complexity reconfigurable channel filter based on decimation, interpolation and frequency response masking.","['Sumedh Dhabu', 'Smitha K. G.', 'A. Prasad Vinod']",ICASSP,2013
+30,c,A New Design Method to Obtain Flexible and Low Complexity Uniform Filter Banks.,"['Abhishek Ambede', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",ISED,2013
+31,c,Low Complexity FPGA Implementation of Emotion Detection for Autistic Children.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",ISMICT,2013
+32,c,An improved coefficient decimation based reconfigurable low complexity FIR channel filter for cognitive radios.,"['Abhishek Ambede', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",ISCIT,2012
+33,c,A modified coefficient decimation method to realize low complexity FIR filters with enhanced frequency response flexibility and passband resolution.,"['Abhishek Ambede', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",TSP,2012
+34,c,Low Complexity Flexible Hardware Efficient Decimation Selector.,"['V. Rakesh', 'Kavallur Gopi Smitha', 'A. Prasad Vinod']",ISED,2011
+35,c,A reconfigurable non-uniform filter bank architecture for military radio receivers.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",ICT,2010
+36,c,A reconfigurable multi-stage frequency response masking filter bank architecture for software defined radio receivers.,"['Kavallur Pisharath G. Smitha', 'Raveendranatha P. Mahesh', 'Achutavarrier Prasad Vinod']",ISCAS,2008
+37,c,A reconfigurable low complexity architecture for channel adaptation in cognitive radio.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",PIMRC,2008
+38,c,A New Binary Common Subexpression Elimination Method for Implementing Low Complexity FIR Filters.,"['Kavallur Gopi Smitha', 'A. Prasad Vinod']",ISCAS,2007
+39,c,Redundant Adders Consume Less Energy.,"['Kavallur Gopi Smitha', 'Hossam A. H. Fahmy', 'A. Prasad Vinod']",APCCAS,2006

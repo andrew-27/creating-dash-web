@@ -1,0 +1,138 @@
+,type,name,author,event,year
+0,j,"The Impact of a Number of Samples on Unsupervised Feature Extraction, Based on Deep Learning for Detection Defects in Printed Circuit Boards.","['Ihar Volkau', 'Abdul Mujeeb', 'Wenting Dai', 'Marius Erdt', 'Alexei Sourin']",Future Internet,2022
+1,j,Self-supervised pairing image clustering for automated quality control.,"['Wenting Dai', 'Marius Erdt', 'Alexei Sourin']",Vis. Comput.,2022
+2,j,Detection and segmentation of image anomalies based on unsupervised defect reparation.,"['Wenting Dai', 'Marius Erdt', 'Alexei Sourin']",Vis. Comput.,2021
+3,j,Soldering defect detection in automatic optical inspection.,"['Wenting Dai', 'Abdul Mujeeb', 'Marius Erdt', 'Alexei Sourin']",Adv. Eng. Informatics,2020
+4,j,Interactive visual labelling versus active learning: an experimental comparison.,"['Mohammad Chegini', 'Jürgen Bernard', 'Jian Cui', 'Fatemeh Chegini', 'Alexei Sourin', 'Keith Andrews', 'Tobias Schreck']",Frontiers Inf. Technol. Electron. Eng.,2020
+5,j,One class based feature learning approach for defect detection using deep autoencoders.,"['Abdul Mujeeb', 'Wenting Dai', 'Marius Erdt', 'Alexei Sourin']",Adv. Eng. Informatics,2019
+6,j,"Interactive labelling of a multivariate dataset for supervised machine learning using linked visualisations, clustering, and active learning.","['Mohammad Chegini', 'Jürgen Bernard', 'Philip Berger', 'Alexei Sourin', 'Keith Andrews', 'Tobias Schreck']",Vis. Informatics,2019
+7,j,Interactive rendering of translucent materials under area lights using voxels and Poisson disk samples.,"['Ming Di Koa', 'Henry Johan', 'Alexei Sourin']",Comput. Graph.,2018
+8,j,Mid-air interaction with optical tracking for 3D modeling.,"['Jian Cui', 'Alexei Sourin']",Comput. Graph.,2018
+9,j,Interactive Cutting of Thin Deformable Objects.,"['Bin Weng', 'Alexei Sourin']",Symmetry,2018
+10,j,Foreword to the Special Issue on 2016 International Conference on Cyberworlds (CYBERWORLDS 2016).,"['Issei Fujishiro', 'Alexei Sourin']",Comput. Graph.,2017
+11,j,Procedural modeling of architecture with round geometry.,"['Johannes Edelsbrunner', 'Sven Havemann', 'Alexei Sourin', 'Dieter W. Fellner']",Comput. Graph.,2017
+12,j,Interactive screenspace fragment rendering for direct illumination from area lights using gradient aware subdivision and radial basis function interpolation.,"['Ming Di Koa', 'Henry Johan', 'Alexei Sourin']",Comput. Graph.,2017
+13,j,Tangible images of real life scenes.,"['Xingzi Zhang', 'Michael Goesele', 'Alexei Sourin']",Comput. Graph.,2017
+14,j,Constructive Roofs from Solid Building Primitives.,"['Johannes Edelsbrunner', 'Ulrich Krispel', 'Sven Havemann', 'Alexei Sourin', 'Dieter W. Fellner']",Trans. Comput. Sci.,2016
+15,j,Problems of Human-Computer Interaction in Cyberworlds.,"['Alexei Sourin', 'Rae A. Earnshaw', 'Marina L. Gavrilova', 'Olga Sourina']",Trans. Comput. Sci.,2016
+16,j,Preface to the special section on Cyberworlds 2015.,['Alexei Sourin'],Vis. Comput.,2016
+17,j,Real-time haptic interaction with RGBD video streams.,"['Shahzad Rasool', 'Alexei Sourin']",Vis. Comput.,2016
+18,j,Image-inspired haptic interaction.,"['Xingzi Zhang', 'Alexei Sourin']",Comput. Animat. Virtual Worlds,2015
+19,j,Image-Driven Haptic Rendering.,"['Shahzad Rasool', 'Alexei Sourin']",Trans. Comput. Sci.,2014
+20,j,Image-Based Virtual Palpation.,"['Shamima Yasmin', 'Alexei Sourin']",Trans. Comput. Sci.,2013
+21,j,Preface to special issue on Cyberworlds 2011.,"['Marina L. Gavrilova', 'Alexei Sourin']",Vis. Comput.,2013
+22,j,Image-driven virtual simulation of arthroscopy.,"['Shahzad Rasool', 'Alexei Sourin']",Vis. Comput.,2013
+23,j,Interactive free-form shape modeling in cyberworlds.,"['Danbo Lai', 'Alexei Sourin']",Vis. Comput.,2013
+24,j,Function-Based Single and Dual Point Haptic Interaction in Cyberworlds.,"['Lei Wei', 'Alexei Sourin', 'Zoran Najdovski', 'Saeid Nahavandi']",Trans. Comput. Sci.,2012
+25,j,Reconstructing Multiresolution Mesh for Web Visualization Based on PDE Resampling.,"['Ming-Yong Pang', 'Yun Sheng', 'Alexei Sourin', 'Gabriela González Castro', 'Hassan Ugail']",Trans. Comput. Sci.,2011
+26,j,Special issue on Cyberworlds 2010.,"['Alexei Sourin', 'Daniel Thalmann', 'Olga Sourina']",Vis. Comput.,2011
+27,j,Function-based approach to mixed haptic effects rendering.,"['Lei Wei', 'Alexei Sourin']",Vis. Comput.,2011
+28,j,Constructing Subdivision Connectivity Mesh via PDE Parameterization.,"['Mingyong Pang', 'Alexei Sourin', 'Zhigeng Pan']",Int. J. Virtual Real.,2010
+29,j,A PDE method for patchwise approximation of large polygon meshes.,"['Yun Sheng', 'Alexei Sourin', 'Gabriela González Castro', 'Hassan Ugail']",Vis. Comput.,2010
+30,j,Interactive surface-guided segmentation of brain MRI data.,"['Konstantin Levinski', 'Alexei Sourin', 'Vitali Zagorodnov']",Comput. Biol. Medicine,2009
+31,j,Visual Immersive Haptic Mathematics in Shared Virtual Spaces.,"['Alexei Sourin', 'Olga Sourina', 'Lei Wei', 'Paul Gagnon']",Trans. Comput. Sci.,2009
+32,j,Visual immersive haptic mathematics.,"['Alexei Sourin', 'Lei Wei']",Virtual Real.,2009
+33,j,Function-based visualization and haptic rendering in shared virtual spaces.,"['Lei Wei', 'Alexei Sourin', 'Olga Sourina']",Vis. Comput.,2008
+34,j,Interactive function-based shape modelling.,"['Konstantin Levinski', 'Alexei Sourin']",Comput. Graph.,2007
+35,j,Editorial.,"['Daniel Thalmann', 'Alexei Sourin']",Vis. Comput.,2007
+36,j,Human electroencephalograms seen as fractal time series: Mathematical analysis and visualization.,"['Vladimir Kulish', 'Alexei Sourin', 'Olga Sourina']",Comput. Biol. Medicine,2006
+37,j,Function-based shape modelling extension of the Virtual Reality Modelling Language.,"['Qi Liu', 'Alexei Sourin']",Comput. Graph.,2006
+38,j,Cyber-Learning in Cyberworlds.,"['Alexei Sourin', 'Olga Sourina', 'Ekaterina Prasolova-Førland']",J. Cases Inf. Technol.,2006
+39,j,Function-defined shape metamorphoses in visual cyberworlds.,"['Qi Liu', 'Alexei Sourin']",Vis. Comput.,2006
+40,j,Cybercampuses: design issues and future directions.,"['Ekaterina Prasolova-Førland', 'Alexei Sourin', 'Olga Sourina']",Vis. Comput.,2006
+41,j,Guest editor's introduction.,"['Seah Hock Soon', 'Alexei Sourin']",Comput. Graph.,2004
+42,j,Nanyang Technological University Virtual Campus.,['Alexei Sourin'],IEEE Computer Graphics and Applications,2004
+43,j,Synthetic carving using implicit surface primitives.,"['Alexander A. Pasko', 'Vladimir V. Savchenko', 'Alexei Sourin']",Comput. Aided Des.,2001
+44,j,Functionally based virtual embossing.,['Alexei Sourin'],Vis. Comput.,2001
+45,j,Using real functions with application to hair modelling.,"['Alexei Sourin', 'Alexander A. Pasko', 'Vladimir V. Savchenko']",Comput. Graph.,1996
+46,j,Function Representation for Sweeping by a Moving Solid.,"['Alexei Sourin', 'Alexander A. Pasko']",IEEE Trans. Vis. Comput. Graph.,1996
+47,j,"Function representation in geometric modeling: concepts, implementation and applications.","['Alexander A. Pasko', 'Valery Adzhiev', 'Alexei Sourin', 'Vladimir V. Savchenko']",Vis. Comput.,1995
+48,c,Anomaly Detection and Segmentation Based on Defect Repaired Image Resynthesis.,"['Wenting Dai', 'Marius Erdt', 'Alexei Sourin']",CW,2021
+49,c,Virtual Assembling Using Hand Tracking with Leap Motion Controller.,"['Siyi Mu', 'Alexei Sourin']",CW,2021
+50,c,Application of Generative Adversarial Networks and Latent Space Exploration in Music Visualisation.,"['Haziq Yusoff bin Abdul Wahab', 'Alexei Sourin']",CW,2021
+51,c,Generation of Music With Dynamics Using Deep Convolutional Generative Adversarial Network.,"['Raymond Kwan How Toh', 'Alexei Sourin']",CW,2021
+52,c,Self-supervised Pairing Image Clustering and Its Application in Cyber Manufacturing.,"['Wenting Dai', 'Yutao Jiao', 'Marius Erdt', 'Alexei Sourin']",CW,2020
+53,c,Generation of Irregular Music Patterns With Deep Learning.,"['Zi Jun Kan', 'Alexei Sourin']",CW,2020
+54,c,Music in the Air with Leap Motion Controller.,['Alexei Sourin'],CW,2019
+55,c,Detection Defect in Printed Circuit Boards using Unsupervised Feature Extraction Upon Transfer Learning.,"['Ihar Volkau', 'Abdul Mujeeb', 'Wenting Dai', 'Marius Erdt', 'Alexei Sourin']",CW,2019
+56,c,Eye-Tracking Based Adaptive Parallel Coordinates.,"['Mohammad Chegini', 'Keith Andrews', 'Tobias Schreck', 'Alexei Sourin']",SIGGRAPH Asia Posters,2019
+57,c,Tangible Video Communication over the Internet.,"['Song Guo', 'Alexei Sourin']",CGI,2018
+58,c,Towards Asynchronous Video-Haptic Interaction in Cyberspace.,"['Song Guo', 'Alexei Sourin']",CW,2018
+59,c,Towards Automatic Optical Inspection of Soldering Defects.,"['Wenting Dai', 'Abdul Mujeeb', 'Marius Erdt', 'Alexei Sourin']",CW,2018
+60,c,Unsupervised Surface Defect Detection Using Deep Autoencoders and Data Augmentation.,"['Abdul Mujeeb', 'Wenting Dai', 'Marius Erdt', 'Alexei Sourin']",CW,2018
+61,c,Adding a sense of touch to online shopping: does it really help?,"['Xingzi Zhang', 'Ningshuang Chen', 'Alexei Sourin']",CGI,2017
+62,c,Voxel-Based Interactive Rendering of Translucent Materials under Area Lights Using Sparse Samples.,"['Ming Di Koa', 'Henry Johan', 'Alexei Sourin']",CW,2017
+63,c,Interactive shape modeling using leap motion controller.,"['Jian Cui', 'Alexei Sourin']",SIGGRAPH Asia Technical Briefs,2017
+64,c,Understanding People's Mental Models of Mid-Air Interaction for Virtual Assembly and Shape Modeling.,"['Jian Cui', 'Arjan Kuijper', 'Dieter W. Fellner', 'Alexei Sourin']",CASA,2016
+65,c,Exploration of Natural Free-Hand Interaction for Shape Modeling Using Leap Motion Controller.,"['Jian Cui', 'Arjan Kuijper', 'Alexei Sourin']",CW,2016
+66,c,Haptic Interaction with a Polygon Mesh Reconstructed from Images.,"['Xingzi Zhang', 'Michael Goesele', 'Alexei Sourin']",CW,2016
+67,c,Interactive Screenspace Stream-Compaction Fragment Rendering of Direct Illumination from Area Lights.,"['Ming Di Koa', 'Henry Johan', 'Alexei Sourin']",CW,2016
+68,c,Procedural Modeling of Round Building Geometry.,"['Johannes Edelsbrunner', 'Sven Havemann', 'Alexei Sourin', 'Dieter W. Fellner']",CW,2016
+69,c,Mid-Air Gestures for Virtual Modeling with Leap Motion.,"['Jian Cui', 'Dieter W. Fellner', 'Arjan Kuijper', 'Alexei Sourin']",HCI (19),2016
+70,c,Assessing haptic video interaction with neurocognitive tools.,"['Shahzad Rasool', 'Xiyuan Hou', 'Yisi Liu', 'Alexei Sourin', 'Olga Sourina']",SMC,2016
+71,c,Haptic Interaction with Video Streams Containing Depth Data.,"['Shahzad Rasool', 'Alexei Sourin']",CW,2015
+72,c,Multisensory Experience with Images.,"['Kan Chen', 'Xingzi Zhang', 'Shahzad Rasool', 'Henry Johan', 'Alexei Sourin']",CW,2014
+73,c,Constructive Roof Geometry.,"['Johannes Edelsbrunner', 'Ulrich Krispel', 'Sven Havemann', 'Alexei Sourin', 'Dieter W. Fellner']",CW,2014
+74,c,Feasibility Study on Free Hand Geometric Modelling Using Leap Motion in VRML/X3D.,"['Jian Cui', 'Alexei Sourin']",CW,2014
+75,c,Modeling arthroscopic camera with haptic devices in image-based virtual environments.,"['Shahzad Rasool', 'Alexei Sourin', 'Vladimir Pestrikov', 'Fareed Kagda']",HAPTICS,2014
+76,c,Virtual Knee Arthroscopy Using Haptic Devices and Real Surgical Images.,"['Shahzad Rasool', 'Alexei Sourin', 'Vladimir Pestrikov', 'Fareed Kagda']",HCI (20),2014
+77,c,Towards Making Panoramic Images in Virtual Arthroscopy.,"['Vladimir Pestrikov', 'Alexei Sourin']",CW,2013
+78,c,Image-Driven Haptic Rendering in Virtual Environments.,"['Shahzad Rasool', 'Alexei Sourin']",CW,2013
+79,c,Image-driven Haptic Simulation of Arthroscopic Surgery.,"['Shahzad Rasool', 'Alexei Sourin', 'Fareed Kagda']",MMVR,2013
+80,c,Towards hand-eye coordination training in virtual knee arthroscopy.,"['Shahzad Rasool', 'Alexei Sourin', 'Pingjun Xia', 'Bin Weng', 'Fareed Kagda']",VRST,2013
+81,c,Interactive Visualization of Mathematics in 3D Web.,"['Danbo Lai', 'Alexei Sourin']",CW,2012
+82,c,Virtual Palpation for Medical Training in Cyberworlds.,"['Shamima Yasmin', 'Alexei Sourin']",CW,2012
+83,c,Haptic Editing of MRI Brain Data.,"['Alexei Sourin', 'Shamima Yasmin']",MMVR,2012
+84,c,Design and implementation of a haptics-based virtual venepuncture simulation and training system.,"['Pingjun Xia', 'Alexei Sourin']",VRCAI,2012
+85,c,A new approach to virtual palpation.,"['Shamima Yasmin', 'Alexei Sourin']",VRCAI,2012
+86,c,Function-Based Haptic Interaction in Cyberworlds.,"['Lei Wei', 'Alexei Sourin']",CW,2011
+87,c,Tangible images.,"['Shahzad Rasool', 'Alexei Sourin']",SIGGRAPH Asia Sketches,2011
+88,c,Haptic interaction with 2D images.,"['Shahzad Rasool', 'Alexei Sourin']",VRCAI,2011
+89,c,Visual immersive mathematics in 3D web.,"['Danbo Lai', 'Alexei Sourin']",VRCAI,2011
+90,c,Haptic Rendering of Mixed Haptic Effects.,"['Lei Wei', 'Alexei Sourin']",CW,2010
+91,c,Towards Tangible Images and Video in Cyberworlds-Function-Based Approach.,"['Shahzad Rasool', 'Alexei Sourin']",CW,2010
+92,c,Automatic Reconstruction and Web Visualization of Complex PDE Shapes.,"['Ming-Yong Pang', 'Yun Sheng', 'Alexei Sourin', 'Gabriela González Castro', 'Hassan Ugail']",CW,2010
+93,c,Setting Cyber-Instructors in Cyberspace.,"['Leon Ho Chiau Wai', 'Alexei Sourin']",CW,2010
+94,c,A Framework for Visual and Haptic Collaboration in Shared Virtual Spaces.,"['Lei Wei', 'Alexei Sourin', 'Herbert Stocker']",ISVC (3),2010
+95,c,3D Visualization and Segmentation of Brain MRI Data.,"['Konstantin Levinski', 'Alexei Sourin', 'Vitali Zagorodnov']",GRAPP,2009
+96,c,EEG Data Driven Animation and Its Application.,"['Olga Sourina', 'Alexei Sourin', 'Vladimir Kulish']",MIRAGE,2009
+97,c,Function-based haptic collaboration in X3D.,"['Lei Wei', 'Alexei Sourin', 'Herbert Stocker']",Web3D,2009
+98,c,Collaboration in 3D Shared Spaces Using X3D and VRML.,"['Lei Wei', 'Alexei Sourin', 'Herbert Stocker']",CW,2009
+99,c,Towards a Definition of Virtual Objects Using Partial Differential Equations.,"['Hassan Ugail', 'Gabriela González Castro', 'Alexei Sourin', 'Olga Sourina']",CW,2009
+100,c,Partial Differential Equations for Function Based Geometry Modelling within Visual Cyberworlds.,"['Hassan Ugail', 'Alexei Sourin']",CW,2008
+101,c,Visual immersive haptic rendering on the web.,"['Alexei Sourin', 'Lei Wei']",VRCAI,2008
+102,c,Function-Based Haptic Interaction in Cyberworlds.,"['Lei Wei', 'Alexei Sourin', 'Olga Sourina']",CW,2007
+103,c,Physically based hydraulic erosion simulation on graphics processing unit.,"['Nguyen Hoang Anh', 'Alexei Sourin', 'Parimal Aswani']",GRAPHITE,2007
+104,c,Interactive Grid-based Free-Form Shape Modeling.,"['Anthony S. K. Chong', 'Konstantin Levinski', 'Alexei Sourin']",CCGRID,2006
+105,c,Hybrid Function-Based Shape Modeling and Web Visualization.,['Alexei Sourin'],CW,2006
+106,c,Grid-based computer animation rendering.,"['Anthony S. K. Chong', 'Alexei Sourin', 'Konstantin Levinski']",GRAPHITE,2006
+107,c,Function-based shape modeling and visualization in X3D.,"['Qi Liu', 'Alexei Sourin']",Web3D,2006
+108,c,Function-based Time-dependent Shape Modeling on the Web.,"['Qi Liu', 'Alexei Sourin']",CW,2005
+109,c,Place Metaphors in Educational Cyberworlds: a Virtual Campus Case Study.,"['Ekaterina Prasolova-Førland', 'Alexei Sourin', 'Olga Sourina']",CW,2005
+110,c,Function-defined shape metamorphoses in VRML.,"['Qi Liu', 'Alexei Sourin']",GRAPHITE,2005
+111,c,From a Small Formula to Cyberworlds.,['Alexei Sourin'],ICCSA (3),2005
+112,c,Function-based representation of complex geometry and appearance.,"['Qi Liu', 'Alexei Sourin']",Web3D,2005
+113,c,Interactive Function-Based Shape Modeling for Cyberworlds.,"['Konstantin Levinski', 'Alexei Sourin']",CW,2004
+114,c,Analytically-Defined Collaborative Shape Modeling in VRML.,"['Qi Liu', 'Alexei Sourin']",CW,2004
+115,c,Web Visualization of Function-Defined Shapes.,"['Alexei Sourin', 'Lai Feng Min', 'Konstantin Levinski']",ICCSA (3),2003
+116,c,Function-Based 3D Web Visualization.,"['Lai Feng Min', 'Alexei Sourin', 'Konstantin Levinski']",CW,2002
+117,c,Interactive Function-Based Artistic Shape Modeling.,"['Konstantin Levinski', 'Alexei Sourin']",CW,2002
+118,c,Function-defined shape node for VRML.,"['Lai Feng Min', 'Alexei Sourin']",Eurographics (Short Presentations),2002
+119,c,Interactive Polygonisation for Function-based Modelling.,"['Alexei Sourin', 'Konstantin Levinski']",Eurographics (Short Presentations),2002
+120,c,Functionally based virtual computer art.,['Alexei Sourin'],SI3D,2001
+121,c,Orthopaedic Surgery Simulation.,"['Olga Sourina', 'Alexei Sourin']",Applied Informatics,1999
+122,c,Volume Modelling: Representations and Advanced Operations.,"['Vladimir V. Savchenko', 'Alexander A. Pasko', 'Alexei Sourin', 'Tosiyasu L. Kunii']",Computer Graphics International,1998
+123,c,Function representation for sweeping by a moving solid.,"['Alexei Sourin', 'Alexander A. Pasko']",Symposium on Solid Modeling and Applications,1995
+124,e,"International Conference on Cyberworlds, CW 2021, Caen, France, September 28-30, 2021.","['Alexei Sourin', 'Christophe Rosenberger', 'Olga Sourina']",Symposium on Solid Modeling and Applications,2021
+125,e,"International Conference on Cyberworlds, CW 2020, Caen, France, September 29 - October 1, 2020.","['Alexei Sourin', 'Christophe Charrier', 'Christophe Rosenberger', 'Olga Sourina']",Symposium on Solid Modeling and Applications,2020
+126,e,Transactions on Computational Science XXXVI - Special Issue on Cyberworlds and Cybersecurity.,"['Marina L. Gavrilova', 'C. J. Kenneth Tan', 'Alexei Sourin']",Lecture Notes in Computer Science,2020
+127,e,"2018 International Conference on Cyberworlds, CW 2018, Singapore, October 3-5, 2018.","['Alexei Sourin', 'Olga Sourina', 'Christophe Rosenberger', 'Marius Erdt']",Lecture Notes in Computer Science,2018
+128,e,Transactions on Computational Science XXXII - Special Issue on Cybersecurity and Biometrics.,"['Marina L. Gavrilova', 'C. J. Kenneth Tan', 'Alexei Sourin']",Lecture Notes in Computer Science,2018
+129,e,Transactions on Computational Science XXX - Special Issue on Cyberworlds and Cybersecurity.,"['Marina L. Gavrilova', 'C. J. Kenneth Tan', 'Alexei Sourin']",Lecture Notes in Computer Science,2017
+130,e,"2016 International Conference on Cyberworlds, CW 2016, Chongqing, China, September 28-30, 2016.",['Alexei Sourin'],Lecture Notes in Computer Science,2016
+131,e,Transactions on Computational Science XXVI - Special Issue on Cyberworlds and Cybersecurity.,"['Marina L. Gavrilova', 'C. J. Kenneth Tan', 'Andrés Iglesias', 'Mikio Shinya', 'Akemi Gálvez', 'Alexei Sourin']",Lecture Notes in Computer Science,2016
+132,e,Transactions on Computational Science XXVIII - Special Issue on Cyberworlds and Cybersecurity.,"['Marina L. Gavrilova', 'C. J. Kenneth Tan', 'Alexei Sourin']",Lecture Notes in Computer Science,2016
+133,e,"2012 International Conference on Cyberworlds, Darmstadt, Germany, September 25-27, 2012.","['Arjan Kuijper', 'Alexei Sourin']",Lecture Notes in Computer Science,2012
+134,e,Transactions on Computational Science XII - Special Issue on Cyberworlds.,"['Marina L. Gavrilova', 'Chih Jeng Kenneth Tan', 'Alexei Sourin', 'Olga Sourina']",Lecture Notes in Computer Science,2011
+135,e,"2010 International Conference on CyberWorlds, Singapore, October 20-22, 2010.","['Alexei Sourin', 'Olga Sourina']",Lecture Notes in Computer Science,2010
+136,e,"2007 International Conference on Cyberworlds, CW 2007, Hannover, Germany, October 24-26, 2007.","['Franz-Erich Wolter', 'Alexei Sourin']",Lecture Notes in Computer Science,2007

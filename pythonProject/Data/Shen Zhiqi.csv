@@ -1,0 +1,172 @@
+,type,name,author,event,year
+0,j,Ping Pong: An Exergame for Cognitive Inhibition Training.,"['Hao Zhang', 'Zhiqi Shen', 'Siyuan Liu', 'Dazhong Yuan', 'Chunyan Miao']",Int. J. Hum. Comput. Interact.,2021
+1,j,Dynamic Generation of Internet of Things Organizational Structures Through Evolutionary Computing.,"['Zhiqi Shen', 'Han Yu', 'Ling Yu', 'Chunyan Miao', 'Yiqiang Chen', 'Victor R. Lesser']",IEEE Internet Things J.,2018
+2,j,Video-based human heart rate measurement using joint blind source separation.,"['Huan Qi', 'Zhenyu Guo', 'Xun Chen', 'Zhiqi Shen', 'Z. Jane Wang']",Biomed. Signal Process. Control.,2017
+3,j,A social influence based trust model for recommender systems.,"['Jian-Ping Mei', 'Han Yu', 'Zhiqi Shen', 'Chunyan Miao']",Intell. Data Anal.,2017
+4,j,Balancing quality and budget considerations in mobile crowdsourcing.,"['Chunyan Miao', 'Han Yu', 'Zhiqi Shen', 'Cyril Leung']",Decis. Support Syst.,2016
+5,j,Filtering trust opinions through reinforcement learning.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao', 'Bo An', 'Cyril Leung']",Decis. Support Syst.,2014
+6,j,"Comparing the learning effectiveness of BP, ELM, I-ELM, and SVM for corporate credit ratings.","['Haoming Zhong', 'Chunyan Miao', 'Zhiqi Shen', 'Yuhong Feng']",Neurocomputing,2014
+7,j,A Survey of Multi-Agent Trust Management Systems.,"['Han Yu', 'Zhiqi Shen', 'Cyril Leung', 'Chunyan Miao', 'Victor R. Lesser']",IEEE Access,2013
+8,j,Adaptive goal selection for agents in dynamic environments.,"['Huiliang Zhang', 'Xudong Luo', 'Chunyan Miao', 'Zhiqi Shen', 'Jin You']",Knowl. Inf. Syst.,2013
+9,j,Kemnad: a Knowledge Engineering Methodology for Negotiating Agent Development.,"['Xudong Luo', 'Chunyan Miao', 'Nicholas R. Jennings', 'Minghua He', 'Zhiqi Shen', 'Minjie Zhang']",Comput. Intell.,2012
+10,j,Learning-by-Teaching: Designing Teachable Agents with Intrinsic Motivation.,"['Guopeng Zhao', 'Ailiya', 'Zhiqi Shen']",J. Educ. Technol. Soc.,2012
+11,j,A probabilistic fuzzy approach to modeling nonlinear systems.,"['Hengjie Song', 'Chunyan Miao', 'Zhiqi Shen', 'Roel Wuyts', ""Maja D'Hondt"", 'Francky Catthoor']",Neurocomputing,2011
+12,j,An Extension to Fuzzy Cognitive Maps for Classification and Prediction.,"['Hengjie J. Song', 'Chunyan Miao', 'Roel Wuyts', 'Zhiqi Shen', ""Maja D'Hondt"", 'Francky Catthoor']",IEEE Trans. Fuzzy Syst.,2011
+13,j,Trust-based web service selection in virtual communities.,"['Zhiqi Shen', 'Han Yu', 'Chunyan Miao', 'Jianshu Weng']",Web Intell. Agent Syst.,2011
+14,j,Creating an Immersive Game World with Evolutionary Fuzzy Cognitive Maps.,"['Yundong Cai', 'Chunyan Miao', 'Ah-Hwee Tan', 'Zhiqi Shen', 'Boyang Li']",IEEE Computer Graphics and Applications,2010
+15,j,Resource Allocation in MU-OFDM Cognitive Radio Systems with Partial Channel State Information.,"['Dong Huang', 'Zhiqi Shen', 'Chunyan Miao', 'Cyril Leung']",EURASIP J. Wirel. Commun. Netw.,2010
+16,j,Resource Allocation in a Cognitive Radio System with Imperfect Channel State Estimation.,"['Tao Qin', 'Cyril Leung', 'Chunyan Miao', 'Zhiqi Shen']",J. Electr. Comput. Eng.,2010
+17,j,Design of fuzzy cognitive maps using neural networks for predicting chaotic time series.,"['Hengjie Song', 'Chunyan Miao', 'Zhiqi Shen', 'Roel Wuyts', ""Maja D'Hondt"", 'Francky Catthoor']",Neural Networks,2010
+18,j,A Survey of Trust and Reputation Management Systems in Wireless Communications.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao', 'Cyril Leung', 'Dusit Niyato']",Proc. IEEE,2010
+19,j,An Emotional Agent in Virtual Learning Environment.,"['Ailiya', 'Zhiqi Shen', 'Chunyan Miao']",Trans. Edutainment,2010
+20,j,Transformation of Cognitive Maps.,"['Yuan Miao', 'Chunyan Miao', 'Xuehong Tao', 'Zhiqi Shen', 'Zhi-Qiang Liu']",IEEE Trans. Fuzzy Syst.,2010
+21,j,Implementation of Fuzzy Cognitive Maps Based on Fuzzy Neural Network and Application in Prediction of Time Series.,"['Hengjie Song', 'Chunyan Miao', 'Roel Wuyts', 'Zhiqi Shen', 'Francky Catthoor']",IEEE Trans. Fuzzy Syst.,2010
+22,j,Credibility: How Agents Can Handle Unfair Third-Party Testimonies in Computational Trust Models.,"['Jianshu Weng', 'Zhiqi Shen', 'Chunyan Miao', 'Angela Eck Soong Goh', 'Cyril Leung']",IEEE Trans. Knowl. Data Eng.,2010
+23,j,A fuzzy neural network with fuzzy impact grades.,"['Hengjie Song', 'Chunyan Miao', 'Zhiqi Shen', 'Yuan Miao', 'Bu-Sung Lee']",Neurocomputing,2009
+24,j,Fitness landscape analysis for resource allocation in multiuser OFDM based cognitive radio systems.,"['Dong Huang', 'Zhiqi Shen', 'Chunyan Miao', 'Cyril Leung']",ACM SIGMOBILE Mob. Comput. Commun. Rev.,2009
+25,j,Towards a trust aware cognitive radio architecture.,"['Tao Qin', 'Han Yu', 'Cyril Leung', 'Zhiqi Shen', 'Chunyan Miao']",ACM SIGMOBILE Mob. Comput. Commun. Rev.,2009
+26,j,A goal-oriented development tool to automate the incorporation of intelligent agents into interactive digital media applications.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao']",Comput. Entertain.,2008
+27,j,Algorithms for Transitive Dependence-Based Coalition Formation.,"['Bo An', 'Zhiqi Shen', 'Chunyan Miao', 'Daijie Cheng']",IEEE Trans. Ind. Informatics,2007
+28,j,Goal-Oriented Methodology for Agent System Development.,"['Zhiqi Shen', 'Chunyan Miao', 'Robert K. L. Gay', 'Dongtao Li']",IEICE Trans. Inf. Syst.,2006
+29,j,Fuzzy cognitive maps for dynamic grid service negotiation.,"['Chunyan Miao', 'Jianshu Weng', 'Angela Goh', 'Zhiqi Shen', 'Bo An']",Multiagent Grid Syst.,2006
+30,j,"Simplification, Merging and Division of Fuzzy Cognitive Maps.","['Yuan Miao', 'Zhi-Qiang Liu', 'Xuehong Tao', 'Zhiqi Shen', 'Chun Wen Li']",Int. J. Comput. Intell. Appl.,2002
+31,c,SAER: Sentiment-Opinion Alignment Explainable Recommendation.,"['Xiaoning Zong', 'Yong Liu', 'Yonghui Xu', 'Yixin Zhang', 'Zhiqi Shen', 'Yonghua Yang', 'Lizhen Cui']",DASFAA (2),2022
+32,c,Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection.,"['Chang Liu', 'Han Yu', 'Boyang Li', 'Zhiqi Shen', 'Zhanning Gao', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",CVPR,2021
+33,c,Coaching Older Adults in Health Games: A Goal Oriented Modelling Approach.,"['Zhengxiang Pan', 'Yaming Zhang', 'Hao Zhang', 'Zhiqi Shen']",HCI (14),2021
+34,c,A Serious Mobile Game for Neurodegenerative Diseases Rehabilitation and Risk Estimation.,"['Huiguo Zhang', 'Yonghui Xu', 'Jun Lin', 'Weiming Li', 'Zhiqi Shen']",ICCSE,2021
+35,c,Diversity-Promoting Deep Reinforcement Learning for Interactive Recommendation.,"['Yong Liu', 'Zhiqi Shen', 'Yinan Zhang', 'Lizhen Cui']",ICCSE,2021
+36,c,Enhancing Viewing Experience of Generated Visual Storylines for Promotional Videos.,"['Chang Liu', 'Han Yu', 'Zhiqi Shen', 'Ian Dixon', 'Yingxue Yu', 'Zhanning Gao', 'Pan Wang', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",ICME,2021
+37,c,Goal Modelling for Deep Reinforcement Learning Agents.,"['Jonathan Leung', 'Zhiqi Shen', 'Zhiwei Zeng', 'Chunyan Miao']",ECML/PKDD (1),2021
+38,c,Generating Engaging Promotional Videos for E-commerce Platforms (Student Abstract).,"['Chang Liu', 'Han Yu', 'Yi Dong', 'Zhiqi Shen', 'Yingxue Yu', 'Ian Dixon', 'Zhanning Gao', 'Pan Wang', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",AAAI,2020
+39,c,Explainable and Contextual Preferences based Decision Making with Assumption-based Argumentation for Diagnostics and Prognostics of Alzheimer's Disease.,"['Zhiwei Zeng', 'Zhiqi Shen', 'Jing Jih Chin', 'Cyril Leung', 'Yu Wang', 'Ying Chi', 'Chunyan Miao']",AAMAS,2020
+40,c,An AI-empowered Visual Storyline Generator.,"['Chang Liu', 'Zhao Yong Lim', 'Han Yu', 'Zhiqi Shen', 'Ian Dixon', 'Zhanning Gao', 'Pan Wang', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",IJCAI,2020
+41,c,A Gamified Assessment Platform for Predicting the Risk of Dementia +Parkinson's disease (DPD) Co-Morbidity.,"['Zhiwei Zeng', 'Hongchao Jiang', 'Yanci Zhang', 'Zhiqi Shen', 'Jun Ji', 'Martin J. McKeown', 'Jing Jih Chin', 'Cyril Leung', 'Chunyan Miao']",IJCAI,2020
+42,c,Explainable and Argumentation-based Decision Making with Qualitative Preferences for Diagnostics and Prognostics of Alzheimer's Disease.,"['Zhiwei Zeng', 'Zhiqi Shen', 'Benny Toh Hsiang Tan', 'Jing Jih Chin', 'Cyril Leung', 'Yu Wang', 'Ying Chi', 'Chunyan Miao']",KR,2020
+43,c,Computing Argumentative Explanations in Bipolar Argumentation Frameworks.,"['Zhiwei Zeng', 'Chunyan Miao', 'Cyril Leung', 'Zhiqi Shen', 'Jing Jih Chin']",AAAI,2019
+44,c,Ethically Aligned Multi-agent Coordination to Enhance Social Welfare.,"['Han Yu', 'Zhiqi Shen', 'Lizhen Cui', 'Yongqing Zheng', 'Victor R. Lesser']",AAMAS,2019
+45,c,Towards Age-friendly Exergame Design: The Role of Familiarity.,"['Hao Zhang', 'Qiong Wu', 'Chunyan Miao', 'Zhiqi Shen', 'Cyril Leung']",CHI PLAY,2019
+46,c,Generating Persuasive Visual Storylines for Promotional Videos.,"['Chang Liu', 'Yi Dong', 'Han Yu', 'Zhiqi Shen', 'Zhanning Gao', 'Pan Wang', 'Changgong Zhang', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",CIKM,2019
+47,c,The Effect of Familiarity on Older Adults' Engagement in Exergames.,"['Hao Zhang', 'Chunyan Miao', 'Qiong Wu', 'Xuehong Tao', 'Zhiqi Shen']",HCI (28),2019
+48,c,Goal-Oriented Modelling for Virtual Assistants.,"['Jonathan Leung', 'Zhiqi Shen', 'Chunyan Miao']",ICA,2019
+49,c,Personalized Video Summarization with Idiom Adaptation.,"['Yi Dong', 'Chang Liu', 'Zhiqi Shen', 'Han Yu', 'Zhanning Gao', 'Pan Wang', 'Changgong Zhang', 'Peiran Ren', 'Xuansong Xie']",ACM Multimedia,2019
+50,c,Domain Specific and Idiom Adaptive Video Summarization.,"['Yi Dong', 'Chang Liu', 'Zhiqi Shen', 'Zhanning Gao', 'Pan Wang', 'Changgong Zhang', 'Peiran Ren', 'Xuansong Xie', 'Han Yu', 'Qingming Huang']",MMAsia,2019
+51,c,Usability Analysis of the Novel Functions to Assist the Senior Customers in Online Shopping.,"['Xinjia Yu', 'Lei Meng', 'Xiaohai Tian', 'Simon Fauvel', 'Bo Huang', 'Yunqing Guan', 'Zhiqi Shen', 'Chunyan Miao', 'Cyril Leung']",HCI (13),2018
+52,c,Pumpkin Garden: A Mobile Game Platform for Monitoring Parkinson's Disease Symptoms.,"['Siyuan Liu', 'Chunyan Miao', 'Martin J. McKeown', 'Jun Ji', 'Zhiqi Shen', 'Cyril Leung']",HCI (27),2018
+53,c,Blockchain and IoT based Food Traceability for Smart Agriculture.,"['Jun Lin', 'Zhiqi Shen', 'Anting Zhang', 'Yueting Chai']",ICCSE,2018
+54,c,Towards Long-term Tracking and Detection of Early Dementia: A Computerized Cognitive Test Battery with Gamification.,"['Zhiwei Zeng', 'Simon Fauvel', 'Benny Toh Hsiang Tan', 'Di Wang', 'Yang Qiu', 'Pamela Chew Oi Khuan', 'Cyril Leung', 'Zhiqi Shen', 'Jing Jih Chin']",ICCSE,2018
+55,c,Building Ethics into Artificial Intelligence.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao', 'Cyril Leung', 'Victor R. Lesser', 'Qiang Yang']",IJCAI,2018
+56,c,A Two-Stage Incremental Update Method for Fall Detection with Wearable Device.,"['Jianfei Shen', 'Yiqiang Chen', 'Zhiqi Shen', 'Siyuan Liu']",SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI,2018
+57,c,Novel Functional Technologies for Age-Friendly E-commerce.,"['Xiaohai Tian', 'Lei Meng', 'Siyuan Liu', 'Zhiqi Shen', 'Eng Siong Chng', 'Cyril Leung', 'Frank Guan', 'Chunyan Miao']",HCI (28),2017
+58,c,Using Blockchain Technology to Build Trust in Sharing LoRaWAN IoT.,"['Jun Lin', 'Zhiqi Shen', 'Chunyan Miao']",ICCSE,2017
+59,c,Compressing Trajectory for Trajectory Indexing.,"['Kaiyu Feng', 'Zhiqi Shen']",ICCSE,2017
+60,c,"Towards Age-friendly E-commerce Through Crowd-Improved Speech Recognition, Multimodal Search, and Personalized Speech Feedback.","['Lei Meng', 'Nguyen Quy Hy', 'Xiaohai Tian', 'Zhiqi Shen', 'Eng Siong Chng', 'Frank Yunqing Guan', 'Chunyan Miao', 'Cyril Leung']",ICCSE,2017
+61,c,Balanced Distribution Adaptation for Transfer Learning.,"['Jindong Wang', 'Yiqiang Chen', 'Shuji Hao', 'Wenjie Feng', 'Zhiqi Shen']",ICDM,2017
+62,c,Robust unobtrusive fall detection using infrared array sensors.,"['Xiuyi Fan', 'Huiguo Zhang', 'Cyril Leung', 'Zhiqi Shen']",MFI,2017
+63,c,Infusing Human Factors into Algorithmic Crowdsourcing.,"['Han Yu', 'Chunyan Miao', 'Zhiqi Shen', 'Jun Lin', 'Cyril Leung', 'Qiang Yang']",AAAI,2016
+64,c,Multi-Agent System Development MADE Easy.,"['Zhiqi Shen', 'Han Yu', 'Chunyan Miao', 'Siyao Li', 'Yiqiang Chen']",AAAI,2016
+65,c,Productive Aging through Intelligent Personalized Crowdsourcing.,"['Han Yu', 'Chunyan Miao', 'Siyuan Liu', 'Zhengxiang Pan', 'Nur Syahidah Bte Khalid', 'Zhiqi Shen', 'Cyril Leung']",AAAI,2016
+66,c,A Kinect-based Interactive Game to Improve the Cognitive Inhibition of the Elderly: (Demonstration).,"['Siyuan Liu', 'Zhiqi Shen', 'Han Yu', 'Han Lin', 'Zhengjin Guo', 'Zhengxiang Pan', 'Chunyan Miao', 'Cyril Leung']",AAMAS,2016
+67,c,An FCM-based Personalized Affective Model for Agile Software Development.,"['Wenjing He', 'Jun Lin', 'Xinjia Yu', 'Zhiqi Shen', 'Chunyan Miao']",SEKE,2016
+68,c,Heterogeneous Data Driven Manifold Regularization Model for Fingerprint Calibration Reduction.,"['Xinlong Jiang', 'Yiqiang Chen', 'Junfa Liu', 'Yang Gu', 'Lisha Hu', 'Zhiqi Shen']",UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld,2016
+69,c,Less Annotation on Personalized Activity Recognition Using Context Data.,"['Lisha Hu', 'Yiqiang Chen', 'Shuangquan Wang', 'Jindong Wang', 'Jianfei Shen', 'Xinlong Jiang', 'Zhiqi Shen']",UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld,2016
+70,c,Efficient Task Sub-Delegation for Crowdsourcing.,"['Han Yu', 'Chunyan Miao', 'Zhiqi Shen', 'Cyril Leung', 'Yiqiang Chen', 'Qiang Yang']",AAAI,2015
+71,c,Teachable Agents with Intrinsic Motivation.,"['Ailiya Borjigin', 'Chunyan Miao', 'Sufang Lim', 'Siyao Li', 'Zhiqi Shen']",AIED,2015
+72,c,Empirical Analysis of Reputation-aware Task Delegation by Humans from a Multi-agent Game.,"['Han Yu', 'Han Lin', 'Sufang Lim', 'Jun Lin', 'Zhiqi Shen', 'Chunyan Miao']",AAMAS,2015
+73,c,Quality and Budget Aware Task Allocation for Spatial Crowdsourcing.,"['Han Yu', 'Chunyan Miao', 'Zhiqi Shen', 'Cyril Leung']",AAMAS,2015
+74,c,An Affective Agent for Studying Composite Emotions.,"['Jun Lin', 'Han Yu', 'Chunyan Miao', 'Zhiqi Shen']",AAMAS,2015
+75,c,Skill Assessment Using Behavior Data in Virtual World.,"['Ailiya Borjigin', 'Chunyan Miao', 'Zhiqi Shen', 'Zhiwei Zeng']",EDM,2015
+76,c,Learning Personality Modeling for Regulating Learning Feedback.,"['Matthias Chan Yong Shun', 'Miao-Chun Yan', 'Zhiqi Shen', 'Bo An']",ICALT,2015
+77,c,An Evolutionary Framework for Multi-agent Organizations.,"['Boyang Li', 'Han Yu', 'Zhiqi Shen', 'Lizhen Cui', 'Victor R. Lesser']",WI-IAT (2),2015
+78,c,An Agent-Based Game Platform for Exercising People's Prospective Memory.,"['Han Lin', 'Jinghua Hou', 'Han Yu', 'Zhiqi Shen', 'Chunyan Miao']",WI-IAT (3),2015
+79,c,Active Aging in the Workplace and the Role of Intelligent Technologies.,"['Qizhen Yang', 'Zhiqi Shen']",WI-IAT (2),2015
+80,c,Reputation-aware task allocation for human trustees.,"['Han Yu', 'Chunyan Miao', 'Bo An', 'Zhiqi Shen', 'Cyril Leung']",AAMAS,2014
+81,c,A multi-agent game for studying human decision-making.,"['Han Yu', 'Xinjia Yu', 'Sufang Lim', 'Jun Lin', 'Zhiqi Shen', 'Chunyan Miao']",AAMAS,2014
+82,c,An agent-based game for the predictive diagnosis of parkinson's disease.,"['Yundong Cai', 'Zhiqi Shen', 'Siyuan Liu', 'Han Yu', 'Xiaogang Han', 'Jun Ji', 'Martin J. McKeown', 'Cyril Leung', 'Chunyan Miao']",AAMAS,2014
+83,c,Collaborative medical diagnosis through Fuzzy Petri Net based agent argumentation.,"['Xuehong Tao', 'Yuan Miao', 'Yanchun Zhang', 'Zhiqi Shen']",FUZZ-IEEE,2014
+84,c,A fuzzy logic based Parkinson's Disease risk predictor.,"['Siyuan Liu', 'Zhiqi Shen', 'Martin J. McKeown', 'Cyril Leung', 'Chunyan Miao']",FUZZ-IEEE,2014
+85,c,Persuasive Teachable Agent with Goal Net.,"['Sufang Lim', 'Ailiya', 'Chunyan Miao', 'Zhiqi Shen']",ICALT,2014
+86,c,Physiological parameter monitoring of drivers based on video data and independent vector analysis.,"['Zhenyu Guo', 'Z. Jane Wang', 'Zhiqi Shen']",ICASSP,2014
+87,c,Studying task allocation decisions of novice agile teams with data from agile project management tools.,"['Jun Lin', 'Han Yu', 'Zhiqi Shen', 'Chunyan Miao']",ASE,2014
+88,c,A Social Trust Model Considering Trustees' Influence.,"['Jian-Ping Mei', 'Han Yu', 'Yong Liu', 'Zhiqi Shen', 'Chunyan Miao']",PRIMA,2014
+89,c,Using goal net to model user stories in agile software development.,"['Jun Lin', 'Han Yu', 'Zhiqi Shen', 'Chunyan Miao']",SNPD,2014
+90,c,Bringing reputation-awareness into crowdsourcing.,"['Han Yu', 'Zhiqi Shen', 'Cyril Leung']",ICICS,2013
+91,c,The innovative application of learning companions in virtual singapura.,"['Qiong Wu', 'Xiaogang Han', 'Han Yu', 'Zhiqi Shen', 'Chunyan Miao']",AAMAS,2013
+92,c,A reputation-aware decision-making approach for improving the efficiency of crowdsourcing systems.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao', 'Bo An']",AAMAS,2013
+93,c,Internet of Things Based Data Driven Storytelling for Supporting Social Connections.,"['Qiong Wu', 'Zhiqi Shen', 'Cyril Leung', 'Huiguo Zhang', 'Ailiya', 'Yundong Cai', 'Chunyan Miao']",GreenCom/iThings/CPScom,2013
+94,c,From Internet of Things to Internet of Agents.,"['Han Yu', 'Zhiqi Shen', 'Cyril Leung']",GreenCom/iThings/CPScom,2013
+95,c,Persuasive Teachable Agent User Modeling.,"['Sufang Lim', 'Matthias Chan', 'Ailiya', 'Chunyan Miao', 'Zhiqi Shen']",ICALT,2013
+96,c,The Design of Persuasive Teachable Agent.,"['Sufang Lim', 'Ailiya', 'Chunyan Miao', 'Zhiqi Shen']",ICALT,2013
+97,c,A curious learning companion in Virtual Learning Environment.,"['Qiong Wu', 'Chunyan Miao', 'Zhiqi Shen']",FUZZ-IEEE,2012
+98,c,Challenges and Opportunities for Trust Management in Crowdsourcing.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao', 'Bo An']",IAT,2012
+99,c,"Towards an Integrated Design of Digital Library and Virtual Museum in the Heritage Preservation of the Chinese ""Qipao"".","['Yin Leng Theng', 'Lynette Ying Qin Goh', 'Natalie Lee-San Pang', 'Yundong Cai', 'Sufang Lim', 'Chunyan Miao', 'Zhiqi Shen', 'Gladys Sau-Mei Theng']",ICADL,2012
+100,c,Authoring Educational Games through Affective Teachable Agent.,"['Ailiya', 'Chunyan Miao', 'Zhiqi Shen']",ICALT,2012
+101,c,An Adaptive Witness Selection Method for Reputation-Based Trust Models.,"['Han Yu', 'Zhiqi Shen', 'Bo An']",PRIMA,2012
+102,c,Local Sensitive Frontier Analysis based facial expression recognition.,"['Chao Wang', 'Zhiqi Shen']",ICICS,2011
+103,c,Generating True Relevance Labels in Chinese Search Engine Using Clickthrough Data.,"['Hengjie Song', 'Chunyan Miao', 'Zhiqi Shen']",AAAI,2011
+104,c,Learning by Playing in Agent-Oriented Virtual Learning Environment.,"['Yundong Cai', 'Zhiqi Shen']",AEGS,2011
+105,c,A simple curious agent to help people be curious.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao', 'Ah-Hwee Tan']",AAMAS,2011
+106,c,Genetic algorithm aided optimization of hierarchical multiagent system organization.,"['Ling Yu', 'Zhiqi Shen', 'Chunyan Miao', 'Victor R. Lesser']",AAMAS,2011
+107,c,Train Fuzzy Cognitive Maps by gradient residual algorithm.,"['Huiliang Zhang', 'Zhiqi Shen', 'Chunyan Miao']",FUZZ-IEEE,2011
+108,c,Affective Teachable Agent in VLE: A Goal Oriented Approach.,"['Ailiya', 'Zhiqi Shen', 'Chunyan Miao']",ICALT,2011
+109,c,Agent-Oriented Methodology for Interactive Storytelling (AOMIS).,"['Yundong Cai', 'Zhiqi Shen', 'Chunyan Miao']",ICIDS,2011
+110,c,Slideshow: Gesture-aware PPT presentation.,"['Yiqiang Chen', 'Mingjie Liu', 'Junfa Liu', 'Zhiqi Shen', 'Wei Pan']",ICME,2011
+111,c,Agent-based simulation of economic sustainability in waste-to-material recovery.,"['Q. Z. Yang', 'Y. Z. Sheng', 'Zhiqi Shen']",IEEM,2011
+112,c,Cross-People Mobile-Phone Based Activity Recognition.,"['Zhongtang Zhao', 'Yiqiang Chen', 'Junfa Liu', 'Zhiqi Shen', 'Mingjie Liu']",IJCAI,2011
+113,c,Folksonomy-Based Ontological User Interest Profile Modeling and Its Application in Personalized Search.,"['Xiaogang Han', 'Zhiqi Shen', 'Chunyan Miao', 'Xudong Luo']",AMT,2010
+114,c,Predicting Responsiveness of BDI Agent.,"['Huiliang Zhang', 'Zhiqi Shen', 'Shell-Ying Huang', 'Chunyan Miao']",ECAI,2010
+115,c,An emotion aware agent platform for interactive storytelling and gaming.,"['Zhiqi Shen', 'Chunyan Miao', 'Liang Zhang', 'Han Yu', 'Mark J. Chavez']",Future Play,2010
+116,c,How Fast Can a BDI Agent Respond?,"['Huiliang Zhang', 'Chunyan Miao', 'Shell-Ying Huang', 'Zhiqi Shen', 'Xudong Luo']",IAT,2010
+117,c,Motivated Learning for Goal Selection in Goal Nets.,"['Huiliang Zhang', 'Zhiqi Shen', 'Chunyan Miao', 'Xudong Luo']",IAT,2010
+118,c,DIRACT: Agent-Based Interactive Storytelling.,"['Yundong Cai', 'Zhiqi Shen', 'Chunyan Miao', 'Ah-Hwee Tan']",IAT,2010
+119,c,Agents as intelligent user interfaces for the net generation.,"['Han Yu', 'Yundong Cai', 'Zhiqi Shen', 'Xuehong Tao', 'Chunyan Miao']",IUI,2010
+120,c,Optimization of Multiple Related Negotiation through Multi-Negotiation Network.,"['Fenghui Ren', 'Minjie Zhang', 'Chunyan Miao', 'Zhiqi Shen']",KSEM,2010
+121,c,Modeling Believable Virtual Characters with Evolutionary Fuzzy Cognitive Maps in Interactive Storytelling.,"['Yundong Cai', 'Chunyan Miao', 'Ah-Hwee Tan', 'Zhiqi Shen']",AAAI Spring Symposium: Intelligent Narrative Technologies II,2009
+122,c,Evolutionary organizational search.,"['Boyang Li', 'Han Yu', 'Zhiqi Shen', 'Chunyan Miao']",AAMAS (2),2009
+123,c,Emotional agent in serious game (DINO).,"['Huiliang Zhang', 'Zhiqi Shen', 'Xuehong Tao', 'Chunyan Miao', 'B. Li', 'Ailiya', 'Yundong Cai']",AAMAS (2),2009
+124,c,Enabling Goal Oriented Action Planning with Goal Net.,"['Huiliang Zhang', 'Zhiqi Shen', 'Chunyan Miao']",IAT,2009
+125,c,ELM-Based Intelligent Resource Selection for Grid Scheduling.,"['Guopeng Zhao', 'Zhiqi Shen', 'Chunyan Miao']",ICMLA,2009
+126,c,A Fast and Intelligent Resource Allocation Service for Service-Oriented Grid.,"['Guopeng Zhao', 'Zhiqi Shen', 'Chunyan Miao']",ICPADS,2009
+127,c,An Efficient Task Allocation Protocol for P2P Multi-agent Systems.,"['Dayong Ye', 'Quan Bai', 'Minjie Zhang', 'Khin Than Win', 'Zhiqi Shen']",ISPA,2009
+128,c,A Market-Based Multi-Issue Negotiation Model Considering Multiple Preferences in Dynamic E-Marketplaces.,"['Fenghui Ren', 'Minjie Zhang', 'Chunyan Miao', 'Zhiqi Shen']",PRIMA,2009
+129,c,Temporal fuzzy cognitive maps.,"['Haoming Zhong', 'Chunyan Miao', 'Zhiqi Shen', 'Yuhong Feng']",FUZZ-IEEE,2008
+130,c,Context modeling with Evolutionary Fuzzy Cognitive Map in interactive storytelling.,"['Yundong Cai', 'Chunyan Miao', 'Ah-Hwee Tan', 'Zhiqi Shen']",FUZZ-IEEE,2008
+131,c,Research into Learning in an Intelligent Agent Augmented Multi-user Virtual Environment.,"['Michael J. Jacobson', 'Chunyan Miao', 'Beaumie Kim', 'Zhiqi Shen', 'Mark J. Chavez']",Web Intelligence/IAT Workshops,2008
+132,c,ELM-Based Agents for Grid Resource Selection.,"['Guopeng Zhao', 'Zhiqi Shen', 'Ailiya', 'Chunyan Miao']",IAT,2008
+133,c,Transforming Learning through Agent Augmented Virtual World.,"['Han Yu', 'Zhiqi Shen', 'ChorPing Low', 'Chunyan Miao']",ICALT,2008
+134,c,Enhanced Extreme Learning Machine with stacked generalization.,"['Guopeng Zhao', 'Zhiqi Shen', 'Chunyan Miao', 'Robert K. L. Gay']",IJCNN,2008
+135,c,S-MADE: Interactive Storytelling Architecture through Goal Execution and Decomposition.,"['Yundong Cai', 'Zhiqi Shen', 'Chunyan Miao', 'Ah-Hwee Tan']",AAAI Fall Symposium: Intelligent Narrative Technologies,2007
+136,c,A Hybrid of Plot-Based and Character-Based Interactive Storytelling.,"['Yundong Cai', 'Chunyan Miao', 'Ah-Hwee Tan', 'Zhiqi Shen']",Edutainment,2007
+137,c,A service based multi-agent system design tool for modelling integrated manufacturing and service systems.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao', 'Jing Wen', 'Qizhen Yang']",ETFA,2007
+138,c,Fuzzy cognitive map learning based on multi-objectiveparticle swarm optimization.,"['Hengjie Song', 'Chunyan Miao', 'Zhiqi Shen']",GECCO,2007
+139,c,Intelligent Software Agent Design Tool Using Goal Net Methodology.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao']",IAT,2007
+140,c,Market Based Resource Allocation with Incomplete Information.,"['Bo An', 'Chunyan Miao', 'Zhiqi Shen']",IJCAI,2007
+141,c,The Multi-Agent Data Collection in HLA-Based Simulation System.,"['Hengjie Song', 'Zhiqi Shen', 'Chunyan Miao', 'Ah-Hwee Tan', 'Guopeng Zhao']",PADS,2007
+142,c,Fuzzy cognitive goal net for interactive storytelling plot design.,"['Yundong Cai', 'Chunyan Miao', 'Ah-Hwee Tan', 'Zhiqi Shen']",Advances in Computer Entertainment Technology,2006
+143,c,Trust-based agent community for collaborative recommendation.,"['Jianshu Weng', 'Chunyan Miao', 'Angela Goh', 'Zhiqi Shen', 'Robert K. L. Gay']",AAMAS,2006
+144,c,A Goal-oriented Approach to Goal Selection and Action Selection.,"['Zhiqi Shen', 'Chunyan Miao', 'Yuan Miao', 'Xuehong Tao', 'Robert K. L. Gay']",FUZZ-IEEE,2006
+145,c,Probabilistic Fuzzy Cognitive Map.,"['Hengjie Song', 'Zhiqi Shen', 'Chunyan Miao', 'Zhi-Qiang Liu', 'Yuan Miao']",FUZZ-IEEE,2006
+146,c,"The Equivalence of Cognitive Map, Fuzzy Cognitive Map and Multi Value Fuzzy Cognitive Map.","['Yuan Miao', 'Xuehong Tao', 'Zhiqi Shen', 'Zhi-Qiang Liu', 'Chunyan Miao']",FUZZ-IEEE,2006
+147,c,Interest Based Negotiation Automation.,"['Xuehong Tao', 'Yuan Miao', 'Zhiqi Shen', 'Chunyan Miao', 'Nicola Yelland']",ICIC (3),2006
+148,c,Transitive Dependence Based Formation of Virtual Organizations.,"['Bo An', 'Chunyan Miao', 'Zhiqi Shen', 'Yuan Miao', 'Daijie Cheng']",CIS (1),2005
+149,c,Goal Net Agent Framework for Web Service Integration.,"['Chong Sean Kuay', 'Zhiqi Shen', 'Robert K. L. Gay', 'Chunyan Miao']","Web Technologies, Applications, and Services",2005
+150,c,Goal-oriented Methodology for Agent System Development.,"['Zhiqi Shen', 'Dongtao Li', 'Chunyan Miao', 'Robert K. L. Gay', 'Yuan Miao']",IAT,2005
+151,c,Actionable Knowledge Model for GUI Regression Testing.,"['Zunliang Yin', 'Chunyan Miao', 'Zhiqi Shen', 'Yuan Miao']",IAT,2005
+152,c,A Goal Oriented e-Learning Agent System.,"['Dongtao Li', 'Zhiqi Shen', 'Yuan Miao', 'Chunyan Miao', 'Robert K. L. Gay']",KES (1),2005
+153,c,Agent mediated Grid services in E-learning.,"['Zhiqi Shen', 'Chunyan Miao', 'Angela Goh', 'Robert K. L. Gay']",CCGRID,2004
+154,c,Goal Autonomous Agent Architecture.,"['Zhiqi Shen', 'Robert K. L. Gay', 'Yuan Miao', 'Chunyan Miao']",COMPSAC Workshops,2004
+155,c,Goal Oriented Modeling for Intelligent Software Agents.,"['Zhiqi Shen', 'Chunyan Miao', 'Xuehong Tao', 'Robert K. L. Gay']",IAT,2004
+156,c,Goal oriented modeling for agent mediated e-learning grid.,"['Zhiqi Shen', 'Robert K. L. Gay', 'Chunyan Miao', 'Q. Wang']",ICARCV,2004
+157,c,Goal-Based Modeling for Intelligent Business Forecasting Agents.,"['Zhiqi Shen', 'Robert K. L. Gay', 'Chunyan Miao']",FSKD,2002
+158,c,A Framework for Multi-agent Reasoning and Coordination.,"['Chunyan Miao', 'Yuan Miao', 'Angela Goh', 'Zhiqi Shen']",Artificial Intelligence and Soft Computing,2000
+159,i,Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspective.,"['Yongwei Wang', 'Yong Liu', 'Zhiqi Shen']",CoRR,2022
+160,i,Noise-resistant Deep Metric Learning with Ranking-based Instance Selection.,"['Chang Liu', 'Han Yu', 'Boyang Li', 'Zhiqi Shen', 'Zhanning Gao', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",CoRR,2021
+161,i,Noise-Resistant Deep Metric Learning with Probabilistic Instance Filtering.,"['Chang Liu', 'Han Yu', 'Boyang Li', 'Zhiqi Shen', 'Zhanning Gao', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",CoRR,2021
+162,i,FOCUS: Dealing with Label Quality Disparity in Federated Learning.,"['Yiqiang Chen', 'Xiaodong Yang', 'Xin Qin', 'Han Yu', 'Biao Chen', 'Zhiqi Shen']",CoRR,2020
+163,i,Generating Persuasive Visual Storylines for Promotional Videos.,"['Chang Liu', 'Yi Dong', 'Han Yu', 'Zhiqi Shen', 'Zhanning Gao', 'Pan Wang', 'Changgong Zhang', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",CoRR,2019
+164,i,Balanced Distribution Adaptation for Transfer Learning.,"['Jindong Wang', 'Yiqiang Chen', 'Shuji Hao', 'Wenjie Feng', 'Zhiqi Shen']",CoRR,2018
+165,i,Building Ethics into Artificial Intelligence.,"['Han Yu', 'Zhiqi Shen', 'Chunyan Miao', 'Cyril Leung', 'Victor R. Lesser', 'Qiang Yang']",CoRR,2018
+166,i,Identifying Talented Software Engineering Students through Data-driven Skill Assessment.,"['Jun Lin', 'Han Yu', 'Zhiqi Shen']",CoRR,2014
+167,i,An Empirical Analysis of Task Allocation in Scrum-based Agile Programming.,"['Jun Lin', 'Han Yu', 'Zhiqi Shen']",CoRR,2014
+168,i,An Evolutionary Approach for Optimizing Hierarchical Multi-Agent System Organization.,"['Zhiqi Shen', 'Ling Yu', 'Han Yu']",CoRR,2014
+169,i,Designing Socially Intelligent Virtual Companions.,"['Han Yu', 'Zhiqi Shen', 'Qiong Wu', 'Chunyan Miao']",CoRR,2014
+170,p,Dealing with Label Quality Disparity in Federated Learning.,"['Yiqiang Chen', 'Xiaodong Yang', 'Xin Qin', 'Han Yu', 'Piu Chan', 'Zhiqi Shen']",Federated Learning,2020

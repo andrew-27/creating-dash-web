@@ -1,0 +1,120 @@
+,type,name,author,event,year
+0,j,Epidemic Source Detection in Contact Tracing Networks: Epidemic Centrality in Graphs and Message-Passing Algorithms.,"['Pei-Duo Yu', 'Chee Wei Tan', 'Hung-Lin Fu']",IEEE J. Sel. Top. Signal Process.,2022
+1,j,The Value of Cooperation: From AIMD to Flipped Classroom Teaching.,['Chee-Wei Tan'],SIGMETRICS Perform. Evaluation Rev.,2022
+2,j,Proving and Disproving Information Inequalities: Theory and Scalable Algorithms.,"['Siu-Wai Ho', 'Lin Ling', 'Chee Wei Tan', 'Raymond W. Yeung']",IEEE Trans. Inf. Theory,2020
+3,j,Economic Viability of a Virtual ISP.,"['Shengxin Liu', 'Carlee Joe-Wong', 'Jiasi Chen', 'Christopher G. Brinton', 'Chee-Wei Tan', 'Liang Zheng']",IEEE/ACM Trans. Netw.,2020
+4,j,Fundamental Limits on a Class of Secure Asymmetric Multilevel Diversity Coding Systems.,"['Congduan Li', 'Xuan Guang', 'Chee-Wei Tan', 'Raymond W. Yeung']",IEEE J. Sel. Areas Commun.,2018
+5,j,Averting Cascading Failures in Networked Infrastructures: Poset-Constrained Graph Algorithms.,"['Pei-Duo Yu', 'Chee-Wei Tan', 'Hung-Lin Fu']",IEEE J. Sel. Top. Signal Process.,2018
+6,j,Hierarchical Performance Analysis on Random Linear Network Coding.,"['Dan Li', 'Xuan Guang', 'Zhiheng Zhou', 'Congduan Li', 'Chee-Wei Tan']",IEEE Trans. Commun.,2018
+7,j,Max-Min Fairness Rate Control in Wireless Networks: Optimality and Algorithms by Perron-Frobenius Theory.,"['Liang Zheng', 'Desmond W. H. Cai', 'Chee-Wei Tan']",IEEE Trans. Mob. Comput.,2018
+8,j,Customized Data Plans for Mobile Users: Feasibility and Benefits of Data Trading.,"['Liang Zheng', 'Carlee Joe-Wong', 'Chee Wei Tan', 'Sangtae Ha', 'Mung Chiang']",IEEE J. Sel. Areas Commun.,2017
+9,j,Transmit Beamforming and Power Control for Optimizing the Outage Probability Fairness in MISO Networks.,"['Xiangping Bryce Zhai', 'Chee-Wei Tan', 'Yichao Huang', 'Bhaskar D. Rao']",IEEE Trans. Commun.,2017
+10,j,Wireless Max-Min Utility Fairness With General Monotonic Constraints by Perron-Frobenius Theory.,"['Liang Zheng', 'Y.-W. Peter Hong', 'Chee Wei Tan', 'Cheng-Lin Hsieh', 'Chia-Han Lee']",IEEE Trans. Inf. Theory,2016
+11,j,"Quantifying Political Leaning from Tweets, Retweets, and Retweeters.","['Felix Ming Fai Wong', 'Chee-Wei Tan', 'Soumya Sen', 'Mung Chiang']",IEEE Trans. Knowl. Data Eng.,2016
+12,j,Characterization and Optimization of Delay Guarantees for Real-Time Multimedia Traffic Flows in IEEE 802.11 WLANs.,"['Yan Gao', 'Chee-Wei Tan', 'Ying Huang', 'Zheng Zeng', 'P. R. Kumar']",IEEE Trans. Mob. Comput.,2016
+13,j,Optimal Power Control in Rayleigh-Fading Heterogeneous Wireless Networks.,['Chee Wei Tan'],IEEE/ACM Trans. Netw.,2016
+14,j,Wireless Network Optimization by Perron-Frobenius Theory.,['Chee Wei Tan'],Found. Trends Netw.,2015
+15,j,Beamforming Duality and Algorithms for Weighted Sum Rate Maximization in Cognitive Radio Networks.,"['I-Wei Lai', 'Liang Zheng', 'Chia-Han Lee', 'Chee Wei Tan']",IEEE J. Sel. Areas Commun.,2015
+16,j,Rooting our Rumor Sources in Online Social Networks: The Value of Diversity From Multiple Observations.,"['Zhaoxu Wang', 'Wenxiang Dong', 'Wenyi Zhang', 'Chee-Wei Tan']",IEEE J. Sel. Top. Signal Process.,2015
+17,j,Energy-Efficient Subcarrier Assignment and Power Allocation in OFDMA Systems With Max-Min Fairness Guarantees.,"['Yuzhou Li', 'Min Sheng', 'Chee Wei Tan', 'Yan Zhang', 'Yuhua Sun', 'Xijun Wang', 'Yan Shi', 'Jiandong Li']",IEEE Trans. Commun.,2015
+18,j,VANDER: Efficient Cooperative Watchdog Monitoring for Lossy Wireless Network Coding.,"['Xin Lou', 'Hongyi Yao', 'Chee-Wei Tan', 'Jianping Wang']",IEEE Trans. Veh. Technol.,2015
+19,j,IEEE ACCESS Special Section Editorial: Recent Advances in Cloud Radio Access Networks.,"['Mugen Peng', 'Chih-Lin I', 'Chee-Wei Tan', 'Chuan Huang']",IEEE Access,2014
+20,j,Energy-Infeasibility Tradeoff in Cognitive Radio Networks: Price-Driven Spectrum Access Algorithms.,"['Xiangping Bryce Zhai', 'Liang Zheng', 'Chee Wei Tan']",IEEE J. Sel. Areas Commun.,2014
+21,j,Maximizing Sum Rates in Cognitive Radio Networks: Convex Relaxation and Global Optimization Algorithms.,"['Liang Zheng', 'Chee Wei Tan']",IEEE J. Sel. Areas Commun.,2014
+22,j,Optimization Decomposition of Resistive Power Networks With Energy Storage.,"['Xin Lou', 'Chee Wei Tan']",IEEE J. Sel. Areas Commun.,2014
+23,j,Electric Vehicle Charging in Smart Grid: Optimality and Valley-Filling Algorithms.,"['Niangjun Chen', 'Chee Wei Tan', 'Tony Q. S. Quek']",IEEE J. Sel. Top. Signal Process.,2014
+24,j,Egalitarian fairness framework for joint rate and power optimization in wireless networks.,"['Liang Zheng', 'Chee-Wei Tan']",SIGMETRICS Perform. Evaluation Rev.,2014
+25,j,Optimal Algorithms in Wireless Utility Maximization: Proportional Fairness Decomposition and Nonlinear Perron-Frobenius Theory Framework.,"['Liang Zheng', 'Chee Wei Tan']",IEEE Trans. Wirel. Commun.,2014
+26,j,Cognitive Radio Network Duality and Algorithms for Utility Maximization.,"['Liang Zheng', 'Chee Wei Tan']",IEEE J. Sel. Areas Commun.,2013
+27,j,Pricing-Based Decentralized Spectrum Access Control in Cognitive Radio Networks.,"['Lei Yang', 'Hongseok Kim', 'Junshan Zhang', 'Mung Chiang', 'Chee Wei Tan']",IEEE/ACM Trans. Netw.,2013
+28,j,Fast Algorithms and Performance Bounds for Sum Rate Maximization in Wireless Networks.,"['Chee Wei Tan', 'Mung Chiang', 'R. Srikant']",IEEE/ACM Trans. Netw.,2013
+29,j,"Joint Beamforming and Power Control in Coordinated Multicell: Max-Min Duality, Effective Network and Large System Transition.","['Yichao Huang', 'Chee Wei Tan', 'Bhaskar D. Rao']",IEEE Trans. Wirel. Commun.,2013
+30,j,On the Maximum Achievable Sum-Rate With Successive Decoding in Interference Channels.,"['Yue Zhao', 'Chee Wei Tan', 'Amir Salman Avestimehr', 'Suhas N. Diggavi', 'Gregory J. Pottie']",IEEE Trans. Inf. Theory,2012
+31,j,"Power Control for Cognitive Radio Networks: Axioms, Algorithms, and Analysis.","['Siamak Sorooshyari', 'Chee Wei Tan', 'Mung Chiang']",IEEE/ACM Trans. Netw.,2012
+32,j,Max-Min SINR Coordinated Multipoint Downlink Transmission - Duality and Algorithms.,"['Desmond W. H. Cai', 'Tony Q. S. Quek', 'Chee Wei Tan', 'Steven H. Low']",IEEE Trans. Signal Process.,2012
+33,j,Spectrum Management in Multiuser Cognitive Wireless Networks: Optimality and Algorithm.,"['Chee Wei Tan', 'Shmuel Friedland', 'Steven H. Low']",IEEE J. Sel. Areas Commun.,2011
+34,j,Nonnegative Matrix Inequalities and their Application to Nonconvex Power Control Optimization.,"['Chee Wei Tan', 'Shmuel Friedland', 'Steven H. Low']",SIAM J. Matrix Anal. Appl.,2011
+35,j,Cost of Not Splitting in Routing: Characterization and Estimation.,"['Meng Wang', 'Chee Wei Tan', 'Weiyu Xu', 'Ao Tang']",IEEE/ACM Trans. Netw.,2011
+36,j,A Unified Analysis of Max-Min Weighted SINR for MIMO Downlink System.,"['Desmond W. H. Cai', 'Tony Q. S. Quek', 'Chee Wei Tan']",IEEE Trans. Signal Process.,2011
+37,j,"Maximizing Sum Rate and Minimizing MSE on Multiuser Downlink: Optimality, Fast Algorithms and Equivalence via Max-min SINR.","['Chee Wei Tan', 'Mung Chiang', 'R. Srikant']",IEEE Trans. Signal Process.,2011
+38,j,On Maximum-Likelihood SINR Estimation of MPSK in a Multiuser Fading Channel.,"['Siamak Sorooshyari', 'Chee Wei Tan', 'H. Vincent Poor']",IEEE Trans. Veh. Technol.,2010
+39,j,Multiuser detection of alamouti signals.,"['Chee Wei Tan', 'A. Robert Calderbank']",IEEE Trans. Commun.,2009
+40,j,Energy-robustness tradeoff in cellular network power control.,"['Chee-Wei Tan', 'Daniel Pérez Palomar', 'Mung Chiang']",IEEE/ACM Trans. Netw.,2009
+41,j,Power Control in Wireless Cellular Networks.,"['Mung Chiang', 'Prashanth Hande', 'Tian Lan', 'Chee-Wei Tan']",Found. Trends Netw.,2007
+42,j,A Distributed Throttling Approach for Handling High Bandwidth Aggregates.,"['Chee-Wei Tan', 'Dah-Ming Chiu', 'John C. S. Lui', 'David K. Y. Yau']",IEEE Trans. Parallel Distributed Syst.,2007
+43,j,Power Control By Geometric Programming.,"['Mung Chiang', 'Chee-Wei Tan', 'Daniel Pérez Palomar', ""Daniel O'Neill"", 'David Julian']",IEEE Trans. Wirel. Commun.,2007
+44,j,Achieving Multi-Class Service Differentiation in WDM Optical Burst Switching Networks: A Probabilistic Preemptive Burst Segmentation Scheme.,"['Chee-Wei Tan', 'Gurusamy Mohan', 'John C. S. Lui']",IEEE J. Sel. Areas Commun.,2006
+45,c,Identifying the Superspreader in Proactive Backward Contact Tracing by Deep Learning.,"['Siya Chen', 'Pei-Duo Yu', 'Chee-Wei Tan', 'H. Vincent Poor']",CISS,2022
+46,c,Fast Breadth-First Search Approximation for Epidemic Source Inference.,"['Congduan Li', 'Siya Chen', 'Chee-Wei Tan']",CISS,2022
+47,c,A Chatbot-Server Framework for Scalable Machine Learning Education through Crowdsourced Data.,"['Jingting Li', 'Chee-Wei Tan', 'Ching Nam Hang', 'Xintong Qi']",L@S,2022
+48,c,Fault-Tolerant Computation Meets Network Coding: Optimal Scheduling in Parallel Computing.,"['Congduan Li', 'Chee-Wei Tan', 'Jingting Li', 'Siya Chen']",GLOBECOM,2021
+49,c,Blending Peer Instruction with Just-In-Time Teaching: Jointly Optimal Task Scheduling with Feedback for Classroom Flipping.,"['Jingting Li', 'Lin Ling', 'Chee-Wei Tan']",L@S,2021
+50,c,Peer-Grading at Scale with Rank Aggregation.,"['Lin Ling', 'Chee Wei Tan']",L@S,2021
+51,c,Jointly Optimal Fair Data Collection and Trajectory Design Algorithms in UAV-Aided Cellular Networks.,"['Dan Song', 'Xiangping Bryce Zhai', 'Xin Liu', 'Chee-Wei Tan']",WCNC,2021
+52,c,"Automated Reasoning by Convex Optimization: Proof Simplicity, Duality and Sparsity.","['Chee-Wei Tan', 'Lin Ling']",CISS,2020
+53,c,Scalable Automated Proving of Information Theoretic Inequalities with Proximal Algorithms.,"['Lin Ling', 'Chee-Wei Tan', 'Siu-Wai Ho', 'Raymond W. Yeung']",ISIT,2019
+54,c,Graph algorithms for preventing cascading failures in networks.,"['Pei-Duo Yu', 'Chee-Wei Tan', 'Hung-Lin Fu']",CISS,2018
+55,c,Parallel Counting of Triangles in Large Graphs: Pruning and Hierarchical Clustering Algorithms.,"['Chun-Yen Kuo', 'Ching Nam Hang', 'Pei-Duo Yu', 'Chee-Wei Tan']",HPEC,2018
+56,c,Human-Assisted Computation for Auto-Grading.,"['Lin Ling', 'Chee-Wei Tan']",ICDM Workshops,2018
+57,c,Pilot study on optimal task scheduling in learning.,"['Lin Ling', 'Chee Wei Tan']",L@S,2018
+58,c,Rumor Source Detection in Finite Graphs with Boundary Effects by Message-passing Algorithms.,"['Pei-Duo Yu', 'Chee Wei Tan', 'Hung-Lin Fu']",ASONAM,2017
+59,c,Rate-Constrained Energy Minimization in Networks with Multiple Mobile Network Operator Access.,"['Xiangping Bryce Zhai', 'Chee-Wei Tan']",GLOBECOM,2017
+60,c,Economic viability of a virtual ISP.,"['Liang Zheng', 'Carlee Joe-Wong', 'Jiasi Chen', 'Christopher G. Brinton', 'Chee Wei Tan', 'Mung Chiang']",INFOCOM,2017
+61,c,On secure asymmetric multilevel diversity coding systems.,"['Congduan Li', 'Xuan Guang', 'Chee Wei Tan', 'Raymond W. Yeung']",ISIT,2017
+62,c,Rumor source detection in unicyclic graphs.,"['Pei-Duo Yu', 'Chee-Wei Tan', 'Hung-Lin Fu']",ITW,2017
+63,c,On independent distributed source coding problems with exact repair.,"['Congduan Li', 'Fangwei Ye', 'Xuan Guang', 'Zhiheng Zhou', 'Chee-Wei Tan', 'Raymond W. Yeung']",ITW,2017
+64,c,An economic analysis of wireless network infrastructure sharing.,"['Liang Zheng', 'Jiasi Chen', 'Carlee Joe-Wong', 'Chee-Wei Tan', 'Mung Chiang']",WiOpt,2017
+65,c,Optimal detection of influential spreaders in online social networks.,"['Chee Wei Tan', 'Pei-Duo Yu', 'Chun-Kiu Lai', 'Wenyi Zhang', 'Hung-Lin Fu']",CISS,2016
+66,c,Network utility maximization with path cardinality constraints.,"['Yingjie Bi', 'Chee Wei Tan', 'Ao Tang']",INFOCOM,2016
+67,c,On the Viability of a Cloud Virtual Service Provider.,"['Liang Zheng', 'Carlee Joe-Wong', 'Christopher G. Brinton', 'Chee-Wei Tan', 'Sangtae Ha', 'Mung Chiang']",SIGMETRICS,2016
+68,c,On inferring rumor source for SIS model under multiple observations.,"['Zhaoxu Wang', 'Wenyi Zhang', 'Chee-Wei Tan']",DSP,2015
+69,c,A probabilistic characterization of the rumor graph boundary in rumor source detection.,"['Liang Zheng', 'Chee Wei Tan']",DSP,2015
+70,c,Secondary markets for mobile data: Feasibility and benefits of traded data plans.,"['Liang Zheng', 'Carlee Joe-Wong', 'Chee Wei Tan', 'Sangtae Ha', 'Mung Chiang']",INFOCOM,2015
+71,c,How to Bid the Cloud.,"['Liang Zheng', 'Carlee Joe-Wong', 'Chee-Wei Tan', 'Mung Chiang', 'Xinyu Wang']",SIGCOMM,2015
+72,c,Wireless network optimization by Perron-Frobenius theory.,['Chee Wei Tan'],CISS,2014
+73,c,Finding the capacity of next-generation networks by linear programming.,"['Chee-Wei Tan', 'Siu-Wai Ho', 'Shan Lint', 'Raymond W. Yeung']",ICCS,2014
+74,c,Smart spectrum access algorithms in mobile TV white space networks for utility maximization.,"['Liang Zheng', 'Chee Wei Tan']",INFOCOM Workshops,2014
+75,c,A unified framework for wireless max-min utility optimization with general monotonic constraints.,"['Yao-Win Peter Hong', 'Chee Wei Tan', 'Liang Zheng', 'Cheng-Lin Hsieh', 'Chia-Han Lee']",INFOCOM,2014
+76,c,Proving and disproving information inequalities.,"['Siu-Wai Ho', 'Chee Wei Tan', 'Raymond W. Yeung']",ISIT,2014
+77,c,Smart spectrum access algorithms in mobile TV white space networks for utility maximization.,"['Liang Zheng', 'Chee-Wei Tan']",S3@MobiCom,2014
+78,c,Secrecy capacity scaling of large-scale cognitive networks.,"['Yitao Chen', 'Jinbei Zhang', 'Xinbing Wang', 'Xiaohua Tian', 'Weijie Wu', 'Fan Wu', 'Chee Wei Tan']",MobiHoc,2014
+79,c,Rumor source detection with multiple observations: fundamental limits and algorithms.,"['Zhaoxu Wang', 'Wenxiang Dong', 'Wenyi Zhang', 'Chee Wei Tan']",SIGMETRICS,2014
+80,c,Efficient SINR fairness algorithm for large distributed multiple-antenna networks.,"['Yichao Huang', 'Chee Wei Tan', 'Bhaskar D. Rao']",ICASSP,2013
+81,c,Quantifying Political Leaning from Tweets and Retweets.,"['Felix Ming Fai Wong', 'Chee Wei Tan', 'Soumya Sen', 'Mung Chiang']",ICWSM,2013
+82,c,Rooting out the rumor culprit from suspects.,"['Wenxiang Dong', 'Wenyi Zhang', 'Chee Wei Tan']",ISIT,2013
+83,c,Convex relaxation and decomposition in large resistive power networks with energy storage.,"['Xin Lou', 'Chee Wei Tan']",SmartGridComm,2013
+84,c,Optimization algorithms for epidemic evolution in broadcast networks.,"['Xiangping Bryce Zhai', 'Liang Zheng', 'Jianping Wang', 'Chee Wei Tan']",WCNC,2013
+85,c,Convex relaxation algorithms for energy-infeasibility tradeoff in cognitive radio networks.,"['Xiangping Bryce Zhai', 'Liang Zheng', 'Chee Wei Tan']",WiOpt,2013
+86,c,Optimal fixed-point algorithms for service differentiation in wireless networks.,"['Liang Zheng', 'Chee Wei Tan']",WiOpt,2013
+87,c,Asymptotic analysis of max-min weighted SINR in multiuser downlink.,"['Yichao Huang', 'Chee Wei Tan', 'Bhaskar D. Rao']",CISS,2012
+88,c,Multicell network duality with instantaneous and statistical channel information: A nonlinear Perron-Frobenius characterization.,"['Yichao Huang', 'Chee Wei Tan', 'Bhaskar D. Rao']",CISS,2012
+89,c,Outage balancing in multiuser MISO networks: Network duality and algorithms.,"['Yichao Huang', 'Chee Wei Tan', 'Bhaskar D. Rao']",GLOBECOM,2012
+90,c,Cooperative beamforming in multiuser MIMO networks: Fast SINR fairness algorithms.,"['Yichao Huang', 'Chee Wei Tan', 'Bhaskar D. Rao']",GLOBECOM,2012
+91,c,Optimal max-min fairness rate control in wireless networks: Perron-Frobenius characterization and algorithms.,"['Desmond W. H. Cai', 'Chee Wei Tan', 'Steven H. Low']",INFOCOM,2012
+92,c,Large system analysis of power minimization in multiuser MISO downlink with transmit-side channel correlation.,"['Yichao Huang', 'Chee Wei Tan', 'Bhaskar D. Rao']",ISITA,2012
+93,c,Optimal charging of electric vehicles in smart grid: Characterization and valley-filling algorithms.,"['Niangjun Chen', 'Tony Q. S. Quek', 'Chee Wei Tan']",SmartGridComm,2012
+94,c,DC optimal power flow: Uniqueness and algorithms.,"['Chee Wei Tan', 'Desmond W. H. Cai', 'Xin Lou']",SmartGridComm,2012
+95,c,Coordinated Max-Min SIR Optimization in Multicell Downlink - Duality and Algorithm.,"['Desmond W. H. Cai', 'Tony Q. S. Quek', 'Chee Wei Tan']",ICC,2011
+96,c,Pricing-based spectrum access control in cognitive radio networks with random access.,"['Lei Yang', 'Hongseok Kim', 'Junshan Zhang', 'Mung Chiang', 'Chee-Wei Tan']",INFOCOM,2011
+97,c,Optimal power control in Rayleigh-fading heterogeneous networks.,['Chee Wei Tan'],INFOCOM,2011
+98,c,Feasibility and optimization of delay guarantees for non-homogeneous flows in IEEE 802.11 WLANs.,"['Yan Gao', 'Chee Wei Tan', 'Ying Huang', 'Zheng Zeng', 'P. R. Kumar']",INFOCOM,2011
+99,c,On the sum-capacity with successive decoding in interference channels.,"['Yue Zhao', 'Chee Wei Tan', 'Amir Salman Avestimehr', 'Suhas N. Diggavi', 'Gregory J. Pottie']",ISIT,2011
+100,c,Max-min weighted SINR in coordinated multicell MIMO downlink.,"['Desmond W. H. Cai', 'Tony Q. S. Quek', 'Chee Wei Tan', 'Steven H. Low']",WiOpt,2011
+101,c,Max-min weighted SIR for MIMO downlink system: Optimality and algorithms.,"['Desmond W. H. Cai', 'Tony Q. S. Quek', 'Chee Wei Tan']",ISIT,2010
+102,c,How Bad is Single-Path Routing.,"['Meng Wang', 'Chee Wei Tan', 'Ao Tang', 'Steven H. Low']",GLOBECOM,2009
+103,c,Fast Algorithms and Performance Bounds for Sum Rate Maximization in Wireless Networks.,"['Chee-Wei Tan', 'Mung Chiang', 'R. Srikant']",INFOCOM,2009
+104,c,"Maximizing sum rate and minimizing MSE on multiuser downlink: Optimality, fast algorithms and equivalence via max-min SIR.","['Chee Wei Tan', 'Mung Chiang', 'R. Srikant']",ISIT,2009
+105,c,Optimality certificate of dynamic spectrum management in multi-carrier interference channels.,"['Paschalis Tsiaflakis', 'Chee Wei Tan', 'Yung Yi', 'Mung Chiang', 'Marc Moonen']",ISIT,2008
+106,c,Fast Coper for Broadband Access: An Overview.,"['Mung Chiang', 'Jianwei Huang', 'Dahai Xu', 'Yung Yi', 'Chee Wei Tan', 'Raphael Cendrillon']",ICASSP (4),2007
+107,c,Statistical Multiplexing Over DSL Networks.,"['Jianwei Huang', 'Chee-Wei Tan', 'Mung Chiang', 'Raphael Cendrillon']",INFOCOM,2007
+108,c,Exploiting Hidden Convexity For Flexible And Robust Resource Allocation In Cellular Networks.,"['Chee-Wei Tan', 'Daniel Pérez Palomar', 'Mung Chiang']",INFOCOM,2007
+109,c,Distributed Optimization of Coupled Systems With Applications to Network Utility Maximization.,"['Chee Wei Tan', 'Daniel P. Palomar', 'Mung Chiang']",ICASSP (5),2006
+110,c,Handling High-Bandwidth Traffic Aggregates by Receiver-Driven Feedback Control.,"['Chee-Wei Tan', 'Dah-Ming Chiu', 'John C. S. Lui', 'David K. Y. Yau']",COMPSAC (2),2005
+111,c,Solving nonconvex power control problems in wireless networks: low SIR regime and distributed algorithms.,"['Chee Wei Tan', 'Daniel P. Palomar', 'Mung Chiang']",GLOBECOM,2005
+112,c,Achieving proportional loss differentiation using probabilistic preemptive burst segmentation in optical burst switching WDM networks.,"['Chee-Wei Tan', 'Mohan Gurusamy', 'John Chi-Shing Lui']",GLOBECOM,2004
+113,i,Epidemic Source Detection in Contact Tracing Networks: Epidemic Centrality in Graphs and Message-Passing Algorithms.,"['Pei-Duo Yu', 'Chee-Wei Tan', 'Hung-Lin Fu']",CoRR,2022
+114,i,An Overview of Healthcare Data Analytics With Applications to the COVID-19 Pandemic.,"['Zhe Fei', 'Yevgen Ryeznik', 'Oleksandr Sverdlov', 'Chee-Wei Tan', 'Weng Kee Wong']",CoRR,2021
+115,i,Rooting out the Rumor Culprit from Suspects.,"['Wenxiang Dong', 'Wenyi Zhang', 'Chee Wei Tan']",CoRR,2013
+116,i,"Joint Beamforming and Power Control in Coordinated Multicell: Max-Min Duality, Effective Network and Large System Transition.","['Yichao Huang', 'Chee Wei Tan', 'Bhaskar D. Rao']",CoRR,2013
+117,i,On the Sum-Capacity with Successive Decoding in Interference Channels.,"['Yue Zhao', 'Chee Wei Tan', 'Amir Salman Avestimehr', 'Suhas N. Diggavi', 'Gregory J. Pottie']",CoRR,2011
+118,p,Rumor Source Detection in Finite Graphs with Boundary Effects by Message-Passing Algorithms.,"['Pei-Duo Yu', 'Chee-Wei Tan', 'Hung-Lin Fu']",Influence and Behavior Analysis in Social Networks and Social Media,2019

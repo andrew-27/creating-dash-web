@@ -1,0 +1,48 @@
+,type,name,author,event,year
+0,j,MTSS - A Marine Traffic Simulation System and Scenario Studies for a Major Hub Port.,"['Shell-Ying Huang', 'Wen Jing Hsu', 'Hui Fang', 'Tiancheng Song']",ACM Trans. Model. Comput. Simul.,2016
+1,j,Dynamic Space and Time Partitioning for Yard Crane Workload Management in Container Terminals.,"['Xi Guo', 'Shell-Ying Huang']",Transp. Sci.,2012
+2,j,Dynamic yard crane dispatching in container terminals with predicted vehicle arrival information.,"['Xi Guo', 'Shell-Ying Huang', 'Wen-Jing Hsu', 'Malcolm Yoke Hean Low']",Adv. Eng. Informatics,2011
+3,j,Activity scheduling for a robotic caretaker agent for the elderly.,"['Shell-Ying Huang', 'Huiliang Zhang']",Int. J. Intell. Inf. Database Syst.,2011
+4,j,Improving Safety and Stability of Large Containerships in Automated Stowage Planning.,"['Malcolm Yoke Hean Low', 'Min Zeng', 'Wen-Jing Hsu', 'Shell-Ying Huang', 'Fan Liu', 'Cho Aye Win']",IEEE Syst. J.,2011
+5,j,Capacity analysis of container terminals using simulation techniques.,"['Shell-Ying Huang', 'Wen-Jing Hsu', 'Chuanyu Chen', 'Rong Ye', 'Stuti Nautiyal']",Int. J. Comput. Appl. Technol.,2008
+6,j,A general framework for parallel BDI agents in dynamic environments.,"['Huiliang Zhang', 'Shell-Ying Huang']",Web Intell. Agent Syst.,2008
+7,j,Travel time analysis of a new automated storage and retrieval system.,"['Yahong Hu', 'Shell-Ying Huang', 'Chuanyu Chen', 'Wen-Jing Hsu', 'Ah Cheong Toh', 'Chee Kit Loh', 'Tiancheng Song']",Comput. Oper. Res.,2005
+8,j,The Development of Conservative Superstep Protocols for Shared Memory Multiprocessor Systems.,"['Boon-Ping Gan', 'Yoke-Hean Low', 'Wentong Cai', 'Stephen John Turner', 'Sanjay Jain', 'Wen-Jing Hsu', 'Shell-Ying Huang']",Scalable Comput. Pract. Exp.,2001
+9,j,Survey of Languages and Runtime Libraries for Parallel Discrete-Event Simulation.,"['Yoke-Hean Low', 'Chu-Cheow Lim', 'Wentong Cai', 'Shell-Ying Huang', 'Wen-Jing Hsu', 'Sanjay Jain', 'Stephen John Turner']",Simul.,1999
+10,j,A Data Compression Scheme for Chinese Text Files Using Huffman Coding and a Two-Level Dictionary.,"['Ghim Hwee Ong', 'Shell-Ying Huang']",Inf. Sci.,1995
+11,c,A marine traffic simulation system for hub ports.,"['Shell-Ying Huang', 'Wen Jing Hsu', 'Hui Fang', 'Tiancheng Song']",SIGSIM-PADS,2013
+12,c,Reducing simulation costs of embedded simulation in yard crane dispatching in container terminals.,"['Shell-Ying Huang', 'Xi Guo']",SIGSIM-PADS,2013
+13,c,Embedding simulation in yard crane dispatching to minimize job tardiness in container terminals.,"['Shell-Ying Huang', 'Xi Guo', 'Wen Jing Hsu', 'Wei Lin Lim']",WSC,2012
+14,c,An improved Least Cost Heuristic for dynamic yard crane deployment in container terminals.,"['Shell-Ying Huang', 'Xi Guo']",CASE,2011
+15,c,Motivation Based Goal Adoption for Autonomous Intelligent Agents.,"['Umair Rafique', 'Shell-Ying Huang', 'Chunyan Miao']",IAT,2011
+16,c,A Three-Level Hierarchical Workload Management Scheme for Yard Cranes in Container Terminals.,"['Shell-Ying Huang', 'Xi Guo', 'Mei Mei Lau']",ICCL,2011
+17,c,Randomized Algorithm with Tabu Search for Multi-Objective Optimization of Large Containership Stowage Plans.,"['Fan Liu', 'Malcolm Yoke Hean Low', 'Wen-Jing Hsu', 'Shell-Ying Huang', 'Min Zeng', 'Cho Aye Win']",ICCL,2011
+18,c,Predicting Responsiveness of BDI Agent.,"['Huiliang Zhang', 'Zhiqi Shen', 'Shell-Ying Huang', 'Chunyan Miao']",ECAI,2010
+19,c,How Fast Can a BDI Agent Respond?,"['Huiliang Zhang', 'Chunyan Miao', 'Shell-Ying Huang', 'Zhiqi Shen', 'Xudong Luo']",IAT,2010
+20,c,Preference Generation for Autonomous Agents.,"['Umair Rafique', 'Shell-Ying Huang']",MATES,2010
+21,c,A two stage yard crane workload partitioning and job sequencing algorithm for container terminals.,"['Xi Guo', 'Shell-Ying Huang']",SAC,2010
+22,c,Automated stowage planning for large containerships with improved safety and stability.,"['Min Zeng', 'Malcolm Yoke Hean Low', 'Wen-Jing Hsu', 'Shell-Ying Huang', 'Fan Liu', 'Cho Aye Win']",WSC,2010
+23,c,A New Action Description Scheme for Informal Reasoning.,"['Umair Rafique', 'Shell-Ying Huang']",IC-AI,2009
+24,c,Simulation-based dynamic partitioning of yard crane workload for container terminal operations.,"['Xi Guo', 'Shell-Ying Huang', 'Wen-Jing Hsu', 'Malcolm Yoke Hean Low']",SpringSim,2009
+25,c,A Simulation based Hybrid Algorithm for Yard Crane Dispatching in Container Terminals.,"['Xi Guo', 'Shell-Ying Huang', 'Wen-Jing Hsu', 'Malcolm Yoke Hean Low']",WSC,2009
+26,c,Performing A* Search for Yard Crane Dispatching in Container Terminals.,"['Xi Guo', 'Shell-Ying Huang']",ICTAI (1),2008
+27,c,An Agent's Activities Are Controlled by His Priorities.,"['Huiliang Zhang', 'Shell-Ying Huang', 'Yuming Chang']",KES-AMSTA,2008
+28,c,Yard crane dispatching based on real time data driven simulation for container terminals.,"['Xi Guo', 'Shell-Ying Huang', 'Wen-Jing Hsu', 'Malcolm Yoke Hean Low']",WSC,2008
+29,c,SMART: Structured Memory for Abstract Reasoning and Thinking.,"['Umair Rafique', 'Shell-Ying Huang']",Australian Conference on Artificial Intelligence,2007
+30,c,Are Parallel BDI Agents Really Better?,"['Huiliang Zhang', 'Shell-Ying Huang']",ECAI,2006
+31,c,Dynamic Control of Intention Priorities of Human-Like Agents.,"['Huiliang Zhang', 'Shell-Ying Huang']",ECAI,2006
+32,c,A General Framework for Parallel BDI Agents.,"['Huiliang Zhang', 'Shell-Ying Huang']",IAT,2006
+33,c,New Cost Function for Multi-Robot Exploration.,"['Ardian Kristanto Poernomo', 'Shell-Ying Huang']",ICARCV,2006
+34,c,A Generic Symbiotic Simulation Framework.,"['Shell-Ying Huang', 'Wentong Cai', 'Stephen John Turner', 'Wen-Jing Hsu', 'Suiping Zhou', 'Malcolm Yoke Hean Low', 'Richard Fujimoto', 'Rassul Ayani']",PADS,2006
+35,c,A Parallel BDI Agent Architecture.,"['Huiliang Zhang', 'Shell-Ying Huang']",IAT,2005
+36,c,Performance of New Broadcast Forwarding Criteria in MANET.,"['Lijuan Zhu', 'Bu-Sung Lee', 'Boon-Chong Seet', 'Kai Juan Wong', 'Genping Liu', 'Shell-Ying Huang', 'Keok-Kee Lee']",ICOIN,2004
+37,c,Travel time analysis of a new Automated Storage and Retrieval System.,"['Yahong Hu', 'Shell-Ying Huang', 'Chuanyu Chen', 'Wen-Jing Hsu', 'Ah Cheong Toh', 'Chee Kit Loh']",ETFA (1),2003
+38,c,Platform-Based AS/RS for Container Storage.,"['Chuanyu Chen', 'Shell-Ying Huang', 'Wen-Jing Hsu', 'Ah Cheong Toh', 'Chee Kit Loh']",ICRA,2003
+39,c,The Model of Virtual Dynamic Personal Cluster (VDPC).,"['Kai Hu', 'Shell-Ying Huang']",PDPTA,2003
+40,c,Load balancing for conservative simulation on shared memory multiprocessor systems.,"['Boon-Ping Gan', 'Yoke-Hean Low', 'Sanjay Jain', 'Stephen John Turner', 'Wentong Cai', 'Wen-Jing Hsu', 'Shell-Ying Huang']",PADS,2000
+41,c,Performance Prediction Tools for Parallel Discrete-Event Simulation.,"['Chu-Cheow Lim', 'Yoke-Hean Low', 'Boon-Ping Gan', 'Sanjay Jain', 'Wentong Cai', 'Wen-Jing Hsu', 'Shell-Ying Huang']",Workshop on Parallel and Distributed Simulation,1999
+42,c,An Empirical Comparison of Runtime Systems for Conservative Parallel Simulation.,"['Chu-Cheow Lim', 'Yoke-Hean Low', 'Wentong Cai', 'Wen-Jing Hsu', 'Shell-Ying Huang', 'Stephen John Turner']",IPPS/SPDP Workshops,1998
+43,c,A Methodology for Automating the Parallelization of Manufacturing Simulations.,"['Stephen John Turner', 'Wentong Cai', 'Chu-Cheow Lim', 'Yoke-Hean Low', 'Wen-Jing Hsu', 'Shell-Ying Huang']",Workshop on Parallel and Distributed Simulation,1998
+44,c,Decentralized routing algorithms for automated guided vehicles.,"['Jeffrey T. L. Soh', 'Wen-Jing Hsu', 'Shell-Ying Huang', 'Adrian C. Y. Ong']",SAC,1996
+45,c,An Implementation of Static Functional Process Networks.,"['Stuart Cox', 'Shell-Ying Huang', 'Paul Kelly', 'Junxian Liu', 'Frank Taylor']",PARLE,1992
+46,c,Program Transformations for Static Process Networks.,"['Stuart Cox', 'Shell-Ying Huang', 'Paul Kelly', 'Junxian Liu', 'Frank Taylor']",SIGPLAN Workshop,1992

@@ -1,0 +1,357 @@
+,type,name,author,event,year
+0,j,Research on the collaboration of service selection and resource scheduling for IoT simulation workflows.,"['Feng Li', 'T. Warren Liao', 'Wentong Cai']",Adv. Eng. Informatics,2022
+1,j,E,"['Xiangting Hou', 'Linbo Luo', 'Wentong Cai', 'Bin Guo']",IEEE Internet Things J.,2022
+2,j,A wholistic optimization of containerized workflow scheduling and deployment in the cloud-edge environment.,"['Feng Li', 'Wen Jun Tan', 'Wentong Cai']",Simul. Model. Pract. Theory,2022
+3,j,Distribution-Based Weights Estimation for Map Matching Algorithms.,"['Xiangting Hou', 'Linbo Luo', 'Wentong Cai']",IEEE Syst. J.,2022
+4,j,Why They Escape: Mining Prioritized Fuzzy Decision Rule in Crowd Evacuation.,"['Linbo Luo', 'Baodan Zhang', 'Bin Guo', 'Jinghui Zhong', 'Wentong Cai']",IEEE Trans. Intell. Transp. Syst.,2022
+5,j,Data-driven Crowd Modeling Techniques: A Survey.,"['Jinghui Zhong', 'Dongrui Li', 'Zhixing Huang', 'Chengyu Lu', 'Wentong Cai']",ACM Trans. Model. Comput. Simul.,2022
+6,j,Hierarchical Aggregation/Disaggregation for Adaptive Abstraction-Level Conversion in Digital Twin-Based Smart Semiconductor Manufacturing.,"['Moon Gi Seok', 'Wentong Cai', 'Daejin Park']",IEEE Access,2021
+7,j,Transitioning Spiking Neural Network Simulators to Heterogeneous Hardware.,"['Quang Anh Pham Nguyen', 'Philipp Andelfinger', 'Wen Jun Tan', 'Wentong Cai', 'Alois C. Knoll']",ACM Trans. Model. Comput. Simul.,2021
+8,j,Towards Minimizing Resource Usage With QoS Guarantee in Cloud Gaming.,"['Yusen Li', 'Changjian Zhao', 'Xueyan Tang', 'Wentong Cai', 'Xiaoguang Liu', 'Gang Wang', 'Xiaoli Gong']",IEEE Trans. Parallel Distributed Syst.,2021
+9,j,Adaptive Abstraction-Level Conversion Framework for Accelerated Discrete-Event Simulation in Smart Semiconductor Manufacturing.,"['Moon Gi Seok', 'Wentong Cai', 'Hessam S. Sarjoughian', 'Daejin Park']",IEEE Access,2020
+10,j,OpenABLext: An automatic code generation framework for agent-based simulations on CPU-GPU-FPGA heterogeneous platforms.,"['Jiajian Xiao', 'Philipp Andelfinger', 'Wentong Cai', 'Paul Richmond', 'Alois C. Knoll', 'David Eckhoff']",Concurr. Comput. Pract. Exp.,2020
+11,j,Structural-aware simulation analysis of supply chain resilience.,"['Wen Jun Tan', 'Wentong Cai', 'Allan N. Zhang']",Int. J. Prod. Res.,2020
+12,j,Incremental route inference from low-sampling GPS data: An opportunistic approach to online map matching.,"['Linbo Luo', 'Xiangting Hou', 'Wentong Cai', 'Bin Guo']",Inf. Sci.,2020
+13,j,A passenger model for simulating boarding and alighting in spatially confined transportation scenarios.,"['Boyi Su', 'Philipp Andelfinger', 'Jaeyoung Kwak', 'David Eckhoff', 'Henriette Cornet', 'Goran Marinkovic', 'Wentong Cai', 'Alois C. Knoll']",J. Comput. Sci.,2020
+14,j,An alternative approach for collaborative simulation execution on a CPU+GPU hybrid system.,"['Wenjie Tang', 'Wentong Cai', 'Yiping Yao', 'Xiao Song', 'Feng Zhu']",Simul.,2020
+15,j,A fast parallel genetic programming framework with adaptively weighted primitives for symbolic regression.,"['Zhixing Huang', 'Jinghui Zhong', 'Liang Feng', 'Yi Mei', 'Wentong Cai']",Soft Comput.,2020
+16,j,Multitask Scheduling in Consideration of Fuzzy Uncertainty of Multiple Criteria in Service-Oriented Manufacturing.,"['Feng Li', 'T. Warren Liao', 'Wentong Cai', 'Lin Zhang']",IEEE Trans. Fuzzy Syst.,2020
+17,j,Fidelity and Performance of State Fast-forwarding in Microscopic Traffic Simulations.,"['Philipp Andelfinger', 'Yadong Xu', 'David Eckhoff', 'Wentong Cai', 'Alois C. Knoll']",ACM Trans. Model. Comput. Simul.,2020
+18,j,Multifactorial Genetic Programming for Symbolic Regression Problems.,"['Jinghui Zhong', 'Liang Feng', 'Wentong Cai', 'Yew-Soon Ong']",IEEE Trans. Syst. Man Cybern. Syst.,2020
+19,j,A Survey on Agent-based Simulation Using Hardware Accelerators.,"['Jiajian Xiao', 'Philipp Andelfinger', 'David Eckhoff', 'Wentong Cai', 'Alois C. Knoll']",ACM Comput. Surv.,2019
+20,j,A graph-based model to measure structural redundancy for supply chain resilience.,"['Wen Jun Tan', 'Allan N. Zhang', 'Wentong Cai']",Int. J. Prod. Res.,2019
+21,j,A data-driven path planning model for crowd capacity analysis.,"['Singkuang Tan', 'Nan Hu', 'Wentong Cai']",J. Comput. Sci.,2019
+22,j,Distributed Edge Partitioning for Trillion-edge Graphs.,"['Masatoshi Hanai', 'Toyotaro Suzumura', 'Wen Jun Tan', 'Elvis S. Liu', 'Georgios Theodoropoulos', 'Wentong Cai']",Proc. VLDB Endow.,2019
+23,j,Efficient Parallel Simulation over Large-scale Social Contact Networks.,"['Yulin Wu', 'Wentong Cai', 'Zengxiang Li', 'Wen Jun Tan', 'Xiangting Hou']",ACM Trans. Model. Comput. Simul.,2019
+24,j,Resource-Efficient Index Shard Replication in Large Scale Search Engines.,"['Yusen Li', 'Xueyan Tang', 'Wentong Cai', 'Jiancong Tong', 'Xiaoguang Liu', 'Gang Wang']",IEEE Trans. Parallel Distributed Syst.,2019
+25,j,Guide them through: An automatic crowd control framework using multi-objective genetic programming.,"['Nan Hu', 'Jinghui Zhong', 'Joey Tianyi Zhou', 'Suiping Zhou', 'Wentong Cai', 'Christopher P. Monterola']",Appl. Soft Comput.,2018
+26,j,CLUST: Simulating Realistic Crowd Behaviour by Mining Pattern from Crowd Videos.,"['Mingbi Zhao', 'Wentong Cai', 'Stephen John Turner']",Comput. Graph. Forum,2018
+27,j,ProactiveCrowd: Modelling Proactive Steering Behaviours for Agent-Based Crowd Simulation.,"['Linbo Luo', 'Cheng Chai', 'Jianfeng Ma', 'Suiping Zhou', 'Wentong Cai']",Comput. Graph. Forum,2018
+28,j,The Server Allocation Problem for Session-Based Multiplayer Cloud Gaming.,"['Yunhua Deng', 'Yusen Li', 'Ronald Seet', 'Xueyan Tang', 'Wentong Cai']",IEEE Trans. Multim.,2018
+29,j,A Role-Dependent Data-Driven Approach for High-Density Crowd Behavior Modeling.,"['Mingbi Zhao', 'Jinghui Zhong', 'Wentong Cai']",ACM Trans. Model. Comput. Simul.,2018
+30,j,Cost-Efficient Server Provisioning for Cloud Gaming.,"['Yusen Li', 'Yunhua Deng', 'Xueyan Tang', 'Wentong Cai', 'Xiaoguang Liu', 'Gang Wang']",ACM Trans. Multim. Comput. Commun. Appl.,2018
+31,j,Automatic model construction for the behavior of human crowds.,"['Jinghui Zhong', 'Wentong Cai', 'Michael Lees', 'Linbo Luo']",Appl. Soft Comput.,2017
+32,j,Sampling-based adaptive bounding evolutionary algorithm for continuous optimization problems.,"['Linbo Luo', 'Xiangting Hou', 'Jinghui Zhong', 'Wentong Cai', 'Jianfeng Ma']",Inf. Sci.,2017
+33,j,Introduction to the special issue on data-driven and large-scale distributed simulations.,"['Wentong Cai', 'Heiko Aydt']",J. Simulation,2017
+34,j,Design and Evaluation of a Data-Driven Scenario Generation Framework for Game-Based Training.,"['Linbo Luo', 'Haiyan Yin', 'Wentong Cai', 'Jinghui Zhong', 'Michael Lees']",IEEE Trans. Comput. Intell. AI Games,2017
+35,j,Relaxing Synchronization in Parallel Agent-Based Road Traffic Simulation.,"['Yadong Xu', 'Wentong Cai', 'Heiko Aydt', 'Michael Lees', 'Daniel Zehe']",ACM Trans. Model. Comput. Simul.,2017
+36,j,Cloning Agent-Based Simulation.,"['Xiaosong Li', 'Wentong Cai', 'Stephen John Turner']",ACM Trans. Model. Comput. Simul.,2017
+37,j,Competitiveness of Dynamic Bin Packing for Online Cloud Server Allocation.,"['Runtian Ren', 'Xueyan Tang', 'Yusen Li', 'Wentong Cai']",IEEE/ACM Trans. Netw.,2017
+38,j,Reducing Synchronization Overhead with Computation Replication in Parallel Agent-Based Road Traffic Simulation.,"['Yadong Xu', 'Vaisagh Viswanathan', 'Wentong Cai']",IEEE Trans. Parallel Distributed Syst.,2017
+39,j,Learning behavior patterns from video for agent-based crowd modeling and simulation.,"['Jinghui Zhong', 'Wentong Cai', 'Linbo Luo', 'Mingbi Zhao']",Auton. Agents Multi Agent Syst.,2016
+40,j,IBED: Combining IBEA and DE for optimal feature selection in software product line engineering.,"['Yinxing Xue', 'Jinghui Zhong', 'Tian Huat Tan', 'Yang Liu', 'Wentong Cai', 'Manman Chen', 'Jun Sun']",Appl. Soft Comput.,2016
+41,j,Supporting efficient execution of continuous space agent-based simulation on GPU.,"['Xiaosong Li', 'Wentong Cai', 'Stephen John Turner']",Concurr. Comput. Pract. Exp.,2016
+42,j,Transparent three-phase Byzantine fault tolerance for parallel and distributed simulations.,"['Zengxiang Li', 'Wentong Cai', 'Stephen John Turner', 'Zheng Qin', 'Rick Siow Mong Goh']",Simul. Model. Pract. Theory,2016
+43,j,Self-Learning Gene Expression Programming.,"['Jinghui Zhong', 'Yew-Soon Ong', 'Wentong Cai']",IEEE Trans. Evol. Comput.,2016
+44,j,Dynamic Bin Packing for On-Demand Cloud Resource Allocation.,"['Yusen Li', 'Xueyan Tang', 'Wentong Cai']",IEEE Trans. Parallel Distributed Syst.,2016
+45,j,Density-based evolutionary framework for crowd model calibration.,"['Jinghui Zhong', 'Nan Hu', 'Wentong Cai', 'Michael Lees', 'Linbo Luo']",J. Comput. Sci.,2015
+46,j,Differential evolution with sensitivity analysis and the Powell's method for crowd model calibration.,"['Jinghui Zhong', 'Wentong Cai']",J. Comput. Sci.,2015
+47,j,Evolving agent-based models using self-adaptive complexification.,"['Michael Wagner', 'Wentong Cai', 'Michael Harold Lees', 'Heiko Aydt']",J. Comput. Sci.,2015
+48,j,SEMSim Cloud Service: Large-scale urban systems simulation in the cloud.,"['Daniel Zehe', 'Alois C. Knoll', 'Wentong Cai', 'Heiko Aydt']",Simul. Model. Pract. Theory,2015
+49,j,A review of interactive narrative systems and technologies: a training perspective.,"['Linbo Luo', 'Wentong Cai', 'Suiping Zhou', 'Michael Lees', 'Haiyan Yin']",Simul.,2015
+50,j,Play Request Dispatching for Efficient Virtual Machine Usage in Cloud Gaming.,"['Yusen Li', 'Xueyan Tang', 'Wentong Cai']",IEEE Trans. Circuits Syst. Video Technol.,2015
+51,j,Adaptive Resource Provisioning Mechanism in VEEs for Improving Performance of HLA-Based Simulations.,"['Zengxiang Li', 'Wentong Cai', 'Stephen John Turner', 'Xiaorong Li', 'Ta Nguyen Binh Duong', 'Rick Siow Mong Goh']",ACM Trans. Model. Comput. Simul.,2015
+52,j,Consistency-Aware Zone Mapping and Client Assignment in Multi-Server Distributed Virtual Environments.,"['Yusen Li', 'Wentong Cai']",IEEE Trans. Parallel Distributed Syst.,2015
+53,j,"Special Issue: Recent Advances in Parallel and Distributed Systems, ICPADS 2012 Selected Papers.","['Xueyan Tang', 'Wentong Cai', 'Rick Siow Mong Goh']",Future Gener. Comput. Syst.,2014
+54,j,Update schedules for improving consistency in multi-server distributed virtual environments.,"['Yusen Li', 'Wentong Cai']",J. Netw. Comput. Appl.,2014
+55,j,Dynamic specialization for symbiotic simulation-based operational decision support using the evolutionary computing modelling language (ECML).,"['Heiko Aydt', 'Wentong Cai', 'Stephen John Turner']",J. Simulation,2014
+56,j,Towards a data-driven approach to scenario generation for serious games.,"['Linbo Luo', 'Haiyan Yin', 'Wentong Cai', 'Michael Lees', 'Nasri Bin Othman', 'Suiping Zhou']",Comput. Animat. Virtual Worlds,2014
+57,j,Un-identical federate replication structure for improving performance of HLA-based simulations.,"['Zengxiang Li', 'Wentong Cai', 'Stephen John Turner']",Simul. Model. Pract. Theory,2014
+58,j,Interactive scenario generation for mission-based virtual training.,"['Linbo Luo', 'Haiyan Yin', 'Wentong Cai', 'Michael Lees', 'Suiping Zhou']",Comput. Animat. Virtual Worlds,2013
+59,j,Compensatory dead-reckoning-based update scheduling for distributed virtual environments.,"['Zengxiang Li', 'Xueyan Tang', 'Wentong Cai', 'Xiaorong Li']",Simul.,2013
+60,j,Loss-aware DR-based update scheduling for improving consistency in DVEs.,"['Zengxiang Li', 'Wentong Cai', 'Xueyan Tang', 'Suiping Zhou']",J. Simulation,2012
+61,j,Evolving Optimal and Diversified Military Operational Plans for Computational Red Teaming.,"['Fanchao Zeng', 'James Decraene', 'Malcolm Yoke Hean Low', 'Suiping Zhou', 'Wentong Cai']",IEEE Syst. J.,2012
+62,j,Interactivity-Constrained Server Provisioning in Large-Scale Distributed Virtual Environments.,"['Ta Nguyen Binh Duong', 'Thang Nguyen', 'Suiping Zhou', 'Xueyan Tang', 'Wentong Cai', 'Rassul Ayani']",IEEE Trans. Parallel Distributed Syst.,2012
+63,j,Multi-objective zone mapping in large-scale distributed virtual environments.,"['Ta Nguyen Binh Duong', 'Suiping Zhou', 'Wentong Cai', 'Xueyan Tang', 'Rassul Ayani']",J. Netw. Comput. Appl.,2011
+64,j,HumDPM: A Decision Process Model for Modeling Human-Like Behaviors in Time-Critical and Uncertain Situations.,"['Linbo Luo', 'Suiping Zhou', 'Wentong Cai', 'Michael Lees', 'Malcolm Yoke Hean Low', 'Kabilen Sornum']",Trans. Comput. Sci.,2011
+65,j,Toward an Evolutionary Computing Modeling Language.,"['Heiko Aydt', 'Stephen John Turner', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Yew-Soon Ong', 'Rassul Ayani']",IEEE Trans. Evol. Comput.,2011
+66,j,A dynamic sort-based DDM matching algorithm for HLA applications.,"['Ke Pan', 'Stephen John Turner', 'Wentong Cai', 'Zengxiang Li']",ACM Trans. Model. Comput. Simul.,2011
+67,j,Synchronization in federation community networks.,"['Dan Chen', 'Stephen John Turner', 'Wentong Cai', 'Georgios K. Theodoropoulos', 'Muzhou Xiong', 'Michael Lees']",J. Parallel Distributed Comput.,2010
+68,j,Crowd modeling and simulation technologies.,"['Suiping Zhou', 'Dan Chen', 'Wentong Cai', 'Linbo Luo', 'Malcolm Yoke Hean Low', 'Feng Tian', 'Victor Su-Han Tay', 'Darren Wee Sze Ong', 'Benjamin D. Hamilton']",ACM Trans. Model. Comput. Simul.,2010
+69,j,Analysis of an efficient rule-based motion planning system for simulating human crowds.,"['Muzhou Xiong', 'Michael Lees', 'Wentong Cai', 'Suiping Zhou', 'Malcolm Yoke Hean Low']",Vis. Comput.,2010
+70,j,A dynamic admission control scheme to manage contention on shared computing resources.,"['Percival Xavier', 'Wentong Cai', 'Bu-Sung Lee']",Concurr. Comput. Pract. Exp.,2009
+71,j,A Hybrid HLA Time Management Algorithm Based on Both Conditional and Unconditional Information.,"['Ke Pan', 'Stephen John Turner', 'Wentong Cai', 'Zengxiang Li']",Simul.,2009
+72,j,Large scale agent-based simulation on the grid.,"['Dan Chen', 'Georgios K. Theodoropoulos', 'Stephen John Turner', 'Wentong Cai', 'Rob Minson', 'Yi Zhang']",Future Gener. Comput. Syst.,2008
+73,j,A decoupled federate architecture for high level architecture-based distributed simulation.,"['Dan Chen', 'Stephen John Turner', 'Wentong Cai', 'Muzhou Xiong']",J. Parallel Distributed Comput.,2008
+74,j,Execution coordination in mobile agent-based distributed job workflow execution.,"['Yuhong Feng', 'Wentong Cai']",J. Syst. Archit.,2008
+75,j,Agent-based human behavior modeling for crowd simulation.,"['Linbo Luo', 'Suiping Zhou', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Feng Tian', 'Yongwei Wang', 'Xian Xiao', 'Dan Chen']",Comput. Animat. Virtual Worlds,2008
+76,j,Towards Fault-tolerant HLA-based Distributed Simulations.,"['Dan Chen', 'Stephen John Turner', 'Wentong Cai']",Simul.,2008
+77,j,An integrated and adaptive decision-support framework for high-tech manufacturing and service networks.,"['Peter Lendermann', 'Stephen John Turner', 'Malcolm Y. H. Low', 'Boon Ping Gan', 'Nirupam Julka', 'Lai Peng Chan', 'Wentong Cai', 'Loo Hay Lee', 'Ek Peng Chew', 'Suyan Teng', 'Leon F. McGinnis']",J. Simulation,2007
+78,j,Dynamic partner identification in mobile agent-based distributed job workflow execution.,"['Yuhong Feng', 'Wentong Cai', 'Jiannong Cao']",J. Parallel Distributed Comput.,2007
+79,j,A secure information service for monitoring large scale grids.,"['Wei Jie', 'Wentong Cai', 'Lizhe Wang', 'Rob Procter']",Parallel Comput.,2007
+80,j,Flexible State Update Mechanism for Large-Scale Distributed Wargame Simulations.,"['Suiping Zhou', 'Wentong Cai', 'Stephen John Turner', 'Junhu Wei', 'Wenbo Zong']",Simul.,2007
+81,j,Critical causal order of events in distributed virtual environments.,"['Suiping Zhou', 'Wentong Cai', 'Stephen John Turner', 'Bu-Sung Lee', 'Junhu Wei']",ACM Trans. Multim. Comput. Commun. Appl.,2007
+82,j,Shared State Synchronization for HLA-Based Distributed Simulation.,"['Malcolm Yoke Hean Low', 'Boon-Ping Gan', 'Junhu Wei', 'Xiaoguang Wang', 'Stephen John Turner', 'Wentong Cai']",Simul.,2006
+83,j,Workload management of cooperatively federated computing clusters.,"['Percival Xavier', 'Wentong Cai', 'Bu-Sung Lee']",J. Supercomput.,2006
+84,j,Transparent adaptation of single-user applications for multi-user real-time collaboration.,"['Chengzheng Sun', 'Steven Xia', 'David Sun', 'David Chen', 'Haifeng Shen', 'Wentong Cai']",ACM Trans. Comput. Hum. Interact.,2006
+85,j,Federate migration in HLA-based simulation.,"['Wentong Cai', 'Zijing Yuan', 'Malcolm Yoke Hean Low', 'Stephen John Turner']",Future Gener. Comput. Syst.,2005
+86,j,A peer-to-peer approach to task scheduling in computation grid.,"['Jiannong Cao', 'Oscar M. K. Kwong', 'Xianbing Wang', 'Wentong Cai']",Int. J. Grid Util. Comput.,2005
+87,j,Information Management for Computational Grids.,"['Wei Jie', 'Tianyi Zang', 'Terence Hung', 'Stephen John Turner', 'Wentong Cai']",Int. J. Web Serv. Res.,2005
+88,j,A Hybrid Analysis of an Optimization Approach for Cluster Applications.,"['Ming Zhu', 'Wentong Cai', 'Bu-Sung Lee', 'Xudong Wu']",J. Supercomput.,2005
+89,j,"An Information Service for Grid Virtual Organization: Architecture, Implementation and Evaluation.","['Wei Jie', 'Terence Hung', 'Wentong Cai']",J. Supercomput.,2005
+90,j,An alternative time management mechanism for distributed simulations.,"['Wentong Cai', 'Stephen John Turner', 'Bu-Sung Lee', 'Junlan Zhou']",ACM Trans. Model. Comput. Simul.,2005
+91,j,Algorithms for HLA-based distributed simulation cloning.,"['Dan Chen', 'Stephen John Turner', 'Wentong Cai', 'Boon-Ping Gan', 'Malcolm Yoke Hean Low']",ACM Trans. Model. Comput. Simul.,2005
+92,j,Characterization and delivery of directly coupled causal messages in distributed systems.,"['Yi Zeng', 'Wentong Cai', 'Stephen John Turner', 'Suiping Zhou', 'Bu-Sung Lee']",Future Gener. Comput. Syst.,2004
+93,j,A prototype of distributed molecular visualization on computational grids.,"['Huabing Zhu', 'Tony Kai Yun Chan', 'Lizhe Wang', 'Wentong Cai', 'Simon See']",Future Gener. Comput. Syst.,2004
+94,j,Models and Heuristics for Resource Co-reservation for Parallel Tasks in Computational Grids.,"['Lizhe Wang', 'Wentong Cai', 'Simon See', 'Wei Jie']",Neural Parallel Sci. Comput.,2004
+95,j,Key Messaging on SOME-Bus clusters.,"['Ming Zhu', 'Constantine Katsinis', 'Wentong Cai', 'Bu-Sung Lee']",Parallel Comput.,2004
+96,j,Time-space consistency in large-scale distributed virtual environments.,"['Suiping Zhou', 'Wentong Cai', 'Bu-Sung Lee', 'Stephen John Turner']",ACM Trans. Model. Comput. Simul.,2004
+97,j,Key Message Approach to Optimize Communication of Parallel Applications on Clusters.,"['Ming Zhu', 'Wentong Cai', 'Bu-Sung Lee']",Clust. Comput.,2003
+98,j,Performance Analysis of a Myrinet-Based Cluster.,"['Teddy Surya Gunawan', 'Wentong Cai']",Clust. Comput.,2003
+99,j,Alternative Solutions for Distributed Simulation Cloning.,"['Dan Chen', 'Stephen John Turner', 'Boon-Ping Gan', 'Wentong Cai', 'Junhu Wei', 'Nirupam Julka']",Simul.,2003
+100,j,POEMS: A Parallel Object-oriented Environment for Multi-computer Systems.,"['Wei Jie', 'Wentong Cai', 'Stephen John Turner']",Comput. J.,2002
+101,j,Causal Order Delivery in a Multicast Environment: An Improved Algorithm.,"['Wentong Cai', 'Bu-Sung Lee', 'Junlan Zhou']",J. Parallel Distributed Comput.,2002
+102,j,Time-minimal tiling when rise is larger than zero.,"['Jingling Xue', 'Wentong Cai']",Parallel Comput.,2002
+103,j,JBSP: A BSP Programming Library in Java.,"['Yan Gu', 'Bu-Sung Lee', 'Wentong Cai']",J. Parallel Distributed Comput.,2001
+104,j,The Development of Conservative Superstep Protocols for Shared Memory Multiprocessor Systems.,"['Boon-Ping Gan', 'Yoke-Hean Low', 'Wentong Cai', 'Stephen John Turner', 'Sanjay Jain', 'Wen-Jing Hsu', 'Shell-Ying Huang']",Scalable Comput. Pract. Exp.,2001
+105,j,Comparison of Network Protocol and Architecture for Distributed Virtual Simulation Environment.,"['Bu-Sung Lee', 'Wentong Cai', 'Stephen John Turner', 'Jit-Beng Koh']",ACM SIGOPS Oper. Syst. Rev.,2001
+106,j,Effects of topology and buffering on a processor farm.,"['Peter Kok Keong Loh', 'Wentong Cai']",Microprocess. Microsystems,1999
+107,j,Interlock avoidance in transparent and dynamic parallel program instrumentation using logical clocks.,"['Wentong Cai', 'Kang Zhang', 'Stephen John Turner', 'Chengzheng Sun']",Parallel Comput.,1999
+108,j,Performance Evaluation of JPVM.,"['Bu-Sung Lee', 'Yan Gu', 'Wentong Cai', 'Alfred Heng']",Parallel Process. Lett.,1999
+109,j,Evaluation of Java Thread Performance on Two Different Multithhreaded Kernels.,"['Yan Gu', 'Bu-Sung Lee', 'Wentong Cai']",ACM SIGOPS Oper. Syst. Rev.,1999
+110,j,Survey of Languages and Runtime Libraries for Parallel Discrete-Event Simulation.,"['Yoke-Hean Low', 'Chu-Cheow Lim', 'Wentong Cai', 'Shell-Ying Huang', 'Wen-Jing Hsu', 'Sanjay Jain', 'Stephen John Turner']",Simul.,1999
+111,j,File allocation with balanced response time in a distributed multi-server information system.,"['Wentong Cai', 'Bu-Sung Lee']",Inf. Softw. Technol.,1998
+112,j,How network topology affects dynamic loading balancing.,"['Peter Kok Keong Loh', 'Wen-Jing Hsu', 'Wentong Cai', 'Nadarajah Sriskanthan']",IEEE Parallel Distributed Technol. Syst. Appl.,1996
+113,j,Task Scheduling Facility for PVM.,"['Bu-Sung Lee', 'Alfred Heng', 'Wentong Cai', 'Tai-Ann Tan']",Parallel Process. Lett.,1996
+114,j,A Cost Calculus for Parallel Functional Programming.,"['David B. Skillicorn', 'Wentong Cai']",J. Parallel Distributed Comput.,1995
+115,j,Calculating Recurrences Using the Bird-Meertens Formalism.,"['Wentong Cai', 'David B. Skillicorn']",Parallel Process. Lett.,1995
+116,j,An Approach to the Run-Time Monitoring of Parallel Programs.,"['Wentong Cai', 'Stephen John Turner']",Comput. J.,1994
+117,j,Efficient Parallel Algorithms for Tree Accumulations.,"['Jeremy Gibbons', 'Wentong Cai', 'David B. Skillicorn']",Sci. Comput. Program.,1994
+118,j,Graphical Views of the Behavior of Parallel Programs.,"['Wentong Cai', 'Wendy J. Milne', 'Stephen John Turner']",J. Parallel Distributed Comput.,1993
+119,c,"SPIDER: An Effective, Efficient and Robust Load Scheduler for Real-time Split Frame Rendering.","['Bingzheng Ma', 'Ziqiang Zhang', 'Yusen Li', 'Wentong Cai', 'Gang Wang', 'Xiaoguang Liu']",IPDPS,2022
+120,c,"Improving Scalability, Sustainability and Availability via Workload Distribution in Edge-Cloud Gaming.","['Iryanto Jaya', 'Yusen Li', 'Wentong Cai']",ACM Multimedia,2022
+121,c,A Data-Driven Approach for Pedestrian Intention Prediction in Large Public Places.,"['Bo Zhang', 'Jinghui Zhong', 'Wentong Cai']",SIGSIM-PADS,2022
+122,c,Hyperparameter Tunning in Simulation-based Optimization for Adaptive Digital-Twin Abstraction Control of Smart Manufacturing System.,"['Moon Gi Seok', 'Wen Jun Tan', 'Boyi Su', 'Wentong Cai']",SIGSIM-PADS,2022
+123,c,OptCL: A Middleware to Optimise Performance for High Performance Domain-Specific Languages on Heterogeneous Platforms.,"['Jiajian Xiao', 'Philipp Andelfinger', 'Wentong Cai', 'David Eckhoff', 'Alois C. Knoll']",ICA3PP (3),2021
+124,c,Minimizing Play Request Rejection through Workload Splitting in Edge-Cloud Gaming.,"['Iryanto Jaya', 'Yusen Li', 'Wentong Cai']",ICPADS,2021
+125,c,A New Double Rank-based Multi-workflow Scheduling with Multi-objective Optimization in Cloud Environments.,"['Feng Li', 'Moon Gi Seok', 'Wentong Cai']",IPDPS Workshops,2021
+126,c,Data-driven Microscopic Traffic Modelling and Simulation using Dynamic LSTM.,"['Htet Naing', 'Wentong Cai', 'Nan Hu', 'Tiantian Wu', 'Liang Yu']",SIGSIM-PADS,2021
+127,c,Causality and Consistency of State Update Schemes in Synchronous Agent-based Simulations.,"['Wen Jun Tan', 'Philipp Andelfinger', 'David Eckhoff', 'Wentong Cai', 'Alois C. Knoll']",SIGSIM-PADS,2021
+128,c,A Parallel Hierarchical Sort-based Interest Matching Algorithm.,"['Wenjie Tang', 'Yiping Yao', 'Feng Zhu', 'Bin Chen', 'Wentong Cai']",SIGSIM-PADS,2021
+129,c,Hot Area Targeting Dead Reckoning for Distributed Virtual Environments.,"['Youfu Chen', 'Wentong Cai', 'Elvis S. Liu']",SIGSIM-PADS,2021
+130,c,Bayesian-based Absolute Positions Estimation for the Nearby Vehicles through Vehicle-to-Vehicle Communications.,"['Xiangting Hou', 'Linbo Luo', 'Wentong Cai']",SMC,2021
+131,c,Multi-Agent Pickup and Delivery with Task Deadlines.,"['Xiaohu Wu', 'Yihao Liu', 'Xueyan Tang', 'Wentong Cai', 'Funing Bai', 'Gilbert Khonstantine', 'Guopeng Zhao']",SOCS,2021
+132,c,Multi-Agent Pickup and Delivery with Task Deadlines.,"['Xiaohu Wu', 'Yihao Liu', 'Xueyan Tang', 'Wentong Cai', 'Funing Bai', 'Gilbert Khonstantine', 'Guopeng Zhao']",WI/IAT,2021
+133,c,A Model-based Analysis of Evacuation Strategies in Hospital Emergency Departments.,"['Boyi Su', 'Jaeyoung Kwak', 'Ahmadreza Pourghaderi', 'Michael Harold Lees', 'Kenneth B. K. Tan', 'Shin Yi Loo', 'Ivan S. Y. Chua', 'Joy L. J. Quah', 'Wentong Cai', 'Marcus Eng Hock Ong']",WSC,2021
+134,c,Modeling Helping Behavior in Emergency Evacuations Using Volunteer's Dilemma Game.,"['Jaeyoung Kwak', 'Michael Harold Lees', 'Wentong Cai', 'Marcus Eng Hock Ong']",ICCS (1),2020
+135,c,Risk-Based AED Placement - Singapore Case.,"['Ivan Derevitskii', 'Nikita Kogtikov', 'Michael Harold Lees', 'Wentong Cai', 'Marcus Eng Hock Ong']",ICCS (4),2020
+136,c,Rendering Server Allocation for MMORPG Players in Cloud Gaming.,"['Iryanto Jaya', 'Wentong Cai', 'Yusen Li']",ICPP,2020
+137,c,Fast-Forwarding of Vehicle Clusters in Microscopic Traffic Simulations.,"['Philipp Andelfinger', 'David Eckhoff', 'Wentong Cai', 'Alois C. Knoll']",SIGSIM-PADS,2020
+138,c,Runtime Abstraction-Level Conversion of Discrete-Event Wafer-fabrication Models for Simulation Acceleration.,"['Moon Gi Seok', 'Chew Wye Chan', 'Wentong Cai', 'Hessam S. Sarjoughian', 'Daejin Park']",SIGSIM-PADS,2020
+139,c,Pedal to the Bare Metal: Road Traffic Simulation on FPGAs Using High-Level Synthesis.,"['Jiajian Xiao', 'Görkem Kilinç', 'Philipp Andelfinger', 'David Eckhoff', 'Wentong Cai', 'Alois C. Knoll']",SIGSIM-PADS,2020
+140,c,Automatical Guardrail Design of Subway Stations through Multi-objective Evolutionary Algorithm.,"['Tiantian Cheng', 'Jinghui Zhong', 'Wentong Cai']",SMC,2020
+141,c,Evaluation of Guidance Systems at Dynamic Public Transport Hubs Using Crowd Simulation.,"['Michael Wagner', 'Henriette Cornet', 'David Eckhoff', 'Philipp Andelfinger', 'Wentong Cai', 'Alois C. Knoll']",WSC,2020
+142,c,Multi-Thread State Update Schemes for Microscopic Traffic Simulation.,"['Wen Jun Tan', 'Philipp Andelfinger', 'Wentong Cai', 'Alois C. Knoll', 'Yadong Xu', 'David Eckhoff']",WSC,2020
+143,c,Towards Situation Aware Dispatching in a Dynamic and Complex Manufacturing Environment.,"['Chew Wye Chan', 'Boon Ping Gan', 'Wentong Cai']",WSC,2020
+144,c,Efficient closeness centrality computation in time-evolving graphs.,"['Peng Ni', 'Masatoshi Hanai', 'Wen Jun Tan', 'Wentong Cai']",ASONAM,2019
+145,c,Advancing Automatic Code Generation for Agent-Based Simulations on Heterogeneous Hardware.,"['Jiajian Xiao', 'Philipp Andelfinger', 'Wentong Cai', 'Paul Richmond', 'Alois C. Knoll', 'David Eckhoff']",Euro-Par Workshops,2019
+146,c,GAugur: Quantifying Performance Interference of Colocated Games for Improving Resource Utilization in Cloud Gaming.,"['Yusen Li', 'Chuxu Shan', 'Ruobing Chen', 'Xueyan Tang', 'Wentong Cai', 'Shanjiang Tang', 'Xiaoguang Liu', 'Gang Wang', 'Xiaoli Gong', 'Ying Zhang']",HPDC,2019
+147,c,An Agent-Based Model for Evaluating the Boarding and Alighting Efficiency of Autonomous Public Transport Vehicles.,"['Boyi Su', 'Philipp Andelfinger', 'David Eckhoff', 'Henriette Cornet', 'Goran Marinkovic', 'Wentong Cai', 'Alois C. Knoll']",ICCS (1),2019
+148,c,Transitioning Spiking Neural Network Simulators to Heterogeneous Hardware.,"['Quang Anh Pham Nguyen', 'Philipp Andelfinger', 'Wentong Cai', 'Alois C. Knoll']",SIGSIM-PADS,2019
+149,c,From Effects to Causes: Reversible Simulation and Reverse Exploration of Microscopic Traffic Models.,"['Philipp Andelfinger', 'Jordan Ivanchev', 'David Eckhoff', 'Wentong Cai', 'Alois C. Knoll']",SIGSIM-PADS,2019
+150,c,Exploring Execution Schemes for Agent-Based Traffic Simulation on Heterogeneous Hardware.,"['Jiajian Xiao', 'Philipp Andelfinger', 'David Eckhoff', 'Wentong Cai', 'Alois C. Knoll']",DS-RT,2018
+151,c,Data-Driven Agent-Based Simulation for Pedestrian Capacity Analysis.,"['Singkuang Tan', 'Nan Hu', 'Wentong Cai']",ICCS (2),2018
+152,c,Concurrent Hybrid Breadth-First-Search on Distributed PowerGraph for Skewed Graphs.,"['Zengxiang Li', 'Shen Ren', 'Sifei Lu', 'Jiachun Guo', 'Wentong Cai', 'Qin Zheng', 'Rick Siow Mong Goh']",ICPADS,2018
+153,c,Index Shard Replication Strategies for Improving Resource Utilization in Large Scale Search Engines.,"['Yusen Li', 'Xueyan Tang', 'Wentong Cai', 'Jiancong Tong', 'Xiaoguang Liu', 'Gang Wang', 'Chuansong Gao', 'Xuan Cao', 'Guanhui Geng', 'Minghui Li']",ICPP,2018
+154,c,Optimizing Agent-Based Simulations for the GPU.,"['Pham Nguyen Quang Anh', 'Rui Fan', 'Wentong Cai']",HPCS,2018
+155,c,Fast-Forwarding Agent States to Accelerate Microscopic Traffic Simulations.,"['Philipp Andelfinger', 'Yadong Xu', 'Wentong Cai', 'David Eckhoff', 'Alois C. Knoll']",SIGSIM-PADS,2018
+156,c,Evaluation of Conflict Resolution Methods for Agent-Based Simulations on the GPU.,"['Mingyu Yang', 'Philipp Andelfinger', 'Wentong Cai', 'Alois C. Knoll']",SIGSIM-PADS,2018
+157,c,Fast Online Map Matching for Recovering Travelling Routes from Low-Sampling GPS Data.,"['Xiangting Hou', 'Linbo Luo', 'Wentong Cai', 'Masatoshi Hanai']",SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI,2018
+158,c,Model Preemption based on Dynamic Analysis of simulation Data to Accelerate Traffic light Timing optimisation.,"['Philipp Andelfinger', 'Sajeev Udayakumar', 'Wentong Cai', 'David Eckhoff', 'Alois C. Knoll']",WSC,2018
+159,c,Dynamic Data Driven Application Systems: Research Challenges and Opportunities.,"['Richard Fujimoto', 'Joseph Barjis', 'Erik Blasch', 'Wentong Cai', 'Dong Jin', 'Seunghan Lee', 'Young-Jun Son']",WSC,2018
+160,c,Incremental calibration of Seat Selection Preferences in Agent-based simulations of Public transport Scenarios.,"['Philipp Andelfinger', 'Yihao Chen', 'Boyi Su', 'Wentong Cai', 'Daniel Zehe', 'David Eckhoff', 'Alois C. Knoll']",WSC,2018
+161,c,Minimizing Cost in IaaS Clouds Via Scheduled Instance Reservation.,"['Qiushi Wang', 'Ming Ming Tan', 'Xueyan Tang', 'Wentong Cai']",ICDCS,2017
+162,c,Optimize the FP-Tree Based Graph Edge Weight Computation on Multi-core MapReduce Clusters.,"['Yuhong Feng', 'Meihong Guo', 'Kezhong Lu', 'Zhong Ming', 'Haoming Zhong', 'Wentong Cai', 'Zengxiang Li']",ICPADS,2017
+163,c,Parallel Algorithm for Single-Source Earliest-Arrival Problem in Temporal Graphs.,"['Peng Ni', 'Masatoshi Hanai', 'Wen Jun Tan', 'Chen Wang', 'Wentong Cai']",ICPP,2017
+164,c,On Server Provisioning for Cloud Gaming.,"['Yusen Li', 'Yunhua Deng', 'Xueyan Tang', 'Wentong Cai', 'Xiaoguang Liu', 'Gang Wang']",ACM Multimedia,2017
+165,c,Efficient Parallel Simulation over Social Contact Network with Skewed Degree Distribution.,"['Yulin Wu', 'Xiangting Hou', 'Wen Jun Tan', 'Zengxiang Li', 'Wentong Cai']",SIGSIM-PADS,2017
+166,c,A Graph Partitioning Algorithm for Parallel Agent-Based Road Traffic Simulation.,"['Yadong Xu', 'Wentong Cai', 'David Eckhoff', 'Suraj Nair', 'Alois C. Knoll']",SIGSIM-PADS,2017
+167,c,Integration design of supply chain hybrid simulation.,"['Wen Jun Tan', 'Wentong Cai', 'Allan NengSheng Zhang']",WSC,2017
+168,c,Surrogate assisted calibration framework for crowd model calibration.,"['Wenchao Yi', 'Jinghui Zhong', 'Singkuang Tan', 'Wentong Cai', 'Nan Hu']",WSC,2017
+169,c,A Hyper-Heuristic Framework for Agent-Based Crowd Modeling and Simulation: (Extended Abstract).,"['Jinghui Zhong', 'Wentong Cai']",AAMAS,2016
+170,c,Adaptive resilient strategies for supply chain networks.,"['Wen Jun Tan', 'Wentong Cai', 'Zhengping Li']",IEEE BigData,2016
+171,c,RA2: Predicting Simulation Execution Time for Cloud-Based Design Space Explorations.,"['Ta Nguyen Binh Duong', 'Jinghui Zhong', 'Wentong Cai', 'Zengxiang Li', 'Suiping Zhou']",DS-RT,2016
+172,c,Traffic State Estimation Using Floating Car Data.,"['Abhinav Sunderrajan', 'Vaisagh Viswanathan', 'Wentong Cai', 'Alois C. Knoll']",ICCS,2016
+173,c,On First Fit Bin Packing for Online Cloud Server Allocation.,"['Xueyan Tang', 'Yusen Li', 'Runtian Ren', 'Wentong Cai']",IPDPS,2016
+174,c,Predicting the duration of non-recurring road incidents by cluster-specific models.,"['Banishree Ghosh', 'Muhammad Tayyab Asif', 'Justin Dauwels', 'Wentong Cai', 'Hongliang Guo', 'Ulrich Fastenrath']",ITSC,2016
+175,c,Server Allocation for Multiplayer Cloud Gaming.,"['Yunhua Deng', 'Yusen Li', 'Xueyan Tang', 'Wentong Cai']",ACM Multimedia,2016
+176,c,Online Data Extraction for Large-Scale Agent-Based Simulations.,"['Daniel Zehe', 'Vaisagh Viswanathan', 'Wentong Cai', 'Alois C. Knoll']",SIGSIM-PADS,2016
+177,c,A Role-dependent Data-driven Approach for High Density Crowd Behavior Modeling.,"['Mingbi Zhao', 'Jinghui Zhong', 'Wentong Cai']",SIGSIM-PADS,2016
+178,c,Fairness-aware Update Schedules for Improving Consistency in Multi-server Distributed Virtual Environments.,"['Yusen Li', 'Yunhua Deng', 'Wentong Cai', 'Xueyan Tang']",SimuTools,2016
+179,c,Data driven Adaptive Traffic simulation of an expressway.,"['Abhinav Sunderrajan', 'Vaisagh Viswanathan', 'Wentong Cai', 'Alois C. Knoll']",WSC,2016
+180,c,Learning Behavior Patterns from Video: A Data-driven Framework for Agent-based Crowd Modeling.,"['Jinghui Zhong', 'Wentong Cai', 'Linbo Luo', 'Haiyan Yin']",AAMAS,2015
+181,c,A data-driven approach for online adaptation of game difficulty.,"['Haiyan Yin', 'Linbo Luo', 'Wentong Cai', 'Yew-Soon Ong', 'Jinghui Zhong']",CIG,2015
+182,c,Evaluation of Crowd Models in Low Density Scenarios Using Real-World Crowd Data.,"['Mingbi Zhao', 'Wentong Cai', 'Stephen John Turner']",DS-RT,2015
+183,c,Hadoop Job Scheduling with Dynamic Task Splitting.,"['YongLiang Xu', 'Wentong Cai']",ICCCRI,2015
+184,c,DEPART: Dynamic Route Planning in Stochastic Time-Dependent Public Transit Networks.,"['Peng Ni', 'Hoang Tam Vo', 'Daniel Dahlmeier', 'Wentong Cai', 'Jordan Ivanchev', 'Heiko Aydt']",ITSC,2015
+185,c,MASTER: Multi-platform Application Streaming Toolkits for Elastic Resources.,"['Yusen Li', 'Yunhua Deng', 'Ronald Seet', 'Xueyan Tang', 'Wentong Cai']",ACM Multimedia,2015
+186,c,Cloning Agent-based Simulation on GPU.,"['Xiaosong Li', 'Wentong Cai', 'Stephen John Turner']",SIGSIM-PADS,2015
+187,c,An Asynchronous Synchronization Strategy for Parallel Large-scale Agent-based Traffic Simulations.,"['Yadong Xu', 'Wentong Cai', 'Heiko Aydt', 'Michael Lees', 'Daniel Zehe']",SIGSIM-PADS,2015
+188,c,Traffic Simulation Performance Optimization through Multi-Resolution Modeling of Road Segments.,"['Daniel Zehe', 'David Grotzky', 'Heiko Aydt', 'Wentong Cai', 'Alois C. Knoll']",SIGSIM-PADS,2015
+189,c,Data-Driven Dynamic Adaptation Framework for Multi-agent Training Game.,"['Haiyan Yin', 'Linbo Luo', 'Wentong Cai', 'Jinghui Zhong']",WI-IAT (2),2015
+190,c,Tutorial on a modeling and simulation cloud service.,"['Daniel Zehe', 'Wentong Cai', 'Alois C. Knoll', 'Heiko Aydt']",WSC,2015
+191,c,Crowd evacuation planning using cartesian genetic programming and agent-based crowd modeling.,"['Jinghui Zhong', 'Wentong Cai', 'Linbo Luo']",WSC,2015
+192,c,Design of supply chain topology to mitigate demand and supply risks.,"['Wen Jun Tan', 'Zhengping Li', 'Wentong Cai']",WSC,2015
+193,c,Automatic rule identification for agent-based crowd models through gene expression programming.,"['Jinghui Zhong', 'Linbo Luo', 'Wentong Cai', 'Michael Lees']",AAMAS,2014
+194,c,OMTiR: Open Market for Trading Idle Cloud Resources.,"['Murat Karakus', 'Zengxiang Li', 'Wentong Cai', 'Ta Nguyen Binh Duong']",CloudCom,2014
+195,c,Efficient Neighbor Searching for Agent-Based Simulation on GPU.,"['Xiaosong Li', 'Wentong Cai', 'Stephen John Turner']",DS-RT,2014
+196,c,Evolving Agent-based Models Using Complexification Approach.,"['Michael Wagner', 'Wentong Cai', 'Michael Harold Lees', 'Heiko Aydt']",ICCS,2014
+197,c,Analysing the Effectiveness of Wearable Wireless Sensors in Controlling Crowd Disasters.,"['Teo Yu Hui Angela', 'Vaisagh Viswanathan T.', 'Michael Lees', 'Wentong Cai']",ICCS,2014
+198,c,Let's depart together: Efficient play request dispatching in cloud gaming.,"['Yusen Li', 'Xueyan Tang', 'Wentong Cai']",NETGAMES,2014
+199,c,Hierarchical resource management for enhancing performance of large-scale simulations on data centers.,"['Zengxiang Li', 'Xiaorong Li', 'Long Wang', 'Wentong Cai']",SIGSIM-PADS,2014
+200,c,On dynamic bin packing for resource allocation in the cloud.,"['Yusen Li', 'Xueyan Tang', 'Wentong Cai']",SPAA,2014
+201,c,Ea-based evacuation planning using agent-based crowd simulation.,"['Jinghui Zhong', 'Wentong Cai', 'Linbo Luo', 'Michael Lees']",WSC,2014
+202,c,Map stream: initializing what-if analyses for real-time symbiotic traffic simulations.,"['Abhinav Sunderrajan', 'Heiko Aydt', 'Wentong Cai', 'Alois C. Knoll']",WSC,2014
+203,c,Efficient graph-based dynamic load-balancing for parallel large-scale agent-based traffic simulation.,"['Yadong Xu', 'Wentong Cai', 'Heiko Aydt', 'Michael Lees']",WSC,2014
+204,c,Mission-Based Scenario Modeling and Generation for Virtual Training.,"['Linbo Luo', 'Haiyan Yin', 'Jinghui Zhong', 'Wentong Cai', 'Michael Lees', 'Suiping Zhou']",AIIDE,2013
+205,c,A Data-Driven Crowd Simulation Model Based on Clustering and Classification.,"['Mingbi Zhao', 'Stephen John Turner', 'Wentong Cai']",DS-RT,2013
+206,c,vTRUST: A Formal Modeling and Verification Framework for Virtualization Systems.,"['Jianan Hao', 'Yang Liu', 'Wentong Cai', 'Guangdong Bai', 'Jun Sun']",ICFEM,2013
+207,c,Application Layer Multicast in P2P Distributed Interactive Applications.,"['Yusen Li', 'Wentong Cai', 'Xueyan Tang']",ICPADS,2013
+208,c,GPU accelerated three-stage execution model for event-parallel simulation.,"['Xiaosong Li', 'Wentong Cai', 'Stephen John Turner']",SIGSIM-PADS,2013
+209,c,Hierarchical interest management for distributed virtual environments.,"['Ke Pan', 'Xueyan Tang', 'Wentong Cai', 'Suiping Zhou', 'Hanying Zheng']",SIGSIM-PADS,2013
+210,c,Accelerating optimistic HLA-based simulations in virtual execution environments.,"['Zengxiang Li', 'Xiaorong Li', 'Ta Nguyen Binh Duong', 'Wentong Cai', 'Stephen John Turner']",SIGSIM-PADS,2013
+211,c,Grand challenges in modeling and simulation: expanding our horizons.,"['Simon J. E. Taylor', 'Osman Balci', 'Wentong Cai', 'Margaret L. Loper', 'David M. Nicol', 'George F. Riley']",SIGSIM-PADS,2013
+212,c,Spatial indexing in agent-based crowd simulation.,"['Nasri Bin Othman', 'Linbo Luo', 'Wentong Cai', 'Michael Lees']",SimuTools,2013
+213,c,Emergence by strategy: Flocking boids and their fitness in relation to model complexity.,"['Michael Wagner', 'Wentong Cai', 'Michael Harold Lees']",WSC,2013
+214,c,Simulation-based optimization of StarCraft tactical AI through evolutionary computation.,"['Nasri Bin Othman', 'James Decraene', 'Wentong Cai', 'Nan Hu', 'Malcolm Yoke Hean Low', 'Alexandre Gouaillard']",CIG,2012
+215,c,QoS-Aware Revenue-Cost Optimization for Latency-Sensitive Services in IaaS Clouds.,"['Ta Nguyen Binh Duong', 'Xiaorong Li', 'Rick Siow Mong Goh', 'Xueyan Tang', 'Wentong Cai']",DS-RT,2012
+216,c,Consistency-aware Partitioning Algorithm in Multi-server Distributed Virtual Environments.,"['Yusen Li', 'Wentong Cai']",IPDPS,2012
+217,c,Fair and Efficient Dead Reckoning-Based Update Dissemination for Distributed Virtual Environments.,"['Zengxiang Li', 'Xueyan Tang', 'Wentong Cai', 'Stephen John Turner']",PADS,2012
+218,c,Measuring Information Exposure Attacks on Interest Management.,"['Jianan Hao', 'Wentong Cai']",PADS,2012
+219,c,Enhancement of Collaborative Interest Management Mechanism for P2P Networked Virtual Environment.,"['Cheng Liu', 'Wentong Cai']",PADS,2012
+220,c,Effective crowd control through adaptive evolution of agent-based simulation models.,"['Nan Hu', 'James Decraene', 'Wentong Cai']",WSC,2012
+221,c,Grid-based partitioning for large-scale distributed agent-based crowd simulation.,"['Yongwei Wang', 'Michael Lees', 'Wentong Cai']",WSC,2012
+222,c,Studies on Pareto-based multi-objective competitive coevolutionary dynamics.,"['Fanchao Zeng', 'James Decraene', 'Malcolm Yoke Hean Low', 'Wentong Cai', 'Philip Hingston']",IEEE Congress on Evolutionary Computation,2011
+223,c,High-dimensional objective-based data farming.,"['Fanchao Zeng', 'James Decraene', 'Malcolm Yoke Hean Low', 'Wentong Cai', 'Philip Hingston', 'Suiping Zhou']",CISDA,2011
+224,c,Determining Optimal Update Period for Minimizing Inconsistency in Multi-server Distributed Virtual Environments.,"['Yusen Li', 'Wentong Cai']",DS-RT,2011
+225,c,A Computational Model of Emotions for Agent-Based Crowds in Serious Games.,"['Heiko Aydt', 'Michael Lees', 'Linbo Luo', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Kabilen Kadirvelen Sornum']",IAT,2011
+226,c,Dead Reckoning-Based Update Scheduling against Message Loss for Improving Consistency in DVEs.,"['Zengxiang Li', 'Wentong Cai', 'Xueyan Tang', 'Suiping Zhou']",PADS,2011
+227,c,Collaborative Interest Management for Peer-to-Peer Networked Virtual Environment.,"['Cheng Liu', 'Wentong Cai']",PADS,2011
+228,c,A virtualization-based approach for zone migration in distributed virtual environments.,"['Duong Nguyen Binh Ta', 'Thang Nguyen', 'Tran Nguyen', 'Nguyen Do', 'Xueyan Tang', 'Wentong Cai', 'Suiping Zhou']",SimuTools,2011
+229,c,Trusted Block as a Service: Towards Sensitive Applications on the Cloud.,"['Jianan Hao', 'Wentong Cai']",TrustCom,2011
+230,c,Symbiotic simulation for optimisation of tool operations in semiconductor manufacturing.,"['Heiko Aydt', 'Stephen John Turner', 'Wentong Cai', 'Boon-Ping Gan']",WSC,2011
+231,c,A Framework for Performance Evaluation of Large-scale Interactive Distributed Virtual Environments.,"['Duong Nguyen Binh Ta', 'Thang Nguyen', 'Suiping Zhou', 'Xueyan Tang', 'Wentong Cai', 'Rassul Ayani']",CIT,2010
+232,c,Consistency Aware Dead Reckoning Threshold Tuning with Server Assistance in Client-Server-Based DVEs.,"['Yusen Li', 'Wentong Cai']",CIT,2010
+233,c,Autonomous Bee Colony Optimization for multi-objective function.,"['Fanchao Zeng', 'James Decraene', 'Malcolm Yoke Hean Low', 'Philip Hingston', 'Wentong Cai', 'Suiping Zhou', 'Mahinthan Chandramohan']",IEEE Congress on Evolutionary Computation,2010
+234,c,Modeling Human-Like Decision Making for Virtual Agents in Time-Critical Situations.,"['Linbo Luo', 'Suiping Zhou', 'Wentong Cai', 'Michael Lees', 'Malcolm Yoke Hean Low']",CW,2010
+235,c,A Three-Phases Byzantine Fault Tolerance Mechanism for HLA-Based Simulation.,"['Zengxiang Li', 'Wentong Cai', 'Stephen John Turner', 'Ke Pan']",DS-RT,2010
+236,c,Automated modeling and analysis of agent-based simulations using the CASE framework.,"['James Decraene', 'Malcolm Yoke Hean Low', 'Fanchao Zeng', 'Suiping Zhou', 'Wentong Cai']",ICARCV,2010
+237,c,A systematic approach for rapid 3D reconstruction from photosets.,"['Hoai Nam Le Tran', 'Kabilen Sornum', 'Hock Soon Seah', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Suiping Zhou', 'Michael Lees']",ICARCV,2010
+238,c,A hybrid Interest Management mechanism for peer-to-peer Networked Virtual Environments.,"['Ke Pan', 'Wentong Cai', 'Xueyan Tang', 'Suiping Zhou', 'Stephen John Turner']",IPDPS,2010
+239,c,Federate Fault Tolerance in HLA-Based Simulation.,"['Zengxiang Li', 'Wentong Cai', 'Stephen John Turner', 'Ke Pan']",PADS,2010
+240,c,QoS-Aware Server Provisioning for Large-Scale Distributed Virtual Environments.,"['Duong Nguyen Binh Ta', 'Suiping Zhou', 'Wentong Cai', 'Xueyan Tang', 'Rassul Ayani']",PADS,2010
+241,c,Consistency aware update schedule in multi-server Distributed Virtual Environments.,"['Yusen Li', 'Wentong Cai']",SimuTools,2010
+242,c,A framework of intelligent environment with smart-active objects (IESAO) for flexible and efficient crowd simulation.,"['Anson Yuanxi Liang', 'Malcolm Yoke Hean Low', 'Michael Harold Lees', 'Wentong Cai', 'Suiping Zhou']",SpringSim,2010
+243,c,Research advances in automated red teaming.,"['James Decraene', 'Fanchao Zeng', 'Malcolm Yoke Hean Low', 'Suiping Zhou', 'Wentong Cai']",SpringSim,2010
+244,c,A replication structure for efficient and fault-tolerant parallel and distributed simulations.,"['Zengxiang Li', 'Wentong Cai', 'Stephen John Turner', 'Ke Pan']",SpringSim,2010
+245,c,Hybrid modelling of crowd simulation.,"['Muzhou Xiong', 'Michael Lees', 'Wentong Cai', 'Suiping Zhou', 'Malcolm Yoke Hean Low']",ICCS,2010
+246,c,DynaSched: a dynamic Web service scheduling and deployment framework for data-intensive Grid workflows.,"['Shayan Shahand', 'Stephen John Turner', 'Wentong Cai', 'Maryam Khademi Hedayat']",ICCS,2010
+247,c,Multi-user Gaming on the Grid Using a Service Oriented HLA RTI.,"['Ke Pan', 'Stephen John Turner', 'Wentong Cai', 'Zengxiang Li']",DS-RT,2009
+248,c,Toward a Generic Framework for Modeling Human Behaviors in Crowd Simulation.,"['Linbo Luo', 'Suiping Zhou', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Michael Lees']",IAT,2009
+249,c,Splitting Overlay Network for Peer-to-Peer-based Massively Multiplayer Online Games.,"['Cheng Liu', 'Wentong Cai']",IICS,2009
+250,c,Distributed Execution of Workflow Using Parallel Partitioning.,"['Maryam Khademi Hedayat', 'Wentong Cai', 'Stephen John Turner', 'Shayan Shahand']",ISPA,2009
+251,c,Symbiotic Simulation Model Validation for Radiation Detection Applications.,"['Heiko Aydt', 'Stephen John Turner', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Rassul Ayani']",PADS,2009
+252,c,Communication-Efficient Support for Spatial Filtering of State Updates in Distributed Virtual Environments.,"['Xueyan Tang', 'Wentong Cai']",PADS,2009
+253,c,Efficient Zone Mapping Algorithms for Distributed Virtual Environments.,"['Ta Nguyen Binh Duong', 'Suiping Zhou', 'Wentong Cai', 'Xueyan Tang', 'Rassul Ayani']",PADS,2009
+254,c,A framework of evaluating partitioning mechanisms for agent-based simulation systems.,"['Yongwei Wang', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Suiping Zhou', 'Feng Tian', 'Linbo Luo', 'Darren Wee Sze Ong', 'Benjamin D. Hamilton']",SpringSim,2009
+255,c,A case study of multi-resolution modeling for crowd simulation.,"['Muzhou Xiong', 'Wentong Cai', 'Suiping Zhou', 'Malcolm Yoke Hean Low', 'Feng Tian', 'Dan Chen', 'Darren Wee Sze Ong', 'Benjamin D. Hamilton']",SpringSim,2009
+256,c,A Rule-Based Motion Planning for Crowd Simulation.,"['Muzhou Xiong', 'Michael Lees', 'Wentong Cai', 'Suiping Zhou', 'Malcolm Yoke Hean Low']",CW,2009
+257,c,Implementation of Data Distribution Management Services in a Service Oriented HLA RTI.,"['Ke Pan', 'Stephen John Turner', 'Wentong Cai', 'Zengxiang Li']",WSC,2009
+258,c,Cluster based Partitioning for Agent-based Crowd Simulations.,"['Yongwei Wang', 'Michael Lees', 'Wentong Cai', 'Suiping Zhou', 'Malcolm Yoke Hean Low']",WSC,2009
+259,c,Research Issues in Symbiotic Simulation.,"['Heiko Aydt', 'Stephen John Turner', 'Wentong Cai', 'Malcolm Yoke Hean Low']",WSC,2009
+260,c,Shared Variable Management in SOAr-DSGrid.,"['Xinjun Chen', 'Wentong Cai', 'Stephen John Turner', 'Yong Wang']",Asia International Conference on Modelling and Simulation,2008
+261,c,Network-Aware Server Placement for Highly Interactive Distributed Virtual Environments.,"['Duong Nguyen Binh Ta', 'Suiping Zhou', 'Wentong Cai', 'Xueyan Tang', 'Rassul Ayani']",DS-RT,2008
+262,c,Symbiotic Simulation Control in Semiconductor Manufacturing.,"['Heiko Aydt', 'Stephen John Turner', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Peter Lendermann', 'Boon-Ping Gan']",ICCS (3),2008
+263,c,Symbiotic Simulation Systems: An Extended Definition Motivated by Symbiosis in Biology.,"['Heiko Aydt', 'Stephen John Turner', 'Wentong Cai', 'Malcolm Yoke Hean Low']",PADS,2008
+264,c,A Hybrid HLA Time Management Algorithm Based on Both Conditional and Unconditional Information.,"['Ke Pan', 'Stephen John Turner', 'Wentong Cai', 'Zengxiang Li']",PADS,2008
+265,c,Preventive what-if analysis in symbiotic simulation.,"['Heiko Aydt', 'Stephen John Turner', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Peter Lendermann', 'Boon-Ping Gan', 'Rassul Ayani']",WSC,2008
+266,c,Improving performance by replicating simulations with alternative synchronization approaches.,"['Zengxiang Li', 'Wentong Cai', 'Stephen John Turner', 'Ke Pan']",WSC,2008
+267,c,Federate Migration in a Service Oriented HLA RTI.,"['Zengxiang Li', 'Wentong Cai', 'Stephen John Turner', 'Ke Pan']",DS-RT,2007
+268,c,Provenance Provisioning in Mobile Agent-Based Distributed Job Workflow Execution.,"['Yuhong Feng', 'Wentong Cai']",International Conference on Computational Science (1),2007
+269,c,A Service Oriented HLA RTI on the Grid.,"['Ke Pan', 'Stephen John Turner', 'Wentong Cai', 'Zengxiang Li']",ICWS,2007
+270,c,An Efficient Sort-Based DDM Matching Algorithm for HLA Applications with a Large Spatial Environment.,"['Ke Pan', 'Stephen John Turner', 'Wentong Cai', 'Zengxiang Li']",PADS,2007
+271,c,Time management in a service-oriented architecture for distributed simulation on the grid.,"['Yong Wang', 'Stephen John Turner', 'Wentong Cai', 'Xinjun Chen']",SCSC,2007
+272,c,Large Scale Distributed Simulation on the Grid.,"['Georgios Theodoropoulos', 'Yi Zhang', 'Dan Chen', 'Rob Minson', 'Stephen John Turner', 'Wentong Cai', 'Yong Xie', 'Brian Logan']",CCGRID,2006
+273,c,Architecture Model for Information Service in Large Scale Grid Environments.,"['Wei Jie', 'Terence Hung', 'Stephen John Turner', 'Wentong Cai']",CCGRID,2006
+274,c,Adaptive Policing for Token-Exchange Based Management of Shared Computing Resources.,"['Percival Xavier', 'Wentong Cai', 'Bu-Sung Lee']",CCGRID,2006
+275,c,SOAr-DSGrid: Service-Oriented Architecture for Distributed Simulation on the Grid.,"['Xinjun Chen', 'Wentong Cai', 'Stephen John Turner', 'Yong Wang']",PADS,2006
+276,c,A Generic Symbiotic Simulation Framework.,"['Shell-Ying Huang', 'Wentong Cai', 'Stephen John Turner', 'Wen-Jing Hsu', 'Suiping Zhou', 'Malcolm Yoke Hean Low', 'Richard Fujimoto', 'Rassul Ayani']",PADS,2006
+277,c,A Framework for Robust HLA-based Distributed Simulations.,"['Dan Chen', 'Stephen John Turner', 'Wentong Cai']",PADS,2006
+278,c,Performance Evaluation of a Bandwidth Requirements Reduction Technique Based on Timely State Update.,"['Wentong Cai', 'Stephen John Turner', 'Suiping Zhou', 'Junhu Wei', 'Wenbo Zong']",Annual Simulation Symposium,2005
+279,c,Employing economics to achieve fairness in usage policing of cooperatively shared computing resources.,"['Percival Xavier', 'Wentong Cai', 'Bu-Sung Lee']",CCGRID,2005
+280,c,Design and implementation of an efficient multi-cluster GridRPC system.,"['Quoc-Thuan Ho', 'Wentong Cai', 'Yew-Soon Ong']",CCGRID,2005
+281,c,Communication Partner Identification in Distributed Job Workflow Execution over the Grid.,"['Yuhong Feng', 'Wentong Cai', 'Jiannong Cao']",ICDCS Workshops,2005
+282,c,Servicing Provisioning for HLA-Based Distributed Simulation on the Grid.,"['Yong Xie', 'Yong Meng Teo', 'Wentong Cai', 'Stephen John Turner']",PADS,2005
+283,c,An integrated and adaptive decision-support framework for high-tech manufacturing and service networks.,"['Peter Lendermann', 'Malcolm Y. H. Low', 'Boon-Ping Gan', 'Nirupam Julka', 'Lai Peng Chan', 'Loo Hay Lee', 'Simon J. E. Taylor', 'Stephen John Turner', 'Wentong Cai', 'Xiaoguang Wang', 'Terence Hung', 'Leon F. McGinnis', 'Stephen J. Buckley']",WSC,2005
+284,c,Multiplayer internet gaming with VRML: a relook.,"['Peter K. K. Loh', 'S. Phong', 'Wentong Cai', 'Tony Kai Yun Chan']",Advances in Computer Entertainment Technology,2004
+285,c,Grid Services and Service Discovery for HLA-Based Distributed Simulation.,"['Wenbo Zong', 'Yong Wang', 'Wentong Cai', 'Stephen John Turner']",DS-RT,2004
+286,c,HLA-Based Distributed Simulation Cloning.,"['Dan Chen', 'Stephen John Turner', 'Boon-Ping Gan', 'Wentong Cai']",DS-RT,2004
+287,c,Federate Migration in HLA-Based Simulation.,"['Zijing Yuan', 'Wentong Cai', 'Yoke-Hean Low', 'Stephen John Turner']",International Conference on Computational Science,2004
+288,c,The Design and Implementation of An OGSA-based Grid Information Service.,"['Tianyi Zang', 'Wei Jie', 'Terence Hung', 'Zhou Lei', 'Stephen John Turner', 'Wentong Cai']",ICWS,2004
+289,c,MCCF: A Distributed Grid Job Workflow Execution Framework.,"['Yuhong Feng', 'Wentong Cai']",ISPA,2004
+290,c,Managing Irregular Workloads of Cooperatively Shared Computing Clusters.,"['Percival Xavier', 'Wentong Cai', 'Bu-Sung Lee']",ISPA,2004
+291,c,Batch Based Cancellation: A Rollback Optimal Cancellation Scheme in Time Warp Simulations.,"['Yi Zeng', 'Wentong Cai', 'Stephen John Turner']",PADS,2004
+292,c,A Utility Model for Timely State Update in Distributed Wargame Simulations.,"['Suiping Zhou', 'Stephen John Turner', 'Wentong Cai', 'Hanfeng Zhao', 'Xiaolin Pang']",PADS,2004
+293,c,"GAD Kit - A Toolkit for ""Gridifying"" Applications.","['Quoc-Thuan Ho', 'Yew-Soon Ong', 'Wentong Cai', 'Hee-Khiang Ng', 'Bu-Sung Lee']",PDCAT,2004
+294,c,Incremental HLA-Based Distributed Simulation Cloning.,"['Dan Chen', 'Stephen John Turner', 'Wentong Cai', 'Boon-Ping Gan', 'Malcolm Yoke Hean Low']",WSC,2004
+295,c,Design and Development of a Cluster Gateway for Cluster-based HLA Distributed Virtual Simulation Environments.,"['Dan Chen', 'Bu-Sung Lee', 'Wentong Cai', 'Stephen John Turner']",Annual Simulation Symposium,2003
+296,c,Evaluating Alternative Solutions for Cloning in Distributed Simulation.,"['Dan Chen', 'Boon-Ping Gan', 'Nirupam Julka', 'Stephen John Turner', 'Wentong Cai', 'Junhu Wei']",Annual Simulation Symposium,2003
+297,c,Improving Data Filtering Accuracy in Hierarchical Federations.,"['Li Liu', 'Wentong Cai', 'Stephen John Turner', 'Guangya Li']",Annual Simulation Symposium,2003
+298,c,Resource Co-allocation for Parallel Tasks in Computational Grids.,"['Lizhe Wang', 'Wentong Cai', 'Bu-Sung Lee', 'Simon See', 'Wei Jie']",CLADE,2003
+299,c,A Consistency Model for Evaluating Distributed Virtual Environments.,"['Suiping Zhou', 'Wentong Cai', 'Stephen John Turner', 'Hanfeng Zhao']",CW,2003
+300,c,DPBP: A Sort-First Parallel Rendering Algorithm for Distributed Rendering Environments.,"['Huabing Zhu', 'Kai-Yun Chan', 'Lizhe Wang', 'Wentong Cai', 'Simon See']",CW,2003
+301,c,A Framework for Executing Parallel Simulation Using RTI.,"['Zijing Yuan', 'Wentong Cai', 'Malcolm Y. H. Low']",DS-RT,2003
+302,c,"""Gridifying"" Aerodynamic Design Problem Using GridRPC.","['Quoc-Thuan Ho', 'Yew-Soon Ong', 'Wentong Cai']",GCC (1),2003
+303,c,Distributed Information Management System for Grid Computing.,"['Liping Niu', 'Xiaojie Yuan', 'Wentong Cai']",GCC (1),2003
+304,c,A Peer-to-Peer Approach to Task Scheduling in Computation Grid.,"['Jiannong Cao', 'Oscar M. K. Kwong', 'Xianbing Wang', 'Wentong Cai']",GCC (1),2003
+305,c,A Simulation Study of Job Workflow Execution Models over the Grid.,"['Yuhong Feng', 'Wentong Cai', 'Jiannong Cao']",GCC (2),2003
+306,c,A Decentralized Hierarchical Scheduler for a Grid-Based Clearinghouse.,"['Percival Xavier', 'Bu-Sung Lee', 'Wentong Cai']",IPDPS,2003
+307,c,A Distributed Rendering Environment for Massive Data on Computational Grids.,"['Huabing Zhu', 'Lizhe Wang', 'Kai-Yun Chan', 'Wentong Cai', 'Simon See']",Peer-to-Peer Computing,2003
+308,c,Implementation of Federation Management Services over Federation Community Networks.,"['Wentong Cai', 'Guangya Li', 'Stephen John Turner', 'Bu-Sung Lee', 'Li Liu']",PADS,2003
+309,c,Resource Co-Allocation for Meta-Task in Computational Grids.,"['Lizhe Wang', 'Wentong Cai', 'Bu-Sung Lee', 'Simon See', 'Wei Jie']",PDPTA,2003
+310,c,A Grid Computing Infrastructure Based on OGSA.,"['Zhou Lei', 'Tianyi Zang', 'Wei Jie', 'Wentong Cai', 'Lizhe Wang']",PDPTA,2003
+311,c,A Web Services Based Grid Performance Data Management Framework.,"['Tianyi Zang', 'Zhou Lei', 'Wei Jie', 'Wentong Cai', 'Lizhe Wang']",PDPTA,2003
+312,c,Distributed simulation and manufacturing: synchronization and management of shared state in HLA-based distributed simulation.,"['Boon-Ping Gan', 'Malcolm Yoke Hean Low', 'Junhu Wei', 'Xiaoguang Wang', 'Stephen John Turner', 'Wentong Cai']",WSC,2003
+313,c,Parallel distributed simulation and modeling methods: causal order based time warp: a tradeoff of optimism.,"['Yi Zeng', 'Wentong Cai', 'Stephen John Turner']",WSC,2003
+314,c,A Load Management System for Running HLA-Based Distributed Simulations over the Grid.,"['Wentong Cai', 'Stephen John Turner', 'Hanfeng Zhao']",DS-RT,2002
+315,c,Automatic Construction of Hierarchical Federations Architecture.,"['Wentong Cai', 'Guangya Li', 'Stephen John Turner', 'Bu-Sung Lee', 'Li Liu']",DS-RT,2002
+316,c,Capturing Causality by Compressed Vector Clock in Real-Time Group Editors.,"['Chengzheng Sun', 'Wentong Cai']",IPDPS,2002
+317,c,Critical causality in distributed virtual environments.,"['Suiping Zhou', 'Wentong Cai', 'Stephen John Turner', 'Francis B. S. Lee']",PADS,2002
+318,c,A scalable architecture for supporting interactive games on the internet.,"['Wentong Cai', 'Percival Xavier', 'Stephen John Turner', 'Bu-Sung Lee']",PADS,2002
+319,c,A Parallel Object-oriented Environment for Cluster Computing.,"['Wei Jie', 'Wentong Cai', 'Stephen John Turner', 'Wai Keong Chong']",PDPTA,2002
+320,c,Parallel Federates - An Architecture for Hybrid Distributed Simulation.,"['Zhengrong Ji', 'Boon-Ping Gan', 'Stephen John Turner', 'Wentong Cai']",DS-RT,2001
+321,c,Dynamic Load-Balancing in a Data Parallel Object-Oriented System.,"['Wei Jie', 'Wentong Cai', 'Stephen John Turner']",ICPADS,2001
+322,c,Dynamic Load-balancing Using Prediction in a Parallel Object-oriented System.,"['Wei Jie', 'Wentong Cai', 'Stephen John Turner']",IPDPS,2001
+323,c,Hierarchical federations: an architecture for information hiding.,"['Wentong Cai', 'Stephen John Turner', 'Boon-Ping Gan']",Workshop on Parallel and Distributed Simulation,2001
+324,c,A causality based time management mechanism for federated simulation.,"['Bu-Sung Lee', 'Wentong Cai', 'Junlan Zhou']",Workshop on Parallel and Distributed Simulation,2001
+325,c,A parallel object-oriented manufacturing simulation language.,"['Ye Zhang', 'Wentong Cai', 'Stephen John Turner']",Workshop on Parallel and Distributed Simulation,2001
+326,c,Managing event traces for a web front-end to a parallel simulation.,"['Boon-Ping Gan', 'Li Liu', 'Zhengrong Ji', 'Stephen John Turner', 'Wentong Cai']",WSC,2001
+327,c,Adapting a Supply-Chain Simulation for HLA.,"['Stephen John Turner', 'Wentong Cai', 'Boon-Ping Gan']",DS-RT,2000
+328,c,Parallel discrete event simulation of manufacturing systems using parsec.,"['Ye Zhang', 'Wentong Cai', 'Stephen John Turner']",ESM,2000
+329,c,Implementation Lessons of Performance Prediction Tool for Parallel Conservative Simulation (Research Note).,"['Chu-Cheow Lim', 'Yoke-Hean Low', 'Boon-Ping Gan', 'Wentong Cai']",Euro-Par,2000
+330,c,Performance Evaluation of a Communication Optimization Model in Network-Based Parallel Computing.,"['Ming Zhu', 'Wentong Cai', 'Bu-Sung Lee']",ICPP Workshops,2000
+331,c,Load balancing for conservative simulation on shared memory multiprocessor systems.,"['Boon-Ping Gan', 'Yoke-Hean Low', 'Sanjay Jain', 'Stephen John Turner', 'Wentong Cai', 'Wen-Jing Hsu', 'Shell-Ying Huang']",PADS,2000
+332,c,Manufacturing sypply chain management: distributed supply chain simulation across enterprise boundaries.,"['Boon-Ping Gan', 'Li Liu', 'Sanjay Jain', 'Stephen John Turner', 'Wentong Cai', 'Wen-Jing Hsu']",WSC,2000
+333,c,Performance Analysis of Packet Bundling Techniques in DIS.,"['Lawrence A. H. Liang', 'Wentong Cai', 'Bu-Sung Lee', 'Stephen John Turner']",DIS-RT,1999
+334,c,Parallel and Distributed Simulation - Introduction.,"['Wentong Cai', 'Yong Meng Teo']",HICSS,1999
+335,c,A Parallelism Analyzer Algorithm for a Conservative Super-Step Simulation Protocol.,"['Chu-Cheow Lim', 'Yoke-Hean Low', 'Wentong Cai']",HICSS,1999
+336,c,Key Message Algorithm: A Communication Optimization Algorithm in Cluster-Based Parallel Computing.,"['Ming Zhu', 'Wentong Cai', 'Bu-Sung Lee']",IWCC,1999
+337,c,An Auto-Adaptive Dead Reckoning Algorithm for Distributed Interactive Simulation.,"['Wentong Cai', 'Francis B. S. Lee', 'L. Chen']",Workshop on Parallel and Distributed Simulation,1999
+338,c,Performance Prediction Tools for Parallel Discrete-Event Simulation.,"['Chu-Cheow Lim', 'Yoke-Hean Low', 'Boon-Ping Gan', 'Sanjay Jain', 'Wentong Cai', 'Wen-Jing Hsu', 'Shell-Ying Huang']",Workshop on Parallel and Distributed Simulation,1999
+339,c,An Empirical Comparison of Runtime Systems for Conservative Parallel Simulation.,"['Chu-Cheow Lim', 'Yoke-Hean Low', 'Wentong Cai', 'Wen-Jing Hsu', 'Shell-Ying Huang', 'Stephen John Turner']",IPPS/SPDP Workshops,1998
+340,c,A Methodology for Automating the Parallelization of Manufacturing Simulations.,"['Stephen John Turner', 'Wentong Cai', 'Chu-Cheow Lim', 'Yoke-Hean Low', 'Wen-Jing Hsu', 'Shell-Ying Huang']",Workshop on Parallel and Distributed Simulation,1998
+341,c,A Simulation Study of Dynamic Load Balancing for Network-based Parallel Processing.,"['Wentong Cai', 'Bu-Sung Lee', 'Alfred Heng', 'Li Zhu']",ISPAN,1997
+342,c,Dag Consistent Parallel Simulation: A Predictable and Robust Conservative Algorithm.,"['Wentong Cai', 'Emmanuelle Letertre', 'Stephen John Turner']",Workshop on Parallel and Distributed Simulation,1997
+343,c,Benchmarking IBM SP1 system for SPMD programming.,"['Wentong Cai', 'Alfred Heng', 'Peter J. Varman']",ICPADS,1996
+344,c,Performance of Task Allocation Algorithms in a Distributed Computing Environment.,"['Bu-Sung Lee', 'Wentong Cai', 'Alfred Heng', 'Seow Woon Tai']",PDPTA,1996
+345,c,VPE: A Visual Programming Environment for Parallel Processing.,"['Hung-Khoon Tan', 'Wentong Cai', 'Stephen John Turner']",Parallel and Distributed Computing and Systems,1995
+346,i,Multi-objective Optimization of Clustering-based Scheduling for Multi-workflow On Clouds Considering Fairness.,"['Feng Li', 'Wen Jun Tan', 'Wentong Cai']",CoRR,2022
+347,i,Time-Efficient and High-Quality Graph Partitioning for Graph Dynamic Scaling.,"['Masatoshi Hanai', 'Nikos Tziritas', 'Toyotaro Suzumura', 'Wentong Cai', 'Georgios Theodoropoulos']",CoRR,2021
+348,i,Distributed Edge Partitioning for Trillion-edge Graphs.,"['Masatoshi Hanai', 'Toyotaro Suzumura', 'Wen Jun Tan', 'Elvis S. Liu', 'Georgios Theodoropoulos', 'Wentong Cai']",CoRR,2019
+349,i,A Survey on Agent-based Simulation using Hardware Accelerators.,"['Jiajian Xiao', 'Philipp Andelfinger', 'David Eckhoff', 'Wentong Cai', 'Alois C. Knoll']",CoRR,2018
+350,p,An Agent-Based Generic Framework for Symbiotic Simulation Systems.,"['Stephen John Turner', 'Wentong Cai', 'Malcolm Yoke Hean Low', 'Heiko Aydt']",Multi-Agent Systems,2009
+351,e,"Methods and Applications for Modeling and Simulation of Complex Systems - 19th Asia Simulation Conference, AsiaSim 2019, Singapore, October 30 - November 1, 2019, Proceedings.","['Gary Tan', 'Axel Lehmann', 'Yong Meng Teo', 'Wentong Cai']",Communications in Computer and Information Science,2019
+352,e,"Proceedings of the 2017 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation, SIGSIM-PADS 2017, Singapore, May 24-26, 2017.","['Wentong Cai', 'Yong Meng Teo', 'Philip A. Wilsey', 'Kevin Jin']",Communications in Computer and Information Science,2017
+353,e,"6th International ICST Conference on Simulation Tools and Techniques, SimuTools '13, Cannes, France, March 6-8, 2013.","['Jan Himmelspach', 'Kurt Vanmechelen', 'Wentong Cai']",Communications in Computer and Information Science,2013
+354,e,"13th IEEE/ACM International Symposium on Distributed Simulation and Real Time Applications, Singapore, 25-28 October 2009.","['Stephen John Turner', 'David J. Roberts', 'Wentong Cai', 'Abdulmotaleb El-Saddik']",Communications in Computer and Information Science,2009
+355,e,"Parallel and Distributed Computing: Applications and Technologies, 5th International Conference, PDCAT 2004, Singapore, December 8-10, 2004, Proceedings.","['Kim-Meow Liew', 'Hong Shen', 'Simon See', 'Wentong Cai', 'Pingzhi Fan', 'Susumu Horiguchi']",Lecture Notes in Computer Science,2004

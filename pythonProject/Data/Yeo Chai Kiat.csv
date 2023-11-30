@@ -1,0 +1,216 @@
+,type,name,author,event,year
+0,j,Hybrid market-based resources allocation in Mobile Edge Computing systems under stochastic information.,"['Xiaowen Huang', 'Shimin Gong', 'Jingmin Yang', 'Wenjie Zhang', 'Liwei Yang', 'Chai Kiat Yeo']",Future Gener. Comput. Syst.,2022
+1,j,Approximate personalized propagation for unsupervised embedding in heterogeneous graphs.,"['Yibi Chen', 'Yikun Hu', 'Keqin Li', 'Chai Kiat Yeo', 'Kenli Li']",Inf. Sci.,2022
+2,j,Privacy-preserving knowledge transfer for intrusion detection with federated deep autoencoding gaussian mixture model.,"['Yang Chen', 'Junzhe Zhang', 'Chai Kiat Yeo']",Inf. Sci.,2022
+3,j,Identification of rumour stances by considering network topology and social media comments.,"['Yongcong Luo', 'Jing Ma', 'Chai Kiat Yeo']",J. Inf. Sci.,2022
+4,j,Exploiting user network topology and comment semantic for accurate rumour stance recognition on social media.,"['Yongcong Luo', 'Jing Ma', 'Chai Kiat Yeo']",J. Inf. Sci.,2022
+5,j,Optimal sequential relay-remote selection and computation offloading in mobile edge computing.,"['Che Chen', 'Rongzong Guo', 'Wenjie Zhang', 'Jingmin Yang', 'Chai Kiat Yeo']",J. Supercomput.,2022
+6,j,Distributed algorithm for computation offloading in mobile edge computing considering user mobility and task randomness.,"['F. Yifeng Zheng', 'S. Lei Huang', 'Wenjie Zhang', 'F. Jingmin Yang', 'F. Liwei Yang', 'Chai Kiat Yeo']",J. Supercomput.,2022
+7,j,Market-based dynamic resource allocation in Mobile Edge Computing systems with multi-server and multi-user.,"['Xiaowen Huang', 'Wenjie Zhang', 'Jingmin Yang', 'Liwei Yang', 'Chai Kiat Yeo']",Comput. Commun.,2021
+8,j,Lower-Limb Rehabilitation at Home: A Survey on Exercise Assessment and Initial Study on Exercise State Identification Toward Biofeedback.,"['Seanglidet Yean', 'Bu-Sung Lee', 'Chai Kiat Yeo']",Int. J. Interdiscip. Telecommun. Netw.,2021
+9,j,Multi-scale Self-Organizing Map assisted Deep Autoencoding Gaussian Mixture Model for unsupervised intrusion detection.,"['Yang Chen', 'Nami Ashizawa', 'Chai Kiat Yeo', 'Naoto Yanai', 'Seanglidet Yean']",Knowl. Based Syst.,2021
+10,j,BCMM: A novel post-based augmentation representation for early rumour detection on social media.,"['Yongcong Luo', 'Jing Ma', 'Chai Kiat Yeo']",Pattern Recognit.,2021
+11,j,Distributed algorithm for AP association with random arrivals and departures of users.,"['Zhenwei Chen', 'Wenjie Zhang', 'Yifeng Zheng', 'Liwei Yang', 'Chai Kiat Yeo']",IET Commun.,2020
+12,j,Two-tier trading strategy design for spectrum allocation in heterogeneous cognitive radio networks.,"['Xiaowen Huang', 'Wenjie Zhang', 'Jingmin Yang', 'Liwei Yang', 'Chai Kiat Yeo']",IET Commun.,2020
+13,j,Lower-Limb Rehabilitation at Home: A Survey on Exercise Assessment and Initial Study on Exercise State Identification Toward Biofeedback.,"['Seanglidet Yean', 'Bu-Sung Lee', 'Chai Kiat Yeo']",Int. J. Interdiscip. Telecommun. Netw.,2020
+14,j,GPS Location Spoofing and FM Broadcast Intrusion Using Software-Defined Radio.,"['Soon Heng Mavric Tan', 'Chai Kiat Yeo']",Int. J. Interdiscip. Telecommun. Netw.,2020
+15,j,Dynamic Spectrum Allocation for Heterogeneous Cognitive Radio Networks With Multiple Channels.,"['Wenjie Zhang', 'Yingjuan Sun', 'Lei Deng', 'Chai Kiat Yeo', 'Liwei Yang']",IEEE Syst. J.,2019
+16,j,Energy Efficiency Consideration for Indoor Femtocell Networks in TV White Spaces.,"['Wenjie Zhang', 'Guanglin Zhang', 'Yifeng Zheng', 'Lingfu Xie', 'Chai Kiat Yeo']",IEEE Access,2018
+17,j,Spectrum Sharing for Heterogeneous Networks and Application Systems in TV White Spaces.,"['Wenjie Zhang', 'Guanglin Zhang', 'Yifeng Zheng', 'Liwei Yang', 'Chai Kiat Yeo']",IEEE Access,2018
+18,j,Distributed Decisions on TV Spectrum Allocation Considering Spatial and Temporal Variation.,"['Zhenwei Chen', 'Wenjie Zhang', 'Jingmin Yang', 'Liwei Yang', 'Chai Kiat Yeo']",IEEE Access,2018
+19,j,Power spectrum entropy based detection and mitigation of low-rate DoS attacks.,"['Zhaomin Chen', 'Chai Kiat Yeo', 'Bu-Sung Lee', 'Chiew Tong Lau']",Comput. Networks,2018
+20,j,Leveraging social media news to predict stock index movement using RNN-boost.,"['Weiling Chen', 'Chai Kiat Yeo', 'Chiew Tong Lau', 'Bu-Sung Lee']",Data Knowl. Eng.,2018
+21,j,TV white space and its applications in future wireless networks and communications: a survey.,"['Wenjie Zhang', 'Jingmin Yang', 'Guanglin Zhang', 'Liwei Yang', 'Chai Kiat Yeo']",IET Commun.,2018
+22,j,Evolutionary multi-objective optimization based ensemble autoencoders for image outlier detection.,"['Zhaomin Chen', 'Chai Kiat Yeo', 'Bu-Sung Lee', 'Chiew Tong Lau', 'Yaochu Jin']",Neurocomputing,2018
+23,j,Unsupervised rumor detection based on users' behaviors using neural networks.,"['Weiling Chen', 'Yan Zhang', 'Chai Kiat Yeo', 'Chiew Tong Lau', 'Bu-Sung Lee']",Pattern Recognit. Lett.,2018
+24,j,Smartphone Orientation Estimation Algorithm Combining Kalman Filter With Gradient Descent.,"['Seanglidet Yean', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Chan Hua Vun', 'Hong Lye Oh']",IEEE J. Biomed. Health Informatics,2018
+25,j,Detecting Flooding Attack and Accommodating Burst Traffic in Delay-Tolerant Networks.,"['Thi Ngoc Diep Pham', 'Chai Kiat Yeo', 'Naoto Yanai', 'Toru Fujiwara']",IEEE Trans. Veh. Technol.,2018
+26,j,Adaptive trust and privacy management framework for vehicular networks.,"['Thi Ngoc Diep Pham', 'Chai Kiat Yeo']",Veh. Commun.,2018
+27,j,Efficient replication for vehicular content distribution.,"['Da Zhang', 'Chai Kiat Yeo']",Veh. Commun.,2018
+28,j,Detection of network anomalies using Improved-MSPCA with sketches.,"['Zhaomin Chen', 'Chai Kiat Yeo', 'Bu-Sung Lee', 'Chiew Tong Lau']",Comput. Secur.,2017
+29,j,Detecting Colluding Blackhole and Greyhole Attacks in Delay Tolerant Networks.,"['Thi Ngoc Diep Pham', 'Chai Kiat Yeo']",IEEE Trans. Mob. Comput.,2016
+30,j,Objective measures for quality assessment of noise-suppressed speech.,"['Huijun Ding', 'Tan Lee', 'Ing Yann Soon', 'Chai Kiat Yeo', 'Peng Dai', 'Guo Dan']",Speech Commun.,2015
+31,j,Conceptual Network Model From Sensory Neurons to Astrocytes of the Human Nervous System.,"['Yiqun Yang', 'Chai Kiat Yeo']",IEEE Trans. Biomed. Eng.,2015
+32,j,Cluster-Based Cooperative Spectrum Sensing Assignment Strategy for Heterogeneous Cognitive Radio Network.,"['Wenjie Zhang', 'Yiqun Yang', 'Chai Kiat Yeo']",IEEE Trans. Veh. Technol.,2015
+33,j,Cluster-based adaptive multispectrum sensing and access in cognitive radio networks.,"['Wenjie Zhang', 'Chai Kiat Yeo']",Wirel. Commun. Mob. Comput.,2015
+34,j,Sequential sensing based spectrum handoff in cognitive radio networks with multiple users.,"['Wenjie Zhang', 'Chai Kiat Yeo']",Comput. Networks,2014
+35,j,Optimal non-identical sensing setting for multi channels in cognitive radio networks.,"['Wenjie Zhang', 'Chai Kiat Yeo']",Comput. Commun.,2014
+36,j,Mobile Internet access over intermittent network connectivity.,"['Yang Xia', 'Chai Kiat Yeo']",J. Netw. Comput. Appl.,2014
+37,j,MaxCD: Efficient multi-flow scheduling and cooperative downloading for improved highway drive-thru Internet systems.,"['Shengbo Yang', 'Chai Kiat Yeo', 'Bu-Sung Lee']",Comput. Networks,2013
+38,j,EFLoM: An Efficient Framework for Local Mobility.,"['Feng Zhong', 'Chai Kiat Yeo', 'Bu-Sung Lee']",Comput. Commun.,2013
+39,j,Teaching an Old TPM New Tricks: Repurposing for Identity-Based Signatures.,"['Weihan Goh', 'Chai Kiat Yeo']",IEEE Secur. Priv.,2013
+40,j,A MAC Sensing Protocol Design for Data Transmission with More Protection to Primary Users.,"['Wenjie Zhang', 'Chai Kiat Yeo', 'Yifan Li']",IEEE Trans. Mob. Comput.,2013
+41,j,Enabling Efficient WiFi-Based Vehicular Content Distribution.,"['Da Zhang', 'Chai Kiat Yeo']",IEEE Trans. Parallel Distributed Syst.,2013
+42,j,Cooperative Duty Cycling For Energy-Efficient Contact Discovery in Pocket Switched Networks.,"['Shengbo Yang', 'Chai Kiat Yeo', 'Francis Bu-Sung Lee']",IEEE Trans. Veh. Technol.,2013
+43,j,Measuring Group Mobility: A Topology Based Approach.,"['Yang Xia', 'Chai Kiat Yeo']",IEEE Wirel. Commun. Lett.,2013
+44,j,Achieving Small-World Properties using Bio-Inspired Techniques in Wireless Networks.,"['Rachit Agarwal', 'Abhik Banerjee', 'Vincent Gauthier', 'Monique Becker', 'Chai Kiat Yeo', 'Bu-Sung Lee']",Comput. J.,2012
+45,j,Mitigating the impact of node mobility using mobile backbone for heterogeneous MANETs.,"['Yang Xia', 'Chai Kiat Yeo']",Comput. Commun.,2012
+46,j,Joint iterative algorithm for optimal cooperative spectrum sensing in cognitive radio networks.,"['Wenjie Zhang', 'Chai Kiat Yeo']",Comput. Commun.,2012
+47,j,Adaptive load balancing algorithm for multiple homing mobile nodes.,"['Feng Zhong', 'Chai Kiat Yeo', 'Bu-Sung Lee']",J. Netw. Comput. Appl.,2012
+48,j,Throughput and delay scaling laws for mobile overlaid wireless networks.,"['Wenjie Zhang', 'Chai Kiat Yeo']",J. Netw. Comput. Appl.,2012
+49,j,Performance improvements for network-wide broadcast with instantaneous network information.,"['Abhik Banerjee', 'Chuan Heng Foh', 'Chai Kiat Yeo', 'Bu-Sung Lee']",J. Netw. Comput. Appl.,2012
+50,j,Toward Reliable Data Delivery for Highly Dynamic Mobile Ad Hoc Networks.,"['Shengbo Yang', 'Chai Kiat Yeo', 'Bu-Sung Lee']",IEEE Trans. Mob. Comput.,2012
+51,j,Exploring Locality of Reference in P2P VoD Systems.,"['Danqi Wang', 'Chai Kiat Yeo']",IEEE Trans. Multim.,2012
+52,j,A Self-Organization Framework for Wireless Ad Hoc Networks as Small Worlds.,"['Abhik Banerjee', 'Rachit Agarwal', 'Vincent Gauthier', 'Chai Kiat Yeo', 'Hossam Afifi', 'Francis Bu-Sung Lee']",IEEE Trans. Veh. Technol.,2012
+53,j,Distributed Court System for intrusion detection in mobile ad hoc networks.,"['Da Zhang', 'Chai Kiat Yeo']",Comput. Secur.,2011
+54,j,"A Plausibly-Deniable, Practical Trusted Platform Module Based Anti-Forensics Client-Server System.","['Weihan Goh', 'Peng-Chor Leong', 'Chai Kiat Yeo']",IEEE J. Sel. Areas Commun.,2011
+55,j,A DCT-Based Speech Enhancement System With Pitch Synchronous Analysis.,"['Huijun Ding', 'Ing Yann Soon', 'Chai Kiat Yeo']",IEEE ACM Trans. Audio Speech Lang. Process.,2011
+56,j,Improving job scheduling performance with parallel access to replicas in Data Grid environment.,"['Junwei Zhang', 'Bu-Sung Lee', 'Xueyan Tang', 'Chai Kiat Yeo']",J. Supercomput.,2011
+57,j,Superchunk-Based Efficient Search in P2P-VoD System.,"['Danqi Wang', 'Chai Kiat Yeo']",IEEE Trans. Multim.,2011
+58,j,Efficient DSR route request flooding with directional antennas.,"['Rully Adrian Santosa', 'Bu-Sung Lee', 'Chai Kiat Yeo']",Comput. Networks,2010
+59,j,Environment-aware QoS framework for multi-interface terminal.,"['Widyo Cahyono Andi', 'Chai Kiat Yeo', 'Bu-Sung Lee']",Comput. Commun.,2010
+60,j,A model to predict the optimal performance of the Hierarchical Data Grid.,"['Junwei Zhang', 'Bu-Sung Lee', 'Xueyan Tang', 'Chai Kiat Yeo']",Future Gener. Comput. Syst.,2010
+61,j,Enabling inter-PMIPv6-domain handover with traffic distributors.,"['Feng Zhong', 'Chai Kiat Yeo', 'Bu-Sung Lee']",J. Netw. Comput. Appl.,2010
+62,j,Over-Attenuated Components Regeneration for Speech Enhancement.,"['Huijun Ding', 'Ing Yann Soon', 'Chai Kiat Yeo']",IEEE Trans. Speech Audio Process.,2010
+63,j,A Service/Device Differentiation Scheme for Contention-Tone-Based Wireless LAN Protocol.,"['Abhik Banerjee', 'Juki Wirawan Tantra', 'Chuan Heng Foh', 'Chai Kiat Yeo', 'Bu-Sung Lee']",IEEE Trans. Veh. Technol.,2010
+64,j,Dynamic Transmission Scheduling for Streaming Applications via P2P Overlay.,"['Jiaming Li', 'Chai Kiat Yeo']",J. Signal Process. Syst.,2010
+65,j,Content and overlay-aware scheduling for peer-to-peer streaming in fluctuating networks.,"['Jiaming Li', 'Chai Kiat Yeo']",J. Netw. Comput. Appl.,2009
+66,j,A spectral filtering method based on hybrid wiener filters for speech enhancement.,"['Huijun Ding', 'Ing Yann Soon', 'Soo Ngee Koh', 'Chai Kiat Yeo']",Speech Commun.,2009
+67,j,A terminal-assisted route optimized NEMO management.,"['Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Juki Wirawan Tantra', 'Yang Xia']",Telecommun. Syst.,2009
+68,j,TMSP: Terminal Mobility Support Protocol.,"['Teck Meng Lim', 'Chai Kiat Yeo', 'Francis Bu-Sung Lee', 'Quang Vinh Le']",IEEE Trans. Mob. Comput.,2009
+69,j,Effectiveness of Explicit Stations Grouping in Crowded Wireless LANs.,"['Juki Wirawan Tantra', 'Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo']",IEEE Commun. Lett.,2007
+70,j,Quantum-Based Earliest Deadline First Scheduling for Multiservices.,"['Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo']",IEEE Trans. Multim.,2007
+71,j,The impact of data replication on job scheduling performance in the Data Grid.,"['Ming Tang', 'Bu-Sung Lee', 'Xueyan Tang', 'Chai Kiat Yeo']",Future Gener. Comput. Syst.,2006
+72,j,Edge-to-Edge Quality-of-Service Domain.,"['Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo']",IEICE Trans. Commun.,2006
+73,j,Weighted deficit earliest departure first scheduling.,"['Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo']",Comput. Commun.,2005
+74,j,Dynamic replication algorithms for the multi-tier Data Grid.,"['Ming Tang', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Xueyan Tang']",Future Gener. Comput. Syst.,2005
+75,j,A survey of application level multicast techniques.,"['Chai Kiat Yeo', 'Bu-Sung Lee', 'Meng Hwa Er']",Comput. Commun.,2004
+76,j,Secure communications between bandwidth brokers.,"['Bu-Sung Lee', 'Wing-Keong Woo', 'Chai Kiat Yeo', 'Teck Meng Lim', 'Bee-Hwa Lim', 'Yuxiong He', 'Jie Song']",ACM SIGOPS Oper. Syst. Rev.,2004
+77,j,A framework for multicast video streaming over IP networks.,"['Chai Kiat Yeo', 'Bu-Sung Lee', 'Meng Hwa Er']",J. Netw. Comput. Appl.,2003
+78,j,Path and Oracle Discovery Protocol for Centralized Bandwidth Reservation Mechanisms.,"['Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo']",J. Netw. Syst. Manag.,2003
+79,j,Design and Implementation of a Java-based Meeting Space over Internet.,"['Bu-Sung Lee', 'Chai Kiat Yeo', 'Ing Yann Soon', 'Keok-Kee Lee', 'Sun Wei']",Multim. Tools Appl.,2003
+80,j,Hybrid quality adaptation mechanism for layered multicast over the internet.,"['Bu-Sung Lee', 'Chai Kiat Yeo', 'Ruijin Fu']",J. Netw. Comput. Appl.,2002
+81,j,Unicorn: voluntary computing over Internet.,"['T. M. Ong', 'Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo']",ACM SIGOPS Oper. Syst. Rev.,2002
+82,j,A peering architecture for ubiquitous IP multicast streaming.,"['Chai Kiat Yeo', 'Bu-Sung Lee', 'Meng Hwa Er']",ACM SIGOPS Oper. Syst. Rev.,2002
+83,j,An adaptive protocol for real-time fax communications over Internet.,"['Chai Kiat Yeo', 'Siu Cheung Hui', 'Ing Yann Soon', 'Bu-Sung Lee']",Comput. Commun.,2001
+84,j,RQRP protocol for video delivery over IP.,"['Bu-Sung Lee', 'Chai Kiat Yeo', 'Sui Meng Poon', 'Jie Song']",Int. J. Commun. Syst.,2001
+85,j,A unified messaging system on the Internet.,"['Chai Kiat Yeo', 'Siu Cheung Hui', 'Ing Yann Soon', 'Chiew Tong Lau']",Microprocess. Microsystems,2001
+86,j,An analogue video interface for general-purpose DSP.,"['Ing Yann Soon', 'Chai Kiat Yeo', 'H. C. Ng']",Microprocess. Microsystems,2001
+87,j,Performance of buffer-based request-reply scheme for VoD streams over IP networks.,"['Sui Meng Poon', 'Jie Song', 'Bu-Sung Lee', 'Chai Kiat Yeo']",Comput. Networks,2000
+88,j,JMS-Java-Based Meeting Space.,"['Wei Sun', 'Bu-Sung Lee', 'Chai Kiat Yeo']",J. Organ. Comput. Electron. Commer.,2000
+89,j,A DAVIC-based video-on-demand system over IP networks.,"['Sui Meng Poon', 'Bu-Sung Lee', 'Chai Kiat Yeo']",IEEE Trans. Consumer Electron.,2000
+90,j,A web-based Internet Java Phone for real-time voice communication.,"['Kia Ming Phua', 'Siu Cheung Hui', 'Chai Kiat Yeo']",World Wide Web,2000
+91,j,Towards a Unified Messaging Environment over the Internet.,"['Leonard Chong', 'Siu Cheung Hui', 'Chai Kiat Yeo']",Cybern. Syst.,1999
+92,j,Lossless compression of multispectral satellite images.,"['Chai Kiat Yeo', 'Ing Yann Soon', 'Chiew Tong Lau']",J. Commun. Networks,1999
+93,j,Design of an Internet fax and voice gateway.,"['Schubert Foo', 'Chai Kiat Yeo', 'Siu Cheung Hui', 'D. H. Xue']",Microprocess. Microsystems,1999
+94,j,Portable adapter for barcode scanners.,"['Ing Yann Soon', 'Chai Kiat Yeo', 'Yeow Hong Sng']",Microprocess. Microsystems,1999
+95,j,RTFaxing: Internet Real-Time Faxing System.,"['Siu Cheung Hui', 'Chai Kiat Yeo', 'K. Jin']",Netw. Inf. Syst. J.,1999
+96,j,Improved noise suppression filter using self-adaptive estimator of probability of speech absence.,"['Ing Yann Soon', 'Soo Ngee Koh', 'Chai Kiat Yeo']",Signal Process.,1999
+97,j,A DAVIC-based video-on-demand system over ATM networks.,"['Sui Meng Poon', 'Bu-Sung Lee', 'Chai Kiat Yeo']",IEEE Trans. Consumer Electron.,1999
+98,j,Noisy speech enhancement using discrete cosine transform.,"['Ing Yann Soon', 'Soo Ngee Koh', 'Chai Kiat Yeo']",Speech Commun.,1998
+99,j,A WWW-Assisted Fax System for Internet Fax-to-Fax Communication.,"['L. S. K. Chong', 'Siu Cheung Hui', 'Chai Kiat Yeo', 'Schubert Foo']",World Wide Web,1998
+100,j,A telephone adapter for Internet telephony systems.,"['Schubert Foo', 'Chai Kiat Yeo', 'Siu Cheung Hui']",Microprocess. Microsystems,1997
+101,j,English-Japanese Machine Translation: Verb-Based Noun Classification Approach.,"['Chai Kiat Yeo', 'Wai Kong Lam', 'Ing Yann Soon']",Int. J. Artif. Intell. Tools,1996
+102,c,NSGZero: Efficiently Learning Non-exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,"['Wanqi Xue', 'Bo An', 'Chai Kiat Yeo']",AAAI,2022
+103,c,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,"['Wanqi Xue', 'Wei Qiu', 'Bo An', 'Zinovi Rabinovich', 'Svetlana Obraztsova', 'Chai Kiat Yeo']",AAMAS,2022
+104,c,Monocular 3D Object Reconstruction with GAN Inversion.,"['Junzhe Zhang', 'Daxuan Ren', 'Zhongang Cai', 'Chai Kiat Yeo', 'Bo Dai', 'Chen Change Loy']",ECCV (1),2022
+105,c,Context-Aware Memory Attention Network for Video-Based Action Recognition.,"['Thean Chun Koh', 'Chai Kiat Yeo', 'Vaitesswar U. S', 'Xuan Jing']",IVMSP,2022
+106,c,Self-Organizing Map assisted Deep Autoencoding Gaussian Mixture Model for Intrusion Detection.,"['Yang Chen', 'Nami Ashizawa', 'Seanglidet Yean', 'Chai Kiat Yeo', 'Naoto Yanai']",CCNC,2021
+107,c,Unsupervised 3D Shape Completion Through GAN Inversion.,"['Junzhe Zhang', 'Xinyi Chen', 'Zhongang Cai', 'Liang Pan', 'Haiyu Zhao', 'Shuai Yi', 'Chai Kiat Yeo', 'Bo Dai', 'Chen Change Loy']",CVPR,2021
+108,c,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,"['Wanqi Xue', 'Youzhi Zhang', 'Shuxin Li', 'Xinrun Wang', 'Bo An', 'Chai Kiat Yeo']",IJCAI,2021
+109,c,Harvesting Social Media Sentiments for Stock Index Prediction.,"['MingWei Lim', 'Chai Kiat Yeo']",CCNC,2020
+110,c,MessyTable: Instance Association in Multiple Camera Views.,"['Zhongang Cai', 'Junzhe Zhang', 'Daxuan Ren', 'Cunjun Yu', 'Haiyu Zhao', 'Shuai Yi', 'Chai Kiat Yeo', 'Chen Change Loy']",ECCV (11),2020
+111,c,Spectrum Sharing for Heterogeneous Communication Systems in TV White Spaces.,"['Wenjie Zhang', 'Guanglin Zhang', 'Yifeng Zheng', 'Liwei Yang', 'Chai Kiat Yeo']",ICNC,2019
+112,c,Two-Tier Spectrum Trading Strategy for Heterogeneous Cognitive Radio Networks.,"['Xiaowen Huang', 'Wenjie Zhang', 'Liwei Yang', 'Chai Kiat Yeo', 'Shengyu Chen']",ITNAC,2019
+113,c,Network Anomaly Detection Using Federated Deep Autoencoding Gaussian Mixture Model.,"['Yang Chen', 'Junzhe Zhang', 'Chai Kiat Yeo']",MLN,2019
+114,c,Unauthorized Parking Detection using Deep Networks at Real Time.,"['Weiling Chen', 'Chai Kiat Yeo']",SMARTCOMP,2019
+115,c,RehabPartner: Motion tracking assistant using a novel complementary feedback filter.,"['Shao Loong Lim', 'Seanglidet Yean', 'Bu-Sung Lee', 'Chai Kiat Yeo']",CCNC,2018
+116,c,Smart Cross-Platform Binary Visualisation Tool.,"['Bee Lee Ong', 'Chai Kiat Yeo']",UEMCON,2018
+117,c,Exploiting Behavioral Differences to Detect Fake Ne.,"['Weiling Chen', 'Chenyan Yang', 'Gibson Cheng', 'Yan Zhang', 'Chai Kiat Yeo', 'Chiew Tong Lau', 'Bu-Sung Lee']",UEMCON,2018
+118,c,Autoencoder-based network anomaly detection.,"['Zhaomin Chen', 'Chai Kiat Yeo', 'Bu-Sung Lee', 'Chiew Tong Lau']",WTS,2018
+119,c,Automated oscillation detection and correction of fused wearable sensor signals using machine learning.,"['Senglidet Yean', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Zhaomin Chen']",WTS,2018
+120,c,MaxRep: Efficient Replication for Vehicular Content Distribution.,"['Da Zhang', 'Chai Kiat Yeo']",GLOBECOM,2017
+121,c,A novel anomaly detection system using feature-based MSPCA with sketch.,"['Zhaomin Chen', 'Chai Kiat Yeo', 'Bu-Sung Lee', 'Chiew Tong Lau']",WOCC,2017
+122,c,Detecting flooding attack while accommodating burst traffic in delay tolerant networks.,"['Pham Thi Ngoc Diep', 'Chai Kiat Yeo']",WTS,2017
+123,c,Capacity consideration for indoor femtocell networks in TV white spaces.,"['Wenjie Zhang', 'Lingfu Xie', 'Chai Kiat Yeo']",WTS,2017
+124,c,Utility maximization for uplink MU-MIMO: Combining spectral-energy efficiency and fairness.,"['Lei Deng', 'Wenjie Zhang', 'Yun Rui', 'Chai Kiat Yeo']",EuCNC,2016
+125,c,Dynamic spectrum allocation for heterogeneous cognitive radio network.,"['Wenjie Zhang', 'Lei Deng', 'Chai Kiat Yeo']",WCNC,2016
+126,c,A trust-privacy framework in vehicular ad hoc networks (VANET).,"['Thi Ngoc Diep Pham', 'Chai Kiat Yeo']",WTS,2016
+127,c,"Mood prediction from facial video with music ""therapy"" on a smartphone.","['Seanglidet Yean', 'Bu-Sung Lee', 'Chai Kiat Yeo']",WTS,2016
+128,c,Data exchange via multiplexed color QR codes on mobile devices.,"['Sin Rong Toh', 'Weihan Goh', 'Chai Kiat Yeo']",WTS,2016
+129,c,Modelling Calcium Signaling with a Two-Layer Cluster-Based Communication Network System.,"['Yiqun Yang', 'Wenjie Zhang', 'Chai Kiat Yeo']",BWCCA,2015
+130,c,Detecting colluding blackhole and greyhole attack in Delay Tolerant Networks.,"['Thi Ngoc Diep Pham', 'Chai Kiat Yeo']",CCNC,2015
+131,c,A MSPCA based intrusion detection algorithm tor detection of DDoS attack.,"['Zhaomin Chen', 'Chai Kiat Yeo', 'Francis Bu-Sung Lee', 'Chiew Tong Lau']",ICCC,2015
+132,c,Early Warning Systems for Cyber Defence.,"['Harsha K. Kalutarage', 'Siraj Ahmed Shaikh', 'Bu-Sung Lee', 'Chonho Lee', 'Chai Kiat Yeo']",iNetSeC,2015
+133,c,Assistive visual aid for the elderly hearing impaired.,"['Chai Kiat Yeo', 'Feng Yun Tan', 'Ing Yann Soon', 'Keok-Kee Lee']",WTS,2015
+134,c,Resilient mesh-tree overlay for differentiated temporal requirement service in P2P streaming.,"['Jiaming Li', 'Chai Kiat Yeo', 'Ing Yann Soon']",CCNC,2014
+135,c,Statistical wormhole detection and localization in delay tolerant networks.,"['Thi Ngoc Diep Pham', 'Chai Kiat Yeo']",CCNC,2014
+136,c,A Wavelet Entropy-Based Change Point Detection on Network Traffic: A Case Study of Heartbleed Vulnerability.,"['Chonho Lee', 'Liu Yi', 'Li-Hau Tan', 'Weihan Goh', 'Bu-Sung Lee', 'Chai Kiat Yeo']",CloudCom,2014
+137,c,Cryptanalyzing the efficient identity-based RSA and GQ multisignature schemes.,"['Weihan Goh', 'Chai Kiat Yeo']",IWCMC,2014
+138,c,Cluster-Based Cooperative Spectrum Sensing Assignment Strategy in Cognitive Radio Networks.,"['Wenjie Zhang', 'Yiqun Yang', 'Chai Kiat Yeo', 'Lei Deng']",VTC Fall,2014
+139,c,Using mobile relays as connectivity catalyst for highly mobile networks.,"['Yang Xia', 'Chai Kiat Yeo']",WCNC,2014
+140,c,Dual-metric hybrid protocol for application level multicast for live video streaming.,"['Chai Kiat Yeo', 'Bu-Sung Lee', 'Ing Yann Soon', 'Yang Xia', 'Zoebir Bong', 'Yuanyuan Mao']",CCNC,2013
+141,c,Design and analysis of a cluster-based calcium signaling network model.,"['Yiqun Yang', 'Chai Kiat Yeo']",CCNC,2013
+142,c,Anonymity-preserving identity-based multisignature scheme with provision for origin Self-Revelation.,"['Weihan Goh', 'Chai Kiat Yeo']",GLOBECOM,2013
+143,c,Multi-policy link state routing for disruption tolerant networks.,"['Yuanyuan Mao', 'Yang Xia', 'Zoebir Bong', 'Chai Kiat Yeo', 'A. Y. P. Chua', 'A. J. L. Tan', 'A. Sivagami', 'Tiah Khoon Ng', 'Kok Siong Lai', 'Ser Hai Toh']",WMNC,2013
+144,c,Enabling email access under intermittent connectivity.,"['Yang Xia', 'Zoebir Bong', 'Sugura Ishikawa', 'Chai Kiat Yeo', 'Yuanyuan Mao']",WCNC,2013
+145,c,Threat mitigation in tactical-level disruption tolerant networks.,"['Weihan Goh', 'Chai Kiat Yeo']",GLOBECOM,2012
+146,c,CDC: An Energy-Efficient Contact Discovery Scheme for Pocket Switched Networks.,"['Shengbo Yang', 'Chai Kiat Yeo', 'Bu-Sung Lee']",ICCCN,2012
+147,c,MaxCD: Max-Rate Based Cooperative Downloading for Drive-Thru Networks.,"['Shengbo Yang', 'Chai Kiat Yeo', 'Bu-Sung Lee']",ICCCN,2012
+148,c,Molecular communication model through gap junction channel with selective permeabilities.,"['Yiqun Yang', 'Chai Kiat Yeo']",ICON,2012
+149,c,Optimal handing-back point in mobile data offloading.,"['Da Zhang', 'Chai Kiat Yeo']",VNC,2012
+150,c,Enabling Network Based Local Mobility with Cooperative Access Points.,"['Yang Xia', 'Chai Kiat Yeo']",VTC Fall,2012
+151,c,Adaptive Load Balancing Algorithm for multi-homing mobile nodes in local domain.,"['Feng Zhong', 'Chai Kiat Yeo', 'Bu-Sung Lee']",CCNC,2011
+152,c,A Cooperative Content Distribution System for Vehicles.,"['Da Zhang', 'Chai Kiat Yeo']",GLOBECOM,2011
+153,c,Self-organization of nodes using bio-inspired techniques for achieving small world properties.,"['Rachit Agarwal', 'Abhik Banerjee', 'Vincent Gauthier', 'Monique Becker', 'Chai Kiat Yeo', 'Bu-Sung Lee']",GLOBECOM Workshops,2011
+154,c,Self-organization of wireless ad hoc networks as small worlds using long range directional beams.,"['Abhik Banerjee', 'Rachit Agarwal', 'Vincent Gauthier', 'Chai Kiat Yeo', 'Hossam Afifi', 'Bu-Sung Lee']",GLOBECOM Workshops,2011
+155,c,Predictive Scheduling in Drive-Thru Networks with Flow-Level Dynamics and Deadlines.,"['Shengbo Yang', 'Chai Kiat Yeo', 'Bu-Sung Lee']",ICC,2011
+156,c,Optimal Non-Identical Sensing Setting for Multi-Channel Cooperative Sensing.,"['Wenjie Zhang', 'Chai Kiat Yeo']",ICC,2011
+157,c,Multi-Rate Broadcasting: Analysis and Design of Stateless Algorithms.,"['Abhik Banerjee', 'Chuan Heng Foh', 'Chai Kiat Yeo', 'Bu-Sung Lee']",VTC Fall,2011
+158,c,DTN Serial Convergence Layer with Multiple Access Control & Neighbour Discovery.,"['Zoebir Bong', 'Chai Kiat Yeo']",VTC Fall,2011
+159,c,Probabilistic Routing Based on History of Messages in Delay Tolerant Networks.,"['Feng Cheng Lee', 'Chai Kiat Yeo']",VTC Fall,2011
+160,c,Exploiting wireless broadcast advantage as a network-wide cache.,"['Abhik Banerjee', 'Chuan Heng Foh', 'Chai Kiat Yeo', 'Bu-Sung Lee']",WiMob,2011
+161,c,A Queuing Mechanism to Alleviate Flooding Attacks in Probabilistic Delay Tolerant Networks.,"['Feng Cheng Lee', 'Weihan Goh', 'Chai Kiat Yeo']",AICT,2010
+162,c,"A ""Plug-and-Play' Framework to Enhance Heterogeneity and Versatility in Delay Tolerant Networks.","['Feng Cheng Lee', 'Yang Xia', 'Chai Kiat Yeo', 'Yong Tai Tan']",AICT,2010
+163,c,A Network Lifetime Aware Cooperative MAC Scheme for 802.11b Wireless Networks.,"['Abhik Banerjee', 'Chuan Heng Foh', 'Chai Kiat Yeo', 'Bu-Sung Lee']",CCNC,2010
+164,c,Controlling Route Discovery for Efficient Routing in Resource-Constrained Sensor Networks.,"['Abhik Banerjee', 'Juki Wirawan Tantra', 'Chuan Heng Foh', 'Chai Kiat Yeo', 'Bu-Sung Lee']",CCNC,2010
+165,c,A Disruption Tolerant Mobility Architecture Towards Convergent Terminal Mobility.,"['Yang Xia', 'Chai Kiat Yeo', 'Bu-Sung Lee']",CCNC,2010
+166,c,A Novel Architecture of Intrusion Detection System.,"['Da Zhang', 'Chai Kiat Yeo']",CCNC,2010
+167,c,Enabling Inter-PMIPv6-Domain Handover with Traffic Distributors.,"['Feng Zhong', 'Shengbo Yang', 'Chai Kiat Yeo', 'Bu-Sung Lee']",CCNC,2010
+168,c,Exploring Locality of Reference in P2P VoD Systems.,"['Danqi Wang', 'Chai Kiat Yeo']",GLOBECOM,2010
+169,c,Throughput-Delay Scaling for Two Mobile Overlaid Networks.,"['Wenjie Zhang', 'Chai Kiat Yeo']",GLOBECOM,2010
+170,c,Robust Geographic Routing with Virtual Destination Based Void Handling for MANETs.,"['Shengbo Yang', 'Chai Kiat Yeo', 'Bu-Sung Lee']",VTC Spring,2010
+171,c,Efficient channel assignment and routing protocol for multiple channels multiple interfaces wireless mesh network.,"['Trung-Tuan Luong', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Andreas Kassler']",Wireless Days,2010
+172,c,A Distributed Court System for Intrusion Detection in OLSR.,"['Da Zhang', 'Chai Kiat Yeo']",CIS (1),2009
+173,c,Superchunk Based Fast Search in P2P-VoD System.,"['Danqi Wang', 'Chai Kiat Yeo']",GLOBECOM,2009
+174,c,Position Based Opportunistic Routing for Robust Data Delivery in MANETs.,"['Shengbo Yang', 'Feng Zhong', 'Chai Kiat Yeo', 'Bu-Sung Lee', 'Jeff Boleng']",GLOBECOM,2009
+175,c,A post-processing technique for regeneration of over-attenuated speech.,"['Huijun Ding', 'Ing Yann Soon', 'Soo Ngee Koh', 'Chai Kiat Yeo']",ICASSP,2009
+176,c,Algorithms to minimize channel interference in multiple channels multiple interfaces environments.,"['Trung-Tuan Luong', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Ming-Shiunn Wong', 'Shigeki Goto']",LCN,2009
+177,c,An efficient framework for local mobility.,"['Feng Zhong', 'Yang Xia', 'Chai Kiat Yeo', 'Bu-Sung Lee', 'Teck Meng Lim']",WCNC,2009
+178,c,Dual-Interface Multiple Channels DSDV Protocol.,"['Trung-Tuan Luong', 'Bu-Sung Lee', 'Chai Kiat Yeo']",WiMob,2009
+179,c,An Efficient Scheme to Discover Neighbors Beyond Omnidirectional Transmission Range.,"['Rully Adrian Santosa', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Teck Meng Lim']",CCNC,2008
+180,c,Seamless Mobility Across Heterogeneous Wireless Domains.,"['Juki Wirawan Tantra', 'Mai Ngoc Son', 'Dang Duc Nguyen', 'Teck Meng Lim', 'Chai Kiat Yeo', 'Bu-Sung Lee']",CCNC,2008
+181,c,Impact of Parallel Download on Job Scheduling in Data Grid Environment.,"['Junwei Zhang', 'Bu-Sung Lee', 'Xueyan Tang', 'Chai Kiat Yeo']",GCC,2008
+182,c,Content and Overlay-Aware Transmission Scheduling in Peer-to-Peer Streaming.,"['Jiaming Li', 'Chai Kiat Yeo', 'Bu-Sung Lee']",GLOBECOM,2008
+183,c,A Mobility Management Scheme with QoS Support for Heterogeneous Multihomed Mobile Nodes.,"['Dang Duc Nguyen', 'Yang Xia', 'Mai Ngoc Son', 'Chai Kiat Yeo', 'Bu-Sung Lee']",GLOBECOM,2008
+184,c,A mobile SIP: IP mobility support using SIP.,"['Chai Kiat Yeo', 'Bu-Sung Lee', 'Feng Zhong']",ICUIMC,2008
+185,c,Fast scheduling on P2P streaming overlay.,"['Jiaming Li', 'Chai Kiat Yeo', 'Bu-Sung Lee']",ICUIMC,2008
+186,c,Channel Allocation for Multiple Channels Multiple Interfaces Communication in Wireless Ad Hoc Networks.,"['Trung-Tuan Luong', 'Bu-Sung Lee', 'Chai Kiat Yeo']",Networking,2008
+187,c,Efficient QoS Differentiation in Crowded Wireless LANs.,"['Abhik Banerjee', 'Juki Wirawan Tantra', 'Chai Kiat Yeo', 'Bu-Sung Lee']",VTC Spring,2008
+188,c,Hybrid Protocol for Application Level Multicast for Live Video Streaming.,"['Chai Kiat Yeo', 'Bu-Sung Lee', 'Meng Hwa Er']",ICC,2007
+189,c,A Mobility Scheme for Personal and Terminal Mobility.,"['Bu-Sung Lee', 'Teck Meng Lim', 'Chai Kiat Yeo', 'Quang Vinh Le']",ICC,2007
+190,c,Peer-to-Peer Streaming Scheduling to Improve Real-Time Latency.,"['Jiaming Li', 'Chai Kiat Yeo', 'Bu-Sung Lee']",ICME,2007
+191,c,Click4BuildingID@NTU: Click for Building Identification with GPS-enabled Camera Cell Phone.,"['Chai Kiat Yeo', 'Liang-Tien Chia', 'Tat-Jen Cham', 'D. Rajon']",ICME,2007
+192,c,Service Differentiation in Wireless Networks: Adaptive Ad Hoc Qs Versus IEEE 802.11e.,"['Amir Mowlaei', 'Bu-Sung Lee', 'Teck Meng Lim', 'Chai Kiat Yeo']",ICON,2007
+193,c,A terminal-assisted route optimized NEMO management.,"['Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Juki Wirawan Tantra']",MOBIWAC,2007
+194,c,Terminal-Assisted Network Mobility Management.,"['Teck Meng Lim', 'Juki Wirawan Tantra', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Yang Xia']",WCNC,2007
+195,c,Distributed Neighbor Discovery in Ad Hoc Networks Using Directional Antennas.,"['Rully Adrian Santosa', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Teck Meng Lim']",CIT,2006
+196,c,Combining Data Replication Algorithms and Job Scheduling Heuristics in the Data Grid.,"['Ming Tang', 'Bu-Sung Lee', 'Xueyan Tang', 'Chai Kiat Yeo']",Euro-Par,2005
+197,c,IPv6 network mobility for flat ad hoc routing protocol.,"['Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo']",GLOBECOM,2005
+198,c,Pervasive Communication for Commuters in Public Buses.,"['Teck Meng Lim', 'Boon-Chong Seet', 'Bu-Sung Lee', 'Chai Kiat Yeo', 'Andreas Kassler']",PerCom Workshops,2005
+199,c,Dual-rate quantum-controlled scheduling.,"['Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo']",ICON,2004
+200,c,Weighted deficit earliest departure first scheduling.,"['Teck Meng Lim', 'Bu-Sung Lee', 'Chai Kiat Yeo']",ICON,2003
+201,c,An Overlay for Ubiquitous Streaming over Internet.,"['Chai Kiat Yeo', 'Bu-Sung Lee', 'Meng Hwa Er']",NETWORKING,2002
+202,c,Supporting Real-Time Faxing over the Internet.,"['K. Jin', 'Siu Cheung Hui', 'Chai Kiat Yeo']",ICSC,1999
+203,c,An ATM-Enhanced Meeting System.,"['Tony K. Y. Chan', 'Bu-Sung Lee', 'Liang-Tien Chia', 'Lai Lai Tung', 'Chai Kiat Yeo']",PDPTA,1997
+204,i,NSGZero: Efficiently Learning Non-Exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,"['Wanqi Xue', 'Bo An', 'Chai Kiat Yeo']",CoRR,2022
+205,i,Monocular 3D Object Reconstruction with GAN Inversion.,"['Junzhe Zhang', 'Daxuan Ren', 'Zhongang Cai', 'Chai Kiat Yeo', 'Bo Dai', 'Chen Change Loy']",CoRR,2022
+206,i,Unsupervised 3D Shape Completion through GAN Inversion.,"['Junzhe Zhang', 'Xinyi Chen', 'Zhongang Cai', 'Liang Pan', 'Haiyu Zhao', 'Shuai Yi', 'Chai Kiat Yeo', 'Bo Dai', 'Chen Change Loy']",CoRR,2021
+207,i,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,"['Wanqi Xue', 'Youzhi Zhang', 'Shuxin Li', 'Xinrun Wang', 'Bo An', 'Chai Kiat Yeo']",CoRR,2021
+208,i,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,"['Wanqi Xue', 'Wei Qiu', 'Bo An', 'Zinovi Rabinovich', 'Svetlana Obraztsova', 'Chai Kiat Yeo']",CoRR,2021
+209,i,MessyTable: Instance Association in Multiple Camera Views.,"['Zhongang Cai', 'Junzhe Zhang', 'Daxuan Ren', 'Cunjun Yu', 'Haiyu Zhao', 'Shuai Yi', 'Chai Kiat Yeo', 'Chen Change Loy']",CoRR,2020
+210,i,Self-Organizing Map assisted Deep Autoencoding Gaussian Mixture Model for Intrusion Detection.,"['Yang Chen', 'Nami Ashizawa', 'Seanglidet Yean', 'Chai Kiat Yeo', 'Naoto Yanai']",CoRR,2020
+211,i,A Self-Organization Framework for Wireless Ad Hoc Networks as Small Worlds.,"['Abhik Banerjee', 'Rachit Agarwal', 'Vincent Gauthier', 'Chai Kiat Yeo', 'Hossam Afifi', 'Bu-Sung Lee']",CoRR,2012
+212,i,Self-Organization of Wireless Ad Hoc Networks as Small Worlds Using Long Range Directional Beams.,"['Abhik Banerjee', 'Rachit Agarwal', 'Vincent Gauthier', 'Chai Kiat Yeo', 'Hossam Afifi', 'Bu-Sung Lee']",CoRR,2011
+213,i,Self-organization of Nodes using Bio-Inspired Techniques for Achieving Small World Properties.,"['Rachit Agarwal', 'Abhik Banerjee', 'Vincent Gauthier', 'Monique Becker', 'Chai Kiat Yeo', 'Bu-Sung Lee']",CoRR,2011
+214,i,Achieving Small World Properties using Bio-Inspired Techniques in Wireless Networks.,"['Rachit Agarwal', 'Abhik Banerjee', 'Vincent Gauthier', 'Monique Becker', 'Chai Kiat Yeo', 'Bu-Sung Lee']",CoRR,2011

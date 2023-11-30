@@ -1,0 +1,47 @@
+,type,name,author,event,year
+0,j,SI-News: Integrating social information for news recommendation with attention-based graph convolutional network.,"['Peng Zhu', 'Dawei Cheng', 'Siqiang Luo', 'Fangzhou Yang', 'Yifeng Luo', 'Weining Qian', 'Aoying Zhou']",Neurocomputing,2022
+1,j,Distributed PageRank computation with improved round complexities.,"['Siqiang Luo', 'Xiaowei Wu', 'Ben Kao']",Inf. Sci.,2022
+2,j,SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization.,"['Ningyi Liao', 'Dingheng Mo', 'Siqiang Luo', 'Xiang Li', 'Pengcheng Yin']",Proc. VLDB Endow.,2022
+3,j,Leveraging enterprise knowledge graph to infer web events' influences via self-supervised learning.,"['Peng Zhu', 'Dawei Cheng', 'Siqiang Luo', 'Ruyao Xu', 'Yuqi Liang', 'Yifeng Luo']",J. Web Semant.,2022
+4,j,ROAM: A Fundamental Routing Query on Road Networks with Efficiency.,"['Siqiang Luo', 'Reynold Cheng', 'Ben Kao', 'Xiaokui Xiao', 'Shuigeng Zhou', 'Jiafeng Hu']",IEEE Trans. Knowl. Data Eng.,2020
+5,j,BATON: Batch One-Hop Personalized PageRanks with Efficiency and Accuracy.,"['Siqiang Luo', 'Xiaokui Xiao', 'Wenqing Lin', 'Ben Kao']",IEEE Trans. Knowl. Data Eng.,2020
+6,j,On Spatial-Aware Community Search.,"['Yixiang Fang', 'Zheng Wang', 'Reynold Cheng', 'Xiaodong Li', 'Siqiang Luo', 'Jiafeng Hu', 'Xiaojun Chen']",IEEE Trans. Knowl. Data Eng.,2019
+7,j,TOAIN: A Throughput Optimizing Adaptive Index for Answering Dynamic kNN Queries on Road Networks.,"['Siqiang Luo', 'Ben Kao', 'Guoliang Li', 'Jiafeng Hu', 'Reynold Cheng', 'Yudian Zheng']",Proc. VLDB Endow.,2018
+8,j,Effective Community Search over Large Spatial Graphs.,"['Yixiang Fang', 'Reynold Cheng', 'Xiaodong Li', 'Siqiang Luo', 'Jiafeng Hu']",Proc. VLDB Endow.,2017
+9,j,C-Explorer: Browsing Communities in Large Graphs.,"['Yixiang Fang', 'Reynold Cheng', 'Siqiang Luo', 'Jiafeng Hu', 'Kai Huang']",Proc. VLDB Endow.,2017
+10,j,On Minimal Steiner Maximum-Connected Subgraph Queries.,"['Jiafeng Hu', 'Xiaowei Wu', 'Reynold Cheng', 'Siqiang Luo', 'Yixiang Fang']",IEEE Trans. Knowl. Data Eng.,2017
+11,j,Effective and efficient attributed community search.,"['Yixiang Fang', 'Reynold Cheng', 'Yankai Chen', 'Siqiang Luo', 'Jiafeng Hu']",VLDB J.,2017
+12,j,Effective Community Search for Large Attributed Graphs.,"['Yixiang Fang', 'Reynold Cheng', 'Siqiang Luo', 'Jiafeng Hu']",Proc. VLDB Endow.,2016
+13,j,"A RAMCloud Storage System based on HDFS: Architecture, implementation and evaluation.","['Yifeng Luo', 'Siqiang Luo', 'Jihong Guan', 'Shuigeng Zhou']",J. Syst. Softw.,2013
+14,j,Multi-operator image retargeting with automatic integration of direct and indirect seam carving.,"['Siqiang Luo', 'Junping Zhang', 'Qian Zhang', 'Xiaoru Yuan']",Image Vis. Comput.,2012
+15,j,DISKs: A System for Distributed Spatial Group Keyword Search on Road Networks.,"['Siqiang Luo', 'Yifeng Luo', 'Shuigeng Zhou', 'Gao Cong', 'Jihong Guan']",Proc. VLDB Endow.,2012
+16,c,Multi-Task Processing in Vertex-Centric Graph Systems: Evaluations and Insights.,"['Siqiang Luo', 'Zichen Zhu', 'Xiaokui Xiao', 'Yin Yang', 'Chunbo Li', 'Ben Kao']",EDBT,2023
+17,c,Multi-scale Time Based Stock Appreciation Ranking Prediction via Price Co-movement Discrimination.,"['Ruyao Xu', 'Dawei Cheng', 'Cen Chen', 'Siqiang Luo', 'Yifeng Luo', 'Weining Qian']",DASFAA (3),2022
+18,c,Example-based Spatial Search at Scale.,"['Hanyuan Zhang', 'Siqiang Luo', 'Jieming Shi', 'Jing Nathan Yan', 'Weiwei Sun']",ICDE,2022
+19,c,VC-Tune: Tuning and Exploring Distributed Vertex-Centric Graph Systems.,"['Zichen Zhu', 'Siqiang Luo', 'Xiaokui Xiao', 'Yin Yang', 'Dingheng Mo', 'Yufei Han']",ICDE,2022
+20,c,Finding Global Homophily in Graph Neural Networks When Meeting Heterophily.,"['Xiang Li', 'Renyu Zhu', 'Yao Cheng', 'Caihua Shan', 'Siqiang Luo', 'Dongsheng Li', 'Weining Qian']",ICML,2022
+21,c,Spiking Graph Convolutional Networks.,"['Zulun Zhu', 'Jiaying Peng', 'Jintang Li', 'Liang Chen', 'Qi Yu', 'Siqiang Luo']",IJCAI,2022
+22,c,Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction.,"['Zequan Xu', 'Siqiang Luo', 'Jieming Shi', 'Hui Li', 'Chen Lin', 'Qihang Sun', 'Shaofeng Hu']",MDM,2022
+23,c,DMCS : Density Modularity based Community Search.,"['Junghoon Kim', 'Siqiang Luo', 'Gao Cong', 'Wenyuan Yu']",SIGMOD Conference,2022
+24,c,Proteus: A Self-Designing Range Filter.,"['Eric R. Knorr', 'Baptiste Lemaire', 'Andrew Lim', 'Siqiang Luo', 'Huanchen Zhang', 'Stratos Idreos', 'Michael Mitzenmacher']",SIGMOD Conference,2022
+25,c,Seesaw Counting Filter: An Efficient Guardian for Vulnerable Negative Keys During Dynamic Filtering.,"['Meng Li', 'Deyi Chen', 'Haipeng Dai', 'Rongbiao Xie', 'Siqiang Luo', 'Rong Gu', 'Tong Yang', 'Guihai Chen']",WWW,2022
+26,c,Agenda: Robust Personalized PageRanks in Evolving Graphs.,"['Dingheng Mo', 'Siqiang Luo']",CIKM,2021
+27,c,Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents.,"['Mengzhen Fan', 'Dawei Cheng', 'Fangzhou Yang', 'Siqiang Luo', 'Yifeng Luo', 'Weining Qian', 'Aoying Zhou']",CIKM,2020
+28,c,Improved Communication Cost in Distributed PageRank Computation - A Theoretical Study.,['Siqiang Luo'],ICML,2020
+29,c,Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores.,"['Siqiang Luo', 'Subarna Chatterjee', 'Rafael Ketsetsidis', 'Niv Dayan', 'Wilson Qin', 'Stratos Idreos']",SIGMOD Conference,2020
+30,c,Distributed PageRank Computation: An Improved Theoretical Study.,['Siqiang Luo'],AAAI,2019
+31,c,MPR - A Partitioning-Replication Framework for Multi-Processing kNN Search on Road Networks.,"['Siqiang Luo', 'Ben Kao', 'Xiaowei Wu', 'Reynold Cheng']",ICDE,2019
+32,c,Efficient Batch One-Hop Personalized PageRanks.,"['Siqiang Luo', 'Xiaokui Xiao', 'Wenqing Lin', 'Ben Kao']",ICDE,2019
+33,c,ROSC: Robust Spectral Clustering on Multi-scale Data.,"['Xiang Li', 'Ben Kao', 'Siqiang Luo', 'Martin Ester']",WWW,2018
+34,c,On Embedding Uncertain Graphs.,"['Jiafeng Hu', 'Reynold Cheng', 'Zhipeng Huang', 'Yixiang Fang', 'Siqiang Luo']",CIKM,2017
+35,c,SEQ: Example-based Query for Spatial Objects.,"['Siqiang Luo', 'Jiafeng Hu', 'Reynold Cheng', 'Jing Yan', 'Ben Kao']",CIKM,2017
+36,c,Querying Minimal Steiner Maximum-Connected Subgraphs in Large Graphs.,"['Jiafeng Hu', 'Xiaowei Wu', 'Reynold Cheng', 'Siqiang Luo', 'Yixiang Fang']",CIKM,2016
+37,c,Distributed Spatial Keyword Querying on Road Networks.,"['Siqiang Luo', 'Yifeng Luo', 'Shuigeng Zhou', 'Gao Cong', 'Jihong Guan']",EDBT,2014
+38,c,Shortest path and distance queries on road networks: towards bridging theory and practice.,"['Andy Diwen Zhu', 'Hui Ma', 'Xiaokui Xiao', 'Siqiang Luo', 'Youze Tang', 'Shuigeng Zhou']",SIGMOD Conference,2013
+39,i,Learning-Based Approaches for Graph Problems: A Survey.,"['Kai Siong Yow', 'Siqiang Luo']",CoRR,2022
+40,i,DMCS : Density Modularity based Community Search.,"['Junghoon Kim', 'Siqiang Luo', 'Gao Cong', 'Wenyuan Yu']",CoRR,2022
+41,i,Spiking Graph Convolutional Networks.,"['Zulun Zhu', 'Jiaying Peng', 'Jintang Li', 'Liang Chen', 'Qi Yu', 'Siqiang Luo']",CoRR,2022
+42,i,Finding Global Homophily in Graph Neural Networks When Meeting Heterophily.,"['Xiang Li', 'Renyu Zhu', 'Yao Cheng', 'Caihua Shan', 'Siqiang Luo', 'Dongsheng Li', 'Weining Qian']",CoRR,2022
+43,i,Proteus: A Self-Designing Range Filter.,"['Eric R. Knorr', 'Baptiste Lemaire', 'Andrew Lim', 'Siqiang Luo', 'Huanchen Zhang', 'Stratos Idreos', 'Michael Mitzenmacher']",CoRR,2022
+44,i,SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization.,"['Ningyi Liao', 'Dingheng Mo', 'Siqiang Luo', 'Xiang Li', 'Pengcheng Yin']",CoRR,2022
+45,i,Shortest Path and Distance Queries on Road Networks: Towards Bridging Theory and Practice.,"['Andy Diwen Zhu', 'Hui Ma', 'Xiaokui Xiao', 'Siqiang Luo', 'Youze Tang', 'Shuigeng Zhou']",CoRR,2013

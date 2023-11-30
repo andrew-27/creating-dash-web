@@ -1,0 +1,134 @@
+,type,name,author,event,year
+0,j,Smart interpretable model (SIM) enabling subject matter experts in rule generation.,"['Hotman Christianto', 'Gary Kee Khoon Lee', 'Zhou Weigui Jair', 'Henry Kasim', 'Deepu Rajan']",Expert Syst. Appl.,2022
+1,j,An interpretable Neural Fuzzy Hammerstein-Wiener network for stock price prediction.,"['Xie Chen', 'Deepu Rajan', 'Chai Quek']",Inf. Sci.,2021
+2,j,Deep residual pooling network for texture recognition.,"['Shangbo Mao', 'Deepu Rajan', 'Liang-Tien Chia']",Pattern Recognit.,2021
+3,j,An image similarity descriptor for classification tasks.,"['Liangliang Wang', 'Deepu Rajan']",J. Vis. Commun. Image Represent.,2020
+4,j,Saliency-based bit plane detection for network applications.,"['Maryam Asadzadeh Kaljahi', 'Palaiahnakote Shivakumara', 'Saqib Hakak', 'Mohd Yamani Idna Bin Idris', 'Mohammad Hossein Anisi', 'Deepu Rajan']",Multim. Tools Appl.,2020
+5,j,Are Object Detection Assessment Criteria Ready for Maritime Computer Vision?,"['Dilip K. Prasad', 'Huixu Dong', 'Deepu Rajan', 'Chai Quek']",IEEE Trans. Intell. Transp. Syst.,2020
+6,j,CamType: assistive text entry using gaze with an off-the-shelf webcam.,"['Yi Liu', 'Bu-Sung Lee', 'Deepu Rajan', 'Andrzej Sluzek', 'Martin J. McKeown']",Mach. Vis. Appl.,2019
+7,j,CNN-based gender classification in near-infrared periocular images.,"['Anirudh Manyala', 'Hisham Cholakkal', 'Vijay Anand', 'Vivek Kanhangad', 'Deepu Rajan']",Pattern Anal. Appl.,2019
+8,j,Object Detection in a Maritime Environment: Performance Evaluation of Background Subtraction Methods.,"['Dilip K. Prasad', 'Chandrashekar Krishna Prasath', 'Deepu Rajan', 'Lily Rachmawati', 'Eshan Rajabally', 'Chai Quek']",IEEE Trans. Intell. Transp. Syst.,2019
+9,j,Locality and context-aware top-down saliency.,"['Junxia Li', 'Deepu Rajan', 'Jian Yang']",IET Image Process.,2018
+10,j,Backtracking Spatial Pyramid Pooling-Based Image Classifier for Weakly Supervised Top-Down Salient Object Detection.,"['Hisham Cholakkal', 'Jubin Johnson', 'Deepu Rajan']",IEEE Trans. Image Process.,2018
+11,j,L1-Regularized Reconstruction Error as Alpha Matte.,"['Jubin Johnson', 'Hisham Cholakkal', 'Deepu Rajan']",IEEE Signal Process. Lett.,2017
+12,j,Video Processing From Electro-Optical Sensors for Object Detection and Tracking in a Maritime Environment: A Survey.,"['Dilip K. Prasad', 'Deepu Rajan', 'Lily Rachmawati', 'Eshan Rajabally', 'Chai Quek']",IEEE Trans. Intell. Transp. Syst.,2017
+13,j,Efficient 2D viewpoint combination for human action recognition.,"['Behrouz Saghafi', 'Deepu Rajan', 'Wanqing Li']",Pattern Anal. Appl.,2016
+14,j,A classifier-guided approach for top-down salient object detection.,"['Hisham Cholakkal', 'Jubin Johnson', 'Deepu Rajan']",Signal Process. Image Commun.,2016
+15,j,Sparse Coding for Alpha Matting.,"['Jubin Johnson', 'Ehsan Shahrian Varnousfaderani', 'Hisham Cholakkal', 'Deepu Rajan']",IEEE Trans. Image Process.,2016
+16,j,Double Low Rank Matrix Recovery for Saliency Fusion.,"['Junxia Li', 'Lei Luo', 'Fanlong Zhang', 'Jian Yang', 'Deepu Rajan']",IEEE Trans. Image Process.,2016
+17,j,Particle filter framework for salient object detection in videos.,"['Karthik Muthuswamy', 'Deepu Rajan']",IET Comput. Vis.,2015
+18,j,Multi-modal fusion for associated news story retrieval.,"['Ehsan Younessian', 'Deepu Rajan']",Multim. Tools Appl.,2015
+19,j,Using texture to complement color in image matting.,"['Ehsan Shahrian', 'Deepu Rajan']",Image Vis. Comput.,2013
+20,j,Dynamic distortion maps for image retargeting.,"['Xuejie Zhang', 'Yiqun Hu', 'Deepu Rajan']",J. Vis. Commun. Image Represent.,2013
+21,j,Salient Motion Detection in Compressed Domain.,"['Karthik Muthuswamy', 'Deepu Rajan']",IEEE Signal Process. Lett.,2013
+22,j,Regularized Feature Reconstruction for Spatio-Temporal Saliency Detection.,"['Zhixiang Ren', 'Shenghua Gao', 'Liang-Tien Chia', 'Deepu Rajan']",IEEE Trans. Image Process.,2013
+23,j,Weighted Color and Texture Sample Selection for Image Matting.,"['Ehsan Shahrian Varnousfaderani', 'Deepu Rajan']",IEEE Trans. Image Process.,2013
+24,j,New Edge Characteristics for Scene and Object Classification.,"['Palaiahnakote Shivakumara', 'Deepu Rajan', 'Suresh Anand Sadananthan']",Int. J. Pattern Recognit. Artif. Intell.,2012
+25,j,"Object Recognition by Discriminative Combinations of Line Segments, Ellipses, and Appearance Features.","['Alex Yong Sang Chia', 'Deepu Rajan', 'Maylor Karhang Leung', 'Susanto Rahardja']",IEEE Trans. Pattern Anal. Mach. Intell.,2012
+26,j,Human action recognition using Pose-based discriminant embedding.,"['Behrouz Saghafi', 'Deepu Rajan']",Signal Process. Image Commun.,2012
+27,j,A Linear Dynamical System Framework for Salient Motion Detection.,"['Viswanath Gopalakrishnan', 'Deepu Rajan', 'Yiqun Hu']",IEEE Trans. Circuits Syst. Video Technol.,2012
+28,j,Content-Based Keyframe Clustering Using Near Duplicate Keyframe Identification.,"['Ehsan Younessian', 'Deepu Rajan']",Int. J. Multim. Data Eng. Manag.,2011
+29,j,A Split and Merge Based Ellipse Detector With Self-Correcting Capability.,"['Alex Yong Sang Chia', 'Susanto Rahardja', 'Deepu Rajan', 'Maylor Karhang Leung']",IEEE Trans. Image Process.,2011
+30,j,Scene classification using multiple features in a two-stage probabilistic classification framework.,"['Zhan-Li Sun', 'Deepu Rajan', 'Liang-Tien Chia']",Neurocomputing,2010
+31,j,Random Walks on Graphs for Salient Object Detection in Images.,"['Viswanath Gopalakrishnan', 'Yiqun Hu', 'Deepu Rajan']",IEEE Trans. Image Process.,2010
+32,j,Attention-from-motion: A factorization approach for detecting attention objects in motion.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",Comput. Vis. Image Underst.,2009
+33,j,Salient Region Detection by Modeling Distributions of Color and Orientation.,"['Viswanath Gopalakrishnan', 'Yiqun Hu', 'Deepu Rajan']",IEEE Trans. Multim.,2009
+34,j,Structural Descriptors for Category Level Object Detection.,"['Alex Y. S. Chia', 'Susanto Rahardja', 'Deepu Rajan', 'Maylor K. H. Leung']",IEEE Trans. Multim.,2009
+35,j,Coherent Phrase Model for Efficient Image Near-Duplicate Retrieval.,"['Yiqun Hu', 'Xiangang Cheng', 'Liang-Tien Chia', 'Xing Xie', 'Deepu Rajan', 'Ah-Hwee Tan']",IEEE Trans. Multim.,2009
+36,j,Detection of visual attention regions in images using robust subspace analysis.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",J. Vis. Commun. Image Represent.,2008
+37,j,Differential pixel-based low-power and high-speed implementation of DCT for on-board satellite image processing.,"['A. Prasad Vinod', 'Deepu Rajan', 'Ankita Singla']",IET Circuits Devices Syst.,2007
+38,j,Multimodal Semantic Analysis and Annotation for Basketball Video.,"['Song Liu', 'Min Xu', 'Haoran Yi', 'Liang-Tien Chia', 'Deepu Rajan']",EURASIP J. Adv. Signal Process.,2006
+39,j,A motion-based scene tree for browsing and retrieval of compressed videos.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",Inf. Syst.,2006
+40,j,A motion-based scene tree for compressed video content management.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",Image Vis. Comput.,2006
+41,j,Dynamic Programming-Based Reverse Frame Selection for VBR Video Delivery Under Constrained Resources.,"['Dayong Tao', 'Jianfei Cai', 'Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia', 'King Ngi Ngan']",IEEE Trans. Circuits Syst. Video Technol.,2006
+42,j,Automatic Generation of MPEG-7 Compliant XML Document for Motion Trajectory Descriptor in Sports Video.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",Multim. Tools Appl.,2005
+43,j,A new motion histogram to index motion content in video segments.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",Pattern Recognit. Lett.,2005
+44,j,Simultaneous Estimation of Super-Resolved Scene and Depth Map from Low Resolution Defocused Observations.,"['Deepu Rajan', 'Subhasis Chaudhuri']",IEEE Trans. Pattern Anal. Mach. Intell.,2003
+45,j,Multi-objective super resolution: concepts and examples.,"['Deepu Rajan', 'Subhasis Chaudhuri', 'Manjunath V. Joshi']",IEEE Signal Process. Mag.,2003
+46,j,Data fusion techniques for super-resolution imaging.,"['Deepu Rajan', 'Subhasis Chaudhuri']",Inf. Fusion,2002
+47,j,An MRF-Based Approach to Generation of Super-Resolution Images from Blurred Observations.,"['Deepu Rajan', 'Subhasis Chaudhuri']",J. Math. Imaging Vis.,2002
+48,j,Generalized interpolation and its application in super-resolution imaging.,"['Deepu Rajan', 'Subhasis Chaudhuri']",Image Vis. Comput.,2001
+49,c,Speech Emotion Recognition with Co-Attention Based Multi-Level Acoustic Information.,"['Heqing Zou', 'Yuke Si', 'Chen Chen', 'Deepu Rajan', 'Eng Siong Chng']",ICASSP,2022
+50,c,A Deep Hybrid Fuzzy Neural Hammerstein-Wiener Network for Stock Price Prediction.,"['Xie Chen', 'Deepu Rajan', 'Chai Quek']",ICAIIC,2020
+51,c,Free-Head Appearance-Based Eye Gaze Estimation on Mobile Devices.,"['Jigang Liu', 'Francis Bu-Sung Lee', 'Deepu Rajan']",ICAIIC,2019
+52,c,Gaze Estimation Using Residual Neural Network.,"['En Teng Wong', 'Seanglidet Yean', 'Qingyao Hu', 'Bu-Sung Lee', 'Jigang Liu', 'Deepu Rajan']",PerCom Workshops,2019
+53,c,Comparative Convolutional Neural Network for Younger Face Identification.,"['Liangliang Wang', 'Deepu Rajan']",VCIP,2019
+54,c,Backtracking ScSPM Image Classifier for Weakly Supervised Top-Down Saliency.,"['Hisham Cholakkal', 'Jubin Johnson', 'Deepu Rajan']",CVPR,2016
+55,c,Feasibility Analysis of Eye Typing with a Standard Webcam.,"['Yi Liu', 'Bu-Sung Lee', 'Andrzej Sluzek', 'Deepu Rajan', 'Martin J. McKeown']",ECCV Workshops (2),2016
+56,c,Salient object detection in tracking shots.,"['Karthik Muthuswamy', 'Deepu Rajan']",ICPR,2016
+57,c,Top-down saliency with Locality-constrained Contextual Sparse Coding.,"['Hisham Cholakkal', 'Deepu Rajan', 'Jubin Johnson']",BMVC,2015
+58,c,Local feature embedding for supervised image classification.,"['Junxia Li', 'Deepu Rajan', 'Jian Yang']",ICIP,2015
+59,c,Temporal trimap propagation using motion-assisted shape blending.,"['Jubin Johnson', 'Deepu Rajan', 'Hisham Cholakkal']",VCIP,2015
+60,c,Sparse codes as Alpha Matte.,"['Jubin Johnson', 'Deepu Rajan', 'Hisham Cholakkal']",BMVC,2014
+61,c,Depth really Matters: Improving Visual Salient Region Detection with Depth.,"['Karthik Desingh', 'K. Madhava Krishna', 'Deepu Rajan', 'C. V. Jawahar']",BMVC,2013
+62,c,Improving Image Matting Using Comprehensive Sampling Sets.,"['Ehsan Shahrian', 'Deepu Rajan', 'Brian L. Price', 'Scott Cohen']",CVPR,2013
+63,c,Human activities recognition using depth images.,"['Raj Kumar Gupta', 'Alex Yong Sang Chia', 'Deepu Rajan']",ACM Multimedia,2013
+64,c,Background subtraction via coherent trajectory decomposition.,"['Zhixiang Ren', 'Liang-Tien Chia', 'Deepu Rajan', 'Shenghua Gao']",ACM Multimedia,2013
+65,c,Weighted color and texture sample selection for image matting.,"['Ehsan Shahrian', 'Deepu Rajan']",CVPR,2012
+66,c,Sparse likelihood saliency detection.,"['Minh-Chau Hoang', 'Deepu Rajan']",ICASSP,2012
+67,c,Salient motion detection through state controllability.,"['Karthik Muthuswamy', 'Deepu Rajan']",ICASSP,2012
+68,c,Spatiotemporal Saliency Detection via Sparse Representation.,"['Zhixiang Ren', 'Shenghua Gao', 'Deepu Rajan', 'Liang-Tien Chia', 'Yun Huang']",ICME,2012
+69,c,Salient Object Detection through Over-Segmentation.,"['Xuejie Zhang', 'Zhixiang Ren', 'Deepu Rajan', 'Yiqun Hu']",ICME,2012
+70,c,Video saliency detection with robust temporal alignment and local-global spatial contrast.,"['Zhixiang Ren', 'Liang-Tien Chia', 'Deepu Rajan']",ICMR,2012
+71,c,Image colorization using similar images.,"['Raj Kumar Gupta', 'Alex Yong Sang Chia', 'Deepu Rajan', 'Ee Sin Ng', 'Zhiyong Huang']",ACM Multimedia,2012
+72,c,Scene Signatures for Unconstrained News Video Stories.,"['Ehsan Younessian', 'Deepu Rajan']",MMM,2012
+73,c,Multi-modal Solution for Unconstrained News Story Retrieval.,"['Ehsan Younessian', 'Deepu Rajan']",MMM,2012
+74,c,Unsupervised Feature Selection for Salient Object Detection.,"['Viswanath Gopalakrishnan', 'Yiqun Hu', 'Deepu Rajan']",ACCV (2),2010
+75,c,A Data-Driven Approach to Understanding Skill in Photographic Composition.,"['Todd S. Sachs', 'Ramakrishna Kakarala', 'Shannon Lee Castleman', 'Deepu Rajan']",ACCV Workshops (2),2010
+76,c,Salient Region Detection by Jointly Modeling Distinctness and Redundancy of Image Content.,"['Yiqun Hu', 'Zhixiang Ren', 'Deepu Rajan', 'Liang-Tien Chia']",ACCV (2),2010
+77,c,Sustained Observability for Salient Motion Detection.,"['Viswanath Gopalakrishnan', 'Yiqun Hu', 'Deepu Rajan']",ACCV (3),2010
+78,c,Embedding Visual Words into Concept Space for Action and Scene Recognition.,"['Behrouz Khadem', 'Elahe Farahzadeh', 'Deepu Rajan', 'Andrzej Sluzek']",BMVC,2010
+79,c,Hybrid shift map for video retargeting.,"['Yiqun Hu', 'Deepu Rajan']",CVPR,2010
+80,c,Object recognition by discriminative combinations of line segments and ellipses.,"['Alex Y. S. Chia', 'Susanto Rahardja', 'Deepu Rajan', 'Maylor K. H. Leung']",CVPR,2010
+81,c,DCT domain watermarking scheme using Chinese Remainder Theorem for image authentication.,"['Jagdish Chandra Patra', 'Jiliang E. Phua', 'Deepu Rajan']",ICME,2010
+82,c,Multi-view Clustering of Visual Words Using Canonical Correlation Analysis for Human Action Recognition.,"['Behrouz Saghafi', 'Deepu Rajan']",ICMLA,2010
+83,c,Image Retargeting in Compressed Domain.,"['O. V. Ramana Murthy', 'Karthik Muthuswamy', 'Deepu Rajan', 'Liang-Tien Chia']",ICPR,2010
+84,c,Improved saliency detection based on superpixel clustering and saliency propagation.,"['Zhixiang Ren', 'Yiqun Hu', 'Liang-Tien Chia', 'Deepu Rajan']",ACM Multimedia,2010
+85,c,Understanding Photographic Composition through Data-driven Approaches.,"['Dansheng Mao', 'Ramakrishna Kakarala', 'Deepu Rajan', 'Shannon Lee Castleman']",VISAPP (2),2010
+86,c,Appearance-based action recognition in the tensor framework.,"['Behrouz Saghafi Khadem', 'Deepu Rajan']",CIRA,2009
+87,c,Random walks on graphs to model saliency in images.,"['Viswanath Gopalakrishnan', 'Yiqun Hu', 'Deepu Rajan']",CVPR,2009
+88,c,Improved Keypoint Matching Method for Near-Duplicate Keyframe Retrieval.,"['Ehsan Younessian', 'Deepu Rajan', 'Chng Eng Siong']",ISM,2009
+89,c,Object Class Recognition using Quadrangles.,"['Alex Y. S. Chia', 'Maylor K. H. Leung', 'Deepu Rajan', 'Susanto Rahardja']",CRV,2008
+90,c,Category-level detection based on object structures.,"['Alex Y. S. Chia', 'Deepu Rajan', 'Maylor K. H. Leung', 'Susanto Rahardja']",EUSIPCO,2008
+91,c,A split and merge based ellipse detector.,"['Alex Y. S. Chia', 'Deepu Rajan', 'Maylor K. H. Leung', 'Susanto Rahardja']",ICIP,2008
+92,c,Image classification: Are rule-based systems effective when classes are fixed and known?,"['Palaiahnakote Shivakumara', 'Deepu Rajan', 'Suresh Anand Sadananthan']",ICPR,2008
+93,c,A ZGPCA Algorithm for Subspace Estimation.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",ICME,2007
+94,c,Scale adaptive visual attention detection by subspace analysis.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",ACM Multimedia,2007
+95,c,An Event-Driven Sports Video Adaptation for the MPEG-21 DIA Framework.,"['Min Xu', 'Jiaming Li', 'Yiqun Hu', 'Liang-Tien Chia', 'Bu-Sung Lee', 'Deepu Rajan', 'Jianfei Cai']",ICME,2006
+96,c,Event on demand with MPEG-21 video adaptation system.,"['Min Xu', 'Jiaming Li', 'Liang-Tien Chia', 'Yiqun Hu', 'Bu-Sung Lee', 'Deepu Rajan', 'Jesse S. Jin']",ACM Multimedia,2006
+97,c,Affective content detection in sitcom using subtitle and audio.,"['Min Xu', 'Liang-Tien Chia', 'Haoran Yi', 'Deepu Rajan']",MMM,2006
+98,c,Global Motion Compensated Key Frame Extraction from Compressed Videos.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",ICASSP (2),2005
+99,c,Adaptive local context suppression of multiple cues for salient visual attention detection.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",ICME,2005
+100,c,Adaptive hierarchical multi-class SVM classifier for texture-based image classification.,"['Song Liu', 'Haoran Yi', 'Liang-Tien Chia', 'Deepu Rajan']",ICME,2005
+101,c,Attention region selection with information from professional digital camera.,"['Song Liu', 'Liang-Tien Chia', 'Deepu Rajan']",ACM Multimedia,2005
+102,c,Robust subspace analysis for detecting visual attention regions in images.,"['Yiqun Hu', 'Deepu Rajan', 'Liang-Tien Chia']",ACM Multimedia,2005
+103,c,Motion Histogram: A New Motion Feature to Index Motion Content in Video Segment.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",IKE,2004
+104,c,Automatic extraction of motion trajectories in compressed sports videos.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",ACM Multimedia,2004
+105,c,Region-of-interest based image resolution adaptation for MPEG-21 digital item.,"['Yiqun Hu', 'Liang-Tien Chia', 'Deepu Rajan']",ACM Multimedia,2004
+106,c,A motion based scene tree for browsing and retrieval of compressed videos.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",MMDB,2004
+107,c,Semantic Analysis of Basketball Video Using Motion Information.,"['Song Liu', 'Haoran Yi', 'Liang-Tien Chia', 'Deepu Rajan', 'Syin Chan']",PCM (1),2004
+108,c,Region-Based Image Retrieval with Scale and Orientation Invariant Features.,"['Surong Wang', 'Liang-Tien Chia', 'Deepu Rajan']",PCM (1),2004
+109,c,JPEG2000 Image Adaptation for MPEG-21 Digital Items.,"['Yiqun Hu', 'Liang-Tien Chia', 'Deepu Rajan']",PCM (1),2004
+110,c,Semantic Video Indexing and Summarization Using Subtitles.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",PCM (1),2004
+111,c,Salient Region Detection Using Weighted Feature Maps Based on the Human Visual Attention Model.,"['Yiqun Hu', 'Xing Xie', 'Wei-Ying Ma', 'Liang-Tien Chia', 'Deepu Rajan']",PCM (2),2004
+112,c,Image Retrieval Using Dominant Color Descriptor.,"['Surong Wang', 'Liang-Tien Chia', 'Deepu Rajan']",CISST,2003
+113,c,Efficient image retrieval using MPEG-7 descriptors.,"['Surong Wang', 'Liang-Tien Chia', 'Deepu Rajan']",ICIP (3),2003
+114,c,A unified approach to detection of shot boundaries and subshots in compressed video.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",ICIP (2),2003
+115,c,Automatic generation of MPEG-7 compliant XML document for motion trajectory descriptor in sports video.,"['Haoran Yi', 'Deepu Rajan', 'Liang-Tien Chia']",MMDB,2003
+116,c,Generation of super-resolution images from blurred observations using Markov random fields.,"['Deepu Rajan', 'Subhasis Chaudhuri']",ICASSP,2001
+117,c,Simultaneous Estimation of Super-Resolved Intensity and Depth Maps from Low Resolution Defocused Observations of a Scene.,"['Deepu Rajan', 'Subhasis Chaudhuri']",ICCV,2001
+118,c,A Perceptually Organized Method for Image Interpolation.,"['Deepu Rajan', 'Subhasis Chaudhuri']",ICPR,2000
+119,c,An MRF-Based Approach to Generation of Super-Resolution Images from Blurred Observations.,"['Deepu Rajan', 'Subhasis Chaudhuri']",VMV,2000
+120,i,Speech Emotion Recognition with Co-Attention based Multi-level Acoustic Information.,"['Heqing Zou', 'Yuke Si', 'Chen Chen', 'Deepu Rajan', 'Eng Siong Chng']",CoRR,2022
+121,i,Are object detection assessment criteria ready for maritime computer vision?,"['Dilip K. Prasad', 'Deepu Rajan', 'Chai Quek']",CoRR,2018
+122,i,MSCM-LiFe: Multi-scale cross modal linear feature for horizon detection in maritime images.,"['Dilip K. Prasad', 'Deepu Rajan', 'Chandrashekar Krishna Prasath', 'Lily Rachmawati', 'Eshan Rajabally', 'Chai Quek']",CoRR,2017
+123,i,Maritime situational awareness using adaptive multi-sensor management under hazy conditions.,"['Dilip K. Prasad', 'Chandrashekar Krishna Prasath', 'Deepu Rajan', 'Lily Rachmawati', 'Eshan Rajabally', 'Chai Quek']",CoRR,2017
+124,i,L1-regularized Reconstruction Error as Alpha Matte.,"['Jubin Johnson', 'Hisham Cholakkal', 'Deepu Rajan']",CoRR,2017
+125,i,A learning-based approach for automatic image and video colorization.,"['Raj Kumar Gupta', 'Alex Yong Sang Chia', 'Deepu Rajan', 'Zhiyong Huang']",CoRR,2017
+126,i,Sparse Coding for Alpha Matting.,"['Jubin Johnson', 'Ehsan Shahrian Varnousfaderani', 'Hisham Cholakkal', 'Deepu Rajan']",CoRR,2016
+127,i,A Classifier-guided Approach for Top-down Salient Object Detection.,"['Hisham Cholakkal', 'Jubin Johnson', 'Deepu Rajan']",CoRR,2016
+128,i,Challenges in video based object detection in maritime scenario using computer vision.,"['Dilip K. Prasad', 'Chandrashekar Krishna Prasath', 'Deepu Rajan', 'Lily Rachmawati', 'Eshan Rajabally', 'Chai Quek']",CoRR,2016
+129,i,Weakly Supervised Top-down Salient Object Detection.,"['Hisham Cholakkal', 'Jubin Johnson', 'Deepu Rajan']",CoRR,2016
+130,i,Video Processing from Electro-optical Sensors for Object Detection and Tracking in Maritime Environment: A Survey.,"['Dilip K. Prasad', 'Deepu Rajan', 'Lily Rachmawati', 'Eshan Rajabally', 'Chai Quek']",CoRR,2016
+131,e,"Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part I.","['Tat-Jen Cham', 'Jianfei Cai', 'Chitra Dorai', 'Deepu Rajan', 'Tat-Seng Chua', 'Liang-Tien Chia']",Lecture Notes in Computer Science,2007
+132,e,"Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part II.","['Tat-Jen Cham', 'Jianfei Cai', 'Chitra Dorai', 'Deepu Rajan', 'Tat-Seng Chua', 'Liang-Tien Chia']",Lecture Notes in Computer Science,2007

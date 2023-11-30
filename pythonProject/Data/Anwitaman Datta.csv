@@ -1,0 +1,204 @@
+,type,name,author,event,year
+0,j,A Modular Framework for Centrality and Clustering in Complex Networks.,"['Frédérique E. Oggier', 'Silivanxay Phetsouvanh', 'Anwitaman Datta']",IEEE Access,2022
+1,j,Quorums over codes.,"['Anwitaman Datta', 'Frédérique E. Oggier']",J. Parallel Distributed Comput.,2022
+2,j,Utility-Driven k-Anonymization of Public Transport User Data.,"['Bhawani Shanker Bhati', 'Jordan Ivanchev', 'Iva Bojic', 'Anwitaman Datta', 'David Eckhoff']",IEEE Access,2021
+3,j,QLOC: Quorums With Local Reconstruction Codes.,"['Anwitaman Datta', 'Adamas Aqsa Fahreza', 'Frédérique E. Oggier']",IEEE Access,2021
+4,j,Analysis of multi-input multi-output transactions in the Bitcoin network.,"['Silivanxay Phetsouvanh', 'Anwitaman Datta', 'Frédérique E. Oggier']",Concurr. Comput. Pract. Exp.,2021
+5,j,On Grid Quorums for Erasure Coded Data.,"['Frédérique E. Oggier', 'Anwitaman Datta']",Entropy,2021
+6,j,On unlinkability and denial of service attacks resilience of whistleblower platforms.,"['Silivanxay Phetsouvanh', 'Anwitaman Datta', 'Alwen Tiu']",Future Gener. Comput. Syst.,2021
+7,j,Renyi entropy driven hierarchical graph clustering.,"['Frédérique E. Oggier', 'Anwitaman Datta']",PeerJ Comput. Sci.,2021
+8,j,Centrality informed embedding of networks for temporal feature extraction.,"['Frédérique E. Oggier', 'Anwitaman Datta']",Soc. Netw. Anal. Min.,2021
+9,j,An ego network analysis of sextortionists.,"['Frédérique E. Oggier', 'Anwitaman Datta', 'Silivanxay Phetsouvanh']",Soc. Netw. Anal. Min.,2020
+10,j,Two-factor authentication for trusted third party free dispersed storage.,"['Ertem Esiner', 'Anwitaman Datta']",Future Gener. Comput. Syst.,2019
+11,j,On hybrid network coding for visual traffic surveillance.,"['Chih Wei Ling', 'Anwitaman Datta', 'Jun Xu']",Future Gener. Comput. Syst.,2019
+12,j,A split-and-transfer flow based entropic centrality.,"['Frédérique E. Oggier', 'Silivanxay Phetsouvanh', 'Anwitaman Datta']",PeerJ Comput. Sci.,2019
+13,j,A Case for Distributed Multilevel Storage Infrastructure for Visual Surveillance in Intelligent Transportation Networks.,"['Chih Wei Ling', 'Anwitaman Datta', 'Jun Xu']",IEEE Internet Comput.,2018
+14,j,Cooperation and Competition When Bidding for Complex Projects: Centralized and Decentralized Perspectives.,"['Piotr Skowron', 'Krzysztof Rzadca', 'Anwitaman Datta']",IEEE Intell. Syst.,2017
+15,j,Write-only oblivious RAM-based privacy-preserved access of outsourced data.,"['Lichun Li', 'Anwitaman Datta']",Int. J. Inf. Sec.,2017
+16,j,rPIR: ramp secret sharing-based communication-efficient private information retrieval.,"['Lichun Li', 'Michael Militzer', 'Anwitaman Datta']",Int. J. Inf. Sec.,2017
+17,j,On query result integrity over encrypted data.,"['Ertem Esiner', 'Anwitaman Datta']",Inf. Process. Lett.,2017
+18,j,A study of the performance of novel storage-centric repairable codes.,"['Anwitaman Datta', 'Lluis Pamies-Juarez', 'Frédérique E. Oggier']",Computing,2016
+19,j,Sparsity exploiting erasure coding for distributed storage of versioned data.,"['J. Harshan', 'Frédérique E. Oggier', 'Anwitaman Datta']",Computing,2016
+20,j,Auditable versioned data storage outsourcing.,"['Ertem Esiner', 'Anwitaman Datta']",Future Gener. Comput. Syst.,2016
+21,j,DiVers: An erasure code based storage architecture for versioning exploiting sparsity.,"['J. Harshan', 'Anwitaman Datta', 'Frédérique E. Oggier']",Future Gener. Comput. Syst.,2016
+22,j,Privacy-Preserving-Outsourced Association Rule Mining on Vertically Partitioned Databases.,"['Lichun Li', 'Rongxing Lu', 'Kim-Kwang Raymond Choo', 'Anwitaman Datta', 'Jun Shao']",IEEE Trans. Inf. Forensics Secur.,2016
+23,j,Differential Erasure Codes for Efficient Archival of Versioned Data in Cloud Storage Systems.,"['J. Harshan', 'Anwitaman Datta', 'Frédérique E. Oggier']",Trans. Large Scale Data Knowl. Centered Syst.,2016
+24,j,Edge-centric Computing: Vision and Challenges.,"['Pedro García López', 'Alberto Montresor', 'Dick H. J. Epema', 'Anwitaman Datta', 'Teruo Higashino', 'Adriana Iamnitchi', 'Marinho P. Barcellos', 'Pascal Felber', 'Etienne Rivière']",Comput. Commun. Rev.,2015
+25,j,Self-repairing codes - Local repairability for cheap and fast maintenance of erasure coded data.,"['Frédérique E. Oggier', 'Anwitaman Datta']",Computing,2015
+26,j,On repairing erasure coded data in an active-passive mixed storage network.,"['Frédérique E. Oggier', 'Anwitaman Datta']",Int. J. Inf. Coding Theory,2015
+27,j,Game-Theoretic Mechanisms to Increase Data Availability in Decentralized Storage Systems.,"['Krzysztof Rzadca', 'Anwitaman Datta', 'Gunnar Kreitz', 'Sonja Buchegger']",ACM Trans. Auton. Adapt. Syst.,2015
+28,j,BPMiner: Algorithms for Large-Scale Private Analysis.,"['Quach Vinh Thanh', 'Anwitaman Datta']",Trans. Large Scale Data Knowl. Centered Syst.,2015
+29,j,A Generic Trust Framework for Large-Scale Open Systems using Machine Learning.,"['Xin Liu', 'Gilles Trédan', 'Anwitaman Datta']",Comput. Intell.,2014
+30,j,The zen of multidisciplinary team recommendation.,"['Anwitaman Datta', 'Jackson Tan Teck Yong', 'Stefano Braghin']",J. Assoc. Inf. Sci. Technol.,2014
+31,j,Mosco: a privacy-aware middleware for mobile social computing.,"['Tien Tuan Anh Dinh', 'Milind Ganjoo', 'Stefano Braghin', 'Anwitaman Datta']",J. Syst. Softw.,2014
+32,j,Towards Kurdish Information Retrieval.,"['Kyumars Sheykh Esmaili', 'Shahin Salavati', 'Anwitaman Datta']",ACM Trans. Asian Lang. Inf. Process.,2014
+33,j,Improving computational trust representation based on Internet auction traces.,"['Adam Wierzbicki', 'Tomasz Kaszuba', 'Radoslaw Nielek', 'Paulina Adamska', 'Anwitaman Datta']",Decis. Support Syst.,2013
+34,j,Trust beyond reputation: A computational trust model based on stereotypes.,"['Xin Liu', 'Anwitaman Datta', 'Krzysztof Rzadca']",Electron. Commer. Res. Appl.,2013
+35,j,In-network redundancy generation for opportunistic speedup of data backup.,"['Lluis Pamies-Juarez', 'Anwitaman Datta', 'Frédérique E. Oggier']",Future Gener. Comput. Syst.,2013
+36,j,Coding Techniques for Repairability in Networked Distributed Storage Systems.,"['Frédérique E. Oggier', 'Anwitaman Datta']",Found. Trends Commun. Inf. Theory,2013
+37,j,TSDW: Two-stage word sense disambiguation using Wikipedia.,"['Chenliang Li', 'Aixin Sun', 'Anwitaman Datta']",J. Assoc. Inf. Sci. Technol.,2013
+38,j,GoDisco++: A gossip algorithm for information dissemination in multi-dimensional community networks.,"['Rajesh Sharma', 'Anwitaman Datta']",Pervasive Mob. Comput.,2013
+39,j,An overview of codes tailor-made for better repairability in networked distributed storage systems.,"['Anwitaman Datta', 'Frédérique E. Oggier']",SIGACT News,2013
+40,j,Editorial.,"['Anwitaman Datta', 'Ee-Peng Lim', 'Stuart W. Shulman']",Soc. Netw. Anal. Min.,2013
+41,j,Merging ring-structured overlay indices: toward network-data transparency.,['Anwitaman Datta'],Computing,2012
+42,j,The Blind Enforcer: On Fine-Grained Access Control Enforcement on Untrusted Clouds.,"['Tien Tuan Anh Dinh', 'Anwitaman Datta']",IEEE Data Eng. Bull.,2012
+43,j,"City on the Sky: Extending XACML for Flexible, Secure Data Sharing on the Cloud.","['Tien Tuan Anh Dinh', 'Wenqiang Wang', 'Anwitaman Datta']",J. Grid Comput.,2012
+44,j,Multiterm Keyword Search in NoSQL Systems.,"['Christian von der Weth', 'Anwitaman Datta']",IEEE Internet Comput.,2012
+45,j,Infrastructures for Online Social Networking Services [Guest editorial].,"['Anwitaman Datta', 'Marios D. Dikaiakos', 'Seif Haridi', 'Liviu Iftode']",IEEE Internet Comput.,2012
+46,j,Contextual Trust Aided Enhancement of Data Availability in Peer-to-Peer Backup Storage Systems.,"['Xin Liu', 'Anwitaman Datta']",J. Netw. Syst. Manag.,2012
+47,j,Mining latent relations in peer-production environments: a case study with Wikipedia article similarity and controversy.,"['Chenliang Li', 'Anwitaman Datta', 'Aixin Sun']",Soc. Netw. Anal. Min.,2012
+48,j,Fuzzynet: Ringless routing in a ring-like structured overlay.,"['Sarunas Girdzijauskas', 'Wojciech Galuba', 'Vasilios Darlagiannis', 'Anwitaman Datta', 'Karl Aberer']",Peer-to-Peer Netw. Appl.,2011
+49,j,Attack resilient P2P dissemination of RSS feed.,"['Xin Liu', 'Anwitaman Datta']",Peer-to-Peer Netw. Appl.,2011
+50,j,Multi-objective optimization of multicast overlays for collaborative applications.,"['Krzysztof Rzadca', 'Jackson Tan Teck Yong', 'Anwitaman Datta']",Comput. Networks,2010
+51,j,Structured overlay for heterogeneous environments: Design and evaluation of oscar.,"['Sarunas Girdzijauskas', 'Anwitaman Datta', 'Karl Aberer']",ACM Trans. Auton. Adapt. Syst.,2010
+52,j,CMV: File consistency maintenance through virtual servers in peer-to-peer systems.,"['Zhijun Wang', 'Anwitaman Datta', 'Sajal K. Das', 'Mohan Kumar']",J. Parallel Distributed Comput.,2009
+53,j,Stochastic analysis of the interplay between object maintenance and churn.,"['Di Wu', 'Ye Tian', 'Kam-Wing Ng', 'Anwitaman Datta']",Comput. Commun.,2008
+54,j,Das P-Grid-Overlay-Netzwerk: Von einem einfachen Prinzip zu einem komplexen System.,"['Karl Aberer', 'Anwitaman Datta', 'Manfred Hauswirth', 'Roman Schmidt']",Datenbank-Spektrum,2005
+55,j,A decentralised public key infrastructure for customer-to-customer e-commerce.,"['Karl Aberer', 'Anwitaman Datta', 'Manfred Hauswirth']",Int. J. Bus. Process. Integr. Manag.,2005
+56,j,"Efficient, Self-Contained Handling of Identity in Peer-to-Peer Systems.","['Karl Aberer', 'Anwitaman Datta', 'Manfred Hauswirth']",IEEE Trans. Knowl. Data Eng.,2004
+57,j,Separating Business Process from User Interaction in Web-Based Information Commerce.,"['Karl Aberer', 'Anwitaman Datta', 'Zoran Despotovic', 'Andreas Wombacher']",Electron. Commer. Res.,2003
+58,j,Advanced Peer-to-Peer Networking: The P-Grid System and its Applications.,"['Karl Aberer', 'Philippe Cudré-Mauroux', 'Anwitaman Datta', 'Zoran Despotovic', 'Manfred Hauswirth', 'Magdalena Punceva', 'Roman Schmidt', 'Jie Wu']",Prax. Inf.verarb. Kommun.,2003
+59,j,P-Grid: a self-organizing structured P2P system.,"['Karl Aberer', 'Philippe Cudré-Mauroux', 'Anwitaman Datta', 'Zoran Despotovic', 'Manfred Hauswirth', 'Magdalena Punceva', 'Roman Schmidt']",SIGMOD Rec.,2003
+60,c,FaCov: COVID-19 Viral News and Rumors Fact-Check Articles Dataset.,"['Shakshi Sharma', 'Ekanshi Agrawal', 'Rajesh Sharma', 'Anwitaman Datta']",ICWSM,2022
+61,c,"Please, do not Decentralize the Internet with (Permissionless) Blockchains!","['Pedro García López', 'Alberto Montresor', 'Anwitaman Datta']",ICDCS,2019
+62,c,EGRET: Extortion Graph Exploration Techniques in the Bitcoin Network.,"['Silivanxay Phetsouvanh', 'Frédérique E. Oggier', 'Anwitaman Datta']",ICDM Workshops,2018
+63,c,BiVA: Bitcoin Network Visualization & Analysis.,"['Frédérique E. Oggier', 'Silivanxay Phetsouvanh', 'Anwitaman Datta']",ICDM Workshops,2018
+64,c,Entropic Centrality for non-atomic Flow Networks.,"['Frédérique E. Oggier', 'Silivanxay Phetsouvanh', 'Anwitaman Datta']",ISITA,2018
+65,c,Entropy-based Graph Clustering - A Simulated Annealing Approach.,"['Frédérique E. Oggier', 'Silivanxay Phetsouvanh', 'Anwitaman Datta']",ISITA,2018
+66,c,Worth its Weight in Likes: Towards Detecting Fake Likes on Instagram.,"['Indira Sen', 'Anupama Aggarwal', 'Shiven Mian', 'Siddharth Singh', 'Ponnurangam Kumaraguru', 'Anwitaman Datta']",WebSci,2018
+67,c,Lilliput: A Storage Service for Lightweight Peer-to-Peer Online Social Networks.,"['Thomas Paul', 'Niklas Lochschmidt', 'Hani Salah', 'Anwitaman Datta', 'Thorsten Strufe']",ICCCN,2017
+68,c,Data Integrity for Collaborative Applications over Hosted Services.,"['Ertem Esiner', 'Anwitaman Datta']",ICDCS,2017
+69,c,Layered security for storage at the edge: on decentralized multi-factor access control.,"['Ertem Esiner', 'Anwitaman Datta']",ICDCN,2016
+70,c,DMZtore: A dispersed Data Storage System with Decentralized Multi-factor Access Control (Demo).,"['Ertem Esiner', 'Shun Hanli Hanley', 'Anwitaman Datta']",ICDCS,2016
+71,c,Elastic Erasure Coding for Adaptive Redundancy.,"['Wan-Hee Cho', 'Anwitaman Datta']",ICDCS Workshops,2016
+72,c,SwiftER: Elastic Erasure Coded Storage System.,"['Anwitaman Datta', 'Wan-Hee Cho']",SRDS,2016
+73,c,Sparsity Exploiting Erasure Coding for Resilient Storage and Efficient I/O Access in Delta Based Versioning Systems.,"['J. Harshan', 'Frédérique E. Oggier', 'Anwitaman Datta']",ICDCS,2015
+74,c,People are processors: coalitional auctions for complex projects.,"['Piotr Skowron', 'Krzysztof Rzadca', 'Anwitaman Datta']",AAMAS,2014
+75,c,Streamforce: outsourcing access control enforcement for stream data to the clouds.,"['Tien Tuan Anh Dinh', 'Anwitaman Datta']",CODASPY,2014
+76,c,InterCloud RAIDer: A Do-It-Yourself Multi-cloud Private Data Backup System.,"['Chih Wei Ling', 'Anwitaman Datta']",ICDCN,2014
+77,c,Locally Repairable RapidRAID Systematic Codes - One simple convoluted way to get it all.,['Anwitaman Datta'],ITW,2014
+78,c,Efficient updates in cross-object erasure-coded storage systems.,"['Kyumars Sheykh Esmaili', 'Aatish Chiniah', 'Anwitaman Datta']",IEEE BigData,2013
+79,c,CORE: Cross-object redundancy for efficient data repair in storage systems.,"['Kyumars Sheykh Esmaili', 'Lluis Pamies-Juarez', 'Anwitaman Datta']",IEEE BigData,2013
+80,c,Data Insertion and Archiving in Erasure-Coding Based Large-Scale Storage Systems.,"['Lluis Pamies-Juarez', 'Frédérique E. Oggier', 'Anwitaman Datta']",ICDCIT,2013
+81,c,Decentralized Erasure Coding for Efficient Data Archival in Distributed Storage Systems.,"['Lluis Pamies-Juarez', 'Frédérique E. Oggier', 'Anwitaman Datta']",ICDCN,2013
+82,c,RapidRAID: Pipelined erasure codes for fast data archival in distributed storage systems.,"['Lluis Pamies-Juarez', 'Anwitaman Datta', 'Frédérique E. Oggier']",INFOCOM,2013
+83,c,Towards secure outsourcing of collaborative sensing and analytic applications to the cloud - the pCloud approach.,"['Tien Tuan Anh Dinh', 'Anwitaman Datta']",MCS@Middleware,2013
+84,c,Storage codes: Managing big data with small overheads.,"['Anwitaman Datta', 'Frédérique E. Oggier']",NetCod,2013
+85,c,A Framework for Trust-Based Multidisciplinary Team Recommendation.,"['Lorenzo Bossi', 'Stefano Braghin', 'Anwitaman Datta', 'Alberto Trombetta']",UMAP,2013
+86,c,Modeling Context Aware Dynamic Trust Using Hidden Markov Model.,"['Xin Liu', 'Anwitaman Datta']",AAAI,2012
+87,c,Redundantly grouped cross-object coding for repairable storage.,"['Anwitaman Datta', 'Frédérique E. Oggier']",APSys,2012
+88,c,A Tunable Graph Model for Incorporating Geographic Spread in Social Graph Models.,"['Rajesh Sharma', 'Anwitaman Datta']",ASONAM,2012
+89,c,Twevent: segment-based event detection from tweets.,"['Chenliang Li', 'Aixin Sun', 'Anwitaman Datta']",CIKM,2012
+90,c,SuperNova: Super-peers based architecture for decentralized online social networks.,"['Rajesh Sharma', 'Anwitaman Datta']",COMSNETS,2012
+91,c,DRank: Decentralized ranking mechanism for semantic community overlays.,"['Rajesh Sharma', 'Anwitaman Datta']",COMSNETS,2012
+92,c,Topic 7: Peer to Peer Computing.,"['Alberto Montresor', 'Evaggelia Pitoura', 'Anwitaman Datta', 'Spyros Voulgaris']",Euro-Par,2012
+93,c,Decentralized Information Dissemination in Multidimensional Semantic Social Overlays.,"['Rajesh Sharma', 'Anwitaman Datta']",ICDCN,2012
+94,c,SWAT: Social Web Application for Team Recommendation.,"['Stefano Braghin', 'Jackson Tan Teck Yong', 'Anthony Ventresque', 'Anwitaman Datta']",ICPADS,2012
+95,c,Cloud and the City: Facilitating Flexible Access Control over Data-Streams.,"['Wenqiang Wang', 'Tien Tuan Anh Dinh', 'Hock-Beng Lim', 'Anwitaman Datta']",Secure Data Management,2012
+96,c,TwiNER: named entity recognition in targeted twitter stream.,"['Chenliang Li', 'Jianshu Weng', 'Qi He', 'Yuxia Yao', 'Anwitaman Datta', 'Aixin Sun', 'Bu-Sung Lee']",SIGIR,2012
+97,c,Detecting Imprudence of 'Reliable' Sellers in Online Auction Sites.,"['Xin Liu', 'Anwitaman Datta', 'Hui Fang', 'Jie Zhang']",TrustCom,2012
+98,c,COBS: Realizing Decentralized Infrastructure for Collaborative Browsing and Search.,"['Christian von der Weth', 'Anwitaman Datta']",AINA,2011
+99,c,MetaTrust: discriminant analysis of local information for global trust assessment.,"['Xin Liu', 'Gilles Trédan', 'Anwitaman Datta']",AAMAS,2011
+100,c,A Generalized Method for Word Sense Disambiguation Based on Wikipedia.,"['Chenliang Li', 'Aixin Sun', 'Anwitaman Datta']",ECIR,2011
+101,c,GoDisco: Selective Gossip Based Dissemination of Information in Social Community Based Overlays.,"['Anwitaman Datta', 'Rajesh Sharma']",ICDCN,2011
+102,c,A Trust Prediction Approach Capturing Agents' Dynamic Behavior.,"['Xin Liu', 'Anwitaman Datta']",IJCAI,2011
+103,c,Self-repairing homomorphic codes for distributed storage systems.,"['Frédérique E. Oggier', 'Anwitaman Datta']",INFOCOM,2011
+104,c,Towards Intelligent Data Placement for Scientific Workflows in Collaborative Cloud Environment.,"['Xin Liu', 'Anwitaman Datta']",IPDPS Workshops,2011
+105,c,Self-Repairing Codes for distributed storage - A projective geometric construction.,"['Frédérique E. Oggier', 'Anwitaman Datta']",ITW,2011
+106,c,Byzantine fault tolerance of regenerating codes.,"['Frédérique E. Oggier', 'Anwitaman Datta']",Peer-to-Peer Computing,2011
+107,c,An empirical study of availability in friend-to-friend storage systems.,"['Rajesh Sharma', 'Anwitaman Datta', ""Matteo Dell'Amico"", 'Pietro Michiardi']",Peer-to-Peer Computing,2011
+108,c,Semantic tag recommendation using concept model.,"['Chenliang Li', 'Anwitaman Datta', 'Aixin Sun']",SIGIR,2011
+109,c,Visualizing and querying semantic social networks.,"['Aixin Sun', 'Anwitaman Datta', 'Ee-Peng Lim', 'Kuiyu Chang']",SIGIR,2011
+110,c,"Impact of Expertise, Social Cohesiveness and Team Repetition for Academic Team Recommendation.","['Anthony Ventresque', 'Jackson Tan Teck Yong', 'Anwitaman Datta']",SocInfo,2011
+111,c,FAST: Friends Augmented Search Techniques - System Design & Data-Management Issues.,"['Christian von der Weth', 'Anwitaman Datta']",Web Intelligence,2011
+112,c,T-RecS: team recommendation system through expertise and cohesiveness.,"['Anwitaman Datta', 'Jackson Tan Teck Yong', 'Anthony Ventresque']",WWW (Companion Volume),2011
+113,c,SoJa: Collaborative reference management using a decentralized social information system.,['Anwitaman Datta'],CollaborateCom,2010
+114,c,On trust guided collaboration among cloud service providers.,"['Xin Liu', 'Anwitaman Datta']",CollaborateCom,2010
+115,c,Visualizing and Exploring Evolving Information Networks in Wikipedia.,"['Ee-Peng Lim', 'Agus Trisnajaya Kwee', 'Nelman Lubis Ibrahim', 'Aixin Sun', 'Anwitaman Datta', 'Kuiyu Chang', 'Maureen']",ICADL,2010
+116,c,Replica Placement in P2P Storage: Complexity and Game Theoretic Analyses.,"['Krzysztof Rzadca', 'Anwitaman Datta', 'Sonja Buchegger']",ICDCS,2010
+117,c,COBS: A tool for collaborative browsing and search on the web.,"['Christian von der Weth', 'Anwitaman Datta', 'Sally Nanyang Ang']",ICME,2010
+118,c,SharedMind: A tool for collaborative mind-mapping.,"['Sally Ang', 'Krzysztof Rzadca', 'Anwitaman Datta']",ICME,2010
+119,c,Do Wikipedians follow domain experts?: a domain-specific study on Wikipedia knowledge building.,"['Yi Zhang', 'Aixin Sun', 'Anwitaman Datta', 'Kuiyu Chang', 'Ee-Peng Lim']",JCDL,2010
+120,c,Satrap: Data and Network Heterogeneity Aware P2P Data-Mining.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Anwitaman Datta', 'Wee Keong Ng', 'Steven C. H. Hoi']",PAKDD (2),2010
+121,c,Learning About the Quality of Teamwork from Wikiteams.,"['Piotr Turek', 'Adam Wierzbicki', 'Radoslaw Nielek', 'Albert Hupa', 'Anwitaman Datta']",SocialCom/PASSAT,2010
+122,c,Using Stereotypes to Identify Risky Transactions in Internet Auctions.,"['Xin Liu', 'Tomasz Kaszuba', 'Radoslaw Nielek', 'Anwitaman Datta', 'Adam Wierzbicki']",SocialCom/PASSAT,2010
+123,c,SSnetViz: a visualization engine for heterogeneous semantic social networks.,"['Ee-Peng Lim', 'Maureen', 'Nelman Lubis Ibrahim', 'Aixin Sun', 'Anwitaman Datta', 'Kuiyu Chang']",ICEC,2009
+124,c,Enabling Secure Secret Sharing in Distributed Online Social Networks.,"['Le-Hung Vu', 'Karl Aberer', 'Sonja Buchegger', 'Anwitaman Datta']",ACSAC,2009
+125,c,Multicast Trees for Collaborative Applications.,"['Krzysztof Rzadca', 'Jackson Tan Teck Yong', 'Anwitaman Datta']",CCGRID,2009
+126,c,Reliable P2P Feed Delivery.,"['Anwitaman Datta', 'Xin Liu']",CCGRID,2009
+127,c,StereoTrust: a group based personalized trust model.,"['Xin Liu', 'Anwitaman Datta', 'Krzysztof Rzadca', 'Ee-Peng Lim']",CIKM,2009
+128,c,PeerSoN: P2P social networking: early experiences and insights.,"['Sonja Buchegger', 'Doris Schiöberg', 'Le-Hung Vu', 'Anwitaman Datta']",SNS,2009
+129,c,Redundancy Maintenance and Garbage Collection Strategies in Peer-to-Peer Storage Systems.,"['Xin Liu', 'Anwitaman Datta']",SSS,2009
+130,c,"On Stability, Clarity, and Co-occurrence of Self-Tagging.","['Aixin Sun', 'Anwitaman Datta']",WSDM (Late Breaking-Results),2009
+131,c,Classification in P2P Networks by Bagging Cascade RSVMs.,"['Hock Hee Ang', 'Vivekanand Gopalkrishnan', 'Steven C. H. Hoi', 'Wee Keong Ng', 'Anwitaman Datta']",DBISP2P,2008
+132,c,On Visualizing Heterogeneous Semantic Networks from Multiple Data Sources.,"['Maureen', 'Aixin Sun', 'Ee-Peng Lim', 'Anwitaman Datta', 'Kuiyu Chang']",ICADL,2008
+133,c,WikiNetViz: Visualizing friends and adversaries in implicit social networks.,"['Minh-Tam Le', 'Hoang-Vu Dang', 'Ee-Peng Lim', 'Anwitaman Datta']",ISI,2008
+134,c,Really Simple Security for P2P Dissemination of Really Simple Syndication.,"['Anwitaman Datta', 'Xin Liu']",OTM Workshops,2008
+135,c,Query-load balancing in structured overlays.,"['Anwitaman Datta', 'Roman Schmidt', 'Karl Aberer']",CCGRID,2007
+136,c,LagOver: Latency Gradated Overlays.,"['Anwitaman Datta', 'Ion Stoica', 'Michael J. Franklin']",ICDCS,2007
+137,c,Oscar: A Data-Oriented Overlay For Heterogeneous Environments.,"['Sarunas Girdzijauskas', 'Anwitaman Datta', 'Karl Aberer']",ICDE,2007
+138,c,Merging Intra-Planetary Index Structures: Decentralized Bootstrapping of Overlays.,['Anwitaman Datta'],SASO,2007
+139,c,Oscar: Small-World Overlay for Realistic Key Distributions.,"['Sarunas Girdzijauskas', 'Anwitaman Datta', 'Karl Aberer']",DBISP2P,2006
+140,c,Optimal Caching for First-Order Query Load-Balancing in Decentralized Index Structures.,"['Anwitaman Datta', 'Wolfgang Nejdl', 'Karl Aberer']",DBISP2P,2006
+141,c,The Challenges of Merging Two Similar Structured Overlays: A Tale of Two Networks.,"['Anwitaman Datta', 'Karl Aberer']",IWSOS/EuroNGI,2006
+142,c,Internet-Scale Storage Systems under Churn -- A Study of the Steady-State using Markov Models.,"['Anwitaman Datta', 'Karl Aberer']",Peer-to-Peer Computing,2006
+143,c,Multifaceted Simultaneous Load Balancing in DHT-Based P2P Systems: A New Game with Old Balls and Bins.,"['Karl Aberer', 'Anwitaman Datta', 'Manfred Hauswirth']",Self-star Properties in Complex Information Systems,2005
+144,c,Stochasticity of probabilistic systems: analysis methodologies case-study.,"['Anwitaman Datta', 'Martin Hasler', 'Karl Aberer']",CollaborateCom,2005
+145,c,On Small World Graphs in Non-uniformly Distributed Key Spaces.,"['Sarunas Girdzijauskas', 'Anwitaman Datta', 'Karl Aberer']",ICDE Workshops,2005
+146,c,Range Queries in Trie-Structured Overlays.,"['Anwitaman Datta', 'Manfred Hauswirth', 'Renault John', 'Roman Schmidt', 'Karl Aberer']",Peer-to-Peer Computing,2005
+147,c,Indexing Data-oriented Overlay Networks.,"['Karl Aberer', 'Anwitaman Datta', 'Manfred Hauswirth', 'Roman Schmidt']",VLDB,2005
+148,c,A Query-Adaptive Partial Distributed Hash Table for Peer-to-Peer Systems.,"['Fabius Klemm', 'Anwitaman Datta', 'Karl Aberer']",EDBT Workshops,2004
+149,c,Autonomous Gossiping: A Self-Organizing Epidemic Algorithm for Selective Information Dissemination in Wireless Mobile Ad-Hoc Networks.,"['Anwitaman Datta', 'Silvia Quarteroni', 'Karl Aberer']",ICSNW,2004
+150,c,On de Bruijn Routing in Distributed Hash Tables: There and Back Again.,"['Anwitaman Datta', 'Sarunas Girdzijauskas', 'Karl Aberer']",Peer-to-Peer Computing,2004
+151,c,PIX-Grid: A Platform for P2P Photo Exchange.,"['Karl Aberer', 'Philippe Cudré-Mauroux', 'Anwitaman Datta', 'Manfred Hauswirth']",CAiSE Workshops,2003
+152,c,Handling Identity in Peer-to-Peer Systems.,"['Manfred Hauswirth', 'Anwitaman Datta', 'Karl Aberer']",DEXA Workshops,2003
+153,c,"Updates in Highly Unreliable, Replicated Peer-to-Peer Systems.","['Anwitaman Datta', 'Manfred Hauswirth', 'Karl Aberer']",ICDCS,2003
+154,c,"Beyond ""web of trust"": Enabling P2P E-commerce.","['Anwitaman Datta', 'Manfred Hauswirth', 'Karl Aberer']",CEC,2003
+155,c,On Optimal Update Policies and Cluster Sizes for 2-Tier Distributed Systems.,"['Prasenjit Dey', 'Anwitaman Datta']",WETICE,2003
+156,c,Separating Business Process from User Interaction Utilizing Process-Aware XSLT Style-Sheets.,"['Karl Aberer', 'Anwitaman Datta', 'Zoran Despotovic']",WECWIS,2002
+157,i,QPQ 1DLT: A system for the rapid deployment of secure and efficient EVM-based blockchains.,"['Simone Bottoni', 'Anwitaman Datta', 'Federico Franzoni', 'Emanuele Ragnoli', 'Roberto Ripamonti', 'Christian Rondanini', 'Gokhan Sagirlar', 'Alberto Trombetta']",CoRR,2022
+158,i,Misleading the Covid-19 vaccination discourse on Twitter: An exploratory study of infodemic around the pandemic.,"['Shakshi Sharma', 'Rajesh Sharma', 'Anwitaman Datta']",CoRR,2021
+159,i,A Modular Framework for Centrality and Clustering in Complex Networks.,"['Frédérique E. Oggier', 'Silivanxay Phetsouvanh', 'Anwitaman Datta']",CoRR,2021
+160,i,"Please, do not decentralize the Internet with (permissionless) blockchains!","['Pedro García López', 'Alberto Montresor', 'Anwitaman Datta']",CoRR,2019
+161,i,Blockchain in the Government Technology Fabric.,['Anwitaman Datta'],CoRR,2019
+162,i,A Blueprint For Interoperable Blockchains.,"['Tien Tuan Anh Dinh', 'Anwitaman Datta', 'Beng Chin Ooi']",CoRR,2019
+163,i,Compressed Differential Erasure Codes for Efficient Archival of Versioned Data.,"['J. Harshan', 'Anwitaman Datta', 'Frédérique E. Oggier']",CoRR,2015
+164,i,Auditable Versioned Data Storage Outsourcing.,"['Ertem Esiner', 'Anwitaman Datta']",CoRR,2015
+165,i,People are Processors: Coalitional Auctions for Complex Projects.,"['Piotr Skowron', 'Krzysztof Rzadca', 'Anwitaman Datta']",CoRR,2014
+166,i,Sparsity Exploiting Erasure Coding for Resilient Storage and Efficient I/O Access in Delta based Versioning Systems.,"['J. Harshan', 'Frédérique E. Oggier', 'Anwitaman Datta']",CoRR,2014
+167,i,rPIR: Ramp Secret Sharing based Communication Efficient Private Information Retrieval.,"['Lichun Li', 'Michael Militzer', 'Anwitaman Datta']",IACR Cryptol. ePrint Arch.,2014
+168,i,The CORE Storage Primitive: Cross-Object Redundancy for Efficient Data Repair & Access in Erasure Coded Storage.,"['Kyumars Sheykh Esmaili', 'Lluis Pamies-Juarez', 'Anwitaman Datta']",CoRR,2013
+169,i,The Zen of Multidisciplinary Team Recommendation.,"['Anwitaman Datta', 'Stefano Braghin', 'Jackson Tan Teck Yong']",CoRR,2013
+170,i,Streamforce: outsourcing access control enforcement for stream data to the clouds.,"['Tien Tuan Anh Dinh', 'Anwitaman Datta']",CoRR,2013
+171,i,On the Effectiveness of Polynomial Realization of Reed-Solomon Codes for Storage Systems.,"['Kyumars Sheykh Esmaili', 'Anwitaman Datta']",CoRR,2013
+172,i,Write-Only Oblivious RAM based Privacy-Preserved Access of Outsourced Data.,"['Lichun Li', 'Anwitaman Datta']",IACR Cryptol. ePrint Arch.,2013
+173,i,Cloud and the City: Facilitating Flexible Access Control over Data Streams.,"['Wenqiang Wang', 'Tien Tuan Anh Dinh', 'Hock-Beng Lim', 'Anwitaman Datta']",CoRR,2012
+174,i,PriSM: A Private Social Mesh for Leveraging Social Networking at Workplace.,"['Stefano Braghin', 'Jackson Tan Teck Yong', 'Rajesh Sharma', 'Anwitaman Datta']",CoRR,2012
+175,i,Delegated Secure Sum Service for Distributed Data Mining in Multi-Cloud Settings.,"['Tien Tuan Anh Dinh', 'Quach Vinh Thanh', 'Anwitaman Datta']",CoRR,2012
+176,i,An Empirical Study of the Repair Performance of Novel Coding Schemes for Networked Distributed Storage Systems.,"['Lluis Pamies-Juarez', 'Frédérique E. Oggier', 'Anwitaman Datta']",CoRR,2012
+177,i,RapidRAID: Pipelined Erasure Codes for Fast Data Archival in Distributed Storage Systems.,"['Lluis Pamies-Juarez', 'Anwitaman Datta', 'Frédérique E. Oggier']",CoRR,2012
+178,i,Stream on the Sky: Outsourcing Access Control Enforcement for Stream Data to the Cloud.,"['Tien Tuan Anh Dinh', 'Anwitaman Datta']",CoRR,2012
+179,i,A generic trust framework for large-scale open systems using machine learning.,"['Xin Liu', 'Gilles Trédan', 'Anwitaman Datta']",CoRR,2011
+180,i,Trust beyond reputation: A computational trust model based on stereotypes.,"['Xin Liu', 'Anwitaman Datta', 'Krzysztof Rzadca']",CoRR,2011
+181,i,SuperNova: Super-peers Based Architecture for Decentralized Online Social Networks.,"['Rajesh Sharma', 'Anwitaman Datta']",CoRR,2011
+182,i,Self-Repairing Codes for Distributed Storage - A Projective Geometric Construction.,"['Frédérique E. Oggier', 'Anwitaman Datta']",CoRR,2011
+183,i,GutenTag: A Multi-Term Caching Optimized Tag Query Processor for Key-Value Based NoSQL Storage Systems.,"['Christian von der Weth', 'Anwitaman Datta']",CoRR,2011
+184,i,Byzantine Fault Tolerance of Regenerating Codes.,"['Frédérique E. Oggier', 'Anwitaman Datta']",CoRR,2011
+185,i,Homomorphic Self-repairing Codes for Agile Maintenance of Distributed Storage Systems.,"['Frédérique E. Oggier', 'Anwitaman Datta']",CoRR,2011
+186,i,"City on the Sky: Flexible, Secure Data Sharing on the Cloud.","['Tien Tuan Anh Dinh', 'Wenqiang Wang', 'Anwitaman Datta']",CoRR,2011
+187,i,An Overview of Codes Tailor-made for Networked Distributed Data Storage.,"['Anwitaman Datta', 'Frédérique E. Oggier']",CoRR,2011
+188,i,In-Network Redundancy Generation for Opportunistic Speedup of Backup.,"['Lluis Pamies-Juarez', 'Anwitaman Datta', 'Frédérique E. Oggier']",CoRR,2011
+189,i,Anonymous Gossiping.,['Anwitaman Datta'],CoRR,2010
+190,i,Self-repairing Homomorphic Codes for Distributed Storage Systems.,"['Frédérique E. Oggier', 'Anwitaman Datta']",CoRR,2010
+191,p,Information Integration for Graph Databases.,"['Ee-Peng Lim', 'Aixin Sun', 'Anwitaman Datta', 'Kuiyu Chang']",Link Mining,2010
+192,p,Decentralized Online Social Networks.,"['Anwitaman Datta', 'Sonja Buchegger', 'Le-Hung Vu', 'Thorsten Strufe', 'Krzysztof Rzadca']",Handbook of Social Network Technologies,2010
+193,p,"Interdisciplinary Matchmaking: Choosing Collaborators by Skill, Acquaintance and Trust.","['Albert Hupa', 'Krzysztof Rzadca', 'Adam Wierzbicki', 'Anwitaman Datta']",Computational Social Network Analysis ,2010
+194,p,P-Grid: Dynamics of Self-Organizing Processes in Structured Peer-to-Peer Systems.,"['Karl Aberer', 'Anwitaman Datta', 'Manfred Hauswirth']",Peer-to-Peer Systems and Applications,2005
+195,e,"Social Informatics - Third International Conference, SocInfo 2011, Singapore, October 6-8, 2011. Proceedings.","['Anwitaman Datta', 'Stuart W. Shulman', 'Baihua Zheng', 'Shou-De Lin', 'Aixin Sun', 'Ee-Peng Lim']",Lecture Notes in Computer Science,2011
+196,e,"Proceedings P2P 2009, Ninth International Conference on Peer-to-Peer Computing, 9-11 September 2009, Seattle, Washington, USA.","['Henning Schulzrinne', 'Karl Aberer', 'Anwitaman Datta']",Lecture Notes in Computer Science,2009
+197,r,Load Balancing in Peer-to-Peer Overlay Networks.,['Anwitaman Datta'],Encyclopedia of Database Systems (2nd ed.),2018
+198,r,Peer-to-Peer Storage.,['Anwitaman Datta'],Encyclopedia of Database Systems (2nd ed.),2018
+199,r,Computational Trust Models.,"['Xin Liu', 'Anwitaman Datta', 'Karl Aberer']",Encyclopedia of Social Network Analysis and Mining. 2nd Ed.,2018
+200,r,Computational Trust Models.,"['Xin Liu', 'Anwitaman Datta', 'Karl Aberer']",Encyclopedia of Social Network Analysis and Mining,2014
+201,r,Load Balancing in Peer-to-Peer Overlay Networks.,['Anwitaman Datta'],Encyclopedia of Database Systems,2009
+202,r,Peer-to-Peer Storage.,['Anwitaman Datta'],Encyclopedia of Database Systems,2009

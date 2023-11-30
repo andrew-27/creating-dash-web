@@ -1,0 +1,376 @@
+,type,name,author,event,year
+0,j,Learning to Prompt for Vision-Language Models.,"['Kaiyang Zhou', 'Jingkang Yang', 'Chen Change Loy', 'Ziwei Liu']",Int. J. Comput. Vis.,2022
+1,j,Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation.,"['Chongyi Li', 'Chunle Guo', 'Chen Change Loy']",IEEE Trans. Pattern Anal. Mach. Intell.,2022
+2,j,CARAFE++: Unified Content-Aware ReAssembly of FEatures.,"['Jiaqi Wang', 'Kai Chen', 'Rui Xu', 'Ziwei Liu', 'Chen Change Loy', 'Dahua Lin']",IEEE Trans. Pattern Anal. Mach. Intell.,2022
+3,j,Path-Restore: Learning Network Path Selection for Image Restoration.,"['Ke Yu', 'Xintao Wang', 'Chao Dong', 'Xiaoou Tang', 'Chen Change Loy']",IEEE Trans. Pattern Anal. Mach. Intell.,2022
+4,j,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,"['Xingang Pan', 'Xiaohang Zhan', 'Bo Dai', 'Dahua Lin', 'Chen Change Loy', 'Ping Luo']",IEEE Trans. Pattern Anal. Mach. Intell.,2022
+5,j,"Self-Supervised Representation Learning: Introduction, advances, and challenges.","['Linus Ericsson', 'Henry Gouk', 'Chen Change Loy', 'Timothy M. Hospedales']",IEEE Signal Process. Mag.,2022
+6,j,Everybody's Talkin': Let Me Talk as You Want.,"['Linsen Song', 'Wayne Wu', 'Chen Qian', 'Ran He', 'Chen Change Loy']",IEEE Trans. Inf. Forensics Secur.,2022
+7,j,Chasing the Tail in Monocular 3D Human Reconstruction With Prototype Memory.,"['Yu Rong', 'Ziwei Liu', 'Chen Change Loy']",IEEE Trans. Image Process.,2022
+8,j,Text2Human: text-driven controllable human image generation.,"['Yuming Jiang', 'Shuai Yang', 'Haonan Qju', 'Wayne Wu', 'Chen Change Loy', 'Ziwei Liu']",ACM Trans. Graph.,2022
+9,j,A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization.,"['Tak-Wai Hui', 'Xiaoou Tang', 'Chen Change Loy']",IEEE Trans. Pattern Anal. Mach. Intell.,2021
+10,j,Texture Memory-Augmented Deep Patch-Based Image Inpainting.,"['Rui Xu', 'Minghao Guo', 'Jiaqi Wang', 'Xiaoxiao Li', 'Bolei Zhou', 'Chen Change Loy']",IEEE Trans. Image Process.,2021
+11,j,High-Quality Video Generation from Static Structural Annotations.,"['Lu Sheng', 'Junting Pan', 'Jiaming Guo', 'Jing Shao', 'Chen Change Loy']",Int. J. Comput. Vis.,2020
+12,j,Deep Imbalanced Learning for Face Recognition and Attribute Prediction.,"['Chen Huang', 'Yining Li', 'Chen Change Loy', 'Xiaoou Tang']",IEEE Trans. Pattern Anal. Mach. Intell.,2020
+13,j,Editorial: Special Issue on Deep Learning for Face Analysis.,"['Chen Change Loy', 'Xiaoming Liu', 'Tae-Kyun Kim', 'Fernando De la Torre', 'Rama Chellappa']",Int. J. Comput. Vis.,2019
+14,j,From Facial Expression Recognition to Interpersonal Relation Prediction.,"['Zhanpeng Zhang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",Int. J. Comput. Vis.,2018
+15,j,Deep Learning Markov Random Field for Semantic Segmentation.,"['Ziwei Liu', 'Xiaoxiao Li', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",IEEE Trans. Pattern Anal. Mach. Intell.,2018
+16,j,Faceness-Net: Face Detection through Deep Facial Part Responses.,"['Shuo Yang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",IEEE Trans. Pattern Anal. Mach. Intell.,2018
+17,j,Robust and Fast Decoding of High-Capacity Color QR Codes for Mobile Applications.,"['Zhibo Yang', 'Huanle Xu', 'Jianyuan Deng', 'Chen Change Loy', 'Wing Cheong Lau']",IEEE Trans. Image Process.,2018
+18,j,Discriminative Sparse Neighbor Approximation for Imbalanced Learning.,"['Chen Huang', 'Chen Change Loy', 'Xiaoou Tang']",IEEE Trans. Neural Networks Learn. Syst.,2018
+19,j,Image and Video Understanding in Big Data.,"['Vittorio Murino', 'Shaogang Gong', 'Chen Change Loy', 'Loris Bazzani']",Comput. Vis. Image Underst.,2017
+20,j,Development of fine-grained pill identification algorithm using deep convolutional network.,"['Yuen Fei Wong', 'Hoi Ting Ng', 'Kit Yee Leung', 'Ka Yan Chan', 'Sau Yi Chan', 'Chen Change Loy']",J. Biomed. Informatics,2017
+21,j,DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks.,"['Wanli Ouyang', 'Xingyu Zeng', 'Xiaogang Wang', 'Shi Qiu', 'Ping Luo', 'Yonglong Tian', 'Hongsheng Li', 'Shuo Yang', 'Zhe Wang', 'Hongyang Li', 'Kun Wang', 'Junjie Yan', 'Chen Change Loy', 'Xiaoou Tang']",IEEE Trans. Pattern Anal. Mach. Intell.,2017
+22,j,Image Aesthetic Assessment: An experimental survey.,"['Yubin Deng', 'Chen Change Loy', 'Xiaoou Tang']",IEEE Signal Process. Mag.,2017
+23,j,Crowded Scene Understanding by Deeply Learned Volumetric Slices.,"['Jing Shao', 'Chen Change Loy', 'Kai Kang', 'Xiaogang Wang']",IEEE Trans. Circuits Syst. Video Technol.,2017
+24,j,Learning Scene-Independent Group Descriptors for Crowd Understanding.,"['Jing Shao', 'Chen Change Loy', 'Xiaogang Wang']",IEEE Trans. Circuits Syst. Video Technol.,2017
+25,j,Learning from Multiple Sources for Video Summarisation.,"['Xiatian Zhu', 'Chen Change Loy', 'Shaogang Gong']",Int. J. Comput. Vis.,2016
+26,j,"A survey on heterogeneous face recognition: Sketch, infra-red, 3D and low-resolution.","['Shuxin Ouyang', 'Timothy M. Hospedales', 'Yi-Zhe Song', 'Xueming Li', 'Chen Change Loy', 'Xiaogang Wang']",Image Vis. Comput.,2016
+27,j,Image Super-Resolution Using Deep Convolutional Networks.,"['Chao Dong', 'Chen Change Loy', 'Kaiming He', 'Xiaoou Tang']",IEEE Trans. Pattern Anal. Mach. Intell.,2016
+28,j,Learning Deep Representation for Face Alignment with Auxiliary Attributes.,"['Zhanpeng Zhang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",IEEE Trans. Pattern Anal. Mach. Intell.,2016
+29,j,Constrained Clustering With Imperfect Oracles.,"['Xiatian Zhu', 'Chen Change Loy', 'Shaogang Gong']",IEEE Trans. Neural Networks Learn. Syst.,2016
+30,j,On-the-fly feature importance mining for person re-identification.,"['Chunxiao Liu', 'Shaogang Gong', 'Chen Change Loy']",Pattern Recognit.,2014
+31,j,Incremental Activity Modeling in Multiple Disjoint Cameras.,"['Chen Change Loy', 'Tao Xiang', 'Shaogang Gong']",IEEE Trans. Pattern Anal. Mach. Intell.,2012
+32,j,Detecting and discriminating behavioural anomalies.,"['Chen Change Loy', 'Tao Xiang', 'Shaogang Gong']",Pattern Recognit.,2011
+33,j,Time-Delayed Correlation Analysis for Multi-Camera Activity Understanding.,"['Chen Change Loy', 'Tao Xiang', 'Shaogang Gong']",Int. J. Comput. Vis.,2010
+34,c,MoCaNet: Motion Retargeting In-the-Wild via Canonicalization Networks.,"['Wentao Zhu', 'Zhuoqian Yang', 'Ziang Di', 'Wayne Wu', 'Yizhou Wang', 'Chen Change Loy']",AAAI,2022
+35,c,Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets.,"['Kenny T. R. Voo', 'Liming Jiang', 'Chen Change Loy']",CVPR Workshops,2022
+36,c,Investigating Tradeoffs in Real-World Video Super-Resolution.,"['Kelvin C. K. Chan', 'Shangchen Zhou', 'Xiangyu Xu', 'Chen Change Loy']",CVPR,2022
+37,c,BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment.,"['Kelvin C. K. Chan', 'Shangchen Zhou', 'Xiangyu Xu', 'Chen Change Loy']",CVPR,2022
+38,c,TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing.,"['Yanbo Xu', 'Yueqin Yin', 'Liming Jiang', 'Qianyi Wu', 'Chengyao Zheng', 'Chen Change Loy', 'Bo Dai', 'Wayne Wu']",CVPR,2022
+39,c,Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer.,"['Shuai Yang', 'Liming Jiang', 'Ziwei Liu', 'Chen Change Loy']",CVPR,2022
+40,c,Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation.,"['Yuenan Hou', 'Xinge Zhu', 'Yuexin Ma', 'Chen Change Loy', 'Yikang Li']",CVPR,2022
+41,c,Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory.,"['Li Siyao', 'Weijiang Yu', 'Tianpei Gu', 'Chunze Lin', 'Quan Wang', 'Chen Qian', 'Chen Change Loy', 'Ziwei Liu']",CVPR,2022
+42,c,Conditional Prompt Learning for Vision-Language Models.,"['Kaiyang Zhou', 'Jingkang Yang', 'Chen Change Loy', 'Ziwei Liu']",CVPR,2022
+43,c,Unsupervised Image-to-Image Translation with Generative Prior.,"['Shuai Yang', 'Liming Jiang', 'Ziwei Liu', 'Chen Change Loy']",CVPR,2022
+44,c,"Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation.","['Xiangtai Li', 'Wenwei Zhang', 'Jiangmiao Pang', 'Kai Chen', 'Guangliang Cheng', 'Yunhai Tong', 'Chen Change Loy']",CVPR,2022
+45,c,StyleGAN-Human: A Data-Centric Odyssey of Human Generation.,"['Jianglin Fu', 'Shikai Li', 'Yuming Jiang', 'Kwan-Yee Lin', 'Chen Qian', 'Chen Change Loy', 'Wayne Wu', 'Ziwei Liu']",ECCV (16),2022
+46,c,Monocular 3D Object Reconstruction with GAN Inversion.,"['Junzhe Zhang', 'Daxuan Ren', 'Zhongang Cai', 'Chai Kiat Yeo', 'Bo Dai', 'Chen Change Loy']",ECCV (1),2022
+47,c,Extract Free Dense Labels from CLIP.,"['Chong Zhou', 'Chen Change Loy', 'Bo Dai']",ECCV (28),2022
+48,c,Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements.,"['Yu Rong', 'Jingbo Wang', 'Ziwei Liu', 'Chen Change Loy']",3DV,2021
+49,c,Understanding Deformable Alignment in Video Super-Resolution.,"['Kelvin C. K. Chan', 'Xintao Wang', 'Ke Yu', 'Chao Dong', 'Chen Change Loy']",AAAI,2021
+50,c,Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network.,"['Ruicheng Feng', 'Chongyi Li', 'Huaijin Chen', 'Shuai Li', 'Chen Change Loy', 'Jinwei Gu']",CVPR,2021
+51,c,Unsupervised 3D Shape Completion Through GAN Inversion.,"['Junzhe Zhang', 'Xinyi Chen', 'Zhongang Cai', 'Liang Pan', 'Haiyu Zhao', 'Shuai Yi', 'Chai Kiat Yeo', 'Bo Dai', 'Chen Change Loy']",CVPR,2021
+52,c,Robust Reference-Based Super-Resolution via C2-Matching.,"['Yuming Jiang', 'Kelvin C. K. Chan', 'Xintao Wang', 'Chen Change Loy', 'Ziwei Liu']",CVPR,2021
+53,c,Pareidolia Face Reenactment.,"['Linsen Song', 'Wayne Wu', 'Chaoyou Fu', 'Chen Qian', 'Chen Change Loy', 'Ran He']",CVPR,2021
+54,c,Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.,"['Hang Zhou', 'Yasheng Sun', 'Wayne Wu', 'Chen Change Loy', 'Xiaogang Wang', 'Ziwei Liu']",CVPR,2021
+55,c,BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond.,"['Kelvin C. K. Chan', 'Xintao Wang', 'Ke Yu', 'Chao Dong', 'Chen Change Loy']",CVPR,2021
+56,c,Deep Animation Video Interpolation in the Wild.,"['Siyao Li', 'Shiyu Zhao', 'Weijiang Yu', 'Wenxiu Sun', 'Dimitris N. Metaxas', 'Chen Change Loy', 'Ziwei Liu']",CVPR,2021
+57,c,Seesaw Loss for Long-Tailed Instance Segmentation.,"['Jiaqi Wang', 'Wenwei Zhang', 'Yuhang Zang', 'Yuhang Cao', 'Jiangmiao Pang', 'Tao Gong', 'Kai Chen', 'Ziwei Liu', 'Chen Change Loy', 'Dahua Lin']",CVPR,2021
+58,c,Positional Encoding As Spatial Inductive Bias in GANs.,"['Rui Xu', 'Xintao Wang', 'Kai Chen', 'Bolei Zhou', 'Chen Change Loy']",CVPR,2021
+59,c,Audio-Driven Emotional Video Portraits.,"['Xinya Ji', 'Hang Zhou', 'Kaisiyuan Wang', 'Wayne Wu', 'Chen Change Loy', 'Xun Cao', 'Feng Xu']",CVPR,2021
+60,c,GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.,"['Kelvin C. K. Chan', 'Xintao Wang', 'Xiangyu Xu', 'Jinwei Gu', 'Chen Change Loy']",CVPR,2021
+61,c,FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation.,"['Yuhang Zang', 'Chen Huang', 'Chen Change Loy']",ICCV,2021
+62,c,ReconfigISP: Reconfigurable Camera Image Processing Pipeline.,"['Ke Yu', 'Zexian Li', 'Yue Peng', 'Chen Change Loy', 'Jinwei Gu']",ICCV,2021
+63,c,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,"['Yuming Jiang', 'Ziqi Huang', 'Xingang Pan', 'Chen Change Loy', 'Ziwei Liu']",ICCV,2021
+64,c,3D Human Texture Estimation from a Single Image with Transformers.,"['Xiangyu Xu', 'Chen Change Loy']",ICCV,2021
+65,c,Focal Frequency Loss for Image Reconstruction and Synthesis.,"['Liming Jiang', 'Bo Dai', 'Wayne Wu', 'Chen Change Loy']",ICCV,2021
+66,c,Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs.,"['Xingang Pan', 'Bo Dai', 'Ziwei Liu', 'Chen Change Loy', 'Ping Luo']",ICLR,2021
+67,c,Retrospective Class Incremental Learning.,"['Qingyi Tao', 'Chen Change Loy', 'Jianfei Cai', 'ZongYuan Ge', 'Simon See']",ICME,2021
+68,c,K-Net: Towards Unified Image Segmentation.,"['Wenwei Zhang', 'Jiangmiao Pang', 'Kai Chen', 'Chen Change Loy']",NeurIPS,2021
+69,c,A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.,"['Xingang Pan', 'Xudong Xu', 'Chen Change Loy', 'Christian Theobalt', 'Bo Dai']",NeurIPS,2021
+70,c,Deceive D: Adaptive Pseudo Augmentation for GAN Training with Limited Data.,"['Liming Jiang', 'Bo Dai', 'Wayne Wu', 'Chen Change Loy']",NeurIPS,2021
+71,c,Unsupervised Object-Level Representation Learning from Scene Images.,"['Jiahao Xie', 'Xiaohang Zhan', 'Ziwei Liu', 'Yew Soon Ong', 'Chen Change Loy']",NeurIPS,2021
+72,c,Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement.,"['Chunle Guo', 'Chongyi Li', 'Jichang Guo', 'Chen Change Loy', 'Junhui Hou', 'Sam Kwong', 'Runmin Cong']",CVPR,2020
+73,c,DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.,"['Liming Jiang', 'Ren Li', 'Wayne Wu', 'Chen Qian', 'Chen Change Loy']",CVPR,2020
+74,c,Self-Supervised Scene De-Occlusion.,"['Xiaohang Zhan', 'Xingang Pan', 'Bo Dai', 'Ziwei Liu', 'Dahua Lin', 'Chen Change Loy']",CVPR,2020
+75,c,TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting.,"['Zhuoqian Yang', 'Wentao Zhu', 'Wayne Wu', 'Chen Qian', 'Qiang Zhou', 'Bolei Zhou', 'Chen Change Loy']",CVPR,2020
+76,c,Online Deep Clustering for Unsupervised Representation Learning.,"['Xiaohang Zhan', 'Jiahao Xie', 'Ziwei Liu', 'Yew-Soon Ong', 'Chen Change Loy']",CVPR,2020
+77,c,EcoNAS: Finding Proxies for Economical Neural Architecture Search.,"['Dongzhan Zhou', 'Xinchi Zhou', 'Wenwei Zhang', 'Chen Change Loy', 'Shuai Yi', 'Xuesen Zhang', 'Wanli Ouyang']",CVPR,2020
+78,c,Prime Sample Attention in Object Detection.,"['Yuhang Cao', 'Kai Chen', 'Chen Change Loy', 'Dahua Lin']",CVPR,2020
+79,c,Inter-Region Affinity Distillation for Road Marking Segmentation.,"['Yuenan Hou', 'Zheng Ma', 'Chunxiao Liu', 'Tak-Wai Hui', 'Chen Change Loy']",CVPR,2020
+80,c,Learning to Cluster Faces via Confidence and Connectivity Estimation.,"['Lei Yang', 'Dapeng Chen', 'Xiaohang Zhan', 'Rui Zhao', 'Chen Change Loy', 'Dahua Lin']",CVPR,2020
+81,c,MessyTable: Instance Association in Multiple Camera Views.,"['Zhongang Cai', 'Junzhe Zhang', 'Daxuan Ren', 'Cunjun Yu', 'Haiyu Zhao', 'Shuai Yi', 'Chai Kiat Yeo', 'Chen Change Loy']",ECCV (11),2020
+82,c,LiteFlowNet3: Resolving Correspondence Ambiguity for More Accurate Optical Flow Estimation.,"['Tak-Wai Hui', 'Chen Change Loy']",ECCV (20),2020
+83,c,TSIT: A Simple and Versatile Framework for Image-to-Image Translation.,"['Liming Jiang', 'Changxu Zhang', 'Mingyang Huang', 'Chunxiao Liu', 'Jianping Shi', 'Chen Change Loy']",ECCV (3),2020
+84,c,RGB-D Salient Object Detection with Cross-Modality Modulation and Selection.,"['Chongyi Li', 'Runmin Cong', 'Yongri Piao', 'Qianqian Xu', 'Chen Change Loy']",ECCV (8),2020
+85,c,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,"['Xingang Pan', 'Xiaohang Zhan', 'Bo Dai', 'Dahua Lin', 'Chen Change Loy', 'Ping Luo']",ECCV (2),2020
+86,c,Side-Aware Boundary Localization for More Precise Object Detection.,"['Jiaqi Wang', 'Wenwei Zhang', 'Yuhang Cao', 'Kai Chen', 'Jiangmiao Pang', 'Tao Gong', 'Jianping Shi', 'Chen Change Loy', 'Dahua Lin']",ECCV (4),2020
+87,c,Knowledge Distillation Meets Self-supervision.,"['Guodong Xu', 'Ziwei Liu', 'Xiaoxiao Li', 'Chen Change Loy']",ECCV (9),2020
+88,c,MEAD: A Large-Scale Audio-Visual Dataset for Emotional Talking-Face Generation.,"['Kaisiyuan Wang', 'Qianyi Wu', 'Linsen Song', 'Zhuoqian Yang', 'Wayne Wu', 'Chen Qian', 'Ran He', 'Yu Qiao', 'Chen Change Loy']",ECCV (21),2020
+89,c,"Real or Not Real, that is the Question.","['Yuanbo Xiangli', 'Yubin Deng', 'Bo Dai', 'Chen Change Loy', 'Dahua Lin']",ICLR,2020
+90,c,Cross-Scale Internal Graph Neural Network for Image Super-Resolution.,"['Shangchen Zhou', 'Jiawei Zhang', 'Wangmeng Zuo', 'Chen Change Loy']",NeurIPS,2020
+91,c,Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks.,"['Yuenan Hou', 'Zheng Ma', 'Chunxiao Liu', 'Chen Change Loy']",AAAI,2019
+92,c,Instance-Level Facial Attributes Transfer with Geometry-Aware Flow.,"['Weidong Yin', 'Ziwei Liu', 'Chen Change Loy']",AAAI,2019
+93,c,One-shot Face Reenactment.,"['Yunxuan Zhang', 'Siwei Zhang', 'Yue He', 'Cheng Li', 'Chen Change Loy', 'Ziwei Liu']",BMVC,2019
+94,c,Learning a Unified Classifier Incrementally via Rebalancing.,"['Saihui Hou', 'Xinyu Pan', 'Chen Change Loy', 'Zilei Wang', 'Dahua Lin']",CVPR,2019
+95,c,Deep Network Interpolation for Continuous Imagery Effect Transition.,"['Xintao Wang', 'Ke Yu', 'Chao Dong', 'Xiaoou Tang', 'Chen Change Loy']",CVPR,2019
+96,c,Self-Supervised Learning via Conditional Motion Propagation.,"['Xiaohang Zhan', 'Xingang Pan', 'Ziwei Liu', 'Dahua Lin', 'Chen Change Loy']",CVPR,2019
+97,c,EDVR: Video Restoration With Enhanced Deformable Convolutional Networks.,"['Xintao Wang', 'Kelvin C. K. Chan', 'Ke Yu', 'Chao Dong', 'Chen Change Loy']",CVPR Workshops,2019
+98,c,NTIRE 2019 Challenge on Video Deblurring: Methods and Results.,"['Seungjun Nah', 'Radu Timofte', 'Sungyong Baik', 'Seokil Hong', 'Gyeongsik Moon', 'Sanghyun Son', 'Kyoung Mu Lee', 'Xintao Wang', 'Kelvin C. K. Chan', 'Ke Yu', 'Chao Dong', 'Chen Change Loy', 'Yuchen Fan', 'Jiahui Yu', 'Ding Liu', 'Thomas S. Huang', 'Hyeonjun Sim', 'Munchurl Kim', 'Dongwon Park', 'Jisoo Kim', 'Se Young Chun', 'Muhammad Haris', 'Greg Shakhnarovich', 'Norimichi Ukita', 'Syed Waqas Zamir', 'Aditya Arora', 'Salman H. Khan', 'Fahad Shahbaz Khan', 'Ling Shao', 'Rahul Kumar Gupta', 'Vishal M. Chudasama', 'Heena Patel', 'Kishor P. Upla', 'Hongfei Fan', 'Guo Li', 'Yumei Zhang', 'Xiang Li', 'Wenjie Zhang', 'Qingwen He', 'Kuldeep Purohit', 'A. N. Rajagopalan', 'Jeonghun Kim', 'Mohammad Tofighi', 'Tiantong Guo', 'Vishal Monga']",CVPR Workshops,2019
+99,c,NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results.,"['Seungjun Nah', 'Radu Timofte', 'Shuhang Gu', 'Sungyong Baik', 'Seokil Hong', 'Gyeongsik Moon', 'Sanghyun Son', 'Kyoung Mu Lee', 'Xintao Wang', 'Kelvin C. K. Chan', 'Ke Yu', 'Chao Dong', 'Chen Change Loy', 'Yuchen Fan', 'Jiahui Yu', 'Ding Liu', 'Thomas S. Huang', 'Xiao Liu', 'Chao Li', 'Dongliang He', 'Yukang Ding', 'Shilei Wen', 'Fatih Porikli', 'Ratheesh Kalarot', 'Muhammad Haris', 'Greg Shakhnarovich', 'Norimichi Ukita', 'Peng Yi', 'Zhongyuan Wang', 'Kui Jiang', 'Junjun Jiang', 'Jiayi Ma', 'Hang Dong', 'Xinyi Zhang', 'Zhe Hu', 'Kwan-Young Kim', 'Dong Un Kang', 'Se Young Chun', 'Kuldeep Purohit', 'A. N. Rajagopalan', 'Yapeng Tian', 'Yulun Zhang', 'Yun Fu', 'Chenliang Xu', 'A. Murat Tekalp', 'M. Akin Yilmaz', 'Cansu Korkmaz', 'Manoj Sharma', 'Megh Makwana', 'Anuj Badhwar', 'Ajay Pratap Singh', 'Avinash Upadhyay', 'Rudrabha Mukhopadhyay', 'Ankit Shukla', 'Dheeraj Khanna', 'A. S. Mandal', 'Santanu Chaudhury', 'Si Miao', 'Yongxin Zhu', 'Xiao Huo']",CVPR Workshops,2019
+100,c,Learning to Cluster Faces on an Affinity Graph.,"['Lei Yang', 'Xiaohang Zhan', 'Dapeng Chen', 'Junjie Yan', 'Chen Change Loy', 'Dahua Lin']",CVPR,2019
+101,c,Region Proposal by Guided Anchoring.,"['Jiaqi Wang', 'Kai Chen', 'Shuo Yang', 'Chen Change Loy', 'Dahua Lin']",CVPR,2019
+102,c,Dense Intrinsic Appearance Flow for Human Pose Transfer.,"['Yining Li', 'Chen Huang', 'Chen Change Loy']",CVPR,2019
+103,c,Deep Flow-Guided Video Inpainting.,"['Rui Xu', 'Xiaoxiao Li', 'Bolei Zhou', 'Chen Change Loy']",CVPR,2019
+104,c,Hybrid Task Cascade for Instance Segmentation.,"['Kai Chen', 'Jiangmiao Pang', 'Jiaqi Wang', 'Yu Xiong', 'Xiaoxiao Li', 'Shuyang Sun', 'Wansen Feng', 'Ziwei Liu', 'Jianping Shi', 'Wanli Ouyang', 'Chen Change Loy', 'Dahua Lin']",CVPR,2019
+105,c,TransGaGa: Geometry-Aware Unsupervised Image-To-Image Translation.,"['Wayne Wu', 'Kaidi Cao', 'Cheng Li', 'Chen Qian', 'Chen Change Loy']",CVPR,2019
+106,c,Learning Lightweight Lane Detection CNNs by Self Attention Distillation.,"['Yuenan Hou', 'Zheng Ma', 'Chunxiao Liu', 'Chen Change Loy']",ICCV,2019
+107,c,Robust Multi-Modality Multi-Object Tracking.,"['Wenwei Zhang', 'Hui Zhou', 'Shuyang Sun', 'Zhe Wang', 'Jianping Shi', 'Chen Change Loy']",ICCV,2019
+108,c,CARAFE: Content-Aware ReAssembly of FEatures.,"['Jiaqi Wang', 'Kai Chen', 'Rui Xu', 'Ziwei Liu', 'Chen Change Loy', 'Dahua Lin']",ICCV,2019
+109,c,Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild.,"['Yu Rong', 'Ziwei Liu', 'Cheng Li', 'Kaidi Cao', 'Chen Change Loy']",ICCV,2019
+110,c,Disentangling Content and Style via Unsupervised Geometry Distillation.,"['Wayne Wu', 'Kaidi Cao', 'Cheng Li', 'Chen Qian', 'Chen Change Loy']",DGS@ICLR,2019
+111,c,Merge or Not? Learning to Group Faces via Imitation Learning.,"['Yue He', 'Kaidi Cao', 'Cheng Li', 'Chen Change Loy']",AAAI,2018
+112,c,Mix-and-Match Tuning for Self-Supervised Semantic Segmentation.,"['Xiaohang Zhan', 'Ziwei Liu', 'Ping Luo', 'Xiaoou Tang', 'Chen Change Loy']",AAAI,2018
+113,c,Recovering Realistic Texture in Image Super-Resolution by Deep Spatial Feature Transform.,"['Xintao Wang', 'Ke Yu', 'Chao Dong', 'Chen Change Loy']",CVPR,2018
+114,c,Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning.,"['Ke Yu', 'Chao Dong', 'Liang Lin', 'Chen Change Loy']",CVPR,2018
+115,c,Pose-Robust Face Recognition via Deep Residual Equivariant Mapping.,"['Kaidi Cao', 'Yu Rong', 'Cheng Li', 'Xiaoou Tang', 'Chen Change Loy']",CVPR,2018
+116,c,Optimizing Video Object Detection via a Scale-Time Lattice.,"['Kai Chen', 'Jiaqi Wang', 'Shuo Yang', 'Xingcheng Zhang', 'Yuanjun Xiong', 'Chen Change Loy', 'Dahua Lin']",CVPR,2018
+117,c,LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation.,"['Tak-Wai Hui', 'Xiaoou Tang', 'Chen Change Loy']",CVPR,2018
+118,c,ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks.,"['Xintao Wang', 'Ke Yu', 'Shixiang Wu', 'Jinjin Gu', 'Yihao Liu', 'Chao Dong', 'Yu Qiao', 'Chen Change Loy']",ECCV Workshops (5),2018
+119,c,Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation.,"['Xiaoxiao Li', 'Chen Change Loy']",ECCV (3),2018
+120,c,PSANet: Point-wise Spatial Attention Network for Scene Parsing.,"['Hengshuang Zhao', 'Yi Zhang', 'Shu Liu', 'Jianping Shi', 'Chen Change Loy', 'Dahua Lin', 'Jiaya Jia']",ECCV (9),2018
+121,c,Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition.,"['Guojun Yin', 'Lu Sheng', 'Bin Liu', 'Nenghai Yu', 'Xiaogang Wang', 'Jing Shao', 'Chen Change Loy']",ECCV (3),2018
+122,c,Lifelong Learning via Progressive Distillation and Retrospection.,"['Saihui Hou', 'Xinyu Pan', 'Chen Change Loy', 'Zilei Wang', 'Dahua Lin']",ECCV (3),2018
+123,c,Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition.,"['Xiaohang Zhan', 'Ziwei Liu', 'Junjie Yan', 'Dahua Lin', 'Chen Change Loy']",ECCV (9),2018
+124,c,ReenactGAN: Learning to Reenact Faces via Boundary Transfer.,"['Wayne Wu', 'Yunxuan Zhang', 'Cheng Li', 'Chen Qian', 'Chen Change Loy']",ECCV (1),2018
+125,c,The Devil of Face Recognition Is in the Noise.,"['Fei Wang', 'Liren Chen', 'Cheng Li', 'Shiyao Huang', 'Yanjie Chen', 'Chen Qian', 'Chen Change Loy']",ECCV (9),2018
+126,c,Fusing Object Context to Detect Functional Area for Cognitive Robots.,"['Hui Cheng', 'Junhao Cai', 'Quande Liu', 'Zhanpeng Zhang', 'Kai Yang', 'Chen Change Loy', 'Liang Lin']",ICRA,2018
+127,c,Aesthetic-Driven Image Enhancement by Adversarial Learning.,"['Yubin Deng', 'Chen Change Loy', 'Xiaoou Tang']",ACM Multimedia,2018
+128,c,Non-Local Recurrent Network for Image Restoration.,"['Ding Liu', 'Bihan Wen', 'Yuchen Fan', 'Chen Change Loy', 'Thomas S. Huang']",NeurIPS,2018
+129,c,Quantifying Facial Age by Posterior of Age Comparisons.,"['Yunxuan Zhang', 'Li Liu', 'Cheng Li', 'Chen Change Loy']",BMVC,2017
+130,c,NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results.,"['Radu Timofte', 'Eirikur Agustsson', 'Luc Van Gool', 'Ming-Hsuan Yang', 'Lei Zhang', 'Bee Lim', 'Sanghyun Son', 'Heewon Kim', 'Seungjun Nah', 'Kyoung Mu Lee', 'Xintao Wang', 'Yapeng Tian', 'Ke Yu', 'Yulun Zhang', 'Shixiang Wu', 'Chao Dong', 'Liang Lin', 'Yu Qiao', 'Chen Change Loy', 'Woong Bae', 'Jae Jun Yoo', 'Yoseob Han', 'Jong Chul Ye', 'Jae-Seok Choi', 'Munchurl Kim', 'Yuchen Fan', 'Jiahui Yu', 'Wei Han', 'Ding Liu', 'Haichao Yu', 'Zhangyang Wang', 'Honghui Shi', 'Xinchao Wang', 'Thomas S. Huang', 'Yunjin Chen', 'Kai Zhang', 'Wangmeng Zuo', 'Zhimin Tang', 'Linkai Luo', 'Shaohui Li', 'Min Fu', 'Lei Cao', 'Wen Heng', 'Giang Bui', 'Truc Le', 'Ye Duan', 'Dacheng Tao', 'Ruxin Wang', 'Xu Lin', 'Jianxin Pang', 'Jinchang Xu', 'Yu Zhao', 'Xiangyu Xu', 'Jin-shan Pan', 'Deqing Sun', 'Yujin Zhang', 'Xibin Song', 'Yuchao Dai', 'Xueying Qin', 'Xuan-Phung Huynh', 'Tiantong Guo', 'Hojjat Seyed Mousavi', 'Tiep Huu Vu', 'Vishal Monga', 'Cristóvão Cruz', 'Karen O. Egiazarian', 'Vladimir Katkovnik', 'Rakesh Mehta', 'Arnav Kumar Jain', 'Abhinav Agarwalla', 'Ch V. Sai Praveen', 'Ruofan Zhou', 'Hongdiao Wen', 'Che Zhu', 'Zhiqiang Xia', 'Zhengtao Wang', 'Qi Guo']",CVPR Workshops,2017
+131,c,Discover and Learn New Objects from Documentaries.,"['Kai Chen', 'Hang Song', 'Chen Change Loy', 'Dahua Lin']",CVPR,2017
+132,c,PolyNet: A Pursuit of Structural Diversity in Very Deep Networks.,"['Xingcheng Zhang', 'Zhizhong Li', 'Chen Change Loy', 'Dahua Lin']",CVPR,2017
+133,c,Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade.,"['Xiaoxiao Li', 'Ziwei Liu', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CVPR,2017
+134,c,Be Your Own Prada: Fashion Synthesis with Structural Coherence.,"['Shizhan Zhu', 'Sanja Fidler', 'Raquel Urtasun', 'Dahua Lin', 'Chen Change Loy']",ICCV,2017
+135,c,Learning to Disambiguate by Asking Discriminative Questions.,"['Yining Li', 'Chen Huang', 'Xiaoou Tang', 'Chen Change Loy']",ICCV,2017
+136,c,Reading Scene Text in Deep Convolutional Sequences.,"['Pan He', 'Weilin Huang', 'Yu Qiao', 'Chen Change Loy', 'Xiaoou Tang']",AAAI,2016
+137,c,Pedestrian Color Naming via Convolutional Neural Network.,"['Zhiyi Cheng', 'Xiaoxiao Li', 'Chen Change Loy']",ACCV (2),2016
+138,c,Sketch Me That Shoe.,"['Qian Yu', 'Feng Liu', 'Yi-Zhe Song', 'Tao Xiang', 'Timothy M. Hospedales', 'Chen Change Loy']",CVPR,2016
+139,c,Unconstrained Face Alignment via Cascaded Compositional Learning.,"['Shizhan Zhu', 'Cheng Li', 'Chen Change Loy', 'Xiaoou Tang']",CVPR,2016
+140,c,Unsupervised Learning of Discriminative Attributes and Visual Representations.,"['Chen Huang', 'Chen Change Loy', 'Xiaoou Tang']",CVPR,2016
+141,c,Learning Deep Representation for Imbalanced Classification.,"['Chen Huang', 'Yining Li', 'Chen Change Loy', 'Xiaoou Tang']",CVPR,2016
+142,c,WIDER FACE: A Face Detection Benchmark.,"['Shuo Yang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CVPR,2016
+143,c,Slicing Convolutional Neural Network for Crowd Video Understanding.,"['Jing Shao', 'Chen Change Loy', 'Kai Kang', 'Xiaogang Wang']",CVPR,2016
+144,c,Joint Face Representation Adaptation and Clustering in Videos.,"['Zhanpeng Zhang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",ECCV (3),2016
+145,c,Depth Map Super-Resolution by Deep Multi-Scale Guidance.,"['Tak-Wai Hui', 'Chen Change Loy', 'Xiaoou Tang']",ECCV (3),2016
+146,c,Deep Specialized Network for Illuminant Estimation.,"['Wu Shi', 'Chen Change Loy', 'Xiaoou Tang']",ECCV (4),2016
+147,c,Accelerating the Super-Resolution Convolutional Neural Network.,"['Chao Dong', 'Chen Change Loy', 'Xiaoou Tang']",ECCV (2),2016
+148,c,Deep Cascaded Bi-Network for Face Hallucination.,"['Shizhan Zhu', 'Sifei Liu', 'Chen Change Loy', 'Xiaoou Tang']",ECCV (5),2016
+149,c,Human Attribute Recognition by Deep Hierarchical Contexts.,"['Yining Li', 'Chen Huang', 'Chen Change Loy', 'Xiaoou Tang']",ECCV (6),2016
+150,c,Towards robust color recovery for high-capacity color QR codes.,"['Zhibo Yang', 'Zhiyi Cheng', 'Chen Change Loy', 'Wing Cheong Lau', 'Chak Man Li', 'Guanchen Li']",ICIP,2016
+151,c,Local Similarity-Aware Deep Feature Embedding.,"['Chen Huang', 'Chen Change Loy', 'Xiaoou Tang']",NIPS,2016
+152,c,Deep Representation Learning with Target Coding.,"['Shuo Yang', 'Ping Luo', 'Chen Change Loy', 'Kenneth W. Shum', 'Xiaoou Tang']",AAAI,2015
+153,c,DeepID-Net: Deformable deep convolutional neural networks for object detection.,"['Wanli Ouyang', 'Xiaogang Wang', 'Xingyu Zeng', 'Shi Qiu', 'Ping Luo', 'Yonglong Tian', 'Hongsheng Li', 'Shuo Yang', 'Zhe Wang', 'Chen Change Loy', 'Xiaoou Tang']",CVPR,2015
+154,c,A large-scale car dataset for fine-grained categorization and verification.,"['Linjie Yang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CVPR,2015
+155,c,Deeply learned attributes for crowded scene understanding.,"['Jing Shao', 'Kai Kang', 'Chen Change Loy', 'Xiaogang Wang']",CVPR,2015
+156,c,Face alignment by coarse-to-fine shape searching.,"['Shizhan Zhu', 'Cheng Li', 'Chen Change Loy', 'Xiaoou Tang']",CVPR,2015
+157,c,Compression Artifacts Reduction by a Deep Convolutional Network.,"['Chao Dong', 'Yubin Deng', 'Chen Change Loy', 'Xiaoou Tang']",ICCV,2015
+158,c,Semantic Image Segmentation via Deep Parsing Network.,"['Ziwei Liu', 'Xiaoxiao Li', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",ICCV,2015
+159,c,Learning Social Relation Traits from Face Images.,"['Zhanpeng Zhang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",ICCV,2015
+160,c,From Facial Parts Responses to Face Detection: A Deep Learning Approach.,"['Shuo Yang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",ICCV,2015
+161,c,Constructing Robust Affinity Graphs for Spectral Clustering.,"['Xiatian Zhu', 'Chen Change Loy', 'Shaogang Gong']",CVPR,2014
+162,c,Scene-Independent Group Profiling in Crowd.,"['Jing Shao', 'Chen Change Loy', 'Xiaogang Wang']",CVPR,2014
+163,c,Facial Landmark Detection by Deep Multi-task Learning.,"['Zhanpeng Zhang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",ECCV (6),2014
+164,c,Learning a Deep Convolutional Network for Image Super-Resolution.,"['Chao Dong', 'Chen Change Loy', 'Kaiming He', 'Xiaoou Tang']",ECCV (4),2014
+165,c,Crowd Saliency Detection via Global Similarity Structure.,"['Mei Kuan Lim', 'Ven Jyn Kok', 'Chen Change Loy', 'Chee Seng Chan']",ICPR,2014
+166,c,Pedestrian Attribute Recognition At Far Distance.,"['Yubin Deng', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",ACM Multimedia,2014
+167,c,Cumulative Attribute Space for Age and Crowd Density Estimation.,"['Ke Chen', 'Shaogang Gong', 'Tao Xiang', 'Chen Change Loy']",CVPR,2013
+168,c,Video Synopsis by Heterogeneous Multi-source Correlation.,"['Xiatian Zhu', 'Chen Change Loy', 'Shaogang Gong']",ICCV,2013
+169,c,POP: Person Re-identification Post-rank Optimisation.,"['Chunxiao Liu', 'Chen Change Loy', 'Shaogang Gong', 'Guijin Wang']",ICCV,2013
+170,c,From Semi-supervised to Transfer Counting of Crowds.,"['Chen Change Loy', 'Shaogang Gong', 'Tao Xiang']",ICCV,2013
+171,c,Constrained Clustering: Effective Constraint Propagation with Imperfect Oracles.,"['Xiatian Zhu', 'Chen Change Loy', 'Shaogang Gong']",ICDM,2013
+172,c,Person re-identification by manifold ranking.,"['Chen Change Loy', 'Chunxiao Liu', 'Shaogang Gong']",ICIP,2013
+173,c,Feature Mining for Localised Crowd Counting.,"['Ke Chen', 'Chen Change Loy', 'Shaogang Gong', 'Tony Xiang']",BMVC,2012
+174,c,Comparing Visual Feature Coding for Learning Disjoint Camera Dependencies.,"['Xiatian Zhu', 'Shaogang Gong', 'Chen Change Loy']",BMVC,2012
+175,c,Stream-based joint exploration-exploitation active learning.,"['Chen Change Loy', 'Timothy M. Hospedales', 'Tao Xiang', 'Shaogang Gong']",CVPR,2012
+176,c,Person Re-identification: What Features Are Important?,"['Chunxiao Liu', 'Shaogang Gong', 'Chen Change Loy', 'Xinggang Lin']",ECCV Workshops (1),2012
+177,c,Salient motion detection in crowded scenes.,"['Chen Change Loy', 'Tao Xiang', 'Shaogang Gong']",ISCCSP,2012
+178,c,Stream-Based Active Unusual Event Detection.,"['Chen Change Loy', 'Tao Xiang', 'Shaogang Gong']",ACCV (1),2010
+179,c,Modelling Multi-object Activity by Gaussian Processes.,"['Chen Change Loy', 'Tao Xiang', 'Shaogang Gong']",BMVC,2009
+180,c,Multi-camera activity correlation analysis.,"['Chen Change Loy', 'Tao Xiang', 'Shaogang Gong']",CVPR,2009
+181,c,Modelling activity global temporal dependencies using Time Delayed Probabilistic Graphical Model.,"['Chen Change Loy', 'Tao Xiang', 'Shaogang Gong']",ICCV,2009
+182,c,Robust modular ARTMAP for multi-class shape recognition.,"['Chue Poh Tan', 'Chen Change Loy', 'Weng-Kin Lai', 'Chee Peng Lim']",IJCNN,2008
+183,c,Use of Circle-Segments as a Data Visualization Technique for Feature Selection in Pattern Classification.,"['Shir Li Wang', 'Chen Change Loy', 'Chee Peng Lim', 'Weng-Kin Lai', 'Kay Sin Tan']",ICONIP (1),2007
+184,c,Keystroke Patterns Classification Using the ARTMAP-FD Neural Network.,"['Chen Change Loy', 'Weng-Kin Lai', 'Chee Peng Lim']",IIH-MSP,2007
+185,c,Dimensionality Reduction of Protein Mass Spectrometry Data Using Random Projection.,"['Chen Change Loy', 'Weng-Kin Lai', 'Chee Peng Lim']",ICONIP (2),2006
+186,i,LEDNet: Joint Low-light Enhancement and Deblurring in the Dark.,"['Shangchen Zhou', 'Chongyi Li', 'Chen Change Loy']",CoRR,2022
+187,i,Conditional Prompt Learning for Vision-Language Models.,"['Kaiyang Zhou', 'Jingkang Yang', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2022
+188,i,Dense Siamese Network.,"['Wenwei Zhang', 'Jiangmiao Pang', 'Kai Chen', 'Chen Change Loy']",CoRR,2022
+189,i,Open-Vocabulary DETR with Conditional Matching.,"['Yuhang Zang', 'Wei Li', 'Kaiyang Zhou', 'Chen Huang', 'Chen Change Loy']",CoRR,2022
+190,i,Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory.,"['Siyao Li', 'Weijiang Yu', 'Tianpei Gu', 'Chunze Lin', 'Quan Wang', 'Chen Qian', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2022
+191,i,Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer.,"['Shuai Yang', 'Liming Jiang', 'Ziwei Liu', 'Chen Change Loy']",CoRR,2022
+192,i,TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing.,"['Yanbo Xu', 'Yueqin Yin', 'Liming Jiang', 'Qianyi Wu', 'Chengyao Zheng', 'Chen Change Loy', 'Bo Dai', 'Wayne Wu']",CoRR,2022
+193,i,Unsupervised Image-to-Image Translation with Generative Prior.,"['Shuai Yang', 'Liming Jiang', 'Ziwei Liu', 'Chen Change Loy']",CoRR,2022
+194,i,"Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation.","['Xiangtai Li', 'Wenwei Zhang', 'Jiangmiao Pang', 'Kai Chen', 'Guangliang Cheng', 'Yunhai Tong', 'Chen Change Loy']",CoRR,2022
+195,i,On the Generalization of BasicVSR++ to Video Deblurring and Denoising.,"['Kelvin C. K. Chan', 'Shangchen Zhou', 'Xiangyu Xu', 'Chen Change Loy']",CoRR,2022
+196,i,StyleGAN-Human: A Data-Centric Odyssey of Human Generation.,"['Jianglin Fu', 'Shikai Li', 'Yuming Jiang', 'Kwan-Yee Lin', 'Chen Qian', 'Chen Change Loy', 'Wayne Wu', 'Ziwei Liu']",CoRR,2022
+197,i,HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling.,"['Zhongang Cai', 'Daxuan Ren', 'Ailing Zeng', 'Zhengyu Lin', 'Tao Yu', 'Wenjia Wang', 'Xiangyu Fan', 'Yang Gao', 'Yifan Yu', 'Liang Pan', 'Fangzhou Hong', 'Mingyuan Zhang', 'Chen Change Loy', 'Lei Yang', 'Ziwei Liu']",CoRR,2022
+198,i,Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets.,"['Kenny T. R. Voo', 'Liming Jiang', 'Chen Change Loy']",CoRR,2022
+199,i,Text2Human: Text-Driven Controllable Human Image Generation.,"['Yuming Jiang', 'Shuai Yang', 'Haonan Qiu', 'Wayne Wu', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2022
+200,i,Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation.,"['Yuenan Hou', 'Xinge Zhu', 'Yuexin Ma', 'Chen Change Loy', 'Yikang Li']",CoRR,2022
+201,i,Masked Frequency Modeling for Self-Supervised Visual Pre-Training.,"['Jiahao Xie', 'Wei Li', 'Xiaohang Zhan', 'Ziwei Liu', 'Yew Soon Ong', 'Chen Change Loy']",CoRR,2022
+202,i,Towards Robust Blind Face Restoration with Codebook Lookup Transformer.,"['Shangchen Zhou', 'Kelvin C. K. Chan', 'Chongyi Li', 'Chen Change Loy']",CoRR,2022
+203,i,Monocular 3D Object Reconstruction with GAN Inversion.,"['Junzhe Zhang', 'Daxuan Ren', 'Zhongang Cai', 'Chai Kiat Yeo', 'Bo Dai', 'Chen Change Loy']",CoRR,2022
+204,i,BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis.,"['Davide Moltisanti', 'Jinyi Wu', 'Bo Dai', 'Chen Change Loy']",CoRR,2022
+205,i,Transformer with Implicit Edges for Particle-based Physics Simulation.,"['Yidi Shao', 'Chen Change Loy', 'Bo Dai']",CoRR,2022
+206,i,CelebV-HQ: A Large-Scale Video Facial Attributes Dataset.,"['Hao Zhu', 'Wayne Wu', 'Wentao Zhu', 'Liming Jiang', 'Siwei Tang', 'Li Zhang', 'Ziwei Liu', 'Chen Change Loy']",CoRR,2022
+207,i,Exploring CLIP for Assessing the Look and Feel of Images.,"['Jianyi Wang', 'Kelvin C. K. Chan', 'Chen Change Loy']",CoRR,2022
+208,i,CuDi: Curve Distillation for Efficient and Controllable Exposure Adjustment.,"['Chongyi Li', 'Chunle Guo', 'Ruicheng Feng', 'Shangchen Zhou', 'Chen Change Loy']",CoRR,2022
+209,i,StyleLight: HDR Panorama Generation for Lighting Estimation and Editing.,"['Guangcong Wang', 'Yinuo Yang', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2022
+210,i,GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond.,"['Kelvin C. K. Chan', 'Xiangyu Xu', 'Xintao Wang', 'Jinwei Gu', 'Chen Change Loy']",CoRR,2022
+211,i,Mind the Gap in Distilling StyleGANs.,"['Guodong Xu', 'Yuenan Hou', 'Ziwei Liu', 'Chen Change Loy']",CoRR,2022
+212,i,MIPI 2022 Challenge on Under-Display Camera Image Restoration: Methods and Results.,"['Ruicheng Feng', 'Chongyi Li', 'Shangchen Zhou', 'Wenxiu Sun', 'Qingpeng Zhu', 'Jun Jiang', 'Qingyu Yang', 'Chen Change Loy', 'Jinwei Gu']",CoRR,2022
+213,i,MIPI 2022 Challenge on RGB+ToF Depth Completion: Dataset and Report.,"['Wenxiu Sun', 'Qingpeng Zhu', 'Chongyi Li', 'Ruicheng Feng', 'Shangchen Zhou', 'Jun Jiang', 'Qingyu Yang', 'Chen Change Loy', 'Jinwei Gu']",CoRR,2022
+214,i,MIPI 2022 Challenge on Quad-Bayer Re-mosaic: Dataset and Report.,"['Qingyu Yang', 'Guang Yang', 'Jun Jiang', 'Chongyi Li', 'Ruicheng Feng', 'Shangchen Zhou', 'Wenxiu Sun', 'Qingpeng Zhu', 'Chen Change Loy', 'Jinwei Gu']",CoRR,2022
+215,i,On-Device Domain Generalization.,"['Kaiyang Zhou', 'Yuanhan Zhang', 'Yuhang Zang', 'Jingkang Yang', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2022
+216,i,MIPI 2022 Challenge on RGBW Sensor Fusion: Dataset and Report.,"['Qingyu Yang', 'Guang Yang', 'Jun Jiang', 'Chongyi Li', 'Ruicheng Feng', 'Shangchen Zhou', 'Wenxiu Sun', 'Qingpeng Zhu', 'Chen Change Loy', 'Jinwei Gu']",CoRR,2022
+217,i,MIPI 2022 Challenge on RGBW Sensor Re-mosaic: Dataset and Report.,"['Qingyu Yang', 'Guang Yang', 'Jun Jiang', 'Chongyi Li', 'Ruicheng Feng', 'Shangchen Zhou', 'Wenxiu Sun', 'Qingpeng Zhu', 'Chen Change Loy', 'Jinwei Gu']",CoRR,2022
+218,i,VToonify: Controllable High-Resolution Portrait Video Style Transfer.,"['Shuai Yang', 'Liming Jiang', 'Ziwei Liu', 'Chen Change Loy']",CoRR,2022
+219,i,Deep Fourier Up-Sampling.,"['Man Zhou', 'Hu Yu', 'Jie Huang', 'Feng Zhao', 'Jinwei Gu', 'Chen Change Loy', 'Deyu Meng', 'Chongyi Li']",CoRR,2022
+220,i,Flare7K: A Phenomenological Nighttime Flare Removal Dataset.,"['Yuekun Dai', 'Chongyi Li', 'Shangchen Zhou', 'Ruicheng Feng', 'Chen Change Loy']",CoRR,2022
+221,i,Unified Vision and Language Prompt Learning.,"['Yuhang Zang', 'Wei Li', 'Kaiyang Zhou', 'Chen Huang', 'Chen Change Loy']",CoRR,2022
+222,i,DeeperForensics Challenge 2020 on Real-World Face Forgery Detection: Methods and Results.,"['Liming Jiang', 'Zhengkui Guo', 'Wayne Wu', 'Zhaoyang Liu', 'Ziwei Liu', 'Chen Change Loy', 'Shuo Yang', 'Yuanjun Xiong', 'Wei Xia', 'Baoying Chen', 'Peiyu Zhuang', 'Sili Li', 'Shen Chen', 'Taiping Yao', 'Shouhong Ding', 'Jilin Li', 'Feiyue Huang', 'Liujuan Cao', 'Rongrong Ji', 'Changlei Lu', 'Ganchao Tan']",CoRR,2021
+223,i,FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation.,"['Yuhang Zang', 'Chen Huang', 'Chen Change Loy']",CoRR,2021
+224,i,Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation.,"['Chongyi Li', 'Chunle Guo', 'Chen Change Loy']",CoRR,2021
+225,i,Network Pruning via Resource Reallocation.,"['Yuenan Hou', 'Zheng Ma', 'Chunxiao Liu', 'Zhe Wang', 'Chen Change Loy']",CoRR,2021
+226,i,Domain Generalization: A Survey.,"['Kaiyang Zhou', 'Ziwei Liu', 'Yu Qiao', 'Tao Xiang', 'Chen Change Loy']",CoRR,2021
+227,i,Deep Animation Video Interpolation in the Wild.,"['Siyao Li', 'Shiyu Zhao', 'Weijiang Yu', 'Wenxiu Sun', 'Dimitris N. Metaxas', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2021
+228,i,Everything's Talkin': Pareidolia Face Reenactment.,"['Linsen Song', 'Wayne Wu', 'Chaoyou Fu', 'Chen Qian', 'Chen Change Loy', 'Ran He']",CoRR,2021
+229,i,Audio-Driven Emotional Video Portraits.,"['Xinya Ji', 'Hang Zhou', 'Kaisiyuan Wang', 'Wayne Wu', 'Chen Change Loy', 'Xun Cao', 'Feng Xu']",CoRR,2021
+230,i,Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network.,"['Ruicheng Feng', 'Chongyi Li', 'Huaijin Chen', 'Shuai Li', 'Chen Change Loy', 'Jinwei Gu']",CoRR,2021
+231,i,Lighting the Darkness in the Deep Learning Era.,"['Chongyi Li', 'Chunle Guo', 'Linghao Han', 'Jun Jiang', 'Ming-Ming Cheng', 'Jinwei Gu', 'Chen Change Loy']",CoRR,2021
+232,i,NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results.,"['Ren Yang', 'Radu Timofte', 'Jing Liu', 'Yi Xu', 'Xinjian Zhang', 'Minyi Zhao', 'Shuigeng Zhou', 'Kelvin C. K. Chan', 'Shangchen Zhou', 'Xiangyu Xu', 'Chen Change Loy', 'Xin Li', 'Fanglong Liu', 'He Zheng', 'Lielin Jiang', 'Qi Zhang', 'Dongliang He', 'Fu Li', 'Qingqing Dang', 'Yibin Huang', 'Matteo Maggioni', 'Zhongqian Fu', 'Shuai Xiao', 'Cheng Li', 'Thomas Tanay', 'Fenglong Song', 'Wentao Chao', 'Qiang Guo', 'Yan Liu', 'Jiang Li', 'Xiaochao Qu', 'Dewang Hou', 'Jiayu Yang', 'Lyn Jiang', 'Di You', 'Zhenyu Zhang', 'Chong Mou', 'Iaroslav Koshelev', 'Pavel Ostyakov', 'Andrey Somov', 'Jia Hao', 'Xueyi Zou', 'Shijie Zhao', 'Xiaopeng Sun', 'Yiting Liao', 'Yuanzhi Zhang', 'Qing Wang', 'Gen Zhan', 'Mengxi Guo', 'Junlin Li', 'Ming Lu', 'Zhan Ma', 'Pablo Navarrete Michelini', 'Hai Wang', 'Yiyun Chen', 'Jingyu Guo', 'Liliang Zhang', 'Wenming Yang', 'Sijung Kim', 'Syehoon Oh', 'Yucong Wang', 'Minjie Cai', 'Wei Hao', 'Kangdi Shi', 'Liangyan Li', 'Jun Chen', 'Wei Gao', 'Wang Liu', 'Xiaoyu Zhang', 'Linjie Zhou', 'Sixin Lin', 'Ru Wang']",CoRR,2021
+233,i,Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.,"['Hang Zhou', 'Yasheng Sun', 'Wayne Wu', 'Chen Change Loy', 'Xiaogang Wang', 'Ziwei Liu']",CoRR,2021
+234,i,Unsupervised 3D Shape Completion through GAN Inversion.,"['Junzhe Zhang', 'Xinyi Chen', 'Zhongang Cai', 'Liang Pan', 'Haiyu Zhao', 'Shuai Yi', 'Chai Kiat Yeo', 'Bo Dai', 'Chen Change Loy']",CoRR,2021
+235,i,BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment.,"['Kelvin C. K. Chan', 'Shangchen Zhou', 'Xiangyu Xu', 'Chen Change Loy']",CoRR,2021
+236,i,Semi-Supervised Domain Generalization with Stochastic StyleMatch.,"['Kaiyang Zhou', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2021
+237,i,Robust Reference-based Super-Resolution via C2-Matching.,"['Yuming Jiang', 'Kelvin C. K. Chan', 'Xintao Wang', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2021
+238,i,Unsupervised Object-Level Representation Learning from Scene Images.,"['Jiahao Xie', 'Xiaohang Zhan', 'Ziwei Liu', 'Yew-Soon Ong', 'Chen Change Loy']",CoRR,2021
+239,i,K-Net: Towards Unified Image Segmentation.,"['Wenwei Zhang', 'Jiangmiao Pang', 'Kai Chen', 'Chen Change Loy']",CoRR,2021
+240,i,Learning to Prompt for Vision-Language Models.,"['Kaiyang Zhou', 'Jingkang Yang', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2021
+241,i,3D Human Texture Estimation from a Single Image with Transformers.,"['Xiangyu Xu', 'Chen Change Loy']",CoRR,2021
+242,i,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,"['Yuming Jiang', 'Ziqi Huang', 'Xingang Pan', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2021
+243,i,ReconfigISP: Reconfigurable Camera Image Processing Pipeline.,"['Ke Yu', 'Zexian Li', 'Yue Peng', 'Chen Change Loy', 'Jinwei Gu']",CoRR,2021
+244,i,Temporally Consistent Video Colorization with Deep Feature Propagation and Self-regularization Learning.,"['Yihao Liu', 'Hengyuan Zhao', 'Kelvin C. K. Chan', 'Xintao Wang', 'Chen Change Loy', 'Yu Qiao', 'Chao Dong']",CoRR,2021
+245,i,Playing for 3D Human Recovery.,"['Zhongang Cai', 'Mingyuan Zhang', 'Jiawei Ren', 'Chen Wei', 'Daxuan Ren', 'Jiatong Li', 'Zhengyu Lin', 'Haiyu Zhao', 'Shuai Yi', 'Lei Yang', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2021
+246,i,"Self-Supervised Representation Learning: Introduction, Advances and Challenges.","['Linus Ericsson', 'Henry Gouk', 'Chen Change Loy', 'Timothy M. Hospedales']",CoRR,2021
+247,i,STransGAN: An Empirical Study on Transformer in GANs.,"['Rui Xu', 'Xiangyu Xu', 'Kai Chen', 'Bolei Zhou', 'Chen Change Loy']",CoRR,2021
+248,i,A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.,"['Xingang Pan', 'Xudong Xu', 'Chen Change Loy', 'Christian Theobalt', 'Bo Dai']",CoRR,2021
+249,i,Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements.,"['Yu Rong', 'Jingbo Wang', 'Ziwei Liu', 'Chen Change Loy']",CoRR,2021
+250,i,Deceive D: Adaptive Pseudo Augmentation for GAN Training with Limited Data.,"['Liming Jiang', 'Bo Dai', 'Wayne Wu', 'Chen Change Loy']",CoRR,2021
+251,i,Investigating Tradeoffs in Real-World Video Super-Resolution.,"['Kelvin C. K. Chan', 'Shangchen Zhou', 'Xiangyu Xu', 'Chen Change Loy']",CoRR,2021
+252,i,DenseCLIP: Extract Free Dense Labels from CLIP.,"['Chong Zhou', 'Chen Change Loy', 'Bo Dai']",CoRR,2021
+253,i,MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks.,"['Wentao Zhu', 'Zhuoqian Yang', 'Ziang Di', 'Wayne Wu', 'Yizhou Wang', 'Chen Change Loy']",CoRR,2021
+254,i,EcoNAS: Finding Proxies for Economical Neural Architecture Search.,"['Dongzhan Zhou', 'Xinchi Zhou', 'Wenwei Zhang', 'Chen Change Loy', 'Shuai Yi', 'Xuesen Zhang', 'Wanli Ouyang']",CoRR,2020
+255,i,DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.,"['Liming Jiang', 'Wayne Wu', 'Ren Li', 'Chen Qian', 'Chen Change Loy']",CoRR,2020
+256,i,Everybody's Talkin': Let Me Talk as You Want.,"['Linsen Song', 'Wayne Wu', 'Chen Qian', 'Ran He', 'Chen Change Loy']",CoRR,2020
+257,i,Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement.,"['Chunle Guo', 'Chongyi Li', 'Jichang Guo', 'Chen Change Loy', 'Junhui Hou', 'Sam Kwong', 'Runmin Cong']",CoRR,2020
+258,i,"Real or Not Real, that is the Question.","['Yuanbo Xiangli', 'Yubin Deng', 'Bo Dai', 'Chen Change Loy', 'Dahua Lin']",CoRR,2020
+259,i,Residual Knowledge Distillation.,"['Mengya Gao', 'Yujun Shen', 'Quanquan Li', 'Chen Change Loy']",CoRR,2020
+260,i,1st Place Solutions for OpenImage2019 - Object Detection and Instance Segmentation.,"['Yu Liu', 'Guanglu Song', 'Yuhang Zang', 'Yan Gao', 'Enze Xie', 'Junjie Yan', 'Chen Change Loy', 'Xiaogang Wang']",CoRR,2020
+261,i,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,"['Xingang Pan', 'Xiaohang Zhan', 'Bo Dai', 'Dahua Lin', 'Chen Change Loy', 'Ping Luo']",CoRR,2020
+262,i,TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting.,"['Zhuoqian Yang', 'Wentao Zhu', 'Wayne Wu', 'Chen Qian', 'Qiang Zhou', 'Bolei Zhou', 'Chen Change Loy']",CoRR,2020
+263,i,Learning to Cluster Faces via Confidence and Connectivity Estimation.,"['Lei Yang', 'Dapeng Chen', 'Xiaohang Zhan', 'Rui Zhao', 'Chen Change Loy', 'Dahua Lin']",CoRR,2020
+264,i,Self-Supervised Scene De-occlusion.,"['Xiaohang Zhan', 'Xingang Pan', 'Bo Dai', 'Ziwei Liu', 'Dahua Lin', 'Chen Change Loy']",CoRR,2020
+265,i,Feature Pyramid Grids.,"['Kai Chen', 'Yuhang Cao', 'Chen Change Loy', 'Dahua Lin', 'Christoph Feichtenhofer']",CoRR,2020
+266,i,Inter-Region Affinity Distillation for Road Marking Segmentation.,"['Yuenan Hou', 'Zheng Ma', 'Chunxiao Liu', 'Tak-Wai Hui', 'Chen Change Loy']",CoRR,2020
+267,i,Knowledge Distillation Meets Self-Supervision.,"['Guodong Xu', 'Ziwei Liu', 'Xiaoxiao Li', 'Chen Change Loy']",CoRR,2020
+268,i,Online Deep Clustering for Unsupervised Representation Learning.,"['Xiaohang Zhan', 'Jiahao Xie', 'Ziwei Liu', 'Yew-Soon Ong', 'Chen Change Loy']",CoRR,2020
+269,i,Cross-Scale Internal Graph Neural Network for Image Super-Resolution.,"['Shangchen Zhou', 'Jiawei Zhang', 'Wangmeng Zuo', 'Chen Change Loy']",CoRR,2020
+270,i,RGB-D Salient Object Detection with Cross-Modality Modulation and Selection.,"['Chongyi Li', 'Runmin Cong', 'Yongri Piao', 'Qianqian Xu', 'Chen Change Loy']",CoRR,2020
+271,i,LiteFlowNet3: Resolving Correspondence Ambiguity for More Accurate Optical Flow Estimation.,"['Tak-Wai Hui', 'Chen Change Loy']",CoRR,2020
+272,i,TSIT: A Simple and Versatile Framework for Image-to-Image Translation.,"['Liming Jiang', 'Changxu Zhang', 'Mingyang Huang', 'Chunxiao Liu', 'Jianping Shi', 'Chen Change Loy']",CoRR,2020
+273,i,MessyTable: Instance Association in Multiple Camera Views.,"['Zhongang Cai', 'Junzhe Zhang', 'Daxuan Ren', 'Cunjun Yu', 'Haiyu Zhao', 'Shuai Yi', 'Chai Kiat Yeo', 'Chen Change Loy']",CoRR,2020
+274,i,Seesaw Loss for Long-Tailed Instance Segmentation.,"['Jiaqi Wang', 'Wenwei Zhang', 'Yuhang Zang', 'Yuhang Cao', 'Jiangmiao Pang', 'Tao Gong', 'Kai Chen', 'Ziwei Liu', 'Chen Change Loy', 'Dahua Lin']",CoRR,2020
+275,i,Delving into Inter-Image Invariance for Unsupervised Visual Representations.,"['Jiahao Xie', 'Xiaohang Zhan', 'Ziwei Liu', 'Yew-Soon Ong', 'Chen Change Loy']",CoRR,2020
+276,i,Understanding Deformable Alignment in Video Super-Resolution.,"['Kelvin C. K. Chan', 'Xintao Wang', 'Ke Yu', 'Chao Dong', 'Chen Change Loy']",CoRR,2020
+277,i,Texture Memory-Augmented Deep Patch-Based Image Inpainting.,"['Rui Xu', 'Minghao Guo', 'Jiaqi Wang', 'Xiaoxiao Li', 'Bolei Zhou', 'Chen Change Loy']",CoRR,2020
+278,i,Flexible Piecewise Curves Estimation for Photo Enhancement.,"['Chongyi Li', 'Chunle Guo', 'Qiming Ai', 'Shangchen Zhou', 'Chen Change Loy']",CoRR,2020
+279,i,Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.,"['Xingang Pan', 'Bo Dai', 'Ziwei Liu', 'Chen Change Loy', 'Ping Luo']",CoRR,2020
+280,i,GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.,"['Kelvin C. K. Chan', 'Xintao Wang', 'Xiangyu Xu', 'Jinwei Gu', 'Chen Change Loy']",CoRR,2020
+281,i,BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond.,"['Kelvin C. K. Chan', 'Xintao Wang', 'Ke Yu', 'Chao Dong', 'Chen Change Loy']",CoRR,2020
+282,i,CARAFE++: Unified Content-Aware ReAssembly of FEatures.,"['Jiaqi Wang', 'Kai Chen', 'Rui Xu', 'Ziwei Liu', 'Chen Change Loy', 'Dahua Lin']",CoRR,2020
+283,i,Positional Encoding as Spatial Inductive Bias in GANs.,"['Rui Xu', 'Xintao Wang', 'Kai Chen', 'Bolei Zhou', 'Chen Change Loy']",CoRR,2020
+284,i,Computation-Efficient Knowledge Distillation via Uncertainty-Aware Mixup.,"['Guodong Xu', 'Ziwei Liu', 'Chen Change Loy']",CoRR,2020
+285,i,Multi-Modality Cut and Paste for 3D Object Detection.,"['Wenwei Zhang', 'Zhe Wang', 'Chen Change Loy']",CoRR,2020
+286,i,Focal Frequency Loss for Generative Models.,"['Liming Jiang', 'Bo Dai', 'Wayne Wu', 'Chen Change Loy']",CoRR,2020
+287,i,Chasing the Tail in Monocular 3D Human Reconstruction with Prototype Memory.,"['Yu Rong', 'Ziwei Liu', 'Chen Change Loy']",CoRR,2020
+288,i,Region Proposal by Guided Anchoring.,"['Jiaqi Wang', 'Kai Chen', 'Shuo Yang', 'Chen Change Loy', 'Dahua Lin']",CoRR,2019
+289,i,Hybrid Task Cascade for Instance Segmentation.,"['Kai Chen', 'Jiangmiao Pang', 'Jiaqi Wang', 'Yu Xiong', 'Xiaoxiao Li', 'Shuyang Sun', 'Wansen Feng', 'Ziwei Liu', 'Jianping Shi', 'Wanli Ouyang', 'Chen Change Loy', 'Dahua Lin']",CoRR,2019
+290,i,WIDER Face and Pedestrian Challenge 2018: Methods and Results.,"['Chen Change Loy', 'Dahua Lin', 'Wanli Ouyang', 'Yuanjun Xiong', 'Shuo Yang', 'Qingqiu Huang', 'Dongzhan Zhou', 'Wei Xia', 'Quanquan Li', 'Ping Luo', 'Junjie Yan', 'Jianfeng Wang', 'Zuoxin Li', 'Ye Yuan', 'Boxun Li', 'Shuai Shao', 'Gang Yu', 'Fangyun Wei', 'Xiang Ming', 'Dong Chen', 'Shifeng Zhang', 'Cheng Chi', 'Zhen Lei', 'Stan Z. Li', 'Hongkai Zhang', 'Bingpeng Ma', 'Hong Chang', 'Shiguang Shan', 'Xilin Chen', 'Wu Liu', 'Boyan Zhou', 'Huaxiong Li', 'Peng Cheng', 'Tao Mei', 'Artem Kukharenko', 'Artem Vasenin', 'Nikolay Sergievskiy', 'Hua Yang', 'Liangqi Li', 'Qiling Xu', 'Yuan Hong', 'Lin Chen', 'Mingjun Sun', 'Yirong Mao', 'Shiying Luo', 'Yongjun Li', 'Ruiping Wang', 'Qiaokang Xie', 'Ziyang Wu', 'Lei Lu', 'Yiheng Liu', 'Wengang Zhou']",CoRR,2019
+291,i,Unsupervised Bi-directional Flow-based Video Generation from one Snapshot.,"['Lu Sheng', 'Junting Pan', 'Jiaming Guo', 'Jing Shao', 'Xiaogang Wang', 'Chen Change Loy']",CoRR,2019
+292,i,A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization.,"['Tak-Wai Hui', 'Xiaoou Tang', 'Chen Change Loy']",CoRR,2019
+293,i,Dense Intrinsic Appearance Flow for Human Pose Transfer.,"['Yining Li', 'Chen Huang', 'Chen Change Loy']",CoRR,2019
+294,i,Self-Supervised Learning via Conditional Motion Propagation.,"['Xiaohang Zhan', 'Xingang Pan', 'Ziwei Liu', 'Dahua Lin', 'Chen Change Loy']",CoRR,2019
+295,i,Learning to Cluster Faces on an Affinity Graph.,"['Lei Yang', 'Xiaohang Zhan', 'Dapeng Chen', 'Junjie Yan', 'Chen Change Loy', 'Dahua Lin']",CoRR,2019
+296,i,Prime Sample Attention in Object Detection.,"['Yuhang Cao', 'Kai Chen', 'Chen Change Loy', 'Dahua Lin']",CoRR,2019
+297,i,TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation.,"['Wayne Wu', 'Kaidi Cao', 'Cheng Li', 'Chen Qian', 'Chen Change Loy']",CoRR,2019
+298,i,Path-Restore: Learning Network Path Selection for Image Restoration.,"['Ke Yu', 'Xintao Wang', 'Chao Dong', 'Xiaoou Tang', 'Chen Change Loy']",CoRR,2019
+299,i,CARAFE: Content-Aware ReAssembly of FEatures.,"['Jiaqi Wang', 'Kai Chen', 'Rui Xu', 'Ziwei Liu', 'Chen Change Loy', 'Dahua Lin']",CoRR,2019
+300,i,EDVR: Video Restoration with Enhanced Deformable Convolutional Networks.,"['Xintao Wang', 'Kelvin C. K. Chan', 'Ke Yu', 'Chao Dong', 'Chen Change Loy']",CoRR,2019
+301,i,Deep Flow-Guided Video Inpainting.,"['Rui Xu', 'Xiaoxiao Li', 'Bolei Zhou', 'Chen Change Loy']",CoRR,2019
+302,i,Disentangling Content and Style via Unsupervised Geometry Distillation.,"['Wayne Wu', 'Kaidi Cao', 'Cheng Li', 'Chen Qian', 'Chen Change Loy']",CoRR,2019
+303,i,MMDetection: Open MMLab Detection Toolbox and Benchmark.,"['Kai Chen', 'Jiaqi Wang', 'Jiangmiao Pang', 'Yuhang Cao', 'Yu Xiong', 'Xiaoxiao Li', 'Shuyang Sun', 'Wansen Feng', 'Ziwei Liu', 'Jiarui Xu', 'Zheng Zhang', 'Dazhi Cheng', 'Chenchen Zhu', 'Tianheng Cheng', 'Qijie Zhao', 'Buyu Li', 'Xin Lu', 'Rui Zhu', 'Yue Wu', 'Jifeng Dai', 'Jingdong Wang', 'Jianping Shi', 'Wanli Ouyang', 'Chen Change Loy', 'Dahua Lin']",CoRR,2019
+304,i,Learning Lightweight Lane Detection CNNs by Self Attention Distillation.,"['Yuenan Hou', 'Zheng Ma', 'Chunxiao Liu', 'Chen Change Loy']",CoRR,2019
+305,i,One-shot Face Reenactment.,"['Yunxuan Zhang', 'Siwei Zhang', 'Yue He', 'Cheng Li', 'Chen Change Loy', 'Ziwei Liu']",CoRR,2019
+306,i,Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild.,"['Yu Rong', 'Ziwei Liu', 'Cheng Li', 'Kaidi Cao', 'Chen Change Loy']",CoRR,2019
+307,i,Robust Multi-Modality Multi-Object Tracking.,"['Wenwei Zhang', 'Hui Zhou', 'Shuyang Sun', 'Zhe Wang', 'Jianping Shi', 'Chen Change Loy']",CoRR,2019
+308,i,Learning to Synthesize Fashion Textures.,"['Wu Shi', 'Tak-Wai Hui', 'Ziwei Liu', 'Dahua Lin', 'Chen Change Loy']",CoRR,2019
+309,i,Side-Aware Boundary Localization for More Precise Object Detection.,"['Jiaqi Wang', 'Wenwei Zhang', 'Yuhang Cao', 'Kai Chen', 'Jiangmiao Pang', 'Tao Gong', 'Jianping Shi', 'Chen Change Loy', 'Dahua Lin']",CoRR,2019
+310,i,Pose-Robust Face Recognition via Deep Residual Equivariant Mapping.,"['Kaidi Cao', 'Yu Rong', 'Cheng Li', 'Xiaoou Tang', 'Chen Change Loy']",CoRR,2018
+311,i,Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation.,"['Xiaoxiao Li', 'Chen Change Loy']",CoRR,2018
+312,i,Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform.,"['Xintao Wang', 'Ke Yu', 'Chao Dong', 'Chen Change Loy']",CoRR,2018
+313,i,Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning.,"['Ke Yu', 'Chao Dong', 'Liang Lin', 'Chen Change Loy']",CoRR,2018
+314,i,Optimizing Video Object Detection via a Scale-Time Lattice.,"['Kai Chen', 'Jiaqi Wang', 'Shuo Yang', 'Xingcheng Zhang', 'Yuanjun Xiong', 'Chen Change Loy', 'Dahua Lin']",CoRR,2018
+315,i,LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation.,"['Tak-Wai Hui', 'Xiaoou Tang', 'Chen Change Loy']",CoRR,2018
+316,i,Deep Imbalanced Learning for Face Recognition and Attribute Prediction.,"['Chen Huang', 'Yining Li', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2018
+317,i,Non-Local Recurrent Network for Image Restoration.,"['Ding Liu', 'Bihan Wen', 'Yuchen Fan', 'Chen Change Loy', 'Thomas S. Huang']",CoRR,2018
+318,i,Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition.,"['Guojun Yin', 'Lu Sheng', 'Bin Liu', 'Nenghai Yu', 'Xiaogang Wang', 'Jing Shao', 'Chen Change Loy']",CoRR,2018
+319,i,ReenactGAN: Learning to Reenact Faces via Boundary Transfer.,"['Wayne Wu', 'Yunxuan Zhang', 'Cheng Li', 'Chen Qian', 'Chen Change Loy']",CoRR,2018
+320,i,The Devil of Face Recognition is in the Noise.,"['Fei Wang', 'Liren Chen', 'Cheng Li', 'Shiyao Huang', 'Yanjie Chen', 'Chen Qian', 'Chen Change Loy']",CoRR,2018
+321,i,ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks.,"['Xintao Wang', 'Ke Yu', 'Shixiang Wu', 'Jinjin Gu', 'Yihao Liu', 'Chao Dong', 'Chen Change Loy', 'Yu Qiao', 'Xiaoou Tang']",CoRR,2018
+322,i,Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition.,"['Xiaohang Zhan', 'Ziwei Liu', 'Junjie Yan', 'Dahua Lin', 'Chen Change Loy']",CoRR,2018
+323,i,Improving On-policy Learning with Statistical Reward Accumulation.,"['Yubin Deng', 'Ke Yu', 'Dahua Lin', 'Xiaoou Tang', 'Chen Change Loy']",CoRR,2018
+324,i,Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks.,"['Yuenan Hou', 'Zheng Ma', 'Chunxiao Liu', 'Chen Change Loy']",CoRR,2018
+325,i,Deep Network Interpolation for Continuous Imagery Effect Transition.,"['Xintao Wang', 'Ke Yu', 'Chao Dong', 'Xiaoou Tang', 'Chen Change Loy']",CoRR,2018
+326,i,Instance-level Facial Attributes Transfer with Geometry-Aware Flow.,"['Weidong Yin', 'Ziwei Liu', 'Chen Change Loy']",CoRR,2018
+327,i,Feature Matters: A Stage-by-Stage Approach for Knowledge Transfer.,"['Mengya Gao', 'Yujun Shen', 'Quanquan Li', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2018
+328,i,Faceness-Net: Face Detection through Deep Facial Part Responses.,"['Shuo Yang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2017
+329,i,Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade.,"['Xiaoxiao Li', 'Ziwei Liu', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2017
+330,i,Robust and Fast Decoding of High-Capacity Color QR Codes for Mobile Applications.,"['Zhibo Yang', 'Huanle Xu', 'Jianyuan Deng', 'Chen Change Loy', 'Wing Cheong Lau']",CoRR,2017
+331,i,Face Detection through Scale-Friendly Deep Convolutional Networks.,"['Shuo Yang', 'Yuanjun Xiong', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2017
+332,i,Merge or Not? Learning to Group Faces via Imitation Learning.,"['Yue He', 'Kaidi Cao', 'Cheng Li', 'Chen Change Loy']",CoRR,2017
+333,i,Aesthetic-Driven Image Enhancement by Adversarial Learning.,"['Yubin Deng', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2017
+334,i,Discover and Learn New Objects from Documentaries.,"['Kai Chen', 'Hang Song', 'Chen Change Loy', 'Dahua Lin']",CoRR,2017
+335,i,Video Object Segmentation with Re-identification.,"['Xiaoxiao Li', 'Yuankai Qi', 'Zhe Wang', 'Kai Chen', 'Ziwei Liu', 'Jianping Shi', 'Ping Luo', 'Xiaoou Tang', 'Chen Change Loy']",CoRR,2017
+336,i,Learning to Disambiguate by Asking Discriminative Questions.,"['Yining Li', 'Chen Huang', 'Xiaoou Tang', 'Chen Change Loy']",CoRR,2017
+337,i,Quantifying Facial Age by Posterior of Age Comparisons.,"['Yunxuan Zhang', 'Li Liu', 'Cheng Li', 'Chen Change Loy']",CoRR,2017
+338,i,Be Your Own Prada: Fashion Synthesis with Structural Coherence.,"['Shizhan Zhu', 'Sanja Fidler', 'Raquel Urtasun', 'Dahua Lin', 'Chen Change Loy']",CoRR,2017
+339,i,Mix-and-Match Tuning for Self-Supervised Semantic Segmentation.,"['Xiaohang Zhan', 'Ziwei Liu', 'Ping Luo', 'Xiaoou Tang', 'Chen Change Loy']",CoRR,2017
+340,i,Discriminative Sparse Neighbor Approximation for Imbalanced Learning.,"['Chen Huang', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2016
+341,i,Deep Learning Markov Random Field for Semantic Segmentation.,"['Ziwei Liu', 'Xiaoxiao Li', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2016
+342,i,Deep Cascaded Bi-Network for Face Hallucination.,"['Shizhan Zhu', 'Sifei Liu', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2016
+343,i,Accelerating the Super-Resolution Convolutional Neural Network.,"['Chao Dong', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2016
+344,i,Deep Convolution Networks for Compression Artifacts Reduction.,"['Ke Yu', 'Chao Dong', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2016
+345,i,From Facial Expression Recognition to Interpersonal Relation Prediction.,"['Zhanpeng Zhang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2016
+346,i,Image Aesthetic Assessment: An Experimental Survey.,"['Yubin Deng', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2016
+347,i,Local Similarity-Aware Deep Feature Embedding.,"['Chen Huang', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2016
+348,i,PolyNet: A Pursuit of Structural Diversity in Very Deep Networks.,"['Xingcheng Zhang', 'Zhizhong Li', 'Chen Change Loy', 'Dahua Lin']",CoRR,2016
+349,i,Image Super-Resolution Using Deep Convolutional Networks.,"['Chao Dong', 'Chen Change Loy', 'Kaiming He', 'Xiaoou Tang']",CoRR,2015
+350,i,Learning to Recognize Pedestrian Attribute.,"['Yubin Deng', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2015
+351,i,Multi-Source Video Summarisation.,"['Xiatian Zhu', 'Chen Change Loy', 'Shaogang Gong']",CoRR,2015
+352,i,Compression Artifacts Reduction by a Deep Convolutional Network.,"['Chao Dong', 'Yubin Deng', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2015
+353,i,Boosting Optical Character Recognition: A Super-Resolution Approach.,"['Chao Dong', 'Ximei Zhu', 'Yubin Deng', 'Chen Change Loy', 'Yu Qiao']",CoRR,2015
+354,i,Reading Scene Text in Deep Convolutional Sequences.,"['Pan He', 'Weilin Huang', 'Yu Qiao', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2015
+355,i,A Large-Scale Car Dataset for Fine-Grained Categorization and Verification.,"['Linjie Yang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2015
+356,i,Semantic Image Segmentation via Deep Parsing Network.,"['Ziwei Liu', 'Xiaoxiao Li', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2015
+357,i,Learning Social Relation Traits from Face Images.,"['Zhanpeng Zhang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2015
+358,i,From Facial Parts Responses to Face Detection: A Deep Learning Approach.,"['Shuo Yang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2015
+359,i,An Empirical Study of Recent Face Alignment Methods.,"['Heng Yang', 'Xuhui Jia', 'Chen Change Loy', 'Peter Robinson']",CoRR,2015
+360,i,WIDER FACE: A Face Detection Benchmark.,"['Shuo Yang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2015
+361,i,Towards Arbitrary-View Face Alignment by Recommendation Trees.,"['Shizhan Zhu', 'Cheng Li', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2015
+362,i,Learning and Transferring Multi-task Deep Representation for Face Alignment.,"['Zhanpeng Zhang', 'Ping Luo', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2014
+363,i,Transferring Landmark Annotations for Cross-Dataset Face Alignment.,"['Shizhan Zhu', 'Cheng Li', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2014
+364,i,DeepID-Net: multi-stage and deformable deep convolutional neural networks for object detection.,"['Wanli Ouyang', 'Ping Luo', 'Xingyu Zeng', 'Shi Qiu', 'Yonglong Tian', 'Hongsheng Li', 'Shuo Yang', 'Zhe Wang', 'Yuanjun Xiong', 'Chen Qian', 'Zhenyao Zhu', 'Ruohui Wang', 'Chen Change Loy', 'Xiaogang Wang', 'Xiaoou Tang']",CoRR,2014
+365,i,Crowd Saliency Detection via Global Similarity Structure.,"['Mei Kuan Lim', 'Ven Jyn Kok', 'Chen Change Loy', 'Chee Seng Chan']",CoRR,2014
+366,i,DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection.,"['Wanli Ouyang', 'Xiaogang Wang', 'Xingyu Zeng', 'Shi Qiu', 'Ping Luo', 'Yonglong Tian', 'Hongsheng Li', 'Shuo Yang', 'Zhe Wang', 'Chen Change Loy', 'Xiaoou Tang']",CoRR,2014
+367,p,Talking Faces: Audio-to-Video Face Generation.,"['Yuxin Wang', 'Linsen Song', 'Wayne Wu', 'Chen Qian', 'Ran He', 'Chen Change Loy']",Handbook of Digital Face Manipulation and Detection,2022
+368,p,DeepFakes Detection: the DeeperForensicsDeeperForensics Dataset and Challenge.,"['Liming Jiang', 'Wayne Wu', 'Chen Qian', 'Chen Change Loy']",Handbook of Digital Face Manipulation and Detection,2022
+369,p,Deep Learning for Scene-Independent Crowd Analysis.,"['Xiaogang Wang', 'Chen Change Loy']",Group and Crowd Behavior for Computer Vision,2017
+370,p,The Re-identification Challenge.,"['Shaogang Gong', 'Marco Cristani', 'Chen Change Loy', 'Timothy M. Hospedales']",Person Re-Identification,2014
+371,p,Evaluating Feature Importance for Re-identification.,"['Chunxiao Liu', 'Shaogang Gong', 'Chen Change Loy', 'Xinggang Lin']",Person Re-Identification,2014
+372,p,Crowd Counting and Profiling: Methodology and Evaluation.,"['Chen Change Loy', 'Ke Chen', 'Shaogang Gong', 'Tao Xiang']","Modeling, Simulation and Visual Analysis of Crowds",2013
+373,p,Security and Surveillance.,"['Shaogang Gong', 'Chen Change Loy', 'Tao Xiang']",Visual Analysis of Humans,2011
+374,e,Person Re-Identification.,"['Shaogang Gong', 'Marco Cristani', 'Shuicheng Yan', 'Chen Change Loy']",Advances in Computer Vision and Pattern Recognition,2014

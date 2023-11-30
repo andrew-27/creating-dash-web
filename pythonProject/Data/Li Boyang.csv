@@ -1,0 +1,75 @@
+,type,name,author,event,year
+0,j,Semi-Supervised Federated Heterogeneous Transfer Learning.,"['Siwei Feng', 'Boyang Li', 'Han Yu', 'Yang Liu', 'Qiang Yang']",Knowl. Based Syst.,2022
+1,j,Federated Learning for Personalized Humor Recognition.,"['Xu Guo', 'Han Yu', 'Boyang Li', 'Hao Wang', 'Pengwei Xing', 'Siwei Feng', 'Zaiqing Nie', 'Chunyan Miao']",ACM Trans. Intell. Syst. Technol.,2022
+2,j,Proof of Learning (PoLe): Empowering neural network training with consensus building on blockchains.,"['Yuan Liu', 'Yixiao Lan', 'Boyang Li', 'Chunyan Miao', 'Zhihong Tian']",Comput. Networks,2021
+3,j,An Empirical Study on the Relation Between Network Interpretability and Adversarial Robustness.,"['Adam Noack', 'Isaac Ahern', 'Dejing Dou', 'Boyang Li']",SN Comput. Sci.,2021
+4,j,Predicting Personality from Book Preferences with User-Generated Content Labels.,"['Ng Annalyn', 'Maarten W. Bos', 'Leonid Sigal', 'Boyang Li']",IEEE Trans. Affect. Comput.,2020
+5,j,"A Multi-Task Neural Approach for Emotion Attribution, Classification, and Summarization.","['Guoyun Tu', 'Yanwei Fu', 'Boyang Li', 'Jiarui Gao', 'Yu-Gang Jiang', 'Xiangyang Xue']",IEEE Trans. Multim.,2020
+6,j,"Heterogeneous Knowledge Transfer in Video Emotion Recognition, Attribution and Summarization.","['Baohan Xu', 'Yanwei Fu', 'Yu-Gang Jiang', 'Boyang Li', 'Leonid Sigal']",IEEE Trans. Affect. Comput.,2018
+7,j,The AIIDE 2015 Workshop Program.,"['Camille Barot', 'Michael Buro', 'Michael Cook', 'Mirjam Palosaari Eladhari', 'Boyang Li', 'Antonios Liapis', 'Magnus Johansson', 'Josh McCoy', 'Santiago Ontañón', 'Jonathan P. Rowe', 'Emmett Tomai', 'Harko Verhagen', 'Alexander Zook']",AI Mag.,2016
+8,j,Creating an Immersive Game World with Evolutionary Fuzzy Cognitive Maps.,"['Yundong Cai', 'Chunyan Miao', 'Ah-Hwee Tan', 'Zhiqi Shen', 'Boyang Li']",IEEE Computer Graphics and Applications,2010
+9,c,Toward Knowledge-Enriched Conversational Recommendation Systems.,"['Tong Zhang', 'Yong Liu', 'Boyang Li', 'Peixiang Zhong', 'Chen Zhang', 'Hao Wang', 'Chunyan Miao']",ConvAI@ACL,2022
+10,c,VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning.,"['Jun Chen', 'Han Guo', 'Kai Yi', 'Boyang Li', 'Mohamed Elhoseiny']",CVPR,2022
+11,c,HyDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks.,"['Yuanyuan Chen', 'Boyang Li', 'Han Yu', 'Pengcheng Wu', 'Chunyan Miao']",AAAI,2021
+12,c,Proof of Learning (PoLe): Empowering Machine Learning with Consensus Building on Blockchains (Demo).,"['Yixiao Lan', 'Yuan Liu', 'Boyang Li', 'Chunyan Miao']",AAAI,2021
+13,c,Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection.,"['Chang Liu', 'Han Yu', 'Boyang Li', 'Zhiqi Shen', 'Zhanning Gao', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",CVPR,2021
+14,c,Exploring Long Tail Visual Relationship Recognition with Large Vocabulary.,"['Sherif Abdelkarim', 'Aniket Agarwal', 'Panos Achlioptas', 'Jun Chen', 'Jiaji Huang', 'Boyang Li', 'Kenneth Church', 'Mohamed Elhoseiny']",ICCV,2021
+15,c,Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems.,"['Yinan Zhang', 'Boyang Li', 'Yong Liu', 'Hao Wang', 'Chunyan Miao']",KDD,2021
+16,c,Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection.,"['Xu Guo', 'Boyang Li', 'Han Yu', 'Chunyan Miao']",NAACL-HLT,2021
+17,c,Data-efficient Alignment of Multimodal Sequences by Aligning Gradient Updates and Internal Feature Distributions.,"['Jianan Wang', 'Boyang Li', 'Xiangyu Fan', 'Jing Lin', 'Yanwei Fu']",WACV,2021
+18,c,Understanding Actors and Evaluating Personae with Gaussian Embeddings.,"['Hannah Kim', 'Denys Katerenchuk', 'Daniel Billet', 'Jun Huan', 'Haesun Park', 'Boyang Li']",AAAI,2019
+19,c,Joint Event Detection and Description in Continuous Video Streams.,"['Huijuan Xu', 'Boyang Li', 'Vasili Ramanishka', 'Leonid Sigal', 'Kate Saenko']",WACV Workshops,2019
+20,c,Joint Event Detection and Description in Continuous Video Streams.,"['Huijuan Xu', 'Boyang Li', 'Vasili Ramanishka', 'Leonid Sigal', 'Kate Saenko']",WACV,2019
+21,c,A Neural Multi-Sequence Alignment TeCHnique (NeuMATCH).,"['Pelin Dogan', 'Boyang Li', 'Leonid Sigal', 'Markus H. Gross']",CVPR,2018
+22,c,Annotating High-Level Structures of Short Stories and Personal Anecdotes.,"['Boyang Li', 'Beth Cardier', 'Tong Wang', 'Florian Metze']",LREC,2018
+23,c,Collaborative Storytelling between Robot and Child: A Feasibility Study.,"['Ming Sun', 'Iolanda Leite', 'Jill Fain Lehman', 'Boyang Li']",IDC,2017
+24,c,Scheduling Live Interactive Narratives with Mixed-Integer Linear Programming.,"['Sasha Azad', 'Jingyang Xu', 'Haining Yu', 'Boyang Li']",AIIDE,2017
+25,c,Game Engine Learning from Video.,"['Matthew Guzdial', 'Boyang Li', 'Mark O. Riedl']",IJCAI,2017
+26,c,Predicting the Quality of Short Narratives from Social Media.,"['Tong Wang', 'Ping Chen', 'Boyang Li']",IJCAI,2017
+27,c,Learning and Reusing Dialog for Repeated Interactions with a Situated Social Agent.,"['James Kennedy', 'Iolanda Leite', 'André Pereira', 'Ming Sun', 'Boyang Li', 'Rishub Jain', 'Ricson Cheng', 'Eli Pincus', 'Elizabeth J. Carter', 'Jill Fain Lehman']",IVA,2017
+28,c,Multiplicative Representations for Unsupervised Semantic Role Induction.,"['Yi Luan', 'Yangfeng Ji', 'Hannaneh Hajishirzi', 'Boyang Li']",ACL (2),2016
+29,c,PlotShot: Generating Discourse-Constrained Stories Around Photos.,"['Rogelio Enrique Cardona-Rivera', 'Boyang Li']",AIIDE,2016
+30,c,Semi-situated learning of verbal and nonverbal content for repeated human-robot interaction.,"['Iolanda Leite', 'André Pereira', 'Allison Funkhouser', 'Boyang Li', 'Jill Fain Lehman']",ICMI,2016
+31,c,Video Emotion Recognition with Transferred Deep Feature Encodings.,"['Baohan Xu', 'Yanwei Fu', 'Yu-Gang Jiang', 'Boyang Li', 'Leonid Sigal']",ICMR,2016
+32,c,Scheherazade: Crowd-Powered Interactive Narrative Generation.,"['Boyang Li', 'Mark O. Riedl']",AAAI,2015
+33,c,Crowdsourcing Open Interactive Narrative.,"['Matthew Guzdial', 'Brent Harrison', 'Boyang Li', 'Mark O. Riedl']",FDG,2015
+34,c,An Evolutionary Framework for Multi-agent Organizations.,"['Boyang Li', 'Han Yu', 'Zhiqi Shen', 'Lizhen Cui', 'Victor R. Lesser']",WI-IAT (2),2015
+35,c,Storytelling with Adjustable Narrator Styles and Sentiments.,"['Boyang Li', 'Mohini Thakkar', 'Yijie Wang', 'Mark O. Riedl']",ICIDS,2014
+36,c,From Data to Storytelling Agents.,"['Boyang Li', 'Mohini Thakkar', 'Yijie Wang', 'Mark O. Riedl']",IVA,2014
+37,c,Story Generation with Crowdsourced Plot Graphs.,"['Boyang Li', 'Stephen Lee-Urban', 'George Johnston', 'Mark O. Riedl']",AAAI,2013
+38,c,Crowdsourcing interactive fiction games.,"['Boyang Li', 'Stephen Lee-Urban', 'Mark O. Riedl']",FDG,2013
+39,c,Learning Sociocultural Knowledge via Crowdsourced Examples.,"['Boyang Li', 'Darren Scott Appling', 'Stephen Lee-Urban', 'Mark O. Riedl']",HCOMP@AAAI,2012
+40,c,Goal-Driven Conceptual Blending: A Computational Approach for Creativity.,"['Boyang Li', 'Alexander Zook', 'Nicholas M. Davis', 'Mark O. Riedl']",ICCC,2012
+41,c,Toward Autonomous Crowd-Powered Creation of Interactive Narratives.,"['Boyang Li', 'Stephen Lee-Urban', 'Mark O. Riedl']",INT@AIIDE,2012
+42,c,A Phone That Cures Your Flu: Generating Imaginary Gadgets in Fictions with Planning and Analogies.,"['Boyang Li', 'Mark O. Riedl']",Intelligent Narrative Technologies,2011
+43,c,Robust and Authorable Multiplayer Storytelling Experiences.,"['Mark O. Riedl', 'Boyang Li', 'Hua Ai', 'Ashwin Ram']",AIIDE,2011
+44,c,Creative gadget design in fictions: generalized planning in analogical spaces.,"['Boyang Li', 'Mark O. Riedl']",Creativity & Cognition,2011
+45,c,Distributed creative cognition in digital filmmaking.,"['Nicholas M. Davis', 'Boyang Li', ""Brian O'Neill"", 'Mark O. Riedl', 'Michael Nitsche']",Creativity & Cognition,2011
+46,c,Automated Scenario Adaptation in Support of Intelligent Tutoring Systems.,"['James Michael Niehaus', 'Boyang Li', 'Mark O. Riedl']",FLAIRS,2011
+47,c,Creating Customized Game Experiences by Leveraging Human Creative Effort: A Planning Approach.,"['Boyang Li', 'Mark O. Riedl']",AGS,2010
+48,c,An Offline Planning Approach to Game Plotline Adaptation.,"['Boyang Li', 'Mark O. Riedl']",AIIDE,2010
+49,c,Evolutionary organizational search.,"['Boyang Li', 'Han Yu', 'Zhiqi Shen', 'Chunyan Miao']",AAMAS (2),2009
+50,c,Memetic Gradient Search.,"['Boyang Li', 'Yew-Soon Ong', 'Minh Nghia Le', 'Chi Keong Goh']",IEEE Congress on Evolutionary Computation,2008
+51,c,The national weather sensor grid.,"['Hock-Beng Lim', 'Keck Voon Ling', 'Wenqiang Wang', 'Yuxia Yao', 'Mudasser Iqbal', 'Boyang Li', 'Xiaonan Yin', 'Tarun Sharma']",SenSys,2007
+52,i,Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction.,"['Jun Chen', 'Ming Hu', 'Boyang Li', 'Mohamed Elhoseiny']",CoRR,2022
+53,i,Minimalist and High-performance Conversational Recommendation with Uncertainty Estimation for User Preference.,"['Yinan Zhang', 'Boyang Li', 'Yong Liu', 'You Yuan', 'Chunyan Miao']",CoRR,2022
+54,i,HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks.,"['Yuanyuan Chen', 'Boyang Li', 'Han Yu', 'Pengcheng Wu', 'Chunyan Miao']",CoRR,2021
+55,i,VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining.,"['Jun Chen', 'Han Guo', 'Kai Yi', 'Boyang Li', 'Mohamed Elhoseiny']",CoRR,2021
+56,i,Noise-resistant Deep Metric Learning with Ranking-based Instance Selection.,"['Chang Liu', 'Han Yu', 'Boyang Li', 'Zhiqi Shen', 'Zhanning Gao', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",CoRR,2021
+57,i,Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection.,"['Xu Guo', 'Boyang Li', 'Han Yu', 'Chunyan Miao']",CoRR,2021
+58,i,Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems.,"['Yinan Zhang', 'Boyang Li', 'Yong Liu', 'Hao Wang', 'Chunyan Miao']",CoRR,2021
+59,i,Noise-Resistant Deep Metric Learning with Probabilistic Instance Filtering.,"['Chang Liu', 'Han Yu', 'Boyang Li', 'Zhiqi Shen', 'Zhanning Gao', 'Peiran Ren', 'Xuansong Xie', 'Lizhen Cui', 'Chunyan Miao']",CoRR,2021
+60,i,Long-tail Visual Relationship Recognition with a Visiolinguistic Hubless Loss.,"['Sherif Abdelkarim', 'Panos Achlioptas', 'Jiaji Huang', 'Boyang Li', 'Kenneth Church', 'Mohamed Elhoseiny']",CoRR,2020
+61,i,Data-efficient Alignment of Multimodal Sequences by Aligning Gradient Updates and Internal Feature Distributions.,"['Jianan Wang', 'Boyang Li', 'Xiangyu Fan', 'Jing Lin', 'Yanwei Fu']",CoRR,2020
+62,i,Federated Learning with Diversified Preference for Humor Recognition.,"['Xu Guo', 'Pengwei Xing', 'Siwei Feng', 'Boyang Li', 'Chunyan Miao']",CoRR,2020
+63,i,NormLime: A New Feature Importance Metric for Explaining Deep Neural Networks.,"['Isaac Ahern', 'Adam Noack', 'Luis Guzman-Nateras', 'Dejing Dou', 'Boyang Li', 'Jun Huan']",CoRR,2019
+64,i,Does Interpretability of Neural Networks Imply Adversarial Robustness?,"['Adam Noack', 'Isaac Ahern', 'Dejing Dou', 'Boyang Li']",CoRR,2019
+65,i,Searching for Stage-wise Neural Graphs In the Limit.,"['Xin Zhou', 'Dejing Dou', 'Boyang Li']",CoRR,2019
+66,i,Joint Event Detection and Description in Continuous Video Streams.,"['Huijuan Xu', 'Boyang Li', 'Vasili Ramanishka', 'Leonid Sigal', 'Kate Saenko']",CoRR,2018
+67,i,LSTM stack-based Neural Multi-sequence Alignment TeCHnique (NeuMATCH).,"['Pelin Dogan', 'Boyang Li', 'Leonid Sigal', 'Markus H. Gross']",CoRR,2018
+68,i,"Learning Joint Gaussian Representations for Movies, Actors, and Literary Characters.","['Hannah Kim', 'Denys Katerenchuk', 'Daniel Billet', 'Haesun Park', 'Boyang Li']",CoRR,2018
+69,i,"A Multi-task Neural Approach for Emotion Attribution, Classification and Summarization.","['Guoyun Tu', 'Yanwei Fu', 'Boyang Li', 'Jiarui Gao', 'Yu-Gang Jiang', 'Xiangyang Xue']",CoRR,2018
+70,i,Predicting the Quality of Short Narratives from Social Media.,"['Tong Wang', 'Ping Chen', 'Boyang Li']",CoRR,2017
+71,i,Predicting Personality from Book Preferences with User-Generated Content Labels.,"['Ng Annalyn', 'Maarten W. Bos', 'Leonid Sigal', 'Boyang Li']",CoRR,2017
+72,i,Annotating High-Level Structures of Short Stories and Personal Anecdotes.,"['Boyang Li', 'Beth Cardier', 'Tong Wang', 'Florian Metze']",CoRR,2017
+73,i,"Heterogeneous Knowledge Transfer in Video Emotion Recognition, Attribution and Summarization.","['Baohan Xu', 'Yanwei Fu', 'Yu-Gang Jiang', 'Boyang Li', 'Leonid Sigal']",CoRR,2015

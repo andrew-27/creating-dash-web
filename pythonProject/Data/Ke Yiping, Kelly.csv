@@ -1,0 +1,65 @@
+,type,name,author,event,year
+0,j,Easy-But-Effective Domain Sub-Similarity Learning for Transfer Regression.,"['Pengfei Wei', 'Ramón Sagarna', 'Yiping Ke', 'Yew-Soon Ong']",IEEE Trans. Knowl. Data Eng.,2022
+1,j,Practical Multisource Transfer Regression With Source-Target Similarity Captures.,"['Pengfei Wei', 'Ramón Sagarna', 'Yiping Ke', 'Yew-Soon Ong']",IEEE Trans. Neural Networks Learn. Syst.,2021
+2,j,A unified linear convergence analysis of k-SVD.,"['Zhiqiang Xu', 'Yiping Ke', 'Xin Cao', 'Chunlai Zhou', 'Pengfei Wei', 'Xin Gao']",Memetic Comput.,2020
+3,j,A General Domain Specific Feature Transfer Framework for Hybrid Domain Adaptation.,"['Pengfei Wei', 'Yiping Ke', 'Chi Keong Goh']",IEEE Trans. Knowl. Data Eng.,2019
+4,j,Feature Analysis of Marginalized Stacked Denoising Autoenconder for Unsupervised Domain Adaptation.,"['Pengfei Wei', 'Yiping Ke', 'Chi Keong Goh']",IEEE Trans. Neural Networks Learn. Syst.,2019
+5,j,Efficient Algorithms for Temporal Path Computation.,"['Huanhuan Wu', 'James Cheng', 'Yiping Ke', 'Silu Huang', 'Yuzhen Huang', 'Hejun Wu']",IEEE Trans. Knowl. Data Eng.,2016
+6,j,Path Problems in Temporal Graphs.,"['Huanhuan Wu', 'James Cheng', 'Silu Huang', 'Yiping Ke', 'Yi Lu', 'Yanyan Xu']",Proc. VLDB Endow.,2014
+7,j,GBAGC: A General Bayesian Framework for Attributed Graph Clustering.,"['Zhiqiang Xu', 'Yiping Ke', 'Yi Wang', 'Hong Cheng', 'James Cheng']",ACM Trans. Knowl. Discov. Data,2014
+8,j,High efficiency and quality: large graphs matching.,"['Yuanyuan Zhu', 'Lu Qin', 'Jeffrey Xu Yu', 'Yiping Ke', 'Xuemin Lin']",VLDB J.,2013
+9,j,Finding maximal cliques in massive networks.,"['James Cheng', 'Yiping Ke', 'Ada Wai-Chee Fu', 'Jeffrey Xu Yu', 'Linhong Zhu']",ACM Trans. Database Syst.,2011
+10,j,Fast graph query processing with a low-cost index.,"['James Cheng', 'Yiping Ke', 'Ada Wai-Chee Fu', 'Jeffrey Xu Yu']",VLDB J.,2011
+11,j,Leadership discovery when data correlatively evolve.,"['Di Wu', 'Yiping Ke', 'Jeffrey Xu Yu', 'Philip S. Yu', 'Lei Chen']",World Wide Web,2011
+12,j,Efficient query processing on graph databases.,"['James Cheng', 'Yiping Ke', 'Wilfred Ng']",ACM Trans. Database Syst.,2009
+13,j,Effective elimination of redundant association rules.,"['James Cheng', 'Yiping Ke', 'Wilfred Ng']",Data Min. Knowl. Discov.,2008
+14,j,Maintaining frequent closed itemsets over a sliding window.,"['James Cheng', 'Yiping Ke', 'Wilfred Ng']",J. Intell. Inf. Syst.,2008
+15,j,A survey on algorithms for mining frequent itemsets over data streams.,"['James Cheng', 'Yiping Ke', 'Wilfred Ng']",Knowl. Inf. Syst.,2008
+16,j,An information-theoretic approach to quantitative association rule mining.,"['Yiping Ke', 'James Cheng', 'Wilfred Ng']",Knowl. Inf. Syst.,2008
+17,j,Efficient Correlation Search from Graph Databases.,"['Yiping Ke', 'James Cheng', 'Wilfred Ng']",IEEE Trans. Knowl. Data Eng.,2008
+18,j,Correlated pattern mining in quantitative databases.,"['Yiping Ke', 'James Cheng', 'Wilfred Ng']",ACM Trans. Database Syst.,2008
+19,j,Web dynamics and their ramifications for the development of Web search engines.,"['Yiping Ke', 'Lin Deng', 'Wilfred Ng', 'Dik Lun Lee']",Comput. Networks,2006
+20,c,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,"['Tianbo Li', 'Tianze Luo', 'Yiping Ke', 'Sinno Jialin Pan']",KDD,2021
+21,c,Tweedie-Hawkes Processes: Interpreting the Phenomena of Outbreaks.,"['Tianbo Li', 'Yiping Ke']",AAAI,2020
+22,c,Adaptive Knowledge Transfer based on Transfer Neural Kernel Network.,"['Pengfei Wei', 'Xinghua Qu', 'Yiping Ke', 'Tze-Yun Leong', 'Yew-Soon Ong']",AAMAS,2020
+23,c,Succinct Adaptive Manifold Transfer.,"['Pengfei Wei', 'Yiping Ke', 'Zhiqiang Xu', 'Tze-Yun Leong']",CIKM,2020
+24,c,Knowledge Transfer based on Multiple Manifolds Assumption.,"['Pengfei Wei', 'Yiping Ke']",CIKM,2019
+25,c,Thinning for Accelerating the Learning of Point Processes.,"['Tianbo Li', 'Yiping Ke']",NeurIPS,2019
+26,c,Transfer Hawkes Processes with Content Information.,"['Tianbo Li', 'Pengfei Wei', 'Yiping Ke']",ICDM,2018
+27,c,Uncluttered Domain Sub-Similarity Modeling for Transfer Regression.,"['Pengfei Wei', 'Ramón Sagarna', 'Yiping Ke', 'Yew-Soon Ong']",ICDM,2018
+28,c,Domain Specific Feature Transfer for Hybrid Domain Adaptation.,"['Pengfei Wei', 'Yiping Ke', 'Chi-Keong Goh']",ICDM,2017
+29,c,Source-Target Similarity Modelings for Multi-Source Transfer Gaussian Process Regression.,"['Pengfei Wei', 'Ramón Sagarna', 'Yiping Ke', 'Yew-Soon Ong', 'Chi-Keong Goh']",ICML,2017
+30,c,A Fast Algorithm for Matrix Eigen-decompositionn.,"['Zhiqiang Xu', 'Yiping Ke', 'Xin Gao']",UAI,2017
+31,c,Effective and Efficient Spectral Clustering on Text and Link Data.,"['Zhiqiang Xu', 'Yiping Ke']",CIKM,2016
+32,c,Reachability and time-based path queries in temporal graphs.,"['Huanhuan Wu', 'Yuzhen Huang', 'James Cheng', 'Jinfeng Li', 'Yiping Ke']",ICDE,2016
+33,c,Deep Nonlinear Feature Coding for Unsupervised Domain Adaptation.,"['Pengfei Wei', 'Yiping Ke', 'Chi Keong Goh']",IJCAI,2016
+34,c,Core decomposition in large temporal graphs.,"['Huanhuan Wu', 'James Cheng', 'Yi Lu', 'Yiping Ke', 'Yuzhen Huang', 'Da Yan', 'Hejun Wu']",IEEE BigData,2015
+35,c,A Fast Inference Algorithm for Stochastic Blockmodel.,"['Zhiqiang Xu', 'Yiping Ke', 'Yi Wang']",ICDM,2014
+36,c,Fast algorithms for maximal clique enumeration with limited memory.,"['James Cheng', 'Linhong Zhu', 'Yiping Ke', 'Shumo Chu']",KDD,2012
+37,c,Efficient processing of distance queries in large graphs: a vertex cover approach.,"['James Cheng', 'Yiping Ke', 'Shumo Chu', 'Carter Cheng']",SIGMOD Conference,2012
+38,c,A model-based approach to attributed graph clustering.,"['Zhiqiang Xu', 'Yiping Ke', 'Yi Wang', 'Hong Cheng', 'James Cheng']",SIGMOD Conference,2012
+39,c,High efficiency and quality: large graphs matching.,"['Yuanyuan Zhu', 'Lu Qin', 'Jeffrey Xu Yu', 'Yiping Ke', 'Xuemin Lin']",CIKM,2011
+40,c,Efficient core decomposition in massive networks.,"['James Cheng', 'Yiping Ke', 'Shumo Chu', 'M. Tamer Özsu']",ICDE,2011
+41,c,Stock risk mining by news.,"['Qi Pan', 'Hong Cheng', 'Di Wu', 'Jeffrey Xu Yu', 'Yiping Ke']",ADC,2010
+42,c,Detecting Leaders from Correlated Time Series.,"['Di Wu', 'Yiping Ke', 'Jeffrey Xu Yu', 'Philip S. Yu', 'Lei Chen']",DASFAA (1),2010
+43,c,Querying Large Graph Databases.,"['Yiping Ke', 'James Cheng', 'Jeffrey Xu Yu']",DASFAA (2),2010
+44,c,Finding maximal cliques in massive networks by H*-graph.,"['James Cheng', 'Yiping Ke', 'Ada Wai-Chee Fu', 'Jeffrey Xu Yu', 'Linhong Zhu']",SIGMOD Conference,2010
+45,c,Efficient processing of group-oriented connection queries in a large graph.,"['James Cheng', 'Yiping Ke', 'Wilfred Ng']",CIKM,2009
+46,c,Context-Aware Object Connection Discovery in Large Graphs.,"['James Cheng', 'Yiping Ke', 'Wilfred Ng', 'Jeffrey Xu Yu']",ICDE,2009
+47,c,Efficient Discovery of Frequent Correlated Subgraph Pairs.,"['Yiping Ke', 'James Cheng', 'Jeffrey Xu Yu']",ICDM,2009
+48,c,Top-k Correlative Graph Mining.,"['Yiping Ke', 'James Cheng', 'Jeffrey Xu Yu']",SDM,2009
+49,c,Spotting Significant Changing Subgraphs in Evolving Graphs.,"['Zheng Liu', 'Jeffrey Xu Yu', 'Yiping Ke', 'Xuemin Lin', 'Lei Chen']",ICDM,2008
+50,c,Mining Vague Association Rules.,"['An Lu', 'Yiping Ke', 'James Cheng', 'Wilfred Ng']",DASFAA,2007
+51,c,Correlation search in graph databases.,"['Yiping Ke', 'James Cheng', 'Wilfred Ng']",KDD,2007
+52,c,Fg-index: towards verification-free query processing on graph databases.,"['James Cheng', 'Yiping Ke', 'Wilfred Ng', 'An Lu']",SIGMOD Conference,2007
+53,c,MIC Framework: An Information-Theoretic Approach to Quantitative Association Rule Mining.,"['Yiping Ke', 'James Cheng', 'Wilfred Ng']",ICDE,2006
+54,c,delta-Tolerance Closed Frequent Itemsets.,"['James Cheng', 'Yiping Ke', 'Wilfred Ng']",ICDM,2006
+55,c,Mining quantitative correlated patterns using an information-theoretic approach.,"['Yiping Ke', 'James Cheng', 'Wilfred Ng']",KDD,2006
+56,c,Maintaining Frequent Itemsets over High-Speed Data Streams.,"['James Cheng', 'Yiping Ke', 'Wilfred Ng']",PAKDD,2006
+57,c,WUML: A Web Usage Manipulation Language for Querying Web Log Data.,"['Qingzhao Tan', 'Yiping Ke', 'Wilfred Ng']",ER,2004
+58,i,A Class-Aware Representation Refinement Framework for Graph Classification.,"['Jiaxing Xu', 'Jinjie Ni', 'Sophi Shilpa Gururajapathy', 'Yiping Ke']",CoRR,2022
+59,i,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,"['Tianbo Li', 'Tianze Luo', 'Yiping Ke', 'Sinno Jialin Pan']",CoRR,2021
+60,i,Subdomain Adaptation with Manifolds Discrepancy Alignment.,"['Pengfei Wei', 'Yiping Ke', 'Xinghua Qu', 'Tze-Yun Leong']",CoRR,2020
+61,i,Efficient Processing of Reachability and Time-Based Path Queries in a Temporal Graph.,"['Huanhuan Wu', 'Yuzhen Huang', 'James Cheng', 'Jinfeng Li', 'Yiping Ke']",CoRR,2016
+62,i,Stochastic Variance Reduced Riemannian Eigensolver.,"['Zhiqiang Xu', 'Yiping Ke']",CoRR,2016
+63,i,Detecting Priming News Events.,"['Di Wu', 'Yiping Ke', 'Jeffrey Xu Yu', 'Zheng Liu']",CoRR,2012
